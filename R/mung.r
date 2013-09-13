@@ -33,11 +33,13 @@ sf <- as.character(dur$genus) %in% litaf$genus
 dur <- dur[sf, ]
 
 
-
-
 # make the data frame for survival analysis
-age <- dur[, 2] - dur[, 3]
-persist <- cbind(st = rep(0, length(age)),
-                 as.data.frame(age),
-                 ext = rep(1, length(age)),
+# need to allow for originations
+zero <- max(dur[, 2])
+rel.or <- abs(dur[, 2] - zero)
+rel.end <- abs(dur[, 3] - zero)
+persist <- cbind(st = as.data.frame(rel.or), 
+                 age = rel.end, 
+                 ext = rep(1, length(rel.or)),
                  aff = litaf$affinity)
+names(persist)[1] <- 'st'
