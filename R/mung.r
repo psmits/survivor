@@ -15,6 +15,7 @@ library(plyr)
 info <- read.csv('../data/psmits-occs.csv')
 dur <- read.csv('../data/psmits-ranges.csv')
 
+ptbound <- 252.28
 
 # remove missing lithology information
 info <- info[info$lithology1 != '', ]
@@ -32,6 +33,9 @@ names(litaf)[1] <- 'genus'
 sf <- as.character(dur$genus) %in% litaf$genus 
 dur <- dur[sf, ]
 
+rms <- which(dur[, 2] < ptbound & dur[, 3] < ptbound)
+dur <- dur[-rms, ]
+litaf <- litaf[-rms, ]
 
 # make the data frame for survival analysis
 # need to allow for originations
@@ -43,3 +47,8 @@ persist <- cbind(st = as.data.frame(rel.or),
                  ext = rep(1, length(rel.or)),
                  aff = litaf$affinity)
 names(persist)[1] <- 'st'
+
+# fix the censored ones
+persist$ext[dur[, 3] < ptbound] <- 0
+reps <- dur[dur[, 3] < ptbound, 2] - ptbound
+persist$age[dur[, 3] < ptbound] <- reps
