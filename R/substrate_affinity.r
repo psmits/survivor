@@ -13,7 +13,7 @@
 #' @author Peter D Smits <psmits@uchicago.edu>
 #' @references
 #' @examples
-sub.aff <- function(substrate, level = 0.5) {
+sub.aff <- function(substrate, level = 0.3) {
   dis <- table(substrate)
   most <- which.max(dis)
   how <- most / sum(dis)

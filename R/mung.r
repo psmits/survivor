@@ -12,6 +12,8 @@
 library(reshape2)
 library(plyr)
 
+source('../R/substrate_affinity.r')
+
 info <- read.csv('../data/psmits-occs.csv')
 dur <- read.csv('../data/psmits-ranges.csv')
 
@@ -24,8 +26,19 @@ info$lithology1 <- gsub(pattern = '[\\"?]',
                         info$lithology1, 
                         perl = TRUE)
 
+carbonate <- c('limestone', 'carbonate', 'lime mudstone', 'mudstone', 
+               'siltstone')
+info$lithology1[info$lithology1 %in% carbonate] <- 'carbonate'
+
+clastic <- c('siliciclastic')
+info$lithology1[info$lithology1 %in% clastic] <- 'clastic'
+
+mixed <- c('mixed carbonate-siliciclastic')
+info$lithology1[info$lithology1 %in% mixed] <- 'mixed'
+
+
 litaf <- ddply(info, .(occurrence.genus_name), summarise,
-              affinity = names(which.max(table(lithology1))))
+              affinity = sub.aff(lithology1))
 
 litaf$occurrence.genus_name <- as.character(litaf$occurrence.genus_name)
 names(litaf)[1] <- 'genus'
