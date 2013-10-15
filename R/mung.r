@@ -27,14 +27,18 @@ info$lithology1 <- gsub(pattern = '[\\"?]',
                         perl = TRUE)
 
 carbonate <- c('limestone', 'carbonate', 'lime mudstone', 'mudstone', 
-               'siltstone')
+               'siltstone', 'grainstone', 'wackestone', 'packstone')
 info$lithology1[info$lithology1 %in% carbonate] <- 'carbonate'
 
-clastic <- c('siliciclastic')
+clastic <- c('siliciclastic', 'sandstone', 'sandy', 'sandy,calcareous',
+             'shale')
 info$lithology1[info$lithology1 %in% clastic] <- 'clastic'
 
-mixed <- c('mixed carbonate-siliciclastic')
+mixed <- c('mixed carbonate-siliciclastic', 'conglomerate')
 info$lithology1[info$lithology1 %in% mixed] <- 'mixed'
+
+rmlith <- c('lithified', 'not reported')
+info <- info[-(which(info$lithology1 %in% rmlith)), ]
 
 
 litaf <- ddply(info, .(occurrence.genus_name), summarise,
