@@ -26,15 +26,17 @@ info$lithology1 <- gsub(pattern = '[\\"?]',
                         info$lithology1, 
                         perl = TRUE)
 
-carbonate <- c('limestone', 'carbonate', 'lime mudstone', 'mudstone', 
-               'siltstone', 'grainstone', 'wackestone', 'packstone')
+carbonate <- c('limestone', 'dolomite', 'carbonate', 'lime mudstone', 
+               'grainstone', 'wackestone', 'packstone', 'bafflestone',
+               'framestone', 'bindstone', 'rudstone', 'floatstone')
 info$lithology1[info$lithology1 %in% carbonate] <- 'carbonate'
 
 clastic <- c('siliciclastic', 'sandstone', 'sandy', 'sandy,calcareous',
-             'shale')
+             'shale', 'mudstone', 'siltstone', 'conglomerate', 'quartzite',
+             'phyllite', 'schist', 'slate')
 info$lithology1[info$lithology1 %in% clastic] <- 'clastic'
 
-mixed <- c('mixed carbonate-siliciclastic', 'conglomerate')
+mixed <- c('mixed carbonate-siliciclastic', 'marl')
 info$lithology1[info$lithology1 %in% mixed] <- 'mixed'
 
 rmlith <- c('lithified', 'not reported')
