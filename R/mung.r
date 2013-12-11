@@ -71,3 +71,5 @@ names(persist)[1] <- 'st'
 persist$ext[dur[, 3] < ptbound] <- 0
 reps <- dur[dur[, 3] < ptbound, 2] - ptbound
 persist$age[dur[, 3] < ptbound] <- reps
+
+persist$dur <- abs(persist$st - persist$age)
