@@ -1,21 +1,12 @@
-################################################################################
-#
-#
-#
-#
-#
-#
-#
-#
-################################################################################
-
 library(reshape2)
 library(plyr)
 
+source('../R/clean_funcs.r')
+source('../R/occurrence.r')
 source('../R/substrate_affinity.r')
 
-info <- read.csv('../data/psmits-occs.csv')
-dur <- read.csv('../data/psmits-ranges.csv')
+info <- read.csv('../data/psmits-occs.csv', stringsAsFactors = FALSE)
+dur <- read.csv('../data/psmits-ranges.csv', stringsAsFactors = FALSE)
 
 ptbound <- 252.28
 
@@ -25,36 +16,44 @@ info$lithology1 <- gsub(pattern = '[\\"?]',
                         replacement = '',
                         info$lithology1, 
                         perl = TRUE)
+# remove missing environmental information
+info <- info[info$environment != '', ]
+info$environment <- as.character(info$environment)
 
-carbonate <- c('limestone', 'dolomite', 'carbonate', 'lime mudstone', 
-               'grainstone', 'wackestone', 'packstone', 'bafflestone',
-               'framestone', 'bindstone', 'rudstone', 'floatstone')
-info$lithology1[info$lithology1 %in% carbonate] <- 'carbonate'
-
-clastic <- c('siliciclastic', 'sandstone', 'sandy', 'sandy,calcareous',
-             'shale', 'mudstone', 'siltstone', 'conglomerate', 'quartzite',
-             'phyllite', 'schist', 'slate')
-info$lithology1[info$lithology1 %in% clastic] <- 'clastic'
-
-mixed <- c('mixed carbonate-siliciclastic', 'marl')
-info$lithology1[info$lithology1 %in% mixed] <- 'mixed'
+info$lithology1 <- clean.lith(info$lithology1)
+info$environment <- clean.env(info$environment)
 
 rmlith <- c('lithified', 'not reported')
 info <- info[-(which(info$lithology1 %in% rmlith)), ]
 
+# get all the occurrences during a genus duration
+info <- info[info$lithology1 != 'mixed', ]
+paff <- get.occ(dur[, 2], dur[, 3], info$ma_mid, info$lithology1)
+names(paff) <- dur[, 1]
 
-litaf <- ddply(info, .(occurrence.genus_name), summarise,
-              affinity = sub.aff(lithology1))
+info <- info[with(info, order(occurrence.genus_name)), ]
+pocc <- split(info, info$occurrence.genus_name)
+pocc <- pocc[-1]
 
-litaf$occurrence.genus_name <- as.character(litaf$occurrence.genus_name)
-names(litaf)[1] <- 'genus'
+litaf <- list()
+for(ii in seq(length(pocc))) {
+  litaf[[ii]] <- shprob(occur = pocc[[ii]]$lithology1,
+                        avil = paff[[ii]])
+}
+names(litaf) <- names(pocc)
+litprob <- unlist(litaf)
 
-sf <- as.character(dur$genus) %in% litaf$genus 
+# assign text affinity
+litaf[litaf >= (2/3)] <- 'carbonate'
+litaf[litaf <= (1/3)] <- 'clastic'
+litaf[litaf > (1/3) & litaf < (2/3)] <- 'mixed'
+
+sf <- as.character(dur$genus) %in% names(litaf)
 dur <- dur[sf, ]
 
 rms <- which(dur[, 2] < ptbound & dur[, 3] < ptbound)
 dur <- dur[-rms, ]
-litaf <- litaf[-rms, ]
+litaf <- litaf[-rms]
 
 # make the data frame for survival analysis
 # need to allow for originations
@@ -64,7 +63,7 @@ rel.end <- abs(dur[, 3] - zero)
 persist <- cbind(st = as.data.frame(rel.or), 
                  age = rel.end, 
                  ext = rep(1, length(rel.or)),
-                 aff = litaf$affinity)
+                 aff = unlist(litaf))
 names(persist)[1] <- 'st'
 
 # fix the censored ones
