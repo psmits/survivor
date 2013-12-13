@@ -5,7 +5,8 @@
 #' for declaring one substrate perfered over another, or a ``mixed'' solution, 
 #' has varied between studies. Here, the percentage is user defined.
 #'
-#' @param substrate vector of all substrates where a taxon is observed.
+#' @param trait vector of all substrates where a taxon is observed.
+#' @param middle character of mixed option
 #' @param level cut-off for declaring ``preference''. numeric value between 0 and 1.
 #' @return
 #' @export
@@ -13,14 +14,14 @@
 #' @author Peter D Smits <psmits@uchicago.edu>
 #' @references
 #' @examples
-sub.aff <- function(substrate, level = 0.3) {
+sub.aff <- function(substrate, middle, level = 0.5) {
   dis <- table(substrate)
   most <- which.max(dis)
   how <- most / sum(dis)
   if (how >= level) {
     out <- names(most)
   } else {
-    out <- 'mixed'
+    out <- middle
   }
 
   out
