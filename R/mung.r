@@ -18,37 +18,48 @@ info$lithology1 <- gsub(pattern = '[\\"?]',
                         perl = TRUE)
 # remove missing environmental information
 info <- info[info$environment != '', ]
-info$environment <- as.character(info$environment)
+rmlith <- c('lithified', 'not reported')
+info <- info[!(info$lithology1 %in% rmlith), ]
+info <- info[info$lithology1 != 'mixed', ]
 
+# lithology
 info$lithology1 <- clean.lith(info$lithology1)
 info$environment <- clean.env(info$environment)
 
-rmlith <- c('lithified', 'not reported')
-info <- info[-(which(info$lithology1 %in% rmlith)), ]
-info <- info[info$lithology1 != 'mixed', ]
+info <- info[with(info, order(occurrence.genus_name)), ]
+pocc <- split(info, info$occurrence.genus_name)
+dur <- dur[dur[, 1] %in% names(pocc), ]
 
 paff <- get.occ(dur[, 2], dur[, 3], info$ma_mid, info$lithology1)
 names(paff) <- dur[, 1]
 
-info <- info[with(info, order(occurrence.genus_name)), ]
-pocc <- split(info, info$occurrence.genus_name)
-
 litaf <- list()
 for(ii in seq(length(pocc))) {
-  litaf[[ii]] <- shprob(occur = pocc[[ii]]$lithology1,
-                        avil = paff[[ii]])
+  litaf[[ii]] <- shprob(occur = pocc[[ii]]$lithology1, avil = paff[[ii]])
 }
 names(litaf) <- names(pocc)
 litprob <- unlist(litaf)
 
-# assign text affinity
 litaf[litaf >= (2/3)] <- 'carbonate'
 litaf[litaf <= (1/3)] <- 'clastic'
 litaf[litaf > (1/3) & litaf < (2/3)] <- 'mixed'
 
-genenv <- split(info, info$occurrence.genus_name)
-env <- lapply(genenv, function(x) {
-              sub.aff(x$environment, middle = 'none', level = 0.6)})
+# environment
+penv <- get.occ(dur[, 2], dur[, 3], info$ma_mid, info$environment)
+names(penv) <- dur[, 1]
+env <- list()
+for(ii in seq(length(penv))) {
+  ins <- shprob(occur = pocc[[ii]]$environment, avil = penv[[ii]], 
+                ph1 = 1/3, ph2 = 2/3, aff = 'inshore')
+  off <- shprob(occur = pocc[[ii]]$environment, avil = penv[[ii]], 
+                ph1 = 1/3, ph2 = 2/3, aff = 'offshore')
+  non <- shprob(occur = pocc[[ii]]$environment, avil = penv[[ii]], 
+                ph1 = 1/3, ph2 = 2/3, aff = 'none')
+  env[[ii]] <- c(ins, off, non)
+}
+names(env) <- names(penv)
+env <- lapply(lapply(env, which.max), 
+              function(x) c('inshore', 'offshore', 'none')[x])
 
 
 sf <- as.character(dur$genus) %in% names(litaf) & 

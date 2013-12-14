@@ -14,11 +14,11 @@ modae.exp <- survreg(formula = surv ~ aff + env, data = persist, dist = 'exponen
 mode.exp <- survreg(formula = surv ~ env, data = persist, dist = 'exponential')
 modi.exp <- survreg(formula = surv ~ 1, data = persist, dist = 'exponential')
 
-affcurve <- predict(moda.wei, newdata = data.frame(aff = c('carbonate', 
-                                                            'clastic', 
-                                                            'mixed')),
+affcurve <- predict(mode.wei, newdata = data.frame(env = c('inshore', 
+                                                            'none', 
+                                                            'offshore')),
                     type = 'quantile', p = seq(0.01, 0.99, by = 0.01))
-rownames(affcurve) <- c('carbonate', 'clastic', 'mixed')
+rownames(affcurve) <- c('inshore', 'none', 'offshore')
 affcurve <- t(affcurve)
 affcurve <- melt(affcurve)
 

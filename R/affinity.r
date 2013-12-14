@@ -14,7 +14,7 @@
 #' @author Peter D Smits <psmits@uchicago.edu>
 #' @references
 #' @examples
-sub.aff <- function(substrate, middle, level = 0.5) {
+aff <- function(substrate, middle, level = 0.5) {
   dis <- table(substrate)
   most <- which.max(dis)
   how <- most / sum(dis)
@@ -32,9 +32,8 @@ sub.aff <- function(substrate, middle, level = 0.5) {
 #' @param occur vector; substrate where taxon occurs
 #' @param avil vector; all avaliable substrates during taxon's lifetime
 #' @param aff character string; affinity used as 1
-shprob <- function(occur, avil, aff = 'carbonate') {
+shprob <- function(occur, avil, ph1 = 0.5, ph2 = 0.5, aff = 'carbonate') {
   pe <- sum(avil == aff) / length(avil)
-  ph1 <- ph2 <- 0.5
 
   peh1 <- pbinom(sum(occur == aff), length(occur), pe)
   peh2 <- pbinom(sum(occur != aff), length(occur), 1 - pe)
