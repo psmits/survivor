@@ -48,11 +48,11 @@ ggaff <- ggaff + geom_ribbon(aes(ymin = value - se.fit, ymax = value + se.fit,
 ggaff <- ggaff + labs(x = 'S(t)', y = 'time')
 ggaff <- ggaff + geom_step(data = kmacurve, 
                            mapping = aes(x = surv, y = time, colour = aff))
-ggaff <- ggaff + coord_flip()
 ggaff <- ggaff + scale_fill_manual(values = cbp,
                                    name = 'substrate preference')
 ggaff <- ggaff + scale_colour_manual(values = cbp, 
                                      name = 'substrate preference')
+ggaff <- ggaff + coord_flip()
 ggsave(filename = '../doc/figure/aff.png', plot = ggaff)
 
 envcurve <- predict(mode.wei, newdata = data.frame(env = c('inshore',

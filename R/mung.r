@@ -8,7 +8,18 @@ source('../R/affinity.r')
 info <- read.csv('../data/psmits-occs.csv', stringsAsFactors = FALSE)
 dur <- read.csv('../data/psmits-ranges.csv', stringsAsFactors = FALSE)
 
-ptbound <- 252.28
+ptbound <- 252.2
+pst <- 298.9
+
+# remove taxa from before the permian
+rg <- dur[which(dur[, 3] > pst), 1]
+dur <- dur[!(dur[, 1] %in% rg), ]
+info <- info[!(info$occurrence.genus_name %in% rg), ]
+
+# remove taxa that originated before the permian
+rg <- dur[which(dur[, 2] > pst), 1]
+dur <- dur[!(dur[, 1] %in% rg), ]
+info <- info[!(info$occurrence.genus_name %in% rg), ]
 
 # remove missing lithology information
 info <- info[info$lithology1 != '', ]
@@ -71,6 +82,8 @@ rms <- which(dur[, 2] < ptbound & dur[, 3] < ptbound)
 dur <- dur[-rms, ]
 litaf <- litaf[-rms]
 env <- env[-rms]
+
+# 0 right, 1 event, 2 left, 3 interval
 
 # make the data frame for survival analysis
 # need to allow for originations

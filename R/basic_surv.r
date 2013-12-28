@@ -3,6 +3,7 @@ library(MuMIn)
 
 source('../R/mung.r')
 
+# 0 right, 1 event, 2 left, 3 interval
 surv <- Surv(time = persist$dur, event = persist$ext)
 
 # nonparametric K-M curves
@@ -26,3 +27,5 @@ modaec.exp <- survreg(formula = surv ~ aff * env, data = persist, dist = 'expone
 modaei.exp <- survreg(formula = surv ~ aff : env, data = persist, dist = 'exponential')
 mode.exp <- survreg(formula = surv ~ env, data = persist, dist = 'exponential')
 modi.exp <- survreg(formula = surv ~ 1, data = persist, dist = 'exponential')
+
+# try lognormal...
