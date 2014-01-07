@@ -18,13 +18,13 @@ ggkma <- ggplot(kmacurve, aes(x = time, y = surv, colour = aff))
 ggkma <- ggkma + geom_step()
 ggsave(filename = '../doc/figure/km_aff.png', plot = ggkma)
 
-ee <- c(rep('inshore', kmenv$strata[1]),
-        rep('none', kmenv$strata[2]),
-        rep('offshore', kmenv$strata[3]))
-kmecurve <- cbind(data.frame(time = kmenv$time), surv = kmenv$surv, env = ee)
-ggkme <- ggplot(kmecurve, aes(x = time, y = surv, colour = env)) 
+ee <- c(rep('inshore', kmhab$strata[1]),
+        rep('none', kmhab$strata[2]),
+        rep('offshore', kmhab$strata[3]))
+kmecurve <- cbind(data.frame(time = kmhab$time), surv = kmhab$surv, hab = ee)
+ggkme <- ggplot(kmecurve, aes(x = time, y = surv, colour = hab)) 
 ggkme <- ggkme + geom_step()
-ggsave(filename = '../doc/figure/km_env.png', plot = ggkme)
+ggsave(filename = '../doc/figure/km_hab.png', plot = ggkme)
 
 
 # parametric curves
@@ -56,30 +56,30 @@ ggaff <- ggaff + theme(axis.title.y = element_text(angle = 0))
 ggaff <- ggaff + coord_flip()
 ggsave(filename = '../doc/figure/aff.png', plot = ggaff)
 
-envcurve <- predict(mode.wei, newdata = data.frame(env = c('inshore',
+habcurve <- predict(mode.wei, newdata = data.frame(hab = c('inshore',
                                                            'none',
                                                            'offshore')),
                     type = 'quantile',
                     p = seq(0.0, 0.99, by = 0.01),
                     se.fit = TRUE)
-rownames(envcurve$fit) <- c('inshore', 'none', 'offshore')
-rownames(envcurve$se.fit) <- c('inshore', 'none', 'offshore')
-envcurve <- lapply(envcurve, t)
-envcurve <- lapply(envcurve, melt)
-envcurve <- cbind(envcurve$fit, se.fit = envcurve$se.fit$value)
-envcurve[, 1] <- (100 - envcurve[, 1]) / 100
+rownames(habcurve$fit) <- c('inshore', 'none', 'offshore')
+rownames(habcurve$se.fit) <- c('inshore', 'none', 'offshore')
+habcurve <- lapply(habcurve, t)
+habcurve <- lapply(habcurve, melt)
+habcurve <- cbind(habcurve$fit, se.fit = habcurve$se.fit$value)
+habcurve[, 1] <- (100 - habcurve[, 1]) / 100
 
-ggenv <- ggplot(envcurve, aes(x = Var1, y = value, colour = Var2)) 
-ggenv <- ggenv + geom_line()
-ggenv <- ggenv + geom_ribbon(aes(ymin = value - se.fit, ymax = value + se.fit,
+gghab <- ggplot(habcurve, aes(x = Var1, y = value, colour = Var2)) 
+gghab <- gghab + geom_line()
+gghab <- gghab + geom_ribbon(aes(ymin = value - se.fit, ymax = value + se.fit,
                                  fill = Var2), alpha = 0.3, colour = NA)
-ggenv <- ggenv + labs(x = 'S(t)', y = 'time')
-ggenv <- ggenv + geom_step(data = kmecurve, 
-                           mapping = aes(x = surv, y = time, colour = env))
-ggenv <- ggenv + coord_flip()
-ggenv <- ggenv + scale_fill_manual(values = cbp,
+gghab <- gghab + labs(x = 'S(t)', y = 'time')
+gghab <- gghab + geom_step(data = kmecurve, 
+                           mapping = aes(x = surv, y = time, colour = hab))
+gghab <- gghab + coord_flip()
+gghab <- gghab + scale_fill_manual(values = cbp,
                                    name = 'habitat preference')
-ggenv <- ggenv + scale_colour_manual(values = cbp, 
+gghab <- gghab + scale_colour_manual(values = cbp, 
                                      name = 'habitat preference')
-ggenv <- ggenv + theme(axis.title.y = element_text(angle = 0))
-ggsave(filename = '../doc/figure/env.png', plot = ggenv)
+gghab <- gghab + theme(axis.title.y = element_text(angle = 0))
+ggsave(filename = '../doc/figure/hab.png', plot = gghab)

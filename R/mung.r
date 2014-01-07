@@ -58,7 +58,7 @@ litaf[litaf > (1/3) & litaf < (2/3)] <- 'mixed'
 # environment
 penv <- get.occ(dur[, 2], dur[, 3], info$ma_mid, info$environment)
 names(penv) <- dur[, 1]
-env <- list()
+hab <- list()
 for(ii in seq(length(penv))) {
   ins <- shprob(occur = pocc[[ii]]$environment, avil = penv[[ii]], 
                 ph1 = 1/3, ph2 = 2/3, aff = 'inshore')
@@ -66,22 +66,22 @@ for(ii in seq(length(penv))) {
                 ph1 = 1/3, ph2 = 2/3, aff = 'offshore')
   non <- shprob(occur = pocc[[ii]]$environment, avil = penv[[ii]], 
                 ph1 = 1/3, ph2 = 2/3, aff = 'none')
-  env[[ii]] <- c(ins, off, non)
+  hab[[ii]] <- c(ins, off, non)
 }
-names(env) <- names(penv)
-env <- lapply(lapply(env, which.max), 
+names(hab) <- names(penv)
+hab <- lapply(lapply(hab, which.max), 
               function(x) c('inshore', 'offshore', 'none')[x])
 
 
 sf <- as.character(dur$genus) %in% names(litaf) & 
-      as.character(dur$genus) %in% names(env)
+      as.character(dur$genus) %in% names(hab)
 dur <- dur[sf, ]
 
 
 rms <- which(dur[, 2] < ptbound & dur[, 3] < ptbound)
 dur <- dur[-rms, ]
 litaf <- litaf[-rms]
-env <- env[-rms]
+hab <- hab[-rms]
 
 # 0 right, 1 event, 2 left, 3 interval
 
@@ -94,7 +94,7 @@ persist <- cbind(st = as.data.frame(rel.or),
                  age = rel.end, 
                  ext = rep(1, length(rel.or)),
                  aff = unlist(litaf),
-                 env = unlist(env))
+                 hab = unlist(hab))
 names(persist)[1] <- 'st'
 
 # fix the censored ones
