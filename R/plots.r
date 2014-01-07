@@ -52,6 +52,7 @@ ggaff <- ggaff + scale_fill_manual(values = cbp,
                                    name = 'substrate preference')
 ggaff <- ggaff + scale_colour_manual(values = cbp, 
                                      name = 'substrate preference')
+ggaff <- ggaff + theme(axis.title.y = element_text(angle = 0))
 ggaff <- ggaff + coord_flip()
 ggsave(filename = '../doc/figure/aff.png', plot = ggaff)
 
@@ -80,4 +81,5 @@ ggenv <- ggenv + scale_fill_manual(values = cbp,
                                    name = 'habitat preference')
 ggenv <- ggenv + scale_colour_manual(values = cbp, 
                                      name = 'habitat preference')
+ggenv <- ggenv + theme(axis.title.y = element_text(angle = 0))
 ggsave(filename = '../doc/figure/env.png', plot = ggenv)
