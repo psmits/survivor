@@ -53,10 +53,14 @@ ggaff <- ggaff + geom_step(data = kmacurve,
                            mapping = aes(x = time, y = surv, colour = aff))
 ggaff <- ggaff + labs(x = 'time', y = 'S(t)')
 ggaff <- ggaff + scale_fill_manual(values = cbp,
-                                   name = 'substrate preference')
+                                   name = 'substrate\npreference')
 ggaff <- ggaff + scale_colour_manual(values = cbp, 
-                                     name = 'substrate preference')
-ggaff <- ggaff + theme(axis.title.y = element_text(angle = 0))
+                                     name = 'substrate\npreference')
+ggaff <- ggaff + theme(axis.title.y = element_text(angle = 0),
+                       axis.text = element_text(size = 16),
+                       axis.title = element_text(size = 19),
+                       legend.text = element_text(size = 13),
+                       legend.title = element_text(size = 15))
 #ggaff <- ggaff + coord_flip()
 ggsave(filename = '../doc/figure/aff.png', plot = ggaff)
 
@@ -85,9 +89,13 @@ gghab <- gghab + labs(x = 'time', y = 'S(t)')
 gghab <- gghab + geom_step(data = kmecurve, 
                            mapping = aes(x = time, y = surv, colour = hab))
 gghab <- gghab + scale_fill_manual(values = cbp,
-                                   name = 'habitat preference')
+                                   name = 'habitat\npreference')
 gghab <- gghab + scale_colour_manual(values = cbp, 
-                                     name = 'habitat preference')
-gghab <- gghab + theme(axis.title.y = element_text(angle = 0))
+                                     name = 'habitat\npreference')
+gghab <- gghab + theme(axis.title.y = element_text(angle = 0),
+                       axis.text = element_text(size = 17),
+                       axis.title = element_text(size = 20),
+                       legend.text = element_text(size = 13),
+                       legend.title = element_text(size = 15))
 #gghab <- gghab + coord_flip()
 ggsave(filename = '../doc/figure/hab.png', plot = gghab)
