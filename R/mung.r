@@ -99,7 +99,7 @@ names(persist)[1] <- 'st'
 
 # fix the censored ones
 persist$ext[dur[, 3] < ptbound] <- 0
-persist$ext[dur[, 3] <= 260.0] <- 0
+#persist$ext[dur[, 3] <= 260.0] <- 0
 reps <- dur[dur[, 3] < ptbound, 2] - ptbound
 persist$age[dur[, 3] < ptbound] <- reps
 
