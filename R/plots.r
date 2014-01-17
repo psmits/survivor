@@ -16,7 +16,7 @@ nn <- c(rep('carbonate', kmaff$strata[1]),
 kmacurve <- cbind(data.frame(time = kmaff$time), surv = kmaff$surv, aff = nn)
 ggkma <- ggplot(kmacurve, aes(x = time, y = surv, colour = aff)) 
 ggkma <- ggkma + geom_step()
-ggsave(filename = '../doc/figure/km_aff.png', plot = ggkma)
+#ggsave(filename = '../doc/figure/km_aff.png', plot = ggkma)
 
 ee <- c(rep('inshore', kmhab$strata[1]),
         rep('none', kmhab$strata[2]),
@@ -24,7 +24,7 @@ ee <- c(rep('inshore', kmhab$strata[1]),
 kmecurve <- cbind(data.frame(time = kmhab$time), surv = kmhab$surv, hab = ee)
 ggkme <- ggplot(kmecurve, aes(x = time, y = surv, colour = hab)) 
 ggkme <- ggkme + geom_step()
-ggsave(filename = '../doc/figure/km_hab.png', plot = ggkme)
+#ggsave(filename = '../doc/figure/km_hab.png', plot = ggkme)
 
 
 # parametric curves
@@ -62,7 +62,8 @@ ggaff <- ggaff + theme(axis.title.y = element_text(angle = 0),
                        legend.text = element_text(size = 13),
                        legend.title = element_text(size = 15))
 #ggaff <- ggaff + coord_flip()
-ggsave(filename = '../doc/figure/aff.png', plot = ggaff)
+ggsave(filename = '../doc/figure/aff.png', plot = ggaff,
+       height = 10, width = 15)
 
 habcurve <- predict(mode.wei, newdata = data.frame(hab = c('inshore',
                                                            'none',
@@ -98,4 +99,5 @@ gghab <- gghab + theme(axis.title.y = element_text(angle = 0),
                        legend.text = element_text(size = 13),
                        legend.title = element_text(size = 15))
 #gghab <- gghab + coord_flip()
-ggsave(filename = '../doc/figure/hab.png', plot = gghab)
+ggsave(filename = '../doc/figure/hab.png', plot = gghab,
+       height = 10, width = 15)
