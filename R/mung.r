@@ -4,6 +4,7 @@ library(plyr)
 source('../R/clean_funcs.r')
 source('../R/occurrence.r')
 source('../R/affinity.r')
+source('../R/paleo_surv.r')
 
 info <- read.csv('../data/psmits-occs.csv', stringsAsFactors = FALSE)
 dur <- read.csv('../data/psmits-ranges.csv', stringsAsFactors = FALSE)
@@ -16,8 +17,8 @@ rg <- dur[which(dur[, 3] > pst), 1]
 dur <- dur[!(dur[, 1] %in% rg), ]
 info <- info[!(info$occurrence.genus_name %in% rg), ]
 
-# remove taxa that originated before the permian
-rg <- dur[which(dur[, 2] > pst), 1]
+# remove taxa from after the permian
+rg <- dur[which(dur[, 2] < ptbound), 1]
 dur <- dur[!(dur[, 1] %in% rg), ]
 info <- info[!(info$occurrence.genus_name %in% rg), ]
 
@@ -74,33 +75,17 @@ hab <- lapply(lapply(hab, which.max),
 
 
 sf <- as.character(dur$genus) %in% names(litaf) & 
-      as.character(dur$genus) %in% names(hab)
+as.character(dur$genus) %in% names(hab)
 dur <- dur[sf, ]
 
 
-rms <- which(dur[, 2] < ptbound & dur[, 3] < ptbound)
-dur <- dur[-rms, ]
-litaf <- litaf[-rms]
-hab <- hab[-rms]
+#rms <- which(dur[, 2] < ptbound & dur[, 3] < ptbound)
+#dur <- dur[-rms, ]
+#litaf <- litaf[-rms]
+#hab <- hab[-rms]
 
-# 0 right, 1 event, 2 left, 3 interval
+surv <- paleosurv(dur[, 2], dur[, 3], start = pst, end = ptbound)
 
 # make the data frame for survival analysis
-# need to allow for originations
-zero <- max(dur[, 2])
-rel.or <- abs(dur[, 2] - zero)
-rel.end <- abs(dur[, 3] - zero)
-persist <- cbind(st = as.data.frame(rel.or), 
-                 age = rel.end, 
-                 ext = rep(1, length(rel.or)),
-                 aff = unlist(litaf),
-                 hab = unlist(hab))
-names(persist)[1] <- 'st'
-
-# fix the censored ones
-persist$ext[dur[, 3] < ptbound] <- 0
-#persist$ext[dur[, 3] <= 260.0] <- 0
-reps <- dur[dur[, 3] < ptbound, 2] - ptbound
-persist$age[dur[, 3] < ptbound] <- reps
-
-persist$dur <- abs(persist$st - persist$age)
+persist <- as.data.frame(cbind(aff = unlist(litaf),
+                               hab = unlist(hab)))

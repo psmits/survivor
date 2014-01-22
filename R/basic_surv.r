@@ -2,9 +2,6 @@ library(survival)
 
 source('../R/mung.r')
 
-# 0 right, 1 event, 2 left, 3 interval
-surv <- Surv(time = persist$dur, event = persist$ext)
-
 # nonparametric K-M curves
 kmaff <- survfit(formula = surv ~ aff, data = persist)
 kmhab <- survfit(formula = surv ~ hab, data = persist)

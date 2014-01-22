@@ -7,21 +7,23 @@
 #' @param start scalar; interval start
 #' @param end scalar; interval end
 paleosurv <- function(fad, lad, start, end) {
-  old <- max(fad)
-  fad <- abs(fad - old)
-  lad <- abs(lad - old)
-  start <- abs(start - old)
-  end <- abs(end - old)
-
-  left <- which(fad < start)
-  right <- which(lad >= end)
+  left <- which(fad > start)
+  right <- which(lad <= end)
 
   fad[left] <- NA
   lad[right] <- NA
 
+  old <- max(fad, na.rm = TRUE)
+  fad <- abs(fad - old)
+  lad <- abs(lad - old)
+
+  # complete
   exact <- which(!is.na(fad) & !is.na(lad))
   fad[exact] <- lad[exact] <- abs(fad[exact] - lad[exact])
 
-  Surv(time = fad, time2 = lad, type = 'interval2')
+  # right
+  rr <- which(!is.na(fad) & is.na(lad))
+  fad[rr] <- abs(fad[rr] - abs(end - old))
 
+  Surv(time = fad, time2 = lad, type = 'interval2')
 }
