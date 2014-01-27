@@ -12,13 +12,18 @@ dur <- read.csv('../data/psmits-ranges.csv', stringsAsFactors = FALSE)
 ptbound <- 252.2
 pst <- 298.9
 
-# remove taxa from before the permian
+# remove taxa that went extinct before the permian
 rg <- dur[which(dur[, 3] > pst), 1]
 dur <- dur[!(dur[, 1] %in% rg), ]
 info <- info[!(info$occurrence.genus_name %in% rg), ]
 
-# remove taxa from after the permian
+# remove taxa originating after the permian
 rg <- dur[which(dur[, 2] < ptbound), 1]
+dur <- dur[!(dur[, 1] %in% rg), ]
+info <- info[!(info$occurrence.genus_name %in% rg), ]
+
+# remove taxa that originated before the permian
+rg <- dur[which(dur[, 2] > pst), 1]
 dur <- dur[!(dur[, 1] %in% rg), ]
 info <- info[!(info$occurrence.genus_name %in% rg), ]
 
@@ -78,11 +83,6 @@ sf <- as.character(dur$genus) %in% names(litaf) &
 as.character(dur$genus) %in% names(hab)
 dur <- dur[sf, ]
 
-
-#rms <- which(dur[, 2] < ptbound & dur[, 3] < ptbound)
-#dur <- dur[-rms, ]
-#litaf <- litaf[-rms]
-#hab <- hab[-rms]
 
 surv <- paleosurv(dur[, 2], dur[, 3], start = pst, end = ptbound)
 

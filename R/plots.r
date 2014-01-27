@@ -57,10 +57,10 @@ ggaff <- ggaff + scale_fill_manual(values = cbp,
 ggaff <- ggaff + scale_colour_manual(values = cbp, 
                                      name = 'substrate\npreference')
 ggaff <- ggaff + theme(axis.title.y = element_text(angle = 0),
-                       axis.text = element_text(size = 16),
-                       axis.title = element_text(size = 19),
-                       legend.text = element_text(size = 13),
-                       legend.title = element_text(size = 15))
+                       axis.text = element_text(size = 20),
+                       axis.title = element_text(size = 23),
+                       legend.text = element_text(size = 17),
+                       legend.title = element_text(size = 19))
 #ggaff <- ggaff + coord_flip()
 ggsave(filename = '../doc/figure/aff.png', plot = ggaff,
        height = 10, width = 15)
@@ -94,10 +94,10 @@ gghab <- gghab + scale_fill_manual(values = cbp,
 gghab <- gghab + scale_colour_manual(values = cbp, 
                                      name = 'habitat\npreference')
 gghab <- gghab + theme(axis.title.y = element_text(angle = 0),
-                       axis.text = element_text(size = 17),
-                       axis.title = element_text(size = 20),
-                       legend.text = element_text(size = 13),
-                       legend.title = element_text(size = 15))
+                       axis.text = element_text(size = 20),
+                       axis.title = element_text(size = 23),
+                       legend.text = element_text(size = 17),
+                       legend.title = element_text(size = 19))
 #gghab <- gghab + coord_flip()
 ggsave(filename = '../doc/figure/hab.png', plot = gghab,
        height = 10, width = 15)
