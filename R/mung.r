@@ -84,7 +84,6 @@ sf <- as.character(dur$genus) %in% names(litaf) &
 as.character(dur$genus) %in% names(hab)
 dur <- dur[sf, ]
 
-
 surv <- paleosurv(dur[, 2], dur[, 3], start = pst, end = ptbound + 5)
 
 # make the data frame for survival analysis
