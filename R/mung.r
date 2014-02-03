@@ -1,5 +1,6 @@
 library(reshape2)
 library(plyr)
+library(survival)
 
 source('../R/clean_funcs.r')
 source('../R/occurrence.r')
@@ -23,9 +24,9 @@ dur <- dur[!(dur[, 1] %in% rg), ]
 info <- info[!(info$occurrence.genus_name %in% rg), ]
 
 # remove taxa that originated before the permian
-rg <- dur[which(dur[, 2] > pst), 1]
-dur <- dur[!(dur[, 1] %in% rg), ]
-info <- info[!(info$occurrence.genus_name %in% rg), ]
+#rg <- dur[which(dur[, 2] > pst), 1]
+#dur <- dur[!(dur[, 1] %in% rg), ]
+#info <- info[!(info$occurrence.genus_name %in% rg), ]
 
 # remove missing lithology information
 info <- info[info$lithology1 != '', ]
@@ -84,7 +85,7 @@ as.character(dur$genus) %in% names(hab)
 dur <- dur[sf, ]
 
 
-surv <- paleosurv(dur[, 2], dur[, 3], start = pst, end = ptbound)
+surv <- paleosurv(dur[, 2], dur[, 3], start = pst, end = ptbound + 5)
 
 # make the data frame for survival analysis
 persist <- as.data.frame(cbind(aff = unlist(litaf),
