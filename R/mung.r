@@ -23,6 +23,10 @@ rg <- dur[which(dur[, 2] < ptbound), 1]
 dur <- dur[!(dur[, 1] %in% rg), ]
 info <- info[!(info$occurrence.genus_name %in% rg), ]
 
+# remove all occurrences not from the permian
+rg <- which(info$ma_mid > pst | info$ma_mid < ptbound)
+info <- info[-rg, ]
+
 # remove taxa that originated before the permian
 #rg <- dur[which(dur[, 2] > pst), 1]
 #dur <- dur[!(dur[, 1] %in% rg), ]
