@@ -8,4 +8,4 @@ nohup nice R CMD BATCH --vanilla net_plots.r
 
 cd ..
 
-echo 'analysis complete' | mail -s 'brac surv' psmits@uchicago.edu
+echo 'analysis complete' | mail -s 'brac' psmits@uchicago.edu

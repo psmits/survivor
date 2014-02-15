@@ -1,0 +1,56 @@
+basin,formation,lithology1,lithology2,environment1,environment2
+Sydney,Moon Island,sandstone,shale,alluvial plain,delta plain
+Sydney,Awaba,tuff,,alluvial plain,delta plain
+Sydney,Boolaroo,conglomerate,sandstone,alluvial plain,delta plain
+Sydney,Warners Bay,tuff,,alluvial plain,delta plain
+Sydney,Adamstown,conglomerate,sandstone,alluvial plain,delta plain
+Sydney,Nobbys,tuff,,alluvial plain,delta plain
+Sydney,Lambton,sandstone,siltstone,alluvial plain,delta plain
+Sydney,Waratah,sandstone,,barrier bar,shoal
+Sydney,Dempsey,siltstone,sandstone,delta plain,marine shelf
+Sydney,Four Mile Creek,sandstone,siltstone,delta plain,marine shelf
+Sydney,Wallis Creek,sandstone,claystone,delta plain,marine shelf
+Sydney,Mulbring,siltstone,sandstone,marine shelf,
+Sydney,Muree,sandstone,conglomerate,alluvial fan,fan delta
+Sydney,Fenestrella Shale,sandstone,siltstone,fan delta,marine shelf
+Sydney,Branxton,conglomerate,sandstone,fan delta,delta plain
+Sydney,Greta Coal,sandstone,conglomerate,delta plain,
+Sydney,Farley,siltstone,sandstone,delta plain,delta front
+Sydney,Rutherford,siltstone,mudstone,delta front,marine shelf
+Sydney,Allandale,conglomerate,sandstone,sublittoral strand,marine shelf
+Sydney,Lochinvar,basalt,siltstone,sublittoral strand,marine shelf
+Bowen,Rangal Coal,sandstone,siltstone,,
+,Bandanna,sandstone,siltstone,,
+,Baralaba Coal,sandstone,siltstone,,
+,Black Alley,mudstone,siltstone,,
+,Peawaddy,mudstone,siltstone,,
+,Burngrove,mudstone,siltstone,,
+,Fair Hill,sandstone,siltstone,,
+,MacMillan,mudstone,siltstone,,
+,Gyranda,siltstone,shale,,
+,Kaloola,mudstone,siltstone,,
+,Wiseman,sandstone,mudstone,,
+,Banana,siltstone,shale,,
+,Crocker,sandstone,siltstone,,
+,Moranbah,sandstone,siltstone,,
+,Catherine,sandstone,siltstone,,
+,Ingelra,conglomerate,mudstone,,
+,Freitag,sandstone,siltstone,,
+,Aldebaran,sandstone,conglomerate,,
+,Cattle Creek,sandstone,mudstone,,
+,Colinlea,sandstone,conglomerate,,
+,Exmoor,sandstone,siltstone,,
+,Blenheim,sandstone,siltstone,,
+,Collinsville,sandstone,conglomerate,,
+,Beggie,sandstone,siltstone,,
+,Tiverton,sandstone,limestone,,
+,Flat Top,siltstone,sandstone,,
+,Barfield,mudstone,sandstone,,
+,Oxtrack,limestone,siltstone,,
+,Buffel,limestone,,,
+,Boomer,sandstone,siltstone,,
+,Back Greek,sandstone,siltstone,,
+,Blair Athol,sandstone,shale,,
+,Reids Dome,siltstone,shale,,
+,Carmila,siltstone,mudstone,,
+,Woolein,siltstone,mudstone,,
