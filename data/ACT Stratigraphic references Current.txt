@@ -1,0 +1,341 @@
+Reference Id | Author | Year | Title | Source | Vol/Part | Pages
+5252|Sherwin, L.|1995|Siluro-Devonian brachiopods from the Amphitheatre and Winduck Groups (Cobar Supergroup), western New South Wales|Association of Australasian Palaeontologists, Memoir|18|61-96
+6969|Percival, I.G.|1998|The age of the Nandillyan and Narragal Limestones, Molong High, central western New South Wales|Geological Survey of New South Wales. Quarterly Notes|107|p12-19
+12185|Best, J.G., D'Addario, G.W., Walpole, B.P., Rose, G.|1964|Canberra sheet SI55-16. Australian 1:250 000 geological series.|Bureau of Mineral Resources and Geological Survey of New South Wales.||
+22472|Glen, R.A., Watkins, J.J.|1999|Implications of Middle Devonian deformation of the eastern part of the Hill End Trough, Lachlan Orogen, New South Wales|Australian Journal of Earth Sciences|46(1)|p35-52
+22486|Pickett, J.W., Sherwin, L., Watkins, J.|1996|The age of the Tanwarra Shale|Geological Survey of New South Wales. Quarterly Notes|100|p 1- 8
+22529|Colquhoun, G.P., Meakin, N.S., Krynen, J.P., Watkins, J.J., Yoo, E.K., Henderson, G.T.M., Jagodzinski, E.A.|1997|Stratigraphy, Structure and Mineralisation of the Mudgee 1:100 000 Geological Map Sheet|Geological Survey of New South Wales. Quarterly Notes|102|
+22590|Jagodzinski, E.A., Black, L.P.|1999|U-Pb dating of silicic lavas, sills and syneruptive resedimented volcaniclastic deposits of the Lower Devonian Crudine Group, Hill End Trough, New South Wales|Australian Journal of Earth Sciences|46(5)|749-764
+22606|Chappell, B.W., White, A.J.R., Williams, I.S., Wyborn, D., Hergt, J.M., Woodhead, J.D.|1999|Discussion and Reply. Evaluation of petrogenetic models for Lachlan Fold Belt granitoids: implications for crustal architecture and tectonic models|Australian Journal of Earth Sciences|46(5)|p827-836
+22638|Warren, A.Y.E., Gilligan, L.B., Raphael, N.M.|1995|Explanatory Notes, Cootamundra 1:250 000 geological sheet SI/55-11.|Geological Survey of New South Wales|1v|160p
+22639|Durney, D.W., Kisch, H.J.|1994|A field classification and intensity scale for first-generation cleavages|AGSO Journal of Australian Geology and Geophysics|15(3)|p257-295
+22679|Wyborn, D., Henderson, G.A.M.|1996|Blayney 1:100 000 Sheet Area. Notes to Accompany Geological Map|Australian Geological Survey Organisation. Record|1996/56|
+22691|Dadd, K.A.|1998|Origin and significance of megabreccia blocks in the Silurian Goobarragandra Volcanics, southeastern New South Wales|Australian Journal of Earth Sciences|45(2)|p315-321
+22768|Scheibner, E., Basden, H. (ed.)|1998|Part 6(16). Silurian-Middle Devonian. In: Geology of New South Wales - Synthesis.|Geological Survey of New South Wales. Memoir (Geology)|13(2)|p140-189
+22778|Chappell, B.W.|1996|Compositional variation within granite suites of the Lachlan Fold Belt: its causes and implications for the physical state of granite magma.|Origin of Granites and Related Rocks (Third Hutton Symposium)|315|p 159
+22798|Lennox, P., Fowler, T., Foster, D.|1998|Barry Granodiorite and Sunset Hills Granite: Wyangala-style intrusion at the margin of a regional ductile shear zone, northern Lachlan Fold Belt, New South Wales.|Australian Journal of Earth Sciences|45(6)|p849-863
+22815|Lewis, P.C., Glen, R.A., Pratt, G.W., Clarke, I.|1994|Bega-Mallacoota 1:250000 Geological Sheet SJ/55-4, SJ/55-8: Explanatory Notes.|Geological Survey of New South Wales|1v|144p
+22842|Bauer, J.A.|1994|Siluro-Devonian Bungonia Group, Southern Highlands, New South Wales.|Helictite|32(2)|p25-34
+22843|Acworth, R.I., Broughton, A., Nicoll, C., Jankowski, J.|1997|The role of debris-flow deposits in the development of dryland salinity in the Yass River catchment, New South Wales, Australia.|Hydrogeology Journal|5(1)|p2-36
+22857|Scheibner, E., Basden, H. (ed.)|1998|Geology of New South Wales - Synthesis. Volume 2 Geological Evolution.|Geological Survey of New South Wales. Memoir (Geology)|13(2)|666pp
+22876|Oranskaia, A.N.|1997|Geological interpretation of geophysical features Bendoc 1:100 000 sheet|Victorian Initiative for Minerals and Petroleum Report|47|
+22877|Oranskaia, A.N.|1997|Bendoc 1:100 000 Geological interpretation of geophysical features|Geological Survey of Victoria|1v|Map
+22941|Pillano, B., Bourman, R.|1995|The Brunches/Matuyama Polarity Transition (0.78Ma) as a chronostratigraphic marker in Australian regolith studies.|AGSO Journal of Australian Geology and Geophysics|16(3)|289-294
+22968|Willman, C.E., Morand, V.J., Hendrickx, M.A., VandenBerg, A.H.M., Haydon, S.J., Carney, C.|1999|Omeo 1:100 000 Map Area Geological Report. Sheet 8423|Geological Survey of Victoria. Report|118|339p
+23020|Willman, C.E., Morand, V.J., Haydon, S.J., Carney, C.|1999|Brookville 1:50 000 geological map sheet 8423-3 zone 55|Geological Survey of Victoria|Map|
+23021|Hendrickx, M.A., VandenBerg, A.H.M., Morand, V.J., Haydon, S.J.|1999|Bindi 1:50 000 geological map sheet 8423-1 zone 55|Geological Survey of Victoria|Map|
+23028|Morand, V.J., Hendrickx, M.A., Haydon, S.J.|1999|Ensay 1:50 000 geological map sheet 8423-2 zone 55|Geological Survey of Victoria|Map|
+23029|Morand, V.J., VandenBerg, A.H.M., Haydon, S.J., Hendrickx, M.A.|1999|Omeo 1:50 000 geological map sheet 8423-4 zone 55|Geological Survey of Victoria|Map|
+23043|Morgan, E.J., Cameron, R.G., Colquhoun, G.P., Meakin, N.S., Raymond, O.L., Scott, M.M., Watkins, J.J., Barron, L.M., Henderson, G.A.M., Krynen, J.P., Pogson, D.J., Warren, A.Y.E., Wyborn, D., Yoo, E.K., Glen, R.A., Jagodzinski, E.A.|1999|Dubbo 1:250 000 geological sheet SI/55-4 (Second Edition)|Geological Survey of New South Wales|1v|map
+23048|Huston, D.L., Scott, M., Meares, R.|1997|Volcanic- Hosted Massive Sulphide Deposits of the Eastern Lachlan Fold Belt. Prepared for the Post-conference excursion to the third meeting of the SGEG, GSA.|Geological Society of Australia. Specialist Group in Economic Geology|1v|19pp
+23091|Valliant, R.I., Meares, R.M.D.|1998|Lewis Ponds gold-silver-copper-lead-zinc deposits IN Berkman, D.A. & Mackenzie, D.H. (eds) 'Geology of Australian and Papua New Guinean mineral deposits'|AusIMM. Monograph Series|22|p635-640
+23100|Wilkins, C., Smart, G.|1998|Browns Creek gold-copper deposit IN Berkman, D.A. & Mackenzie, D.H. (eds) 'Geology of Australian and Papua New Guinean mineral deposits'|AusIMM. Monograph Series|22|p575-580
+23170|Meakin, N.S., Morgan, E.J.|1999|Dubbo 1:250 000 geological Sheet SI/55-4, 2nd Edition. Explanatory Notes.|Australian Geological Survey Organisation and Geological Survey of New South Wales|1v|504p
+23202|Wilkins, C.|1999|Structure of the Browns Creek gold-copper skarn deposit, Blayney, NSW, Australia. IN 'Mineral deposits: processes to processing. Proc 5th biennial SGA meeting & 10th quadrennial IAGOD symposium, London, UK, 22-25 Aug 1999' Stanley C.J.(ed)|A.A. Balkema, Rotterdam|Vol 2|p1059-1062
+23213|Percival, I.G., Morgan, E.J., Scott, M.M.|1999|Ordovician stratigraphy of the northern Molong Volcanic Belt: new facts and figures|Geological Survey of New South Wales. Quarterly Notes|108|p8-27
+23214|Pogson, D.J., Watkins, J.J.|1998|Bathurst 1:250 000 geological Sheet. SI/55-8: Explanatory Notes.|Australian Geological Survey Organisation and Geological Survey of New South Wales|SI/55-8|
+23217|Young, G.C.|1999|The Hervey Group (Middle-Upper Devonian) on the Parkes 1:100 000 Sheet Area, NSW (Lachlan Fold Belt)|Australian Geological Survey Organisation. Record|17|22pp
+23225|Percival, I.G.|1998|The Age of the Nandillyan and Narragal Limestones, Molong High, Central Western New South Wales.|Geological Survey of New South Wales. Quarterly Notes|107|p12-19
+23245|Scheibner, E., Basden, H. (ed.)|1998|Part 6(15). Cambrian-Early Silurian. In: Geology of New South Wales - Synthesis.|Geological Survey of New South Wales. Memoir (Geology)|13(2)|p103-139
+23309|VandenBerg, A.H.M., Willman, C.E., Maher, S., Simons, B.A., Cayley, R.A., Taylor, D.H., Morand, V.J., Moore, D.H., Radojkovic, A.|2000|The Tasman Fold Belt System in Victoria|Geological Survey of Victoria. Special Publication|1v|462p
+23334|Packham, G., Percival, I., Bischoff, G.|1999|Age constraints on strata enclosing the Cadia and Junction Reefs ore deposits of central New South Wales, and tectonic implications.|Geological Survey of New South Wales. Quarterly Notes|110|p1-12
+23439|Chappell, B.W., White, A.J.R., Williams, I.S., Wyborn, D., Wyborn, L.A.I.|2000|Lachlan Fold Belt granites revisited: high- and low- temperature granites and their implications|Australian Journal of Earth Sciences|47(1)|p123-138
+23454|Collins, W.J., Hobbs, B.E.|2001|What caused the Early Silurian change from mafic to silicic (S-type) magmatism in the eastern Lachlan Fold Belt?		|Australian Journal of Earth Sciences|48(1)|p25-41
+23522|Mawson, R., Talent, J.A.|2000|The Devonian of eastern Australia : stratigraphic alignments, stage and series boundaries, and the transgression - regression pattern re-considered. IN 'Subcommission on Devonian Stratigraphy, recognition of Devonian series and stage bound|Courier Forschungsinstitut Senckenberg|225|p243-270
+23547|White, A.J.R.|2001|Water, restite and granite mineralisation|Australian Journal of Earth Sciences|48(4)|p551-555
+23549|White, A.J.R., Allen, C.M., Beams, S.D., Carr, P.F., Champion, D.C., Chappell, B.W., Wyborn, D., Wyborn, L.A.I.|2001|Granite suites and supersuites of eastern Australia|Australian Journal of Earth Sciences|48(4)|p515-530
+23550|King, P.L., Chappell, B.W., Allen, C.M., White, A.J.R.|2001|Are A-type granites the high-temperature felsic granites? Evidence from fractionated granites of the Wangrah Suite|Australian Journal of Earth Sciences|48(4)|p501-514
+23551|Chappell, B.W., White, A.J.R.|2001|Two contrasting granite types: 25 years later|Australian Journal of Earth Sciences|48(4)|p489-499
+23615|Orth, K., VandenBerg, A.H.M., Nott, R.J., Simons, B.A.|1995|Murrindal 1:100 000 map geological report|Geological Survey of Victoria. Report|100|237p
+23866|Richards, S.W., Collins, W.J.|2002|The Cooma Metamorphic Complex, a low-P, high-T (LPHT) regional aureole beneath the Murrumbidgee Batholith|Journal of Metamorphic Geology|20(1)|p119-134
+23898|Lindley, I.D.|2001|Lower Devonian ischnacanthid fish (Gnathostomata: Acanthodii) from the Taemas Limestone, Lake Burrinjuck, New South Wales|Alcheringa|25(3)|p269-291
+24005|Hood, D.I.A., Durney, D.W.|2002|Sequence and kinematics of multiple deformation around Taemas Bridge, Eastern Lachlan Fold Belt, New South Wales|Australian Journal of Earth Sciences|49 (2)|p291-309
+24007|Glen, R.A., Korsch, R.J., Direen, N.G., Jones, L.E.A., Johnstone, D.W., Lawrie, K.C., Finlayson, D.M., Shaw, R.D.|2002|Crustal structure of the Ordovician Macquarie Arc, Eastern Lachlan Orogen, based on seismic-reflection profiling|Australian Journal of Earth Sciences|49 (2)|p323-348
+24019|Ebach, M.C.|2002|Lower Devonian trilobites from Cobar, New South Wales|Western Australian Museum. Records|20(4)|p353-378
+24099|Hergt, J.M., Phillips, G.N., Ely, K.S.|2002|Strathbogie Igneous Complex IN Phillips, G.N. and Ely, K.S. (Editors) Victoria Undercover: Benalla 2002 Conference proceedings and field guide: collaborative geoscience in northern Victoria|CSIRO||p43-50
+24116|Jenkins, B.R.|1996|Soil Landscapes of the Braidwood 1:100 000 Sheet|Department of Land and Water Conservation. Report.||220p
+24126|Murphy, B.W., Lawrie, J.W.|1998|Soil Landscapes of the Dubbo 1:250 000 Sheet Report|Department of Land and Water Conservation. Report.||357p
+24128|Jenkins, B.R.|2000|Soil Landscapes of the Canberra 1:100 000 Sheet Report|Department of Land and Water Conservation. Report.||230p, 1 map
+24215|Lyons, P., Percival, I.G.|2002|Middle to Late Ordovician age for the Jindalee Group of the Lachlan Fold Belt, New South Wales: conodont evidence and some tectonic implications|Australian Journal of Earth Sciences|49 (5)|p801-808
+24222|Chappell, B.W., White, A.J.R.|1992|I- and S-type granites in the Lachlan Fold Belt|Transactions of the Royal Society of Edinburgh: Earth Sciences|v83|p1-26
+24233|Direen, N.G., Lyons, P., Korsch, R.J., Glen, R.A.|2001|Integrated geophysical appraisal of crustal architecture in the eastern Lachlan Orogen|Exploration Geophysics|32 (3-4)|p252-262
+24248|Strusz, D.L.|2002|Brachiopods of the Orders Protorthida and Orthida from the Silurian of the Yass Syncline, southern New South Wales|Alcheringa|26 (1)|p49-86
+24249|Sherwin, L., Rickards, B.|2002|Late Silurian (Pridoli) graptolites from Wallace Shale, New South Wales|Alcheringa|26(1)|p87-102
+24250|Lindley, I.D.|2002|Acanthodian, onychodontid and osteolepididfish from the middle-upper Taemas Limestone (Early Devonian), Lake Burrinjuck, New South Wales|Alcheringa|26(1)|p103-126
+24266|Carr, G.R., Dean, J.A., Suppel, D.W., Heithersay, P.S.|1995|Precise Lead Isotope Fingerprinting of Hydrothermal Activity Associated with Ordovician to Carboniferous Metallogenic Events in the Lachlan Fold Belt of New South Wales|Economic Geology|90 (5)|p1467-1505
+24272|McQueen, K.G., Perkins, C.|1995|The Nature and Origin of a Granitoid-Related Gold Deposit at Dargue's Reef, Major's Creek, New South Wales|Economic Geology|90 (6)|p1646-1662
+24317|Pogson, D.|2002|Goulburn 1:250 000 mapping project update|New South Wales. Department of Mineral Resources. Minfo|76|p14-16
+24398|Packham, G.H., Keene, J.B., Barron, L.M.|2003|Middle to early Late Ordovician hydrothermal veining in the Molong Volcanic Belt, northeastern Lachlan Fold Belt: sedimentological evidence|Australian Journal of Earth Sciences|50 (2)|p257-269
+24417|Lyons, P. (Eds), Raymond, O.L. (Eds), Duggan, M.B. (Eds), Barron, L.M., Burton, G., Chan, R.A., Downes, P.M., Gibson, D.L., Leys, M.T.C., Percival, I.G., Robson, D.F., Scott, M.M., Sherwin, L., Young, G.C., Wallace, D.A., Wyborn, D.|2000|Forbes 1:250 000 Geological Sheet SI55-7, second edition, Explanatory Notes.|Australian Geological Survey Organisation. Record|2000/20|230pp
+24514|Chappell, B.W.|2003|Causes of variations in granite suites IN Blevin, P. et al (eds.) "Magmas to Mineralisation: the Ishihara Symposium"|Geoscience Australia. Record|14|p27-34
+24551|Birch, W.D. (ed.)|2003|Geology of Victoria|Geological Society of Australia. Special Publication|23|842p
+24580|Packham, G.H.|2003|Discussion and Reply: Sequence and kinematics of multiple deformation around Taemas Bridge, Eastern Lachlan Fold Belt, New South Wales|Australian Journal of Earth Sciences|50(5)|p827-833
+29362|Adrian, J.|1971|Stratigraphic units of the Molong District, New South Wales.|Geological Survey of New South Wales, Records|13(4)|p179-198
+29456|Ashley, P.M., Creelman, R.A.|1975|The Mount Black lead-zinc deposit, a probable Mississippi Valley-type sulphide occurrence at Cooleman Plains, southern New South Wales.|Geological Society of Australia. Journal|22(4)|p423-433
+29648|Barkas, J.P.|1978|Early Devonian igneous activity and some stratigraphic correlations in the Tumut region, New South Wales.|Proceedings of the Linnean Society of New South Wales|101(1)|p13-26
+29791|Birkhead, P.K.|1976|Silurian stromatoporoids from Cheesemans Creek, with a survey of some stromatoporoids from the Hume Limestone Member, Yass, New South Wales.|Geological Survey of New South Wales, Records|17(2)|p87-122
+29857|Gulson, B.L., Compston, W., Bofinger, V.M.|1970|A Rb-Sr study of the Lower Silurian State Circle Shale, Canberra, Australia.|Geochimica et Cosmochimica Acta|34(4)|p433-445
+29953|Brooks, C., Leggo, M.D.|1972|The local chronology and regional implications of a Rb-Sr investigation of granitic rocks from the Corryong district, southeastern Australia.|Geological Society of Australia. Journal|19(1)|p1-19
+29989|Brunker, R.L., Offenberg, A.C.|1970|Goulburn, New South Wales 1:250 000 geological series sheet SI55-12 1st Edition|Geological Survey of New South Wales|1v|
+29992|Brunker, R.L., Offenberg, A.C., West, J.L.|1970|1:500 000 geological series; Monaro.|Geological Survey of New South Wales|1st Ed.|
+29993|Brunker, R.L., Offenberg, A.C., West, J.L.|1970|1:500 000 geological series, Macquarie (First Ed).|Geological Survey of New South Wales|1v|
+29994|Brunker, R.L., Offenberg, A.C., West, J.L.|1971|Monaro, New South Wales 1:500 000 geological series 1st Edition.|Geological Survey of New South Wales|1v|
+30069|Campbell, K.S.W.|1976|Yass-Taemas.|25th International Geological Congress. Excursion Guide|9B|
+30073|Campbell, K.S.W., Holloway, D.J., Smith, W.D.|1974|A new Receptaculitid genus, Hexabactron, and the relationships of the Receptaculitaceae.|Palaeontographica, Abteilung A|A 146(1-3)|p52-77
+30252|Cooper, B.J.|1977|Upper Silurian condonts from the Yarrangobilly Limestone, southeastern New South Wales.|Royal Society of Victoria. Proceedings|89(2)|p183-193
+30329|Crook, K.A.W.|1974|Kratonization of west Pacific type geosynclines.|Journal of Geology|82(1)|p24-36
+30332|Crook, K.A.W., Bein, J., Hughes, R.J., Scott, P.A.|1973|Ordovician and Silurian history of the southeastern part of the Lachlan geosyncline.|Geological Society of Australia. Journal|20(2)|p113-138
+30433|Davis, L.W.|1975|Captains Flat lead-zinc orebody. IN Knight C.L.(ed) - Economic geology of Australia and Papua New Guinea - 1.Metals.|AusIMM. Monograph Series|5|p694-700
+30730|Felton, E.A.|1974|Stratigraphic revisions in the Tarago-Woodlawn-Mount Fairy area.|Geological Survey of New South Wales. Quarterly Notes|17|p7-12
+30731|Felton, E.A.|1974|Goulburn, New South Wales, 1:250 000 metallogenic map. Sheet SI/55-12, 1st edition.|Geological Survey of New South Wales|1v|
+30732|Felton, E.A.|1975|Part 1. Mine data sheets to accompany metallogenic map, Goulburn 1:250 000 sheet.|Geological Survey of New South Wales|1v|
+30734|Felton, E.A.|1977|Part 2. A metallogenic study of the Goulburn 1:250 000 sheet.|Geological Survey of New South Wales|1v|
+30735|Felton, E.A., Huleatt, M.B.|1977|Geology of the Braidwood 1:100 000 sheet, no.8827.|Geological Survey of New South Wales|1v|
+30736|Felton, E.A., Huleatt, M.B.|1975|Braidwood, New South Wales, 1:100 000 geological series map. Sheet 8827, 1st edition.|Geological Survey of New South Wales|1v|Map
+31013|Gilligan, L.B.|1973|Possible Mississippi Valley-type deposits at Cooleman, southeastern New South Wales.|Geological Survey of New South Wales. Quarterly Notes|10|
+31017|Gilligan, L.B.|1976|Descriptions of geology and mineralization 15. The Lake George mine, Captains Flat geology and mineralization. IN Gilligan L.B., Markham N.L.,Suppel D.W.(Eds)-Ore deposits of the Lachlan fold belt NSW.|25th International Geological Congress. Excursion Guide|15C|p45-49
+31019|Gilligan, L.B., Cameron, R.G.|1974|Canberra, New South Wales, 1:250 000 metallogenic series map. Sheet SI 55-16, 1st edition.|Geological Survey of New South Wales|1v|
+31020|Gilligan, L.B., Foskett, W.E., Malone, E.J., Felton, E.A.|1976|Captains Flat - Woodlawn. Base metal sulphide deposits and their environmental geology.|25th International Geological Congress. Excursion Guide|8B|
+31111|Grant, K.|1976|Terrain classification and evaluation for engineering purposes of the Canberra area, ACT & NSW.|CSIRO. Division of Applied Geomechanics. Technical Paper|22|
+31161|Griffiths, J.R.|1977|Geology and metallogeny of the Lachlan orogen, Australia: a time-space analysis and preliminary tectonic synthesis.|CSIRO. Minerals Research Laboratories. Investigation Report|123|
+31197|Gulson, B.L., Rankin, P.C.|1977|Geochemical comparison of Woodlawn and Mount Painter Acid Volcanics, southeastern Australia.|Geological Society of Australia. Journal|24(8)|p427-438
+31284|Henderson, G.A.M., Strusz, D.L.|1971|Canberra, Australian Capital Territory, 1:50 000 special geological series map.|Bureau of Mineral Resources, Australia|1v|
+31411|Huleatt, M.B.|1971|Correlation of Silurian rocks in the Braidwood and Captains Flat districts.|Geological Survey of New South Wales. Quarterly Notes|3|p16-18
+31502|Jell, J.S., Hill, D.|1970|Revision of the coral fauna from the Devonian Douglas Creek Limestone, Clermont, central Queensland.|Royal Society of Queensland. Proceedings|81(10)|p93-120
+31527|Jennings, J.N.|1972|The age of Canberra landforms.|Geological Society of Australia. Journal|19(3)|p371-378
+31580|Joyce, A.S.|1973|Chemistry of the minerals of the granitic Murrumbidgee Batholith, Australian Capital Territory.|Chemical Geology|11(4)|p271-296
+31581|Joyce, A.S.|1973|Petrogenesis of the Murrumbidgee Batholith, A.C.T.|Geological Society of Australia. Journal|20(2)|p179-197
+31852|Link, A.G.|1970|Age and correlation of the Siluro-Devonian strata in the Yass Basin, New South Wales.|Geological Society of Australia. Journal|16(2)|p711-722
+31918|Luck, G.R.|1973|Palaeomagnetic results from Palaeozoic rocks of south east Australia.|Geophysical Journal of the Royal Astronomical Society|32|p35-52
+32088|McClatchie, L.|1970|Copper mineralization in the Lachlan geosyncline, New South Wales.|AusIMM. Proceedings|236|p1-16
+32106|McElhinny, M.W.|1973|Palaeomagnetism and plate tectonics.|Cambridge University Press, Cambridge, United Kingdom|1v|
+32150|McLean, R.A.|1974|Cystiphillidae and Goniophyllidae (Rugosa) from the Lower Silurian of New South Wales.|Palaeontographica, Abteilung A|A 147(1-3)|p1-38
+32151|McLean, R.A.|1974|The geology of the Regans Creek area, near Cargo, central New South Wales.|Proceedings of the Linnean Society of New South Wales|98(4)|p196-221
+32154|McLean, R.A.|1975|Silurian corals from the Mumbil area, central New South Wales.|Proceedings of the Linnean Society of New South Wales|99(4)|p181-196
+32155|McLean, R.A.|1976|Aspects of the Silurian rugose coral fauna of the Yass region, New South Wales.|Proceedings of the Linnean Society of New South Wales|100(3)|p179-194
+32332|Moss, A.J., Walker, A.J., Hutka, J.|1973|Fragmentation of granitic quartz in water.|Sedimentology|20|p489-511
+32376|Nance, W.B., Taylor, S.R.|1976|Rare earth element patterns and crustal evolution - 1.Australian post-Archean sedimentary rocks.|Geochimica et Cosmochimica Acta|40(12)|p1539-1551
+32483|Offenberg, A.C.|1974|Goulburn, New South Wales, 1:250 000 geological series explanatory notes. Sheet SI/55-12.|Geological Survey of New South Wales|1v|
+32585|Pedder, A.E.H., Philip, G.M., Jackson, J.H.|1970|Lower Devonian biostratigraphy in the Wee Jasper region of New South Wales.|Journal of Paleontology|44(2)|p206-251
+32624|Pickett, J.W., Jell, J.S.|1974|The Australian tabulate coral genus Hattenia.|Palaeontology|17(3)|p715-726
+32671|Pogson, D.J.|1972|Geological map of New South Wales, scale 1:1 000 000.|Geological Survey of New South Wales|1v|
+32672|Pogson, D.J.|1975|The Tasman Mobile Zone in New South Wales - geology and tectonic history. IN Knight C.L.(ed) - Economic geology of Australia and Papua New Guinea - 1. Metals.|AusIMM. Monograph Series|5|p667-676
+32675|Baker, C.J., Pogson, D.J.|1974|Revised stratigraphic nomenclature for the Yass 1:100 000 sheet.|Geological Survey of New South Wales. Quarterly Notes|16|p7-9
+32820|Richardson, S.J.|1975|A summary of the geology of the Michelago.|Geological Survey of New South Wales. Quarterly Notes|21|p1-7
+32822|Richardson, S.J., Sherwin, L.|1975|Early Silurian graptolites near Bredbo.|Geological Survey of New South Wales. Quarterly Notes|21|p17-19
+32858|Roberts, F.I.|1976|The mineralization of the Kangiara Mine, NSW.|AusIMM. Proceedings|258|p31-39
+32905|Roddick, J.C., Compston, W.|1976|Radiometric evidence for the age of emplacement and cooling of the Murrumbidgee Batholith.|Geological Society of Australia. Journal|23(3)|p223-233
+32906|Roddick, J.C., Compston, W.|1977|Strontium isotopic equilibration: a solution to a paradox.|Earth and Planetary Science Letters|34(2)|p238-246
+32999|Scheibner, E.|1973|Explanatory notes on the geology of the Taralga 1:100 000, sheet 8929.|Geological Survey of New South Wales|1v|79p+plates
+33004|Scheibner, E.|1976|Explanatory notes on the tectonic map of New South Wales.|Geological Survey of New South Wales|1v|
+33006|Scheibner, E., Stevens, B.P.J.|1972|Bathurst, New South Wales, tectonic map 1:250 000 scale. 1st edition. (Attached to Bathurst metallogenic study and data sheets.)|Geological Survey of New South Wales|1v|
+33116|Sherwin, L.|1971|Stratigraphy of the Cheesemans Creek district, New South Wales.|Geological Survey of New South Wales, Records|13(4)|p199-237
+33121|Sherwin, L.|1973|Stratigraphy of the Forbes-Bogan Gate district.|Geological Survey of New South Wales, Records|15(1)|p47-101
+33125|Sherwin, L.|1975|Glaciation and the Benambran Orogeny.|Geological Survey of New South Wales. Quarterly Notes|18|p13-18
+33282|Stevens, B.|1972|Bathurst, New South Wales, 1:250 000 metallogenic series map. Sheet SI 55-08, 1st edition.|Geological Survey of New South Wales|1v|
+33285|Stevens, B.P.J.|1975|A metallogenic study of the Bathurst 1:250 000 sheet. Sheet SI 55-08.|Geological Survey of New South Wales|1v|
+33325|Strusz, D.L.|1971|Canberra, New South Wales, 1:250 000 geological series explanatory notes. Sheet SI/55-16.|Bureau of Mineral Resources, Australia|1v|
+33326|Strusz, D.L.|1972|Correlation of the Lower Devonian rocks of Australasia.|Geological Society of Australia. Journal|18(4)|p427-455
+33327|Strusz, D.L., Chatterton, B.D., Flood, P.G.|1970|Revision of the New South Wales Devonian brachiopod "Spirifer Yassensis".|Proceedings of the Linnean Society of New South Wales|95(2)|170-190
+33328|Strusz, D.L., Henderson, G.A.M.|1971|Canberra City, Australian Capital Territory, 1:50 000 geological series explanatory notes.|Bureau of Mineral Resources, Australia|1v|
+33481|Thomson, K.S., Campbell, K.S.W.|1971|The structure and relationships of the primitive Devonian lungfish Dipnorhynchus sussmilchi (Etheridge).|Yale University. Peabody Museum. Natural History. Bulletin|38|
+33606|VandenBerg, A.H.M.|1976|Eastern Victoria. IN Douglas J.G., Ferguson J.A.(eds) - Geology of Victoria.|Geological Society of Australia. Special Publication|5|p62-70
+33611|Vandyke, A., Byrnes, J.G.|1976|Palaeozoic succession beneath the Narragal Limestone, Oakdale Anticline near Mumbil.|Geological Survey of New South Wales, Records|17(2)|p123-134
+33732|Webby, B.D.|1972|Devonian geological history of the Lachlan Geosyncline.|Geological Society of Australia. Journal|19(1)|p99-123
+33735|Webby, B.D.|1974|Upper Ordovician trilobites from central New South Wales.|Palaeontology|17(2)|p203-252
+33959|Wyborn, D.|1977|Discussion - The Jindabyne Thrust and its tectonic, physiographic and petrographic significance.|Geological Society of Australia. Journal|24(4)|p233-236
+34059|Brunker, R.L., Rose, G.|1969|Sydney Basin, New South Wales, 1:500 000 geological sheet. Special edition.|Geological Survey of New South Wales|1v|
+34287|Laseron, C.|1969|Ancient Australia. (Revised by R.O.Brunnschweiler).|Angus and Robertson|1v|
+34396|Packham, G.H.|1969|Permian System. IN Packham G.H.(ed) - The geology of New South Wales.|Geological Society of Australia. Journal|16(1)|p179-180
+34403|Packham, G.H., Carter, E.K., Hall, L.R., Moye, D.G., Sharp, K.R., Stapledon, D.H., Wright, A.J.|1969|Lower and Middle Devonian series. IN Packham G.H.(ed) - The geology of New South Wales.|Geological Society of Australia. Journal|16(1)|p129-150
+34404|Packham, G.H., Carter, E.K., Hopwood, T.P., Moye, G.D., Relph, R.E., Sharp, K.R., Stapledon, D.H.|1969|Ordovician system. IN Packham G.H.(ed) - The geology of New South Wales.|Geological Society of Australia. Journal|16(1)|p76-103
+34405|Packham, G.H., Carter, E.K., Moye, D.G., Sharp, K.R., Stapledon, D.H.|1969|Silurian system. IN Packham G.H.(ed) - The geology of New South Wales.|Geological Society of Australia. Journal|16(1)|p104-128
+34406|Packham, G.H., Conolly, J.R.|1969|Tectonics and sedimentation. IN Packham G.H.(ed) - The geology of New South Wales.|Geological Society of Australia. Journal|16(1)|p216-226
+34491|Sherwin, L.|1969|Silurian conularids from New South Wales.|Geological Survey of New South Wales, Records|11(1)|p35-41
+34544|Vallance, T.G.|1969|Plutonic and metamorphic rocks. IN Packham G.H.(ed) - The geology of New South Wales.|Geological Society of Australia. Journal|16(1)|p180-200
+34692|Langley, W.V.|1976|Limestone - New South Wales in Knight C.L.(ed) - Economic geology of Australia and Papua New Guinea - 4. Industrial minerals and rocks.|AusIMM. Monograph Series|8|p181-189
+35070|Basden, H., Adrian, J., Clift, D.S.L., Winchester, R.E.|1978|Geology of the Cootamundra 1:100 000 sheet 8528.|Geological Survey of New South Wales|1v|
+35109|White, A.J.R., Williams, I.S., Chappell, B.W.|1977|Geology of the Berridale 1:100 000 sheet 8625.|Geological Survey of New South Wales|1v|
+35110|Briscoe, G., Furstner, J.M.M., Henderson, G.A.M., Jacobson, G., Kellett, J.R., Lang, P.A., Purcell, D.C., Strusz, D.L., Vanden Broek, P.H.|1976|Environmental and engineering geology of the Canberra area.|25th International Geological Congress. Excursion Guide|12B|
+35118|Webby, B.D.|1976|The Ordovician System in SE Australia in Bassett M.G.(ed) - The Ordovican System. Proceedings of a palaeontological association symposium, Birmingham, September 1974.|University of Wales Press & National Museum of Wales, Cardiff|1v|p417-446
+35137|Hall, R.L.|1978|A Silurian (Upper Llandovery) coral fauna from the Woolomin Beds near Attunga, New South Wales|Proceedings of the Linnean Society of New South Wales|102(3)|p85-108
+35206|Geological Survey of New South Wales.|1975|Cootamundra, New South Wales, 1:100 000 geological series map. Sheet 8528, 1st edition.|Geological Survey of New South Wales|1v|
+35244|Pickett, J.|1978|Silurian conodonts from Blowclear and Liscombe Pools, New South Wales.|Royal Society of New South Wales. Journal and Proceedings|111(1/2)|p35-39
+35246|Powell, C.McA., Edgecombe, D.R.|1978|Mid-Devonian movements in the northeastern Lachlan Fold Belt.|Geological Society of Australia. Journal|25(3)|p165-184
+35258|Jenkins, C.J.|1978|Llandovery and Wenlock stratigraphy of the Panuara area, central New South Wales.|Proceedings of the Linnean Society of New South Wales|102(3)|p109-130
+35325|Owen, M.|1978|Discussion: Geochemical comparison of Woodlawn and Mount Painter acid volcanics, southeastern Australia.|Geological Society of Australia. Journal|25(8)|p483-484
+35326|Gulson, B.L., Rankin, P.C.|1978|Reply: Painter acid volcanics, southeastern Australia. Geochemical comparison of Woodlawn and Mount Painter Acid Volcanics, southeastern Australia.|Geological Society of Australia. Journal|25(8)|p484-485
+35384|Cramsie, J.N., Pogson, D.J., Baker, C.J., Fryer, J.S.|1975|Yass, New South Wales, 1:100 000 geological series map. Sheet 8628, 1st edition.|Geological Survey of New South Wales|1v|
+35386|Cramsie, J.N., Pogson, D.J., Baker, C.J.|1978|Geology of the Yass 1:100 000 sheet 8628.|Geological Survey of New South Wales|1v|
+35412|Ramsden, A.R., Ryall, W.R.|1979|The Lachlan Fold Belt: Contributions to mineral exploration.|CSIRO. Institute Earth Resources. Div.Mineralogy. Investigation Report|128|
+35501|Birkhead, P.K.|1978|Some stromatoporoids from the Bowspring Limestone Member (Ludlovian) and Elmside Formation (Gedinnian), Yass area, New South Wales.|Geological Survey of New South Wales, Records|18(2)|p155-168
+35503|Strat. Nomenclature Subcommittee, NSW.|1978|Stratigraphic nomenclature supplement.|Geological Survey of New South Wales, Records|18(2)|p201-208
+35607|Fitzpatrick, K.R.|1979|Cootamundra, New South Wales, 1:250 000 metallogenic series map, Sheet SI 55-11: mine data sheets and metallogenic study.|Geological Survey of New South Wales|1v|
+35608|Fitzpatrick, K.R.|1976|Cootamundra, New South Wales, 1:250 000 metallogenic series map. Sheet SI 55-11, 1st edition.|Geological Survey of New South Wales|1v|
+35609|Fitzpatrick, K.R.|1979|A metallogenic study of the Cootamundra 1:250 000 sheet, SI/55-11|Geological Survey of New South Wales|1v|
+35614|Townley, K.A., Veevers, J.J., Strusz, D.L.|1974|Rocks and fossils around Canberra. (Revised by D.L. Strusz).|Bureau of Mineral Resources, Australia|1|
+35660|Ayres, D.E.|1979|The mineralogy and chemical composition of the Woodlawn massive sulphide orebody.|Geological Society of Australia. Journal|26(3)|p155-168
+35662|Gilligan, L.B., Felton, E.A., Olgers, F.|1979|The regional setting of the Woodlawn deposit.|Geological Society of Australia. Journal|26(3)|p135-140
+36411|Strat. Nomenclature Subcommittee, NSW.|1980|Stratigraphic nomenclature supplement for 1978.|Geological Survey of New South Wales, Records|19(2)|p267-272
+36413|Richardson, S.J.|1979|Geology of the Michelago 1:100 000 sheet 8726.|Geological Survey of New South Wales|1v|253pp
+36414|Richardson, S.J., West, J.L.|1977|Michelago, New South Wales, 1:100 000 geological series map. Sheet 8726, 1st edition.|Geological Survey of New South Wales|1v|
+36441|Owen, M., Wyborn, D., Blythe, P.|1979|Brindabella, New South Wales and Australian Capital Territory, 1:100 000 geological series map. Sheet 8627, 1st edition.|Bureau of Mineral Resources, Australia|1v|Map
+36443|Owen, M., Wyborn, D., Walton, D.G., Mifsud, J.M.|1979|Tantangara, New South Wales and Australian Capital Territory, 1:100 000 geological series map. Sheet 8626,1st edition.|Bureau of Mineral Resources, Australia|1v|map
+36633|Henderson, G.A.M., Matveev, G.|1980|Geology of Canberra, Queanbeyan, and Environs, 1:50 000 geological series map. 1st edition.|Bureau of Mineral Resources, Australia|1v|
+37013|Strusz, D.L.|1980|The Encrinuridae and related trilobite families, with a description of Silurian species from southeastern Australia.|Palaeontographica, Abteilung A|A 168|p1-68
+37141|NCDC, Australia.|1976|District plan for Florey neighbourhood Belconnen.|National Capital Development Commission, Australia. Technical Paper|15|p7-13
+37251|Jennings, J.N., Brush, J.B., Nicoll, R.S., Spate, A.P.|1976|Karst stream self-capture at London Bridge, Burra Creek, N.S.W.|Australian Geographer|13|p238-249
+37270|Jones, B.G., Carr, P.F., Wright, A.J.|1981|Silurian and Early Devonian geochronology - A reappraisal, with new evidence from the Bungonia Limestone.|Alcheringa|5(3)|p197-207
+37348|Brown, M.C., Ollier, C.D.|1975|Geology and scenery of Canberra.|Australian Geographer|13|p97-103
+37501|Richards, J.R., Singleton, O.P.|1981|Palaeozoic Victoria, Australia: Igneous rocks, ages and their interpretation.|Geological Society of Australia. Journal|28(4)|p395-421
+37529|Basden, H.|1982|Preliminary report on the geology of the Tumut 1:100 000 sheet area, southern New South Wales.|Geological Survey of New South Wales. Quarterly Notes|46|p1-18
+37727|Talent, J.A., Berry, W.B.N., Boucot, A.J., Packham, G.H., Bischoff, G.C.O.|1975|Correlation of the Silurian rocks of Australia, New Zealand, and New Guinea.|Geological Society of America. Special Paper|150|
+37728|Henderson, G.A.M.|1981|Geology of Canberra, Queanbeyan, and environs. Notes to accompany the 1980 1:50 000 geological map.|Bureau of Mineral Resources, Australia|1v|
+37752|Strusz, D.L.|1982|Wenlock brachiopods from Canberra.|Alcheringa|6(2)|p105-142
+38035|Wyborn, D., Owen, M., Compston, W., McDougall, I.|1982|The Laidlaw Volcanics; a Late Silurian point on the geological time scale.|Earth and Planetary Science Letters|59(1)|p90-100
+38151|Bolger, P.F.|1982|Ordovician and Silurian stratigraphy and structure in the Wombat Creek-Benambra area, northeast Victoria.|Royal Society of Victoria. Proceedings|94(1)|p35-47
+38202|Roberts, F.I.|1982|Trace element chemistry of pyrite: a useful guide to the occurrence of sulfide base metal mineralization.|Journal of Geochemical Exploration|17(1)|p49-62
+38230|Bischoff, G.C.O., Fergusson, C.L.|1982|Conodont distributions, and ages of Silurian and Devonian limestones in the Palmers Oakey district, N.S.W.|Geological Society of Australia. Journal|29(3/4)|p469-476
+38251|Talsma, T., Hallam, P.M.|1982|Stream water quality of forest catchments in the Cotter Valley, ACT. IN O'Loughlin E.M. & Bren L.J.(Eds) - First National Symposium on Forest Hydrology Melb.11-13 May 1982.|Institution of Engineers, Australia. National Conference Publication|82/6|p50-59
+38378|Holloway, D.J., Neil, J.V.|1982|Trilobites from the Mount Ida Formation (Late Silurian - Early Devonian), Victoria.|Royal Society of Victoria. Proceedings|94(3)|p133-154
+38626|Compston, W., McDougall, I., Wyborn, D.|1982|Possible two-stage 87Sr evolution in the Stockdale Rhyolite.|Earth and Planetary Science Letters|61(2)|p297-302
+38664|Henderson, G.A.M., Strusz, D.L.|1982|Rocks and fossils around Canberra.|Australian Government Publishing Service, Canberra|1v|
+38691|Jenkins, C.J.|1982|Late Pridolian Graptolites from the Elmside Formation near Yass, New South Wales.|Proceedings of the Linnean Society of New South Wales|106(1&2)|p167-172
+38787|Garratt, M.J.|1983|Silurian to Early Devonian facies and biofacies patterns for the Melbourne Trough, central Victoria.|Geological Society of Australia. Journal|30(2)|p121-147
+39028|Wyborn, D., Owen, M., Green, D.|1983|Araluen, New South Wales, 1:100 000 geological series map. Sheet 8826, 1st edition.|Bureau of Mineral Resources, Australia|1v|
+39174|Chapman, B.M., Jones, D.R., Jung, R.F.|1983|Processes controlling metal ion attenuation in acid mine drainage streams.|Geochimica et Cosmochimica Acta|47(11)|1957-1973
+39214|Pogson, D.J., Scheibner, E.|1976|Palaeozoic accretion of eastern Australia.|25th International Geological Congress. Excursion Guide|16A|
+39221|Bolger, P.F., Thorne, H.R., Wood, P.D., Cook, C.E., Rogerson, R.J.|1983|Palaeozoic geology of the Dartmouth Dam area, northeastern Victoria.|Royal Society of Victoria. Proceedings|95(4)|p259-271
+39331|Crook, K.A.W., Powell, C.McA.|1976|The evolution of the southeastern part of the Tasman Geosyncline.|25th International Geological Congress. Excursion Guide|17A|
+39409|Jennings, J.N.|1984|Further studies at the Blue Waterholes, Cooleman Plain. N.S.W., 1969-77, Part II. Water chemistry and discussion.|Helictite|21(2)|p35-54
+39507|Feary, D.A.|1984|The Boambolo Formation - a Silurian prograding fan-delta sequence in southeastern New South Wales, Australia.|Sedimentary Geology|39(3/4)|p169-195
+39626|Strat. Nomenclature Subcommittee, NSW.|1981|Stratigraphic nomenclature supplement for 1979.|Geological Survey of New South Wales, Records|20(2)|p275-277
+39721|Gray, C.M.|1984|An isotopic mixing model for the origin of granitic rocks in southeastern Australia.|Earth and Planetary Science Letters|70(1)|p47-60
+39800|Joplin, G.A., Noakes, L.C., Perry, W.J.|1953|Canberra, New South Wales, 4-mile geological series map. Sheet SI/55-16, 1st edition.|Bureau of Mineral Resources, Australia|1v|
+39947|Henderson, G.A.M.|1985|Central Canberra, Australian Capital Territory, 1:10 000 engineering geology series map. Sheet 208-600, 1st edition.|Bureau of Mineral Resources, Australia|1v|
+39975|Strusz, D.L.|1984|Brachiopods of the Yarralumla Formation (Ludlovian), Canberra, Australia.|Alcheringa|8(2)|p123-150
+40136|Webby, B.D., VandenBerg, A.H.M., Banks, M.R., Burrett, C.F., Cooper, R.A., Henderson, R.A., Laurie, J., Stait, B.|1981|Alphabetical list of rock units. IN Webby B.D.(ed) - The Ordovician system in Australia, New Zealand and Antarctica.|International Union of Geological Sciences. Publication|6|p14-46
+40276|Wyborn, D., Owen, M.|1986|Araluen, New South Wales, 1:100 000 geological map commentary.|Bureau of Mineral Resources, Australia|1v|
+40328|Pickett, J.|1982|The Silurian System in New South Wales.|Geological Survey of New South Wales. Bulletin|29|
+40497|Degeling, P.R.|1977|Wagga Wagga, New South Wales, 1:250 000 metallogenic series map. Sheet SI 55-15 (plus parts of SI 55-14, SJ 55-02, SJ 55-03), 1st edition.|Geological Survey of New South Wales|1v|
+40498|Degeling, P.R.|1982|Mine data sheets and metallogenic study of the Wagga Wagga 1:250 000 metallogenic series map, Sheet SI 55-15.|Geological Survey of New South Wales|1v|
+40646|Powell, C.McA.|1976|Geology of the N.S.W. South Coast and adjacent Victoria with emphasis on the Pre-Permian structural history.|Geological Society of Australia. S.G.T.S.G. Field Guide|1|
+40689|Feary, D.A.|1986|Silurian carbonate and clastic facies of the Ravenswood Subgroup, New South Wales, Australia. IN 12th International Sedimentological Congress, 24-30 Aug. 1986, Canberra, Australia. Field Excursion 2C.|Bureau of Mineral Resources, Australia|1v|
+40738|Wyborn, D., Chappell, B.W.|1986|The petrogenetic significance of chemically related plutonic and volcanic rock units.|Geological Magazine|123(6)|p619-628
+40882|Wyborn, D., Turner, B.S., Chappell, B.W.|1987|The Boggy Plain Supersuite: A distinctive belt of I-type igneous rocks of potential economic significance in the Lachlan Fold Belt.|Australian Journal of Earth Sciences|34(1)|p21-43
+41133|Chappell, B.W., White, A.J.R., Wyborn, D.|1987|The importance of residual source material (Restite) in granite petrogenesis.|Journal of Petrology|28(6)|p1111-1138
+41140|McKay, W.J., Hazeldene, R.K.|1987|Woodlawn Zn-Pb-Cu sulfide deposit, New South Wales, Australia: An interpretation of ore formation from field observations and metal zoning.|Economic Geology|82(1)|p141-164
+41260|Withnall, I.W., Lang, S.C., Jell, J.S., McLennan, T.P.T., Talent, J.A., Mawson, R., Fleming, P.J.G., Law, S.R., Macansh, J.D., Savory, P., Kay, J.R., Draper, J.J.|1988|Stratigraphy, sedimentology, biostratigraphy and tectonics of the Ordovician to Carboniferous, Broken River Province, north Queensland.|Australasian Sedimentologists Group. Field Guide Series|5|
+41356|Owen, M., Senior, D., Owen, J., Hodgson, J.|1988|Geological monuments in the Australian Capital Territory.|Australian Heritage Commission|1v|
+41563|Chappell, B.W., White, A.J.R., Hine, R.|1988|Granite provinces and basement terranes in the Lachlan Fold Belt, southeastern Australia.|Australian Journal of Earth Sciences|35(4)|p505-521
+41898|Chen, Y.D., Price, R.C., White, A.J.R.|1989|Inclusions in three S-type granites from southeastern Austra lia.|Journal of Petrology|30(5)|p1181-1218
+41905|White, A.J.R., Chappell, B.W.|1989|Geology of the Numbla 1:100 000 sheet 8624.|Geological Survey of New South Wales|1v|
+41933|White, A.J.R., Chappell, B.W., Williams, I.S., Glen, R.A.|1989|Numbla, New South Wales, 1:100 000 geological series. Sheet 8624 (Edition 1).|Geological Survey of New South Wales|1v|Map
+42029|Sun, X.|1990|Proetacean Trilobites from the Ludlow of the Yass Basin, New South Wales (Australia).|Geobios|23(1)|p95-103
+42033|Garratt, M.J., Wright, A.J.|1988|Late Silurian to Early Devonian biostratigraphy of southeastern Australia. IN McMillan N.J., Embry A.F., Glass D.J. (Eds.) - Devonian of the World. Vol. 3.|Canadian Society of Petroleum Geologists, Memoir|14(3)|p647-p662
+42177|McKay, W.J., Davies, R.H.|1990|Woodlawn - a synthesis of exploration and structural geology. IN Glasson K.R., Rattigan J.H. (eds.) - Geological aspects of the discovery of some important mineral deposits in Australia.|AusIMM. Monograph Series|17|p211-218
+42294|Glen, R.A., Stewart, I., VandenBerg, A.H.M.|1990|Imbrication of a Reference Section: Re-evaluation of the Adaminaby Beds at El Paso, Dalgety, New South Wales.|Royal Society of New South Wales. Journal and Proceedings|123(1/2)|p15-26
+42313|Basden, H.|1990|Geology of the Tumut 1:100 000 sheet 8527.|Geological Survey of New South Wales. 1:100,000 geological sheet series|Tumut|275pp
+42421|Johnston, P.A.|1991|Systematics and ontogeny of a new bivalve, Umburra cinefacta, from the Silurian of Australia: implications for pteriomorphian evolution.|Alcheringa|15(4)|p293-319
+42497|Duff, B.A., Ward, P., Crook, K.A.W., Rickard, M.J.|1985|Tasman Orogen Profile 5 - Wagga Wagga-Batemans Bay, New South Wales.|Geological Survey of New South Wales|1v|Map
+42726|Chappell, B.W., English, P.M., King, P.L., White, A.J.R., Wyborn, D.|1991|Granites and related rocks of the Lachlan Fold Belt (1:1 250 000 scale map).|Bureau of Mineral Resources, Australia|1v|map
+42727|Abell, R.S.|1992|Canberra 1:100 000 scale geological map sheet 8727. 1st edition.|Bureau of Mineral Resources, Australia|1v|map
+42820|Abell, R.S.|1991|Geology of the Canberra 1:100 000 Sheet area, New South Wales and Australian Capital Territory|Bureau of Mineral Resources, Australia. Bulletin|233|116p
+42827|Douglas, J.G., Ferguson, J.A.|1988|Geology of Victoria.|Geological Society of Australia. Victorian Division|1v|668p
+42994|Strusz, D.L.|1990|Catalogue of Type, Figured and Cited specimens in the Commonwealth Palaeontological Collection -- BRACHIOPODA.|Bureau of Mineral Resources, Australia, Report|298|289pp
+43127|Glen, R.A., Watkins, J.J.|1994|The Orange 1:100 000 sheet: A Preliminary account of Stratigraphy, Structure and Tectonics, and implications for Mineralisation.|Geological Survey of New South Wales. Quarterly Notes|95|p1-17
+43147|Chappell, B.W.|1994|Lachlan and New England:Fold Belts of Contrasting Magmatic and Tectonic Development|Royal Society of New South Wales. Journal and Proceedings|127 (1-2)|47 - 59
+43158|Chappell, B.W., White, A.J.R., Wyborn, D.|1993|IAVCEI Canberra 1993 - Excursion Guide - The Cowra Granodiorite and its Enclaves|Australian Geological Survey Organisation. Record|1993/67|28p
+43159|Wyborn, D.|1993|Palaeozoic Felsic Volcanism in the Canberra District|Australian Geological Survey Organisation. Record|1993/68|13p
+43206|Orth, K., VandenBerg, A.H.M., King, R.L., Nott, R.J., Tickell, S.J.|1993|Murrindal 1:100 000 geological map.  Edition 1|Geological Survey of Victoria. Report|1v|Map
+43233|Lewis, P.C., Glen, R.A.|1995|Bega-Mallacoota 1:250 000 geological sheet SJ55-4, 8.|Geological Survey of New South Wales|1v|map
+43344|Branagan, D.F., McElroy, C.T., Packham, G.H.|1967|Field geology of New South Wales|Science Press||191
+43383|Brunker, R.L., Offenberg, A.C., Rose, G.|1967|Explanatory Notes 1:3 000 000 geological map of New South Wales.|Geological Survey of New South Wales||32
+43384|Geological Survey of New South Wales.|1962|Geological map of New South Wales. 1:1 000 000|Geological Survey of New South Wales||
+43385|Voisey, A.H.|1958|Clarke Memorial Lecture. Further remarks on the sedimentary formations of New South Wales|Royal Society of New South Wales. Journal and Proceedings|91(4)|165-188
+43461|Hill, D.|1967|Devonian of Eastern Australia, In Oswald, D.H., ed.|International Symposium on the Devonian System|1,Calgary|p613,630
+43472|Stauffer, M.R., Rickard, M.J.|1966|The establishment of recumbent folds in the lower Palaeozoic near Queanbeyan, N.S.W.|Geological Society of Australia. Journal|13(2)|p419-438
+43473|Stauffer, M.R.|1967|Tectonic strain in some volcanic sedimentary and intrusive rocks near Canberra, Australia: a comparitive study of deformation fabrics.|New Zealand Journal of Geology and Geophysics|10(4)|1079-1108
+43479|Brown, D.A., Campbell, K.S.W., Crook, K.A.W.|1968|The geological evolution of Australia and New Zealand.|Pergamon Press|oxford|409pp
+43481|Lewis, G.B., Abell, R.S.|1994|Geology of Canberra Field Trip Guide|AGSO Field Trip Guide|1|16
+43494|Henderson, G.A.M.|1996|Notes on the geology of three areas in the Dubbo 1:250 000 Sheet area, N.S.W.|Australian Geological Survey Organisation. Record|1996/47|32p + Appendix (11p) and Figures (6)
+43515|Packham, G.H.|1966|Bathurst, N.S.W. sheet SI55-8 1:250 000 geological series. Provisional Edition|Geological Survey of New South Wales||
+43516|Packham, G.H.|1968|Bathurst SI55-8 First Edition 1:250 000 geological map|Geological Survey of New South Wales||
+43517|Packham, G.H.|1968|The Lower Middle Palaeozoic stratigraphy and sedimentary tectonics of the Sofala - Hill End - Eucharoona region, N.S.W.|Proceedings of the Linnean Society of New South Wales|93(1)|111-163
+43525|Strusz, D.L.|1967|Lower and Middle Devonian of the Molong geanticline, New South Wales. Australia. IN Oswald,D.H.,ed.|International Symposium on the Devonian System|Calgary Vol II|p123-133
+43527|Strusz, D.L.|1965|Disphyllidae and Phacellophyllidae from the Devonian Garra Formation of New South Wales|Palaeontology|8(3)|p518 et seq
+43532|Pedder, A.E.H.|1965|A revision of the Australian Devonian corals previously referred to Mictophyllum.|Royal Society of Victoria. Proceedings|78|201-220
+43575|Durney, D.W., Kisch, H.J.|1993|A field classification and intensity scale for first-generation cleavages|AGSO Journal of Australian Geology and Geophysics|15(3)|p257-295
+43640|Krynen, J.P., Morgan, E.J., Raymond, O.L., Scott, M.M., Warren, A.Y.E.|1997|Molong, First Edition (1:100 000 geological map 8631)|New South Wales. Department of Mineral Resources/Australian Geological Survey Organisation||Map Legend
+43642|Krynen, J.P., Moffitt, R.S.|1997|Cowra, NSW, First Edition (1:100 000 geological map 8630)|New South Wales. Department of Mineral Resources/Australian Geological Survey Organisation||Map Legend
+43654|Wyborn, D., Henderson, G.A.M.|1997|Blayney, First Edition (1:100 000 geological map 8730)|Australian Geological Survey Organisation and Geological Survey of New South Wales|1v|Map Legend
+43682|Pillans, B., Bourman, R.|1996|The Brunhes/Matuyama polarity transition (0.78 Ma) as a chronostratigraphic marker in Australian regolith studies.|AGSO Journal of Australian Geology and Geophysics|16(3)|p289-294
+43782|Raymond, O.L., Pogson, D.J., Wyborn, D., Hawley, S.P., Henderson, G.A.M., Krynen, J., Meakin, S., Moffitt, R.S., Morgan, E.J., Scott, M.M., Spackman, J.M., Stuart-Smith, P., Wallace, D., Warren, A.Y.E., Watkins, J.J., Glen, R.A.|1997|Bathurst Geology Map, 2nd Edition (1:250 000 geological map SI/55-8)|Australian Geological Survey Organisation and Geological Survey of New South Wales|1v|Map
+43795|Acworth, I., Jankowski, J.|1993|The hydrogeochemistry of groundwater in fractured bedrock acquifers beneath dryland salinity occurrences at Yass, NSW.|AGSO Journal of Australian Geology and Geophysics|14(2/3)|p279-285
+43834|Jones, J.A., Carr, P.F., Fergusson, C.L., McDougall, I.|1995|Silurian volcanism in the Wollondilly Basin, eastern Lachlan Fold Belt, New South Wales.|Australian Journal of Earth Sciences|42(1)|p25-34
+44092|Wyborn, D., Owen, M., Wyborn, L.|1990|Geology of the Kosciusko National Park (1:250 000 scale map)|Bureau of Mineral Resources, Australia|1v|map
+44093|Scheibner, E., Basden, H. (ed.)|1996|Geology of New South Wales - Synthesis. Volume 1 Structural Framework.|Geological Survey of New South Wales. Memoir (Geology)|13(1)|295pp
+44192|Warren, A.Y.E., Gilligan, L.B., Raphael, N.M.|1996|Cootamundra 1:250 000 geological series sheet SI55-11. Second Edition.|Geological Survey of New South Wales|1v|Map
+44852|Sprigg, R.C.|1967|A short geological history of Australia.|APEA Journal|7(11)|p59-81
+44936|Bacchin, M., Duggan, M., Glen, R., Gunn, P., Lawrie, K., Lyons, P., Mackey, T., Raphael, N., Raymond, O., Robson, D., Sherwin, L.|1999|Cootamundra, Interpreted Geology based on geophysics and previous geological mapping (1:250 000 scale map)|Australian Geological Survey Organisation and Geological Survey of New South Wales|1v|Map Legend
+44970|Opik, A.A.|1958|The geology of the Canberra City district.|Bureau of Mineral Resources, Australia. Bulletin|32|99pp
+45003|Joplin, G.A.|1963|Chemical analyses of Australian rocks. Pt I: Igneous and metamorphic rocks.|Bureau of Mineral Resources, Australia. Bulletin|65|p1-446
+45075|Link, A.G., Druce, E.C.|1972|Ludlovian and Gedinnian conodont stratigraphy of the Yass Basin, New South Wales.|Bureau of Mineral Resources, Australia. Bulletin|134|
+45078|Chatterton, B.D.E.|1973|Brachiopods of the Murrumbidgee Group, Taemas, New South Wales.|Bureau of Mineral Resources, Australia. Bulletin|137|1-146
+45147|Owen, M., Wyborn, D.|1979|Geology and geochemistry of the Tantangara and Brindabella 1:100 000 Sheet areas, New South Wales and Australian Capital Territory.|Bureau of Mineral Resources, Australia. Bulletin|204|
+46574|Barnes, R.G., Herzberger, G.A.|1975|Bega, New South Wales 1:250 000 metallogenic series map. Sheet SJ 55-04 and parts of SJ 55-08 and SJ 55-03 - First edition|Geological Survey of New South Wales|1v|Map
+46952|Nicoll, R.S.|1980|Middle Ordovician conodonts from the Pittman Formation, Canberra, ACT.|BMR Journal of Australian Geology and Geophysics|5(2)|p150-153
+47032|Strusz, D.L.|1982|On Australina Clarke - and its junior synonyms Lissatrypa, Lissatrypoidea, and Tyrothyris (Silurian-Devonian brachiopoda).|BMR Journal of Australian Geology and Geophysics|7(1)|p73-77
+47033|Strusz, D.L., Jenkins, C.J.|1982|The stratigraphic implications of Monograptus exiguus from Camp Hill, Canberra, ACT.|BMR Journal of Australian Geology and Geophysics|7(1)|p78-79
+47037|Strusz, D.L.|1984|Brachiopods from the Silurian of Fyshwick, Canberra, Australia.|BMR Journal of Australian Geology and Geophysics|9(2)|p107-19
+47060|Jacobson, G., Jankowski, J., Abell, R.S.|1991|Groundwater and surface water interaction at Lake George, New South Wales.|BMR Journal of Australian Geology and Geophysics|12(2)|p161-190
+48873|Sedmik, E.C.E.|1965|Captains Flat metalliferous geophysical survey, N.S.W. 1960.|Bureau of Mineral Resources, Australia, Report|96|
+48878|Oldershaw, W.|1965|Geological and geochemical survey of the Captains Flat area, New South Wales.|Bureau of Mineral Resources, Australia, Report|101|
+48894|Harding, R.R.|1969|Catalogue of age determinations on Australian rocks, 1962-65.|Bureau of Mineral Resources, Australia, Report|117|
+48926|Foldvary, G.Z., Sanderson, J.L.|1972|Catalogue of palaeontological type specimens located in the Department of Geology and Geophysics, University of Sydney.|Bureau of Mineral Resources, Australia, Report|149|
+48971|Jones, P.J., de Deckker, P.|1978|Check list of Ostracoda recorded from Australia and Papua New Guinea, 1845-1973.|Bureau of Mineral Resources, Australia, Report|195|
+49013|Strusz, D.L.|1982|Size distribution statistics, Wenlock brachiopods from Canberra, Australia.|Bureau of Mineral Resources, Australia, Report|237(MF183)|
+49043|Henderson, G.A.M.|1986|Commentary on the central Canberra 1:10 000 engineering geology sheet, Australian Capital Territory.|Bureau of Mineral Resources, Australia, Report|267|
+49690|Henderson, G.A.M.|1990|Late Silurian geology in the Michelago-Cooma area, A.C.T. and N.S.W., 1883-1985.|Bureau of Mineral Resources, Record|90/ 35|43pp
+49705|Chappell, B.W., White, A.J.R., Williams, I.S.|1990|Seventh International Conference on Geochronology, Cosmochronology and Isotope Geology. Excursion guide B-1 - Cooma granodiorite and Berridale batholith, 26 September, 1990.|Bureau of Mineral Resources, Record|90/ 50|53pp
+50095|Farrell, J.R.|2003|Late Pridoli, Lochkovian, and early Pragian conodonts from the Gap area between Larras Lee and Eurimbla, central western NSW, Australia IN Mawson, R.M. and Talent, J.A. (eds.) "Contributions to the Second Australian conodont Symposium (AUSCOS II) held in conjunction with Palaeontology Downunder-......"|Courier Forschungsinstitut Senckenberg|245|p107-181
+50098|Zhang, Jian-Hua, Barnes, C.R., Cooper, B.J.|2003|Early Late Ordovician conodonts from the Stokes Siltstone, Amadeus Basin, central Australia|Courier Forschungsinstitut Senckenberg|245|p1-37
+50124|Downes, P.M., Seccombe, P.K.|2004|Sulfur isotope distribution in Late Silurian volcanic-hosted massive sulfide deposits of the Hill End Trough, eastern Lachlan Fold Belt, New South Wales|Australian Journal of Earth Sciences|51(1)|p123-139
+50230|Colquhoun, G.P., Warren, A.Y.E., Cameron, R.G., Johnston, A.J., Pogson, D.J.|2003|Yass, New South Wales, 1:100 000 Geological Sheet 8628, First Edition - provisional edition|Geological Survey of New South Wales, Orange and Sydney|1v|Map
+50231|Johnston, A.J., Pogson, D.J., Thomas, O.D., Watkins, J.J., Glen, R.A.|2001|Boorowa, New South Wales, 1:100 000 Geological Sheet 8629, Provisional First Edition|Geological Survey of New South Wales, Orange|1v|Map
+50232|Thomas, O.D., Scott, M.M., Warren, A.Y.E., Sherwin, L.|2001|Gunning, New South Wales, 1:100 000 Geological Sheet 8728, Provisional First Edition|Geological Survey of New South Wales, Orange|1v|Map
+50233|Johnston, A.J., Scott, M.M., Watkins, J.J., Sherwin, L., Warren, A.Y.E., Pogson, D.J., Glen, R.A.|2000|Crookwell, New South Wales, 1:100 000 Geological Sheet 8729, Provisional 1st Edition|Geological Survey of New South Wales|1v|Map
+50590|Raymond, O.L., Warren, A.Y.E., Henderson, G.A.M.|1997|Dubbo, New South Wales, 1:100 000 Geological Sheet 8633, Preliminary First edition|New South Wales. Department of Mineral Resources/Australian Geological Survey Organisation|1v|Map
+50606|Wyborn, L.A.I.|1997|The Metallogenic Potential of Australian Proterozoic Granites: Broken Hill Block.|Australian Geological Survey Organisation (AGSO)|5|
+50628|Raymond, O., Wallace, D.A., Young, G.A., Krynen, J.|1999|Grenfell, New South Wales, 1:100 000 Sheet 8530 - Preliminary edition|Australian Geological Survey Organisation and Geological Survey of New South Wales|1v|Map
+60008|Raymond, O.L., Duggan, M.B., Glen, R.A., Leys, M., Lyons, P., Scott, M.M., Sherwin, L., Wallace, D.A.|1999|Forbes, New South Wales, Simplified Basement Geology, 1:250 000 Sheet SI55-7, Preliminary edition|Australian Geological Survey Organisation and Geological Survey of New South Wales|1v|Map
+60009|Raymond, O.L., Duggan, M.B., Lyons, P., Scott, M.M., Sherwin, L., Wallace, D.A., Krynen, J.P., Young, G.C., Wyborn, D., Glen, R.A., Percival, I.G., Leys, M.|2001|Forbes, New South Wales, 1:250 000 Geology Sheet SI55-7 - Second edition|Australian Geological Survey Organisation and Geological Survey of New South Wales|1v|Map
+60078|Owen, M., Wyborn, D., Wyborn, L.|1982|Kosciusko National Park and Environs, New South Wales, 1:250 000 Geological Special, Preliminary edition|Bureau of Mineral Resources, Geology and Geophysics|1v|Map
+60332|Farrell, J.R.|2004|Siluro-Devonian conodonts from the Camelford Limestone, Wellington, New South Wales, Australia|Palaeontology||
+60424|Agnew, M.W., Bull, S.W., Large, R.R.|2004|Facies architecture of the Lewis Ponds carbonate and volcanic-hosted massive sulfide deposits, central western New South Wales|Australian Journal of Earth Sciences|51(3)|p349-368
+61413|Johnson, S.E., Vernon, R.H., Hobbs, B.E.|1994|Deformation and metamorphism of the Cooma Complex, southeastern Australia|Geological Society of Australia. Specialist Group in Tectonics and Structural Geology. Field Guide.|4|89p
+61895|Williamson, P.L., Rickards, R.B.|2006|Eastonian (Upper Ordovician) Graptolites from Michelago, near Canberra|Proceedings of the Linnean Society of New South Wales|127|p133-156
+61910|Ackerman, B.R.|2005|Frogmore Copper Deposit, NSW IN Butt, C.R.M. et al (eds.) "Regolith expression of Australia ore systems: a compiliation of exploration case histories with conceptual dispersion, process and exploration models"|CRC LEME (Cooperative Research Centre for Landscape Environments and Mineral Exploration)|1v|p152-154
+62962|McLaren, S., Sandiford, M., Powell, R., Neumann, N., Woodhead, J.|2006|Palaeozoic Intraplate Crustal Anatexis in the Mount Painter Province, South Australia: Timing, Thermal Budgets and the Role of Crustal Heat Production|Journal of Petrology|47(12)|p2281-2302
+63083|Sandford, A.C., Holloway, D.J.|2006|Early Silurian phacopide trilobites from central Victoria, Australia|Memoirs of Museum Victoria|63(2)|p215-255
+63233|Jacobson, G., Schuett, A.W.|1984|Groundwater Seepage and the Water Balance of a Closed Freshwater, Coastal Dune Lake: Lake Windermere, Jervis Bay|Australian Journal of Freshwater Research|35|645-54
+63287|Simpson, C.J., Scott, R.J., Crawford, A.J., Meffre, S.|2007|Volcanology, geochemistry and structure of the Ordovician Cargo Volcanics in the Cargo-Walli region, central New South Wales|Australian Journal of Earth Sciences|54(2/3)|p315-352
+63290|Glen, R.A., Meffre, S., Scott, R.J.|2007|Benambran Orogeny in the Eastern Lachlan Orogen, Australia|Australian Journal of Earth Sciences|54(2/3)|p385-415
+63292|Cooke, D.R., Wilson, A.J., House, M.J., Wolfe, R.C., Walshe, J.L., Lickfold, V., Crawford, A.J.|2007|Alkalic porphyry Au-Cu and associated mineral deposits of the Ordovician to early Silurian Macquarie Arc, New South Wales|Australian Journal of Earth Sciences|54(2/3)|p445-463
+63594|Johanson, Z., Long, J.A., Talent, J.A., Janvier, P., Warren, J.W.|2007|New Onychodontiform (Osteichthyes; Sarcopterygii) from the Lower Devonian of Victoria, Australia|Journal of Palaeontology|81(5)|p1031-1043
+64238|Johnston, A.J., Scott, M.M., Thomas, O.D., Pogson, D.J., Warren, A.Y.E., Sherwin, L., Colquhoun, G.P., Watkins, J.J., Cameron, R.G., MacRae, G.P., Glen, R.A.|2008|GOULBURN 1:250 000 geological Sheet SI/55-12, Provisional Second Edition|Geological Survey of New South Wales|1v|Map
+64295|Percival, I.G., Zhen, Y.Y., Pogson, D.J., Thomas, O.D.|2008|The Upper Ordovician Kenyu Formation in the Boorowa District, southeastern New South Wales|Proceedings of the Linnean Society of New South Wales|129|p197-206
+64296|Wright, A.J.|2008|Emsian (Early Devonian) tetracorals (Cnidaria) from Grattai Creek, New South Wales|Proceedings of the Linnean Society of New South Wales|129|p83-96
+64571|Williams, I.S., Pulford, A.K.|2008|The contribution of geochronology to understanding the Paleozoic geological history of Australia|Australian Journal of Earth Sciences|55(6/7)|p821-848
+64826|Verard, C., Glen, R.A.|2008|Magnetic fabrics of Paleozoic rocks across the Lachlan Transverse Zone from eastern New South Wales|Australian Journal of Earth Sciences|55(8)|p1037-1048
+64992|Campbell, K.S.W., Barwick, R.E., Senden, T.J.|2009|Evolution of dipnoans (lungfish) in the Early Devonian of southeastern Australia|Alcheringa|33(1)|p59-78
+64994|Pogson, D.J.|2009|The Siluro-Devonian geological time scale: a critical review and interim revision|Geological Survey of New South Wales. Quarterly Notes|130|p1-13
+66087|Downes, P.M., Phillips, D.|2010|Contrasting age and isotope characteristics of volcanic-hosted and skarn-type mineralisation near The Glen, Goulburn, in the Lachlan Orogen, New South Wales|Geological Survey of New South Wales. Quarterly Notes|133|p1-18
+66197|Fergusson, C.L.|2010|Plate-driven extension and convergence along the East Gondwana active margin: Late Silurian-Middle Devonian tectonics of the Lachlan Fold Belt, southeastern Australia|Australian Journal of Earth Sciences|57(5)|pp627-649
+66300|Bodorkos, S., Simpson, C.J., Thomas, O.D., Trigg, S.J., Blevin, P.L., Campbell, L.M., Deyssing, L.J., Fitzherbert, J.A.|2010|New SHRIMP U-Pb zircon ages from the eastern Lachlan Orogen, New South Wales, July 2008 - June 2009|Geoscience Australia. Record|2010/31|100p
+66713|Downes, P.M., Lennox, P., Wood, S., Phillips, D., Dunlop, A.|2011|Phoenix: an Early Devonian granite-related tungsten deposit from the eastern Lachlan Orogen, New South Wales|Geological Survey of New South Wales. Quarterly Notes|No 135|pp1-15
+67125|De Deckker, P., Truswell, E.M.|2011|Lake George - Weereewa: The Ancient Story. CD ROM.|Australian National University. Research School Earth Sciences.||
+67322|Percival, I.G., Quinn, C.D., Glen, R.A.|2011|A review of Cambrian and Ordovician stratigraphy in New South Wales|Geological Survey of New South Wales. Quarterly Notes|137|1-39
+68003|Barnes, R., Dawson, M., Spiller, F.|2002|Geology - Integration and upgrade: NSW Western Regional Assessments: Brigalow Belt South Bioregion (Stage 2). A project undertaken for the Resource and Conservation Assessment Council; NSW Western regional assessments|Geological Survey of New South Wales|WRA / 19|157pp
+68115|Morand, V.J.|2011|Stratigraphic name changes in Eastern Victoria, Seamless Geology Project|Geological Survey of Victoria Technical Record|2011/1|12p
+69159|Fitzherbert, J.A., Thomas, O.D., Deyssing, L., Bewert-Vassallo, K.E., Simpson, C.J., Sherwin, L.|2011|Braidwood 1:100 000 Geological Sheet 8827 Second Edition|Geological Survey of New South Wales, Orange||map

@@ -1,0 +1,70 @@
+Stratno | Stratigraphic Name | Entity Number | Province Name 
+88|Acton Shale Member|556736|Lachlan Orogen
+76942|Barracks Creek Monzogranite|556736|Lachlan Orogen
+25781|Bendora Granodiorite|556736|Lachlan Orogen
+1776|Black Bog Shale|556736|Lachlan Orogen
+24186|Black Mountain Sandstone|556736|Lachlan Orogen
+2286|Booroomba Leucogranite|556736|Lachlan Orogen
+2885|Bullanamang Porphyry|556736|Lachlan Orogen
+2895|Bullenbalong Suite|556736|Lachlan Orogen
+24208|Camp Hill Sandstone Member|556736|Lachlan Orogen
+3447|Canberra Formation|556736|Lachlan Orogen
+3554|Cappanana Formation|556736|Lachlan Orogen
+3563|Captains Flat Formation|556736|Lachlan Orogen
+3716|Carwoola Formation|556736|Lachlan Orogen
+3824|Cavan Bluff Limestone|556736|Lachlan Orogen
+4128|Clear Range Granodiorite|556736|Lachlan Orogen
+31567|Clear Range Suite|556736|Lachlan Orogen
+4165|Cliftonwood Limestone Member|556736|Lachlan Orogen
+4334|Colinton Volcanics|556736|Lachlan Orogen
+4677|Copper Creek Shale|556736|Lachlan Orogen
+4813|Cowridge Siltstone|556736|Lachlan Orogen
+25874|Deakin Volcanics|556736|Lachlan Orogen
+5668|Douro Group|556736|Lachlan Orogen
+24274|Federal Golf Course Tonalite|556736|Lachlan Orogen
+31675|Federal Suite|556736|Lachlan Orogen
+6880|Foxlow beds|556736|Lachlan Orogen
+6942|Fyshwick Gravel|556736|Lachlan Orogen
+7262|Ginninderra Porphyry|556736|Lachlan Orogen
+7324|Glebe Farm Adamellite|556736|Lachlan Orogen
+7780|Greenwood Granite|556736|Lachlan Orogen
+7908|Gungoandra Siltstone|556736|Lachlan Orogen
+8145|Hattons Corner Group|556736|Lachlan Orogen
+8179|Hawkins Suite|556736|Lachlan Orogen
+8184|Hawkins Volcanics|556736|Lachlan Orogen
+8512|Hoskinstown Group|556736|Lachlan Orogen
+42279|Kohinoor Volcanics, Copper Creek Shale|556736|Lachlan Orogen
+10024|Laidlaw Volcanics|556736|Lachlan Orogen
+10511|Livingstone Porphyry|556736|Lachlan Orogen
+10619|Long Flat Volcanics|556736|Lachlan Orogen
+12438|Mount Ainslie Volcanics|556736|Lachlan Orogen
+24403|Mount Painter Volcanics|556736|Lachlan Orogen
+32033|Mountain Creek Suite|556736|Lachlan Orogen
+13264|Mountain Creek Volcanics|556736|Lachlan Orogen
+24407|Mugga Mugga Porphyry Member|556736|Lachlan Orogen
+13411|Mumbil Group|556736|Lachlan Orogen
+13443|Mundoonen Sandstone|556736|Lachlan Orogen
+13560|Murrumbateman Creek Formation|556736|Lachlan Orogen
+24420|Narrabundah Ashstone Member|556736|Lachlan Orogen
+14394|Nungar beds|556736|Lachlan Orogen
+26093|Paddys River Volcanics|556736|Lachlan Orogen
+15299|Pittman Formation|556736|Lachlan Orogen
+16472|Rutledge Quartzite Member|556736|Lachlan Orogen
+16491|Ryrie Formation|556736|Lachlan Orogen
+16803|Shannons Flat Granodiorite|556736|Lachlan Orogen
+31633|Shannons Flat Suite|556736|Lachlan Orogen
+16898|Silverdale Formation|556736|Lachlan Orogen
+17298|State Circle Shale|556736|Lachlan Orogen
+26154|Sutton Granodiorite|556736|Lachlan Orogen
+31639|Sutton Suite|556736|Lachlan Orogen
+17862|Tarpaulin Creek Ashstone Member|556736|Lachlan Orogen
+18032|Tharwa Adamellite|556736|Lachlan Orogen
+18134|Tidbinbilla Quartzite|556736|Lachlan Orogen
+18992|Uriarra Volcanics|556736|Lachlan Orogen
+19240|Walker Volcanics|556736|Lachlan Orogen
+19257|Wallace Shale|556736|Lachlan Orogen
+20085|Williamsdale Dacite Member|556736|Lachlan Orogen
+20516|Woodlawn Volcanics|40070|Woodlawn Base Metal Metallogenic Province
+20516|Woodlawn Volcanics|556736|Lachlan Orogen
+20879|Yarralumla Formation|556736|Lachlan Orogen
+20908|Yass Formation|556736|Lachlan Orogen

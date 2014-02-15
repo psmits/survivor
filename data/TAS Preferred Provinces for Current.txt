@@ -1,0 +1,201 @@
+Stratno | Stratigraphic Name | Entity Number | Province Name 
+204|Akaroa Granodiorite|556736|Lachlan Orogen
+472|Ansons Bay Granite|556736|Lachlan Orogen
+41025|Aroo Sequence|22295|Bass Basin
+647|Arthur Metamorphic Complex|20348|Thylacine Province
+830|Babel Island Granite|556736|Lachlan Orogen
+31557|Babel Island Suite|556736|Lachlan Orogen
+41024|Bass Megasequence|22295|Bass Basin
+1238|Bass Pyramid Granite|556736|Lachlan Orogen
+1453|Ben Lomond Granite|556736|Lachlan Orogen
+1522|Berriedale Limestone|20345|Tasmania Basin
+24717|Bicheno Granite|556736|Lachlan Orogen
+2011|Bluestone Bay Granite|556736|Lachlan Orogen
+2080|Bogan Gap Group|20345|Tasmania Basin
+2120|Bold Head Adamellite|556736|Lachlan Orogen
+23407|Boobyalla Granite|556736|Lachlan Orogen
+2528|Brewery Junction Formation|556736|Lachlan Orogen
+2985|Bundella Mudstone|20345|Tasmania Basin
+3260|Cabbage Tree Formation|39760|Beaconsfield Metallogenic Province
+3396|Cameron Inlet Formation|22295|Bass Basin
+3488|Cape Frankland Granite|556736|Lachlan Orogen
+23466|Cape Sir John Granodiorite|556736|Lachlan Orogen
+3802|Catos Creek Microgranodiorite|556736|Lachlan Orogen
+40842|Chalky Island Granodiorite|556736|Lachlan Orogen
+4059|Chudleigh Subgroup|556736|Lachlan Orogen
+26480|Clarke Island Granite|556736|Lachlan Orogen
+4170|Climie Formation|556736|Lachlan Orogen
+26485|Coles Bay Granite|556736|Lachlan Orogen
+4392|Comet Slate|556736|Lachlan Orogen
+26502|Craggy Island Granite|556736|Lachlan Orogen
+4898|Crimson Creek Formation|556736|Lachlan Orogen
+37271|Currie Group|556736|Lachlan Orogen
+30399|Curtin-Davis Volcanics|556736|Lachlan Orogen
+5092|Curtis Island Granite|556736|Lachlan Orogen
+5132|Dalcoath Formation|556736|Lachlan Orogen
+5225|Darling Range Granite|556736|Lachlan Orogen
+26514|Darlington Limestone|20345|Tasmania Basin
+5298|Deal Island Granite|556736|Lachlan Orogen
+31570|Deal Island Suite|556736|Lachlan Orogen
+27267|Deep Bay Formation|20345|Tasmania Basin
+36796|Demons Bluff Group|22295|Bass Basin
+36796|Demons Bluff Group|34874|Cape Wickham Sub-basin
+41026|Demons Bluff Sequence|22295|Bass Basin
+5370|Denison Group|556736|Lachlan Orogen
+5446|Dial Conglomerate|556736|Lachlan Orogen
+33463|Diddleum Granodiorite|556736|Lachlan Orogen
+33463|Diddleum Granodiorite|559492|Melbourne-Mathinna Zone
+26525|Dover River Granite|556736|Lachlan Orogen
+5700|Dreadnought Hill Member|556736|Lachlan Orogen
+26529|Dundas Group|40062|Rosebery Basemetal Metallogenic Province
+26529|Dundas Group|40063|Mount Lyell Copper-Gold Metallogenic Province
+26529|Dundas Group|556736|Lachlan Orogen
+41022|Durroon Megasequence|22295|Bass Basin
+33787|Eaglehawk Gully Formation|556736|Lachlan Orogen
+5924|Eastern View Formation|22295|Bass Basin
+5924|Eastern View Formation|34874|Cape Wickham Sub-basin
+69572|Eddystone Point Granite|556736|Lachlan Orogen
+69572|Eddystone Point Granite|559492|Melbourne-Mathinna Zone
+27768|Eldon Group|556736|Lachlan Orogen
+24975|Faulkner Group|20345|Tasmania Basin
+24975|Faulkner Group|559492|Melbourne-Mathinna Zone
+6602|Fernfields Formation|556736|Lachlan Orogen
+6606|Fernflow Formation|556736|Lachlan Orogen
+27773|Ferntree Mudstone|20345|Tasmania Basin
+27081|Florentine Valley Formation|556736|Lachlan Orogen
+35649|Flowery Gully Formation|556736|Lachlan Orogen
+6836|Forth Metamorphic Complex|556736|Lachlan Orogen
+6846|Fossil Bluff Sandstone|22295|Bass Basin
+28560|Franklin Sound Granite|556736|Lachlan Orogen
+6896|Freestone Cove Sandstone|22295|Bass Basin
+6910|Freycinet Granite|556736|Lachlan Orogen
+7005|Gardens Granodiorite|556736|Lachlan Orogen
+7129|George River Granodiorite|556736|Lachlan Orogen
+7129|George River Granodiorite|559492|Melbourne-Mathinna Zone
+40851|Gipps Creek Granite|556736|Lachlan Orogen
+7586|Gordon Group|556736|Lachlan Orogen
+7697|Grant Point Granite|556736|Lachlan Orogen
+7715|Grassy Granodiorite|556736|Lachlan Orogen
+69566|Haleys New Country Granite|556736|Lachlan Orogen
+75564|Heemskirk Red Granite|556736|Lachlan Orogen
+75563|Heemskirk White Granite|556736|Lachlan Orogen
+40854|Henbury Granite|556736|Lachlan Orogen
+40854|Henbury Granite|559492|Melbourne-Mathinna Zone
+8399|Hodge Formation|556736|Lachlan Orogen
+26616|Hogan Island Granite|556736|Lachlan Orogen
+8412|Hogans Hill Granite|556736|Lachlan Orogen
+40861|Hogarth Road Granite|556736|Lachlan Orogen
+8639|Ida Bay Limestone|556736|Lachlan Orogen
+25077|Inglis Siltstone|20345|Tasmania Basin
+73337|Johnston Creek Siltstone|556736|Lachlan Orogen
+9052|Judith Formation|556736|Lachlan Orogen
+9445|Kent Bay Granite|556736|Lachlan Orogen
+9446|Kentish Volcanics|556736|Lachlan Orogen
+69575|Key Bay Granite|556736|Lachlan Orogen
+9560|Killiecrankie Granite|556736|Lachlan Orogen
+33474|Lady Barron Granite|556736|Lachlan Orogen
+10484|Little Mount Horror Granite|556736|Lachlan Orogen
+69574|Long Point Granodiorite|556736|Lachlan Orogen
+69574|Long Point Granodiorite|559492|Melbourne-Mathinna Zone
+10627|Long Toms Nose Granite|556736|Lachlan Orogen
+24364|Lottah Granite|556736|Lachlan Orogen
+24364|Lottah Granite|559492|Melbourne-Mathinna Zone
+36133|Lucy Formation|20413|Rocky Cape Block
+10852|Lughrata Granite|556736|Lachlan Orogen
+11075|Malbina Formation|20345|Tasmania Basin
+11298|Maria Island Granite|556736|Lachlan Orogen
+33470|Martins Rise Granite|556736|Lachlan Orogen
+36812|Mathinna Supergroup|39760|Beaconsfield Metallogenic Province
+36812|Mathinna Supergroup|556736|Lachlan Orogen
+36812|Mathinna Supergroup|559492|Melbourne-Mathinna Zone
+11603|Medeas Cove Adamellite|556736|Lachlan Orogen
+11637|Memana Formation|22295|Bass Basin
+12003|Modder River Granite|556736|Lachlan Orogen
+12084|Moncoeur Island Granite|556736|Lachlan Orogen
+12567|Mount Cameron Granite|556736|Lachlan Orogen
+69571|Mount Chappell Island Granite|556736|Lachlan Orogen
+12869|Mount Kerford Granite|556736|Lachlan Orogen
+13008|Mount Paris Granite|556736|Lachlan Orogen
+13008|Mount Paris Granite|559492|Melbourne-Mathinna Zone
+26768|Mount Pearson Granite|556736|Lachlan Orogen
+13057|Mount Read Volcanics|40062|Rosebery Basemetal Metallogenic Province
+13057|Mount Read Volcanics|40063|Mount Lyell Copper-Gold Metallogenic Province
+13116|Mount Stronach Granite|556736|Lachlan Orogen
+33482|Mount William Alkali-Feldspar Granite|556736|Lachlan Orogen
+40879|Musselroe Adamellite|556736|Lachlan Orogen
+36132|Nancy Formation|20413|Rocky Cape Block
+13925|Nassau Formation|20345|Tasmania Basin
+26811|Northeast Island Granite|556736|Lachlan Orogen
+14603|Oonah Formation|20348|Thylacine Province
+14685|Otway Group|20367|Stawell Zone
+14685|Otway Group|22295|Bass Basin
+14685|Otway Group|34874|Cape Wickham Sub-basin
+41021|Otway Megasequence|22295|Bass Basin
+34165|Owen Group|556736|Lachlan Orogen
+14781|Palana Granite|556736|Lachlan Orogen
+36814|Panama Group|559492|Melbourne-Mathinna Zone
+14900|Parmeener Supergroup|559492|Melbourne-Mathinna Zone
+40882|Patriarchs Adamellite|556736|Lachlan Orogen
+26835|Pats River Granite|556736|Lachlan Orogen
+15136|Phi Kappa Formation|556523|Mount Isa Orogen
+33483|Piccaninny Creek Granodiorite|556736|Lachlan Orogen
+15348|Poatina Group|20345|Tasmania Basin
+15359|Poimena Granite|556736|Lachlan Orogen
+15359|Poimena Granite|559492|Melbourne-Mathinna Zone
+75567|Porcupine Creek Granodiorite|556736|Lachlan Orogen
+15549|Preolenna Coal Measures|20345|Tasmania Basin
+15582|Prime Seal Island Granite|556736|Lachlan Orogen
+15657|Puncheon Point Granite|556736|Lachlan Orogen
+15697|Pyengana Granodiorite|556736|Lachlan Orogen
+15950|Red Lead Conglomerate|556736|Lachlan Orogen
+15964|Red Rock Member|556736|Lachlan Orogen
+16022|Renison Bell Formation|556736|Lachlan Orogen
+27555|Rocky Cape Group|20348|Thylacine Province
+37488|Rocky Cape Group and correlates|20413|Rocky Cape Block
+28970|Rodondo Island Granite|556736|Lachlan Orogen
+16260|Roland Conglomerate|556736|Lachlan Orogen
+23945|Rooks River Granite|556736|Lachlan Orogen
+16409|Royal George Granite|556736|Lachlan Orogen
+16459|Russells Road Granite|556736|Lachlan Orogen
+33788|Salisbury Hill Formation|556736|Lachlan Orogen
+40956|Salmon River Siltstone|556736|Lachlan Orogen
+16657|Scamander Tier Granodiorite|556736|Lachlan Orogen
+26889|Schouten Island Granite|556736|Lachlan Orogen
+16686|Scott Quartz Keratophyre|556736|Lachlan Orogen
+25467|Sea Elephant Granite|556736|Lachlan Orogen
+16821|Sheoak Hill Granite|556736|Lachlan Orogen
+17136|Southwest Island Granite|556736|Lachlan Orogen
+73820|St Marys Porphyry|556736|Lachlan Orogen
+73820|St Marys Porphyry|559492|Melbourne-Mathinna Zone
+17341|Stitt Quartzite|556736|Lachlan Orogen
+26916|Strzelecki Granite|556736|Lachlan Orogen
+17488|Success Creek Group|556736|Lachlan Orogen
+17623|Table Cape Group|22295|Bass Basin
+17883|Tasmanian Dolerite|20345|Tasmania Basin
+18038|The Dutchman Granite|556736|Lachlan Orogen
+26937|The Hazards Granite|556736|Lachlan Orogen
+18067|Thompson Formation|556736|Lachlan Orogen
+18145|Tiger Range Group|556736|Lachlan Orogen
+28236|Tim Shea Sandstone|556736|Lachlan Orogen
+26945|Timbs Group|20413|Rocky Cape Block
+36813|Tippogoree Group|559492|Melbourne-Mathinna Zone
+23016|Togari Group|20348|Thylacine Province
+23016|Togari Group|556736|Lachlan Orogen
+18315|Tombstone Creek Granite|556736|Lachlan Orogen
+18441|Torquay Group|22295|Bass Basin
+18441|Torquay Group|34874|Cape Wickham Sub-basin
+41027|Torquay Sequence|22295|Bass Basin
+24047|Truro Tillite|20345|Tasmania Basin
+18654|Tulendeena Granite|556736|Lachlan Orogen
+39202|Turritella bed|22295|Bass Basin
+18803|Ulverstone Metamorphics|556736|Lachlan Orogen
+24055|Unicorn Point granodiorite|556736|Lachlan Orogen
+33465|Upper Blessington Granodiorite|556736|Lachlan Orogen
+18944|Upper Parmeener Supergroup|20345|Tasmania Basin
+19802|Westcott Argillite|556736|Lachlan Orogen
+25620|White Spur Formation|556736|Lachlan Orogen
+20535|Woody Island Siltstone|20345|Tasmania Basin
+70300|Wybalenna Granodiorite|556736|Lachlan Orogen
+27023|Wynyard Tillite|20345|Tasmania Basin
+40988|turbidite sequence 40988|559492|Melbourne-Mathinna Zone
+40989|turbidite sequence 40989|559492|Melbourne-Mathinna Zone

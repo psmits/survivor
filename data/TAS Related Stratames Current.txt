@@ -1,0 +1,531 @@
+Related Stratno | Related unit name | Relation Type | Related Stratno | Stratigraphic Name |Contact Type | Comments  
+5105|Cygnet Coal Measures|overlies|23322|Abels Bay Formation|not specified|
+23798|Minnie Point Formation|underlies|23322|Abels Bay Formation|conformity|
+16114|Risdon Sandstone|underlies|23322|Abels Bay Formation|conformity|
+27555|Rocky Cape Group|underlies|160|Ahrberg Group|unconformity|
+26887|Savage Dolomite|overlies|160|Ahrberg Group|conformity|
+30220|Que-Hellyer Volcanics|overlies|461|Animal Creek Greywacke|not specified|
+24293|Gomorrah Dolomite|overlies|24161|Annakananda Formation|conformity|
+24450|Pandani Group|underlies|24161|Annakananda Formation|unconformity|
+26529|Dundas Group|is equivalent to|39978|Archer Formation|unknown|possibly
+25112|Keel Quartzite|underlies|778|Austral Creek Siltstone|not specified|
+14685|Otway Group|overlies|839|Bacchus Marsh Formation|disconformity|
+15483|Port Sorell Formation|underlies|29232|Badger Head Group|not specified|
+10077|Lake Will Pebbly Siltstone|overlies|1115|Barn Bluff Conglomerate|not specified|
+5105|Cygnet Coal Measures|underlies|1128|Barnetts Member|not specified|
+6363|Eumeralla Formation|is interbedded with|77303|Barwon River Conglomerate||
+6363|Eumeralla Formation|overlies|77303|Barwon River Conglomerate||
+8618|Huxley Formation|underlies|23367|Baxter Formation (Tas)|not specified|
+6733|Flaxman Formation|underlies|1415|Belfast Mudstone|conformity|
+14374|Nullawarre Greensand|overlies|1415|Belfast Mudstone|not specified|
+14730|Paaratte Formation|overlies|1415|Belfast Mudstone|conformity|
+36812|Mathinna Supergroup|overlies|1453|Ben Lomond Granite|not specified|
+3738|Cashions Creek Limestone|underlies|1485|Benjamin Limestone|not specified|
+19830|Westfield Sandstone|overlies|1485|Benjamin Limestone|not specified|
+4834|Cradle Cirque Siltstone|underlies|1490|Benson Peak Sandstone|not specified|
+25606|Waterfall Valley Siltstone|overlies|1490|Benson Peak Sandstone|not specified|
+40070|Corinna Dolomite|overlies|1513|Bernafai Volcanics|not specified|
+26887|Savage Dolomite|underlies|1513|Bernafai Volcanics|conformity|
+27267|Deep Bay Formation|overlies|1522|Berriedale Limestone|not specified|
+11075|Malbina Formation|overlies|1522|Berriedale Limestone|not specified|
+13925|Nassau Formation|underlies|1522|Berriedale Limestone|not specified|
+7369|Glencoe Formation|underlies|27339|Billop Sandstone|conformity|
+24886|Cowrie Siltstone|underlies|1824|Black River Dolomite|unconformity|
+4898|Crimson Creek Formation|overlies|1824|Black River Dolomite|conformity|
+34163|Kanunnah Subgroup|overlies|1824|Black River Dolomite|not specified|
+7107|Gellibrand Marl|underlies|1832|Black Rock Sandstone||
+1115|Barn Bluff Conglomerate|overlies|2022|Bluff River Formation|not specified|
+5105|Cygnet Coal Measures|overlies|2080|Bogan Gap Group|not specified|
+7001|Garcia Sandstone|underlies|2080|Bogan Gap Group|conformity|
+15348|Poatina Group|underlies|2080|Bogan Gap Group|not specified|
+74594|Shower Droplet Volcanics|underlies|74596|Bold Head Volcanics|not specified|
+26514|Darlington Limestone|underlies|23412|Boullanger Formation||
+23975|Skipping Ridge Formation|overlies|23412|Boullanger Formation|conformity|
+74646|Yarra Creek Shale|is equivalent to|28396|Brachina Formation||
+26942|Tiers Formation|underlies|2474|Brady Formation|not specified|
+6602|Fernfields Formation|overlies|2528|Brewery Junction Formation|not specified|
+19858|Whalers Bluff Formation|underlies|2543|Bridgewater Formation|not specified|
+27267|Deep Bay Formation|overlies|2985|Bundella Mudstone|unconformity|
+29207|Hickman Formation|overlies|2985|Bundella Mudstone|not specified|
+20535|Woody Island Siltstone|underlies|2985|Bundella Mudstone|conformity|
+18067|Thompson Formation|overlies|40003|Calstock Formation|conformity|
+7107|Gellibrand Marl|underlies|21425|Camelback Member|not specified|
+11637|Memana Formation|overlies|3396|Cameron Inlet Formation|not specified|
+9290|Karmberg Limestone|underlies|3738|Cashions Creek Limestone|not specified|
+78543|Emmetts Creek Shale|overlies|78542|Cassiterite Creek Quartzite|conformity|
+78545|Skinners Flat Siltstone|underlies|78542|Cassiterite Creek Quartzite|conformity|abruptly
+6363|Eumeralla Formation|overlies|3744|Casterton Formation|not specified|
+26529|Dundas Group|overlies|3868|Central Volcanic Complex|not specified|
+30225|Mount Charter Group|overlies|3868|Central Volcanic Complex|not specified|
+18756|Tyndall Group|overlies|3868|Central Volcanic Complex|unconformity|
+25620|White Spur Formation|overlies|3868|Central Volcanic Complex|not specified|
+27768|Eldon Group|overlies|4059|Chudleigh Subgroup|not specified|
+11014|Magog Subgroup|underlies|4059|Chudleigh Subgroup|not specified|
+23917|Pontoon Hill Siltstone Member|overlies|23488|Churchill Sandstone Member|not specified|
+28236|Tim Shea Sandstone|underlies|23488|Churchill Sandstone Member|not specified|
+74594|Shower Droplet Volcanics|overlies|74595|City of Melbourne Volcanics|disconformity|
+74646|Yarra Creek Shale|underlies|74595|City of Melbourne Volcanics|conformity|
+13904|Narrawaturk Marl|underlies|4157|Clifton Formation|disconformity|
+7107|Gellibrand Marl|overlies|73495|Clifton Springs Tuff||
+6606|Fernflow Formation|underlies|4170|Climie Formation|conformity|
+11968|Misery Conglomerate|overlies|4170|Climie Formation|conformity|
+11778|Middle Arm Group|underlies|26482|Clog Tom Sandstone|not specified|
+27558|Ross Sandstone|underlies|4189|Cluan Formation|conformity|
+26942|Tiers Formation|overlies|4189|Cluan Formation|conformity|
+24587|Wurawina Supergroup|overlies|23491|Clytie Cove Group|not specified|
+14685|Otway Group|overlies|41194|Coleraine Volcanic Group|disconformity|
+6602|Fernfields Formation|underlies|4392|Comet Slate|not specified|
+6606|Fernflow Formation|overlies|4392|Comet Slate|not specified|
+13057|Mount Read Volcanics|underlies|4408|Comstock Formation|unconformity|
+29475|Zig Zag Hill Formation|overlies|4408|Comstock Formation|conformity|
+19858|Whalers Bluff Formation|underlies|4583|Coomandook Formation|not specified|
+6363|Eumeralla Formation|underlies|4665|Copa Formation|unconformity|
+1513|Bernafai Volcanics|underlies|40070|Corinna Dolomite|not specified|
+36134|Tunnelrace Volcanics|overlies|40070|Corinna Dolomite|not specified|
+73337|Johnston Creek Siltstone|overlies|37828|Corn Hill Formation|unconformity|
+74645|Cumberland Creek Dolostone|overlies|4781|Cottons Breccia|disconformity|
+27555|Rocky Cape Group|underlies|4781|Cottons Breccia|unconformity|
+23769|Marra Formation|overlies|23515|Counsel Creek Formation|conformity|
+23975|Skipping Ridge Formation|underlies|23515|Counsel Creek Formation|conformity|
+1824|Black River Dolomite|overlies|24886|Cowrie Siltstone|unconformity|
+28502|Detention Subgroup|overlies|24886|Cowrie Siltstone|not specified|
+6807|Forest Conglomerate|overlies|24886|Cowrie Siltstone|unconformity|
+8767|Irby Siltstone|overlies|24886|Cowrie Siltstone|not specified|
+1490|Benson Peak Sandstone|overlies|4834|Cradle Cirque Siltstone|not specified|
+10056|Lake Holmes Coal Measures|underlies|4834|Cradle Cirque Siltstone|not specified|
+6363|Eumeralla Formation|overlies|4874|Crayfish Subgroup|not specified|
+27784|Golden Valley Group|underlies|4877|Creekton Formation|not specified|
+15348|Poatina Group|overlies|4877|Creekton Formation|not specified|
+7994|Halls Formation|underlies|4882|Crescent Spur Sandstone|conformity|
+25622|Whyte River Complex|is faulted against|4882|Crescent Spur Sandstone||
+16022|Renison Bell Formation|underlies|4898|Crimson Creek Formation|conformity|
+17488|Success Creek Group|underlies|4898|Crimson Creek Formation|conformity|
+35367|Spinks Creek Volcanics|overlies|74641|Croles Hill Diamictite|not specified|
+4781|Cottons Breccia|underlies|74645|Cumberland Creek Dolostone|conformity|Forms cap carbonate
+74646|Yarra Creek Shale|overlies|74645|Cumberland Creek Dolostone|conformity|Transitional upwards
+11567|McLeod Creek Formation|overlies|5080|Currawong Quartzite|not specified|
+27227|Richea Siltstone|underlies|5080|Currawong Quartzite|not specified|
+23322|Abels Bay Formation|underlies|5105|Cygnet Coal Measures|not specified|
+1128|Barnetts Member|overlies|5105|Cygnet Coal Measures|not specified|
+2080|Bogan Gap Group|underlies|5105|Cygnet Coal Measures|not specified|
+27773|Ferntree Mudstone|underlies|5105|Cygnet Coal Measures|not specified|
+40045|Lewis Point Siltstone and Sandstone|overlies|35497|D'Entrecasteaux Formation|not specified|
+16635|Satellite Siltstone|underlies|35497|D'Entrecasteaux Formation|not specified|
+23412|Boullanger Formation|overlies|26514|Darlington Limestone|conformity|
+18756|Tyndall Group|overlies|5256|Darwin Granite|not specified|
+26529|Dundas Group|overlies|5271|Davey Group|unconformity|
+2985|Bundella Mudstone|underlies|27267|Deep Bay Formation|unconformity|
+23798|Minnie Point Formation|overlies|27267|Deep Bay Formation|conformity|
+7994|Halls Formation|overlies|5328|Deep Creek Volcanics|conformity|
+18441|Torquay Group|overlies|36796|Demons Bluff Group|disconformity|
+14696|Overflow Creek Formation|underlies|5367|Den Formation|not specified|
+14685|Otway Group|overlies|41196|Den Hills Formation|disconformity|
+26529|Dundas Group|underlies|5370|Denison Group|disconformity|
+7586|Gordon Group|overlies|5370|Denison Group|not specified|
+13057|Mount Read Volcanics|underlies|5370|Denison Group|not specified|partial
+34165|Owen Group|underlies|5370|Denison Group|unconformity|
+17232|Squirrel Creek Formation|overlies|5370|Denison Group||
+14685|Otway Group|overlies|27389|Dergholm Granite|nonconformity|
+24886|Cowrie Siltstone|underlies|28502|Detention Subgroup|not specified|
+8767|Irby Siltstone|overlies|28502|Detention Subgroup|not specified|
+24293|Gomorrah Dolomite|underlies|24243|Devils Eye Dolomite|conformity|
+24509|Styx Dolomite|overlies|24243|Devils Eye Dolomite|conformity|
+5924|Eastern View Formation|underlies|5489|Dilwyn Formation||
+11654|Mepunga Formation|overlies|5489|Dilwyn Formation|not specified|
+14185|Nirranda Group|overlies|5489|Dilwyn Formation|not specified|
+14994|Pebble Point Formation|underlies|5489|Dilwyn Formation|conformity|
+12032|Mole Creek Formation|overlies|25881|Dogs Head Formation|not specified|
+16632|Sassafras Creek Formation|underlies|25881|Dogs Head Formation|not specified|
+35500|Johnston Point Sandstone|underlies|40051|Dreamy Bay Tillitic Sandstone|not specified|
+19858|Whalers Bluff Formation|overlies|5752|Duddo Limestone|not specified|
+73064|Gnomon Mudstone|underlies|5800|Duncan Conglomerate|not specified|
+27837|Moina Sandstone|overlies|5800|Duncan Conglomerate|not specified|
+15788|Radfords Creek Group|overlies|5800|Duncan Conglomerate|not specified|
+3868|Central Volcanic Complex|underlies|26529|Dundas Group|not specified|
+4898|Crimson Creek Formation|underlies|26529|Dundas Group|not specified|
+5271|Davey Group|underlies|26529|Dundas Group|unconformity|
+5370|Denison Group|overlies|26529|Dundas Group|not specified|partial
+41021|Otway Megasequence|underlies|41022|Durroon Megasequence||
+7586|Gordon Group|underlies|27768|Eldon Group|disconformity|
+78542|Cassiterite Creek Quartzite|underlies|78543|Emmetts Creek Shale|conformity|abruptly
+78544|Looneys Flat Siltstone|overlies|78543|Emmetts Creek Shale|conformity|gradational
+16826|Sherbrook Group|overlies|6363|Eumeralla Formation|unconformity|
+19406|Wangerrip Group|underlies|6363|Eumeralla Formation||
+2985|Bundella Mudstone|underlies|24975|Faulkner Group|conformity|
+3730|Cascades Group|overlies|24975|Faulkner Group|conformity|
+27784|Golden Valley Group|underlies|24975|Faulkner Group|conformity|
+15903|Rayner Sandstone|overlies|24975|Faulkner Group||
+4392|Comet Slate|overlies|6602|Fernfields Formation|not specified|
+4170|Climie Formation|overlies|6606|Fernflow Formation|not specified|
+4392|Comet Slate|underlies|6606|Fernflow Formation|not specified|
+5105|Cygnet Coal Measures|overlies|6611|Ferntree Group|not specified|
+11075|Malbina Formation|underlies|6611|Ferntree Group|not specified|
+5105|Cygnet Coal Measures|overlies|27773|Ferntree Mudstone|not specified|
+16114|Risdon Sandstone|underlies|27773|Ferntree Mudstone|not specified|
+34211|Franklin Metamorphic Complex|underlies|73343|Fincham Metamorphic Complex|not specified|
+10966|Macrae Mudstone|underlies|6732|Flat-Top Formation|not specified|
+1415|Belfast Mudstone|overlies|6733|Flaxman Formation|conformity|
+1824|Black River Dolomite|overlies|6807|Forest Conglomerate|not specified|
+24886|Cowrie Siltstone|underlies|6807|Forest Conglomerate|unconformity|
+73343|Fincham Metamorphic Complex|overlies|34211|Franklin Metamorphic Complex|not specified|
+70245|Mary Metamorphic Complex|underlies|34211|Franklin Metamorphic Complex|not specified|
+7717|Grassy Group|overlies|74061|Fraser Formation|angular unconformity|
+74594|Shower Droplet Volcanics|overlies|74061|Fraser Formation|angular unconformity|
+7107|Gellibrand Marl|underlies|6976|Gambier Limestone||
+8311|Heytesbury Group|overlies|6976|Gambier Limestone|not specified|
+2080|Bogan Gap Group|overlies|7001|Garcia Sandstone|conformity|
+27227|Richea Siltstone|overlies|7101|Gell Quartzite|not specified|
+4157|Clifton Formation|underlies|7107|Gellibrand Marl|not specified|
+5489|Dilwyn Formation|underlies|7107|Gellibrand Marl|disconformity|
+13904|Narrawaturk Marl|underlies|7107|Gellibrand Marl||
+27339|Billop Sandstone|overlies|7369|Glencoe Formation|not specified|
+15719|Quamby Mudstone|underlies|7369|Glencoe Formation|not specified|
+5800|Duncan Conglomerate|overlies|73064|Gnomon Mudstone|unconformity|
+1190|Barrington Chert|underlies|27421|Gog Range Greywacke|not specified|
+11938|Minnow Keratophyre|overlies|27421|Gog Range Greywacke|not specified|
+15719|Quamby Mudstone|underlies|27784|Golden Valley Group|conformity|
+24161|Annakananda Formation|underlies|24293|Gomorrah Dolomite|conformity|
+24509|Styx Dolomite|overlies|24293|Gomorrah Dolomite|conformity|
+5370|Denison Group|underlies|7586|Gordon Group|not specified|
+27768|Eldon Group|overlies|7586|Gordon Group|not specified|
+27837|Moina Sandstone|underlies|7586|Gordon Group|not specified|
+18145|Tiger Range Group|overlies|7586|Gordon Group|not specified|
+5105|Cygnet Coal Measures|underlies|7639|Gould Conglomerate|not specified|
+27555|Rocky Cape Group|underlies|7717|Grassy Group|unconformity|
+6205|Enstone Park Limestone|overlies|7726|Gray Siltstone|not specified|
+15995|Reeds Conglomerate|overlies|25935|Great Dome Sandstone|conformity|
+26140|Singing Creek Formation|underlies|25935|Great Dome Sandstone|conformity|
+74595|City of Melbourne Volcanics|overlies|37343|Grimes Intrusive Suite|not specified|Some sills underlie this unit.
+73143|Birchs Inlet Volcanics|is equivalent to|75977|Guilfoyle Creek Basalt||Lithogeochemical correlation.
+75980|Luina Group|is equivalent to|75977|Guilfoyle Creek Basalt||basalts corelated
+4882|Crescent Spur Sandstone|overlies|7994|Halls Formation|conformity|
+5328|Deep Creek Volcanics|underlies|7994|Halls Formation|conformity|
+18060|Thirlstane Basalt|overlies|69661|Harford beds|not specified|
+14185|Nirranda Group|underlies|8311|Heytesbury Group|unconformity|
+19406|Wangerrip Group|underlies|8311|Heytesbury Group|not specified|
+2985|Bundella Mudstone|underlies|29207|Hickman Formation|not specified|
+15950|Red Lead Conglomerate|underlies|8399|Hodge Formation|not specified|
+19546|Wart Hill Pyroclastics|overlies|8552|Hudson River Pyroclastics|not specified|
+24363|Lot Formation|underlies|24313|Huon River Formation|conformity|
+24392|Mount Bowes Formation|overlies|24313|Huon River Formation|conformity|
+14685|Otway Group|overlies|41195|Hypatia Formation|disconformity|
+17376|Stony Head Sandstone|underlies|75366|Industry Road Member|conformity|transitional likely. Not well exposed
+18724|Turquoise Bluff Slate|overlies|75366|Industry Road Member|conformity|transitional likely. Not well exposed
+15549|Preolenna Coal Measures|overlies|25077|Inglis Siltstone|not specified|
+27023|Wynyard Tillite|underlies|25077|Inglis Siltstone|not specified|
+24886|Cowrie Siltstone|underlies|8767|Irby Siltstone|not specified|
+28502|Detention Subgroup|underlies|8767|Irby Siltstone|not specified|
+8833|Jacob Quartzite|overlies|8767|Irby Siltstone|not specified|
+19661|Wedge River beds|underlies|23663|Island Road Formation|angular unconformity|Inferred
+8767|Irby Siltstone|underlies|8833|Jacob Quartzite|not specified|
+36796|Demons Bluff Group|underlies|8858|Jan Juc Marl|conformity|
+73357|Lachlan Conglomerate|underlies|8867|Jane Dolomite|not specified|
+73429|Narrows Formation|underlies|23672|Joan Point Sandstone|not specified|
+37828|Corn Hill Formation|underlies|73337|Johnston Creek Siltstone|unconformity|
+40045|Lewis Point Siltstone and Sandstone|underlies|35500|Johnston Point Sandstone|not specified|
+15950|Red Lead Conglomerate|overlies|9052|Judith Formation|not specified|
+18756|Tyndall Group|underlies|25095|Jukes Conglomerate|not specified|
+6363|Eumeralla Formation|overlies|41185|Kadnook Creek Granodiorite|not specified|
+1824|Black River Dolomite|underlies|34163|Kanunnah Subgroup|unconformity|
+27555|Rocky Cape Group|underlies|34163|Kanunnah Subgroup|unconformity|
+17009|Smithton Dolomite|overlies|34163|Kanunnah Subgroup|conformity|
+3738|Cashions Creek Limestone|overlies|9290|Karmberg Limestone|not specified|
+27081|Florentine Valley Formation|underlies|9290|Karmberg Limestone|not specified|
+778|Austral Creek Siltstone|overlies|25112|Keel Quartzite|not specified|
+74641|Croles Hill Diamictite|overlies|22085|Keppel Creek Formation|not specified|
+8867|Jane Dolomite|overlies|73357|Lachlan Conglomerate|not specified|
+73352|Scotchfire Metamorphic Complex|underlies|73357|Lachlan Conglomerate|not specified|
+4834|Cradle Cirque Siltstone|overlies|10056|Lake Holmes Coal Measures|not specified|
+10077|Lake Will Pebbly Siltstone|underlies|10056|Lake Holmes Coal Measures|not specified|
+29227|Sarah-Jane Quartzite|overlies|24350|Lake Judd Formation|conformity|
+24161|Annakananda Formation|underlies|24351|Lake Timk Formation|not specified|
+24293|Gomorrah Dolomite|overlies|24351|Lake Timk Formation|not specified|
+1115|Barn Bluff Conglomerate|underlies|10077|Lake Will Pebbly Siltstone|not specified|
+10056|Lake Holmes Coal Measures|overlies|10077|Lake Will Pebbly Siltstone|not specified|
+35497|D'Entrecasteaux Formation|underlies|40045|Lewis Point Siltstone and Sandstone|not specified|
+35500|Johnston Point Sandstone|overlies|40045|Lewis Point Siltstone and Sandstone|not specified|
+11437|Masseys Creek Group|underlies|27464|Liffey Group|conformity|
+19773|West Arm Group|overlies|27464|Liffey Group|unconformity|
+40874|Lisle Granodiorite|intrudes|75363|Lone Star Siltstone||
+75364|Retreat Formation|underlies|75363|Lone Star Siltstone|conformity|but abrupt
+75362|Sideling Sandstone|overlies|75363|Lone Star Siltstone|conformity|transitional
+29227|Sarah-Jane Quartzite|underlies|26311|Lonely Tarns Formation|conformity|
+12904|Mount Mackenzie Formation|underlies|28188|Long Bay Shale|not specified|
+78543|Emmetts Creek Shale|underlies|78544|Looneys Flat Siltstone|conformity|
+69914|Cape Wickham Granite|is equivalent to|75978|Loorana Granite||or slightly older
+41157|Surprise Bay Formation|is intruded by|75978|Loorana Granite||
+24313|Huon River Formation|overlies|24363|Lot Formation|conformity|
+24566|Weld River Group|overlies|24363|Lot Formation|unconformity|
+29473|Mount Julia Member|overlies|29474|Lynchford Member|conformity|
+27339|Billop Sandstone|underlies|10966|Macrae Mudstone|conformity|
+3730|Cascades Group|underlies|11075|Malbina Formation|unconformity|
+27267|Deep Bay Formation|underlies|11075|Malbina Formation|not specified|
+6611|Ferntree Group|overlies|11075|Malbina Formation|conformity|
+16114|Risdon Sandstone|overlies|11075|Malbina Formation|not specified|
+23515|Counsel Creek Formation|underlies|23769|Marra Formation|conformity|
+24038|Toarra Formation|overlies|23769|Marra Formation|unconformity|
+34211|Franklin Metamorphic Complex|overlies|70245|Mary Metamorphic Complex|not specified|
+14994|Pebble Point Formation|overlies|68588|Massacre Shale|not specified|
+40854|Henbury Granite|intrudes|36812|Mathinna Supergroup||
+69574|Long Point Granodiorite|intrudes|36812|Mathinna Supergroup||
+13008|Mount Paris Granite|intrudes|36812|Mathinna Supergroup||
+14900|Parmeener Supergroup|overlies|36812|Mathinna Supergroup|unconformity|
+5080|Currawong Quartzite|underlies|11567|McLeod Creek Formation|not specified|
+3396|Cameron Inlet Formation|underlies|11637|Memana Formation|not specified|
+5489|Dilwyn Formation|underlies|11654|Mepunga Formation|disconformity|
+13904|Narrawaturk Marl|overlies|11654|Mepunga Formation|conformity|
+26482|Clog Tom Sandstone|overlies|11778|Middle Arm Group|conformity|
+7001|Garcia Sandstone|underlies|11778|Middle Arm Group|not specified|
+19773|West Arm Group|underlies|11778|Middle Arm Group|conformity|
+23322|Abels Bay Formation|overlies|23798|Minnie Point Formation|conformity|
+27267|Deep Bay Formation|underlies|23798|Minnie Point Formation|conformity|
+16114|Risdon Sandstone|overlies|23798|Minnie Point Formation|not specified|
+4170|Climie Formation|underlies|11968|Misery Conglomerate|conformity|
+28821|Mount Zeehan Conglomerate|underlies|27837|Moina Sandstone|not specified|
+16260|Roland Conglomerate|underlies|27837|Moina Sandstone|conformity|overlapping
+25881|Dogs Head Formation|underlies|12032|Mole Creek Formation|not specified|
+14696|Overflow Creek Formation|overlies|12032|Mole Creek Formation|not specified|
+19771|Wesley Vale Sand|underlies|12334|Moriarty Basalt|not specified|
+24450|Pandani Group|overlies|24391|Mount Anne Group|unconformity|
+24313|Huon River Formation|underlies|24392|Mount Bowes Formation|conformity|
+24566|Weld River Group|overlies|24392|Mount Bowes Formation|unconformity|
+3868|Central Volcanic Complex|underlies|30225|Mount Charter Group|not specified|
+30229|Southwell Subgroup|underlies|30231|Mount Cripps Subgroup|not specified|
+9290|Karmberg Limestone|overlies|23818|Mount Field Siltstone Member|not specified|
+23917|Pontoon Hill Siltstone Member|underlies|23818|Mount Field Siltstone Member|not specified|
+29474|Lynchford Member|underlies|29473|Mount Julia Member|conformity|
+29475|Zig Zag Hill Formation|overlies|29473|Mount Julia Member|disconformity|
+28188|Long Bay Shale|overlies|12904|Mount Mackenzie Formation|not specified|
+26277|Mount Rugby Conglomerate|underlies|12904|Mount Mackenzie Formation|not specified|
+6781|Flowerdale Sandstone|overlies|13026|Mount Phillipa Member|not specified|
+25620|White Spur Formation|overlies|13057|Mount Read Volcanics|not specified|
+12904|Mount Mackenzie Formation|overlies|26277|Mount Rugby Conglomerate|conformity|
+27837|Moina Sandstone|overlies|28821|Mount Zeehan Conglomerate|not specified|
+26910|Sticht Range Formation|underlies|13503|Murchison Volcanics|not specified|
+18756|Tyndall Group|overlies|13503|Murchison Volcanics|not specified|
+6363|Eumeralla Formation|overlies|41179|Nangeela Formation|not specified|
+14685|Otway Group|overlies|41179|Nangeela Formation|not specified|
+4157|Clifton Formation|overlies|13904|Narrawaturk Marl|disconformity|
+5489|Dilwyn Formation|underlies|13904|Narrawaturk Marl|conformity|
+7107|Gellibrand Marl|overlies|13904|Narrawaturk Marl||
+11654|Mepunga Formation|underlies|13904|Narrawaturk Marl|conformity|
+23672|Joan Point Sandstone|overlies|73429|Narrows Formation|not specified|
+1522|Berriedale Limestone|overlies|13925|Nassau Formation|not specified|
+27267|Deep Bay Formation|overlies|13925|Nassau Formation|not specified|
+24975|Faulkner Group|underlies|13925|Nassau Formation|not specified|
+17341|Stitt Quartzite|underlies|13936|Natone Volcanics|not specified|
+19858|Whalers Bluff Formation|underlies|13978|Nelson Bay Formation|not specified|
+15546|Precipitous Bluff beds|underlies|74391|New River beds|not specified|
+8311|Heytesbury Group|overlies|14185|Nirranda Group|unconformity|
+19406|Wangerrip Group|underlies|14185|Nirranda Group|not specified|
+18306|Tomahawk Formation (TAS)|underlies|14235|Nora Formation|conformity|
+1415|Belfast Mudstone|underlies|14374|Nullawarre Greensand|not specified|
+14730|Paaratte Formation|overlies|14374|Nullawarre Greensand|conformity|
+17488|Success Creek Group|overlies|14603|Oonah Formation|unconformity|
+5105|Cygnet Coal Measures|underlies|25370|Ossa Formation|not specified|
+16826|Sherbrook Group|overlies|14685|Otway Group|unconformity|
+41022|Durroon Megasequence|overlies|41021|Otway Megasequence||
+5367|Den Formation|overlies|14696|Overflow Creek Formation|not specified|
+12032|Mole Creek Formation|underlies|14696|Overflow Creek Formation|not specified|
+5370|Denison Group|overlies|34165|Owen Group|not specified|
+7586|Gordon Group|overlies|34165|Owen Group|unconformity|
+13057|Mount Read Volcanics|underlies|34165|Owen Group|unconformity|
+18756|Tyndall Group|underlies|34165|Owen Group|unconformity|
+1415|Belfast Mudstone|underlies|14730|Paaratte Formation|not specified|
+5489|Dilwyn Formation|overlies|14730|Paaratte Formation|unconformity|
+14374|Nullawarre Greensand|underlies|14730|Paaratte Formation|not specified|
+14994|Pebble Point Formation|overlies|14730|Paaratte Formation|not specified|
+19406|Wangerrip Group|overlies|14730|Paaratte Formation|not specified|
+17215|Springmount Mudstone|underlies|27531|Palmer Sandstone|not specified|
+73820|St Marys Porphyry|overlies|36814|Panama Group|unconformity|
+36813|Tippogoree Group|underlies|36814|Panama Group|unconformity|
+18724|Turquoise Bluff Slate|is faulted against|36814|Panama Group||inferred
+18724|Turquoise Bluff Slate|underlies|36814|Panama Group|unconformity|inferred
+24566|Weld River Group|overlies|24450|Pandani Group|unconformity|
+36812|Mathinna Supergroup|underlies|14900|Parmeener Supergroup|unconformity|
+5489|Dilwyn Formation|overlies|14994|Pebble Point Formation|conformity|
+6363|Eumeralla Formation|underlies|14994|Pebble Point Formation|not specified|
+14685|Otway Group|underlies|14994|Pebble Point Formation|not specified|
+14730|Paaratte Formation|underlies|14994|Pebble Point Formation||
+16826|Sherbrook Group|underlies|14994|Pebble Point Formation|unconformity|
+19546|Wart Hill Pyroclastics|underlies|15319|Pleasant Creek Formation|conformity|
+2080|Bogan Gap Group|overlies|15348|Poatina Group|not specified|
+27464|Liffey Group|underlies|15348|Poatina Group|not specified|
+36796|Demons Bluff Group|underlies|15365|Point Addis Limestone|disconformity|
+24104|Wierah Formation|overlies|23911|Point Vivian Formation|disconformity|
+23488|Churchill Sandstone Member|underlies|23917|Pontoon Hill Siltstone Member|not specified|
+23818|Mount Field Siltstone Member|overlies|23917|Pontoon Hill Siltstone Member|not specified|
+4157|Clifton Formation|underlies|15462|Port Campbell Limestone|not specified|
+7107|Gellibrand Marl|underlies|15462|Port Campbell Limestone|not specified|
+29232|Badger Head Group|overlies|15483|Port Sorell Formation|not specified|
+74391|New River beds|underlies|15546|Precipitous Bluff beds|not specified|
+25077|Inglis Siltstone|underlies|15549|Preolenna Coal Measures|not specified|
+6363|Eumeralla Formation|overlies|15555|Pretty Hill Formation|unconformity|
+17344|Stockers Tillite|underlies|15719|Quamby Mudstone|conformity|
+30220|Que-Hellyer Volcanics|underlies|15739|Que River Shale|conformity|
+30229|Southwell Subgroup|overlies|15739|Que River Shale|not specified|
+461|Animal Creek Greywacke|underlies|30220|Que-Hellyer Volcanics|not specified|
+15739|Que River Shale|overlies|30220|Que-Hellyer Volcanics|conformity|
+5800|Duncan Conglomerate|overlies|15788|Radfords Creek Group|unconformity|
+24975|Faulkner Group|underlies|15903|Rayner Sandstone||
+8399|Hodge Formation|overlies|15950|Red Lead Conglomerate|conformity|
+9052|Judith Formation|underlies|15950|Red Lead Conglomerate|not specified|
+19920|Whitehorses Beach Sandstone|overlies|27888|Red Reef Cliff Sandstone|not specified|
+25935|Great Dome Sandstone|underlies|15995|Reeds Conglomerate|conformity|
+17232|Squirrel Creek Formation|overlies|15995|Reeds Conglomerate|not specified|
+4898|Crimson Creek Formation|overlies|16022|Renison Bell Formation|conformity|
+6363|Eumeralla Formation|underlies|16036|Renmark Group|not specified|
+14685|Otway Group|underlies|16036|Renmark Group|not specified|
+75363|Lone Star Siltstone|overlies|75364|Retreat Formation|conformity|
+75365|Yarrow Creek Mudstone|underlies|75364|Retreat Formation|conformity|
+5080|Currawong Quartzite|overlies|27227|Richea Siltstone|not specified|
+7101|Gell Quartzite|underlies|27227|Richea Siltstone|not specified|
+23322|Abels Bay Formation|overlies|16114|Risdon Sandstone|conformity|
+27773|Ferntree Mudstone|overlies|16114|Risdon Sandstone|conformity|
+11075|Malbina Formation|underlies|16114|Risdon Sandstone|not specified|
+23798|Minnie Point Formation|underlies|16114|Risdon Sandstone|disconformity|
+4781|Cottons Breccia|overlies|74933|Robbins Creek Formation|not specified|
+74061|Fraser Formation|underlies|74933|Robbins Creek Formation|unconformity|
+160|Ahrberg Group|overlies|27555|Rocky Cape Group|unconformity|transgressive and low angle unconformity
+6807|Forest Conglomerate|overlies|27555|Rocky Cape Group|unconformity|
+7717|Grassy Group|overlies|27555|Rocky Cape Group|unconformity|On King Island.
+34163|Kanunnah Subgroup|overlies|27555|Rocky Cape Group|not specified|On northwestern Tasmania mainland.
+23016|Togari Group|overlies|27555|Rocky Cape Group|unconformity|
+27837|Moina Sandstone|overlies|16260|Roland Conglomerate|conformity|
+13057|Mount Read Volcanics|underlies|16260|Roland Conglomerate|not specified|
+6363|Eumeralla Formation|is equivalent to|16454|Runnymede Formation||
+7107|Gellibrand Marl|underlies|25457|Rutledge Marl Member|not specified|
+33787|Eaglehawk Gully Formation|overlies|33788|Salisbury Hill Formation|not specified|
+22823|Scopus Formation|overlies|40956|Salmon River Siltstone|unconformity|
+17009|Smithton Dolomite|underlies|40956|Salmon River Siltstone|conformity|
+24350|Lake Judd Formation|underlies|29227|Sarah-Jane Quartzite|conformity|
+26311|Lonely Tarns Formation|overlies|29227|Sarah-Jane Quartzite|conformity|
+25881|Dogs Head Formation|overlies|16632|Sassafras Creek Formation|not specified|
+18771|Ugbrook Formation|underlies|16632|Sassafras Creek Formation|not specified|
+35497|D'Entrecasteaux Formation|overlies|16635|Satellite Siltstone|not specified|
+35496|Sunset Bay Sandstone|underlies|16635|Satellite Siltstone|not specified|
+160|Ahrberg Group|underlies|26887|Savage Dolomite|not specified|
+1513|Bernafai Volcanics|overlies|26887|Savage Dolomite|conformity|
+16657|Scamander Tier Granodiorite|intrudes|16654|Scamander Formation||
+75362|Sideling Sandstone|is equivalent to|16654|Scamander Formation||
+73820|St Marys Porphyry|overlies|16654|Scamander Formation|unconformity|
+40956|Salmon River Siltstone|underlies|22823|Scopus Formation|unconformity|
+17009|Smithton Dolomite|underlies|22823|Scopus Formation|disconformity|
+40014|Warner Siltstone|underlies|16686|Scott Quartz Keratophyre|unconformity|
+6363|Eumeralla Formation|underlies|16826|Sherbrook Group|not specified|
+14685|Otway Group|underlies|16826|Sherbrook Group|unconformity|
+14994|Pebble Point Formation|overlies|16826|Sherbrook Group|unconformity|
+19406|Wangerrip Group|overlies|16826|Sherbrook Group|unconformity|
+74596|Bold Head Volcanics|overlies|74594|Shower Droplet Volcanics|not specified|
+74595|City of Melbourne Volcanics|underlies|74594|Shower Droplet Volcanics|disconformity|
+74061|Fraser Formation|underlies|74594|Shower Droplet Volcanics|angular unconformity|
+33463|Diddleum Granodiorite|intrudes|75362|Sideling Sandstone||to the East
+75363|Lone Star Siltstone|underlies|75362|Sideling Sandstone|conformity|transitional
+25935|Great Dome Sandstone|overlies|26140|Singing Creek Formation|conformity|
+78542|Cassiterite Creek Quartzite|overlies|78545|Skinners Flat Siltstone|conformity|abruptly
+40962|Lagoon River Quartzite|is faulted against|78545|Skinners Flat Siltstone||conformable in some areas
+40962|Lagoon River Quartzite|underlies|78545|Skinners Flat Siltstone|conformity|faulted in some areas
+23412|Boullanger Formation|underlies|23975|Skipping Ridge Formation|conformity|
+23515|Counsel Creek Formation|overlies|23975|Skipping Ridge Formation|conformity|
+1415|Belfast Mudstone|underlies|16984|Skull Creek Mudstone|not specified|
+14374|Nullawarre Greensand|underlies|16984|Skull Creek Mudstone|not specified|
+14730|Paaratte Formation|overlies|16984|Skull Creek Mudstone|not specified|
+34163|Kanunnah Subgroup|underlies|17009|Smithton Dolomite|conformity|
+40956|Salmon River Siltstone|overlies|17009|Smithton Dolomite|conformity|
+22823|Scopus Formation|overlies|17009|Smithton Dolomite|not specified|
+461|Animal Creek Greywacke|underlies|73810|Sock Creek lava|not specified|
+30231|Mount Cripps Subgroup|overlies|30229|Southwell Subgroup|not specified|
+15739|Que River Shale|underlies|30229|Southwell Subgroup|not specified|
+74641|Croles Hill Diamictite|underlies|35367|Spinks Creek Volcanics|not specified|
+27531|Palmer Sandstone|overlies|17215|Springmount Mudstone|not specified|
+5105|Cygnet Coal Measures|overlies|17220|Springs Sandstone|not specified|
+15995|Reeds Conglomerate|underlies|17232|Squirrel Creek Formation|conformity|
+18771|Ugbrook Formation|overlies|17257|Standard Hill Formation|not specified|
+13503|Murchison Volcanics|underlies|26910|Sticht Range Formation|not specified|
+15719|Quamby Mudstone|overlies|17344|Stockers Tillite|not specified|
+18724|Turquoise Bluff Slate|overlies|17376|Stony Head Sandstone|not specified|
+26336|Aberfoyle Formation|overlies|24508|Strickland Gorge Formation|conformity|
+5489|Dilwyn Formation|underlies|34699|Sturgess Point Member|not specified|
+24243|Devils Eye Dolomite|underlies|24509|Styx Dolomite|conformity|
+4898|Crimson Creek Formation|overlies|17488|Success Creek Group|conformity|gradational contact
+14603|Oonah Formation|underlies|17488|Success Creek Group|unconformity|angular contact
+16635|Satellite Siltstone|overlies|35496|Sunset Bay Sandstone|not specified|
+20535|Woody Island Siltstone|underlies|35496|Sunset Bay Sandstone|not specified|
+472|Ansons Bay Granite|is intruded by|75979|Tebrakunna Dolerite||
+7005|Gardens Granodiorite|is intruded by|75979|Tebrakunna Dolerite||
+24364|Lottah Granite|is intruded by|75979|Tebrakunna Dolerite||
+36812|Mathinna Supergroup|is intruded by|75979|Tebrakunna Dolerite||
+15359|Poimena Granite|is intruded by|75979|Tebrakunna Dolerite||
+15697|Pyengana Granodiorite|is intruded by|75979|Tebrakunna Dolerite||
+69661|Harford beds|underlies|18060|Thirlstane Basalt|not specified|
+19771|Wesley Vale Sand|overlies|18060|Thirlstane Basalt|not specified|
+40003|Calstock Formation|underlies|18067|Thompson Formation|conformity|
+40014|Warner Siltstone|overlies|18067|Thompson Formation|conformity|
+2474|Brady Formation|overlies|26942|Tiers Formation|not specified|
+4189|Cluan Formation|underlies|26942|Tiers Formation|conformity|
+7586|Gordon Group|underlies|18145|Tiger Range Group|conformity|
+5489|Dilwyn Formation|overlies|26944|Timboon Sandstone|unconformity|
+14730|Paaratte Formation|underlies|26944|Timboon Sandstone|not specified|
+14994|Pebble Point Formation|overlies|26944|Timboon Sandstone||
+36814|Panama Group|overlies|36813|Tippogoree Group|unconformity|
+23769|Marra Formation|underlies|24038|Toarra Formation|unconformity|
+18944|Upper Parmeener Supergroup|overlies|24038|Toarra Formation|not specified|
+27555|Rocky Cape Group|underlies|23016|Togari Group|unconformity|
+22823|Scopus Formation|overlies|23016|Togari Group|not specified|
+18306|Tomahawk Formation (TAS)|underlies|18263|Toko Group|conformity|
+36796|Demons Bluff Group|underlies|18441|Torquay Group|disconformity|
+7107|Gellibrand Marl|underlies|18441|Torquay Group|not specified|
+5370|Denison Group|overlies|73121|Trial Ridge beds|unconformity|
+40070|Corinna Dolomite|underlies|36134|Tunnelrace Volcanics|not specified|
+17376|Stony Head Sandstone|underlies|18724|Turquoise Bluff Slate|unconformity|
+23911|Point Vivian Formation|overlies|18751|Tyler Creek beds|unconformity|
+24104|Wierah Formation|overlies|18751|Tyler Creek beds|unconformity|
+3868|Central Volcanic Complex|underlies|18756|Tyndall Group|not specified|
+7586|Gordon Group|overlies|18756|Tyndall Group|unconformity|
+25095|Jukes Conglomerate|overlies|18756|Tyndall Group|not specified|
+13503|Murchison Volcanics|underlies|18756|Tyndall Group|not specified|
+16632|Sassafras Creek Formation|overlies|18771|Ugbrook Formation|not specified|
+17257|Standard Hill Formation|underlies|18771|Ugbrook Formation|not specified|
+1415|Belfast Mudstone|overlies|19163|Waarre Formation|conformity|
+6363|Eumeralla Formation|underlies|19163|Waarre Formation|unconformity|
+6733|Flaxman Formation|overlies|19163|Waarre Formation|conformity|
+14185|Nirranda Group|overlies|19406|Wangerrip Group|not specified|
+16826|Sherbrook Group|underlies|19406|Wangerrip Group|unconformity|
+39978|Archer Formation|overlies|40014|Warner Siltstone|not specified|
+18067|Thompson Formation|underlies|40014|Warner Siltstone|not specified|
+8552|Hudson River Pyroclastics|underlies|19546|Wart Hill Pyroclastics|conformity|
+15319|Pleasant Creek Formation|overlies|19546|Wart Hill Pyroclastics|conformity|
+1490|Benson Peak Sandstone|underlies|25606|Waterfall Valley Siltstone|not specified|
+23663|Island Road Formation|overlies|19661|Wedge River beds|angular unconformity|
+24450|Pandani Group|underlies|24566|Weld River Group|unconformity|
+23933|Ragged Basin Complex|overlies|24566|Weld River Group|not specified|
+12334|Moriarty Basalt|overlies|19771|Wesley Vale Sand|not specified|
+18060|Thirlstane Basalt|underlies|19771|Wesley Vale Sand|not specified|
+7001|Garcia Sandstone|overlies|19773|West Arm Group|not specified|
+11778|Middle Arm Group|overlies|19773|West Arm Group|conformity|
+8311|Heytesbury Group|underlies|19858|Whalers Bluff Formation|not specified|
+14685|Otway Group|underlies|19858|Whalers Bluff Formation|disconformity|
+13057|Mount Read Volcanics|underlies|25620|White Spur Formation|unconformity|
+27888|Red Reef Cliff Sandstone|underlies|19920|Whitehorses Beach Sandstone|not specified|
+37271|Currie Group|overlies|37272|Wickham metamorphics|not specified|
+23911|Point Vivian Formation|underlies|24104|Wierah Formation|disconformity|
+18751|Tyler Creek beds|underlies|24104|Wierah Formation|unconformity|
+14685|Otway Group|underlies|23229|Wiridjil Gravel||
+2985|Bundella Mudstone|overlies|20535|Woody Island Siltstone|conformity|
+35496|Sunset Bay Sandstone|overlies|20535|Woody Island Siltstone|not specified|
+24047|Truro Tillite|underlies|20535|Woody Island Siltstone|conformity|
+23491|Clytie Cove Group|underlies|24587|Wurawina Supergroup|not specified|
+14900|Parmeener Supergroup|overlies|24587|Wurawina Supergroup|unconformity|
+25077|Inglis Siltstone|overlies|27023|Wynyard Tillite|not specified|
+74595|City of Melbourne Volcanics|overlies|74646|Yarra Creek Shale|not specified|
+74645|Cumberland Creek Dolostone|underlies|74646|Yarra Creek Shale|conformity|Transitional
+75364|Retreat Formation|overlies|75365|Yarrow Creek Mudstone|conformity|
+18724|Turquoise Bluff Slate|underlies|75365|Yarrow Creek Mudstone|unconformity|faulted
+4408|Comstock Formation|underlies|29475|Zig Zag Hill Formation|conformity|
+4781|Cottons Breccia|underlies|41148|dolostone 41148|not specified|
+29475|Zig Zag Hill Formation|underlies|75532|lower conglomerate member (TAS) 75532|conformity|gradational
+13057|Mount Read Volcanics|underlies|75531|middle conglomerate member (TAS) 75531|unconformity|
+75530|middle sandstone member (TAS) 75530|underlies|75531|middle conglomerate member (TAS) 75531|conformity|
+28865|Newton Creek Sandstone Member|is equivalent to|75530|middle sandstone member (TAS) 75530||also of Owen Conglomerate
+75532|lower conglomerate member (TAS) 75532|underlies|75530|middle sandstone member (TAS) 75530|conformity|
+75531|middle conglomerate member (TAS) 75531|underlies|75529|upper sandstone member (TAS) 75529|conformity|

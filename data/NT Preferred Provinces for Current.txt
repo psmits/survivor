@@ -1,0 +1,1154 @@
+Stratno | Stratigraphic Name | Entity Number | Province Name 
+28157|Adla Granulite|467256|Arunta Orogen
+168|Aileron Metamorphics|467256|Arunta Orogen
+76201|Aileron Metamorphics - highly magnetic|467256|Arunta Orogen
+30857|Alarinjela Suite|467256|Arunta Orogen
+26252|Albarta Metamorphics|467256|Arunta Orogen
+27692|Albinia Formation|22113|Ngalia Basin
+39599|Alcurra Dolerite|467262|Musgrave Province
+76120|Algamba Dolostone Member|467256|Arunta Orogen
+262|Algebuckina Sandstone|529302|Eromanga Basin
+24152|Ali Curung Granite|467256|Arunta Orogen
+27281|Alice Springs Granite|467256|Arunta Orogen
+41842|Alkipi Metamorphics|467256|Arunta Orogen
+303|Allia Creek Granite|512263|Pine Creek Orogen
+39136|Allia Creek Suite|20392|Litchfield Block
+39136|Allia Creek Suite|512263|Pine Creek Orogen
+26291|Aloolya Gneiss|467256|Arunta Orogen
+42483|Amata Dolerite|467262|Musgrave Province
+24156|Amesbury Quartzite|22113|Ngalia Basin
+24156|Amesbury Quartzite|529556|Georgina Basin
+68767|Ampiara member|22078|Amadeus Basin
+393|Amulda Member|22078|Amadeus Basin
+409|Anamarra Orthogneiss|467256|Arunta Orogen
+410|Anburla Anorthosite|467256|Arunta Orogen
+24158|Andagera Formation|468041|Davenport Province
+21137|Andrew Young Igneous Complex|364771|Aileron Province
+21137|Andrew Young Igneous Complex|467256|Arunta Orogen
+437|Angalarri Siltstone|569185|Victoria Basin
+23336|Angulmeri Quartzite Member|20392|Litchfield Block
+69778|Anira Metamorphics|467256|Arunta Orogen
+39322|Ankala Gneiss|467256|Arunta Orogen
+466|Anmatjira Orthogneiss|364771|Aileron Province
+466|Anmatjira Orthogneiss|467256|Arunta Orogen
+72424|Anningie Member|364771|Aileron Province
+72424|Anningie Member|467256|Arunta Orogen
+28185|Answer Slate|556523|Mount Isa Orogen
+28185|Answer Slate|559197|Marimo-Staveley Domain
+76092|Anthony Lagoon Formation|529556|Georgina Basin
+488|Antrim Plateau Volcanics|21914|Bonaparte Basin
+488|Antrim Plateau Volcanics|22075|Petrel Sub-basin
+488|Antrim Plateau Volcanics|22109|Wiso Basin
+488|Antrim Plateau Volcanics|467103|Halls Creek Orogen
+488|Antrim Plateau Volcanics|468269|Kalkarindji Igneous Province
+496|Anuma Schist|467256|Arunta Orogen
+522|Arafura Group|359040|Arafura Basin
+524|Aralka Formation|22078|Amadeus Basin
+74209|Arco Formation|22075|Petrel Sub-basin
+566|Aremra Granodiorite|467256|Arunta Orogen
+571|Areyonga Formation|22078|Amadeus Basin
+605|Arltunga Nappe Complex|467256|Arunta Orogen
+26353|Arltunga beds|22078|Amadeus Basin
+37960|Aroota Group|529556|Georgina Basin
+75503|Arrarra Gneiss|512263|Pine Creek Orogen
+668|Arumbera Sandstone|22078|Amadeus Basin
+679|Arunta Complex|22078|Amadeus Basin
+679|Arunta Complex|467256|Arunta Orogen
+718|Ashmore Volcanics|28450|Ashmore Platform
+24166|Atnarpa Igneous Complex|40009|Arltunga Gold Metallogenic Province
+24166|Atnarpa Igneous Complex|467256|Arunta Orogen
+23344|Atneequa Granitic Complex|467256|Arunta Orogen
+23345|Attutra Metagabbro|467256|Arunta Orogen
+787|Auvergne Group|569185|Victoria Basin
+42062|Babylon Volcaniclastic Sediment|22109|Wiso Basin
+21185|Balma Group|512264|McArthur Basin
+32954|Barkly Group|529556|Georgina Basin
+27283|Barrow Creek Granite Complex|467256|Arunta Orogen
+1249|Bathurst Island Group|21914|Bonaparte Basin
+1249|Bathurst Island Group|22075|Petrel Sub-basin
+1249|Bathurst Island Group|22330|Money Shoal Basin
+1249|Bathurst Island Group|26965|Malita Graben
+1249|Bathurst Island Group|28315|Vulcan Sub-basin
+1249|Bathurst Island Group|28590|Sahul Platform
+1249|Bathurst Island Group|33446|Londonderry High
+1249|Bathurst Island Group|33676|Troubadour Terrace
+24175|Bean Tree Granite|467256|Arunta Orogen
+72567|Beloceras Bed, Upper|22114|Canning Basin
+23374|Benalla Formation|21914|Bonaparte Basin
+23374|Benalla Formation|28450|Ashmore Platform
+75949|Benning Gabbro|512263|Pine Creek Orogen
+1575|Bickleys Porphyry|429253|Hooper Province
+1621|Bigie Formation|556523|Mount Isa Orogen
+1621|Bigie Formation|559196|Leichhardt River Domain
+1621|Bigie Formation|559201|Mount Oxide Domain
+31356|Bigrlyi Member|22113|Ngalia Basin
+42069|Billabong Complex|467226|Tanami Orogen
+1693|Bingy Bingy Basalt Member|22109|Wiso Basin
+1722|Birdum Creek beds|22109|Wiso Basin
+29906|Birksgate Complex|467262|Musgrave Province
+1735|Birrindudu Group|467208|Birrindudu Basin
+1758|Bitter Springs Formation|22078|Amadeus Basin
+1758|Bitter Springs Formation|40009|Arltunga Gold Metallogenic Province
+1854|Blackfella Rockhole Member|22109|Wiso Basin
+1854|Blackfella Rockhole Member|468269|Kalkarindji Igneous Province
+27109|Blackfellow Creek Sandstone|467204|Wolfe Basin
+1931|Blatherskite Quartzite Member|22078|Amadeus Basin
+1931|Blatherskite Quartzite Member|467256|Arunta Orogen
+36765|Bloods Range Formation|22078|Amadeus Basin
+1963|Bloodwood Formation|22113|Ngalia Basin
+21279|Boggy Hole Gneiss|364771|Aileron Province
+21279|Boggy Hole Gneiss|467256|Arunta Orogen
+24190|Boko Formation|22113|Ngalia Basin
+2161|Bonaparte Formation|21914|Bonaparte Basin
+2161|Bonaparte Formation|22075|Petrel Sub-basin
+2161|Bonaparte Formation|22114|Canning Basin
+2161|Bonaparte Formation|22196|Roebuck Basin
+2161|Bonaparte Formation|28315|Vulcan Sub-basin
+35951|Bond Springs Gneiss|467256|Arunta Orogen
+24746|Bonya Schist|467256|Arunta Orogen
+2275|Boord Formation|22078|Amadeus Basin
+28156|Boothby Orthogneiss|467256|Arunta Orogen
+2314|Border Creek Formation|21914|Bonaparte Basin
+2394|Bow River Granite|429252|Lamboo Province
+2472|Bradshaw Complex|559170|Arnhem Province
+2476|Brady Gneiss|467256|Arunta Orogen
+2476|Brady Gneiss|512258|Irindina Province
+2526|Brewer Conglomerate|22078|Amadeus Basin
+21329|Brinkley Bluff Gneiss|467256|Arunta Orogen
+25814|Brown Gannet Limestone|21914|Bonaparte Basin
+25814|Brown Gannet Limestone|28450|Ashmore Platform
+30280|Browns Range Metamorphics|467226|Tanami Orogen
+30280|Browns Range Metamorphics|467254|Lucas Craton
+38038|Brumby Formation (NT)|556523|Mount Isa Orogen
+27349|Bruna Gneiss|467256|Arunta Orogen
+24775|Buchanan Hills beds|22109|Wiso Basin
+2770|Buck Formation|22078|Amadeus Basin
+2809|Buddawadda Basalt Member|556523|Mount Isa Orogen
+21352|Buger Creek Granite|467256|Arunta Orogen
+21356|Bukudal Granite|559170|Arnhem Province
+2891|Bulldog Shale|464193|Callabonna Sub-basin
+2891|Bulldog Shale|529302|Eromanga Basin
+29219|Bullion Schist|364771|Aileron Province
+29219|Bullion Schist|467256|Arunta Orogen
+2914|Bullita Group|467208|Birrindudu Basin
+38039|Bullrush Conglomerate|556523|Mount Isa Orogen
+23442|Bunghara Metamorphics|467256|Arunta Orogen
+3012|Bungitina metamorphics|467256|Arunta Orogen
+24791|Bungle Bungle Dolomite|467202|Osmond Basin
+26441|Burnside Granite|512263|Pine Creek Orogen
+27284|Burt Bluff Gneiss|467256|Arunta Orogen
+3168|Burt Range Formation|21914|Bonaparte Basin
+3176|Burtawurta Formation|467208|Birrindudu Basin
+3187|Burvill Formation|21914|Bonaparte Basin
+21402|Bustard Subgroup|559170|Arnhem Province
+3225|Bynoe Formation|467208|Birrindudu Basin
+23452|Cackleberry Metamorphics|467256|Arunta Orogen
+3284|Cadna-owie Formation|464193|Callabonna Sub-basin
+3284|Cadna-owie Formation|529302|Eromanga Basin
+26447|Cadney Metamorphics|40009|Arltunga Gold Metallogenic Province
+26447|Cadney Metamorphics|467256|Arunta Orogen
+24806|Cahill Formation|512263|Pine Creek Orogen
+40762|Callie Member|467226|Tanami Orogen
+72569|Calyx Corner beds|22114|Canning Basin
+3509|Cape Londonderry Formation|21914|Bonaparte Basin
+3509|Cape Londonderry Formation|22075|Petrel Sub-basin
+3509|Cape Londonderry Formation|26965|Malita Graben
+3509|Cape Londonderry Formation|28315|Vulcan Sub-basin
+3509|Cape Londonderry Formation|28590|Sahul Platform
+3509|Cape Londonderry Formation|33446|Londonderry High
+3629|Carlton Group|21914|Bonaparte Basin
+3629|Carlton Group|22075|Petrel Sub-basin
+3629|Carlton Group|28315|Vulcan Sub-basin
+3635|Carmichael Sandstone|22078|Amadeus Basin
+3647|Carnegie Formation|22078|Amadeus Basin
+3663|Carr Boyd Group|467103|Halls Creek Orogen
+3663|Carr Boyd Group|467109|Carr Boyd Basin
+41811|Carrington Suite|467256|Arunta Orogen
+72640|Carrington Suite - group 1|467256|Arunta Orogen
+72641|Carrington Suite - group 2|467256|Arunta Orogen
+72642|Carrington Suite - group 3|467256|Arunta Orogen
+72643|Carrington Suite - group 4|467256|Arunta Orogen
+72644|Carrington Suite - group 5|467256|Arunta Orogen
+3701|Carters Bore Rhyolite|556523|Mount Isa Orogen
+3701|Carters Bore Rhyolite|559196|Leichhardt River Domain
+3707|Cartier Formation|21914|Bonaparte Basin
+3707|Cartier Formation|28450|Ashmore Platform
+3707|Cartier Formation|28590|Sahul Platform
+3764|Castlereagh Hill Porphyry|429252|Lamboo Province
+21470|Cato Volcanics|559170|Arnhem Province
+3844|Cavenagh Metamorphics|40009|Arltunga Gold Metallogenic Province
+3844|Cavenagh Metamorphics|467256|Arunta Orogen
+42259|Celia Dolostone|512263|Pine Creek Orogen
+41993|Cement Dam Gneiss|467256|Arunta Orogen
+3865|Central Mount Stuart Formation|22109|Wiso Basin
+3865|Central Mount Stuart Formation|22113|Ngalia Basin
+3892|Challis Formation|21914|Bonaparte Basin
+3892|Challis Formation|26965|Malita Graben
+3892|Challis Formation|28315|Vulcan Sub-basin
+3892|Challis Formation|28590|Sahul Platform
+3892|Challis Formation|33446|Londonderry High
+3892|Challis Formation|33676|Troubadour Terrace
+27739|Chandler Formation|22078|Amadeus Basin
+29239|Charles River Gneiss|467256|Arunta Orogen
+3971|Chewings Range Quartzite|467256|Arunta Orogen
+3990|Chilling Sandstone|20392|Litchfield Block
+4021|Chiripee Gneiss|467256|Arunta Orogen
+42362|Cleia Formation|21914|Bonaparte Basin
+42362|Cleia Formation|26965|Malita Graben
+42362|Cleia Formation|28590|Sahul Platform
+42362|Cleia Formation|33446|Londonderry High
+42362|Cleia Formation|33676|Troubadour Terrace
+28456|Cleland Sandstone|22078|Amadeus Basin
+4151|Cliffdale Volcanics|556523|Mount Isa Orogen
+21509|Coast Range Sandstone|512264|McArthur Basin
+4273|Cockatoo Group|21914|Bonaparte Basin
+4273|Cockatoo Group|22075|Petrel Sub-basin
+4273|Cockatoo Group|28315|Vulcan Sub-basin
+37963|Cockroach Group|529556|Georgina Basin
+41999|Coles Dam Granite|467256|Arunta Orogen
+4338|Colless Volcanics|468269|Kalkarindji Igneous Province
+24221|Coniston Schist|467256|Arunta Orogen
+42256|Coomalie Dolostone|512263|Pine Creek Orogen
+73196|Coora Dolerite|467226|Tanami Orogen
+26493|Coorikiana Sandstone|529302|Eromanga Basin
+26495|Copia Granite|467256|Arunta Orogen
+72987|Cosmo Supergroup|512263|Pine Creek Orogen
+24230|Coulters Sandstone|468041|Davenport Province
+24636|Cox Formation|359040|Arafura Basin
+4859|Cravens Peak beds|529556|Georgina Basin
+26504|Crooked Hole Granite|467256|Arunta Orogen
+26505|Crown Point Formation|22078|Amadeus Basin
+26505|Crown Point Formation|529549|Pedirka Basin
+30778|Cullen Supersuite|40011|Mount Todd Gold Metallogenic Province
+30778|Cullen Supersuite|512263|Pine Creek Orogen
+29771|Cumming Leucogabbro|467256|Arunta Orogen
+26509|Cyclops Member|22078|Amadeus Basin
+5163|Daly River Group|557149|Daly Basin
+5202|Darbilla Formation|359040|Arafura Basin
+5204|Dare Siltstone Member|22078|Amadeus Basin
+5253|Darwin Formation|21914|Bonaparte Basin
+5253|Darwin Formation|22075|Petrel Sub-basin
+5253|Darwin Formation|22330|Money Shoal Basin
+5253|Darwin Formation|26965|Malita Graben
+5253|Darwin Formation|28315|Vulcan Sub-basin
+5253|Darwin Formation|28590|Sahul Platform
+5253|Darwin Formation|33446|Londonderry High
+5253|Darwin Formation|33676|Troubadour Terrace
+21620|Dashwood Gabbro Complex|467256|Arunta Orogen
+35396|Dead Bullock Formation|467226|Tanami Orogen
+5300|Dean Quartzite|22078|Amadeus Basin
+5310|Deception Formation|22078|Amadeus Basin
+23539|Deep Bore Metamorphics|467256|Arunta Orogen
+25875|Deering Siltstone Member|22078|Amadeus Basin
+26516|Delmore Metamorphics|467256|Arunta Orogen
+5354|Delny Gneiss|467256|Arunta Orogen
+5434|Devils Marbles Granite|468041|Davenport Province
+30736|Devils Suite|468265|Warramunga Province
+21653|Dhalinybuy Granite|559170|Arnhem Province
+21654|Dhunganda Formation|559170|Arnhem Province
+34243|Dingo Member|22078|Amadeus Basin
+24608|Dirty Water Metamorphics|512263|Pine Creek Orogen
+29414|Dixon Range beds|22078|Amadeus Basin
+5539|Djabura Formation|359040|Arafura Basin
+28261|Djagamara Formation|22113|Ngalia Basin
+5548|Dneiper Granite|467256|Arunta Orogen
+21680|Donydji Group|512264|McArthur Basin
+5619|Doomadgee Formation|556523|Mount Isa Orogen
+21695|Drimmie Head Granite|559170|Arnhem Province
+38037|Drummond Formation|556523|Mount Isa Orogen
+72394|Drummond Formation, Brumby Formation|556523|Mount Isa Orogen
+42397|Du Faur Suite|467256|Arunta Orogen
+5760|Duerdin Group|467103|Halls Creek Orogen
+5760|Duerdin Group|467204|Wolfe Basin
+5784|Dulcie Sandstone|22113|Ngalia Basin
+5784|Dulcie Sandstone|529556|Georgina Basin
+21715|Durabudboi beds|512264|McArthur Basin
+5911|Eastern Creek Volcanics|556523|Mount Isa Orogen
+5911|Eastern Creek Volcanics|559196|Leichhardt River Domain
+5911|Eastern Creek Volcanics|559201|Mount Oxide Domain
+5911|Eastern Creek Volcanics|559205|Sybella Domain
+5943|Echuca Shoals Formation|21914|Bonaparte Basin
+5943|Echuca Shoals Formation|22102|Browse Basin
+5943|Echuca Shoals Formation|26965|Malita Graben
+5943|Echuca Shoals Formation|28315|Vulcan Sub-basin
+5943|Echuca Shoals Formation|28450|Ashmore Platform
+5943|Echuca Shoals Formation|28590|Sahul Platform
+5943|Echuca Shoals Formation|33446|Londonderry High
+5943|Echuca Shoals Formation|33676|Troubadour Terrace
+5978|Edith River Group|512263|Pine Creek Orogen
+5978|Edith River Group|512264|McArthur Basin
+42370|Ehrenberg Granite|364772|Warumpi Province
+42370|Ehrenberg Granite|467256|Arunta Orogen
+24261|El Sherana Group|512263|Pine Creek Orogen
+34215|Elang Formation|21914|Bonaparte Basin
+34215|Elang Formation|26965|Malita Graben
+34215|Elang Formation|28590|Sahul Platform
+34215|Elang Formation|33676|Troubadour Terrace
+25892|Elkedra Granite|468041|Davenport Province
+29773|Ellery Granitic Complex|467256|Arunta Orogen
+6108|Ellis Sandstone|22078|Amadeus Basin
+6118|Elyuah Formation|22113|Ngalia Basin
+6134|Emily Gap Schist|467256|Arunta Orogen
+24269|Enbra Granulite|467256|Arunta Orogen
+6185|Enga Sandstone|21914|Bonaparte Basin
+6195|Ennugan Mountains Granite|467256|Arunta Orogen
+6208|Entia Gneiss|467256|Arunta Orogen
+6207|Entia Gneiss Complex|467256|Arunta Orogen
+6229|Erica Sandstone|467255|Murraba Basin
+6241|Erontonga Metamorphics|467256|Arunta Orogen
+26303|Errolola Sandstone|468041|Davenport Province
+6282|Esperanza Formation|467256|Arunta Orogen
+6282|Esperanza Formation|556523|Mount Isa Orogen
+6282|Esperanza Formation|559187|Century Domain
+6282|Esperanza Formation|559201|Mount Oxide Domain
+70576|Esther Granite|364771|Aileron Province
+70576|Esther Granite|467256|Arunta Orogen
+6287|Etadunna Formation|464193|Callabonna Sub-basin
+6287|Etadunna Formation|529801|Lake Eyre Basin
+21755|Ethel Creek Granite|467256|Arunta Orogen
+6356|Eulo Queen Group|550572|Carpentaria Basin
+31357|Eva Springs Member|22113|Ngalia Basin
+6432|Ewen Granite|556523|Mount Isa Orogen
+6432|Ewen Granite|559194|Kalkadoon-Leichhardt Domain
+6451|Eyre Formation|464193|Callabonna Sub-basin
+6451|Eyre Formation|529801|Lake Eyre Basin
+31308|Fagan Supersuite|559170|Arnhem Province
+30419|Fanny Rhyolite Member|512263|Pine Creek Orogen
+25905|Fargoo Tillite|467204|Wolfe Basin
+6577|Fenelon Formation|21914|Bonaparte Basin
+6577|Fenelon Formation|22102|Browse Basin
+6577|Fenelon Formation|28315|Vulcan Sub-basin
+6577|Fenelon Formation|28590|Sahul Platform
+6577|Fenelon Formation|33446|Londonderry High
+6584|Fenn Gap Conglomerate Member|22078|Amadeus Basin
+24275|Fenton Granite|512263|Pine Creek Orogen
+72402|Ferdies Member|467226|Tanami Orogen
+6631|Fickling Group|556523|Mount Isa Orogen
+6639|Fiery Creek Volcanics|556523|Mount Isa Orogen
+6639|Fiery Creek Volcanics|559196|Leichhardt River Domain
+6639|Fiery Creek Volcanics|559201|Mount Oxide Domain
+23593|Fingerpost Granodiorite|512263|Pine Creek Orogen
+6661|Finke Group|22078|Amadeus Basin
+6669|Finniss River Group|40011|Mount Todd Gold Metallogenic Province
+6669|Finniss River Group|512263|Pine Creek Orogen
+6679|Fish Billabong Adamellite|20392|Litchfield Block
+6682|Fish River Formation|556523|Mount Isa Orogen
+6726|Flamingo Group|21914|Bonaparte Basin
+6726|Flamingo Group|22075|Petrel Sub-basin
+6726|Flamingo Group|22330|Money Shoal Basin
+6726|Flamingo Group|26965|Malita Graben
+6726|Flamingo Group|28315|Vulcan Sub-basin
+6726|Flamingo Group|28590|Sahul Platform
+6726|Flamingo Group|33446|Londonderry High
+6726|Flamingo Group|33676|Troubadour Terrace
+41994|Flint Spring Gneiss|22078|Amadeus Basin
+41994|Flint Spring Gneiss|467256|Arunta Orogen
+6767|Floraville Formation|557148|Karumba Basin
+75722|Florina Formation|557149|Daly Basin
+24278|Fog Bay Metamorphics|512263|Pine Creek Orogen
+29775|Forty Five Augen Gneiss|467256|Arunta Orogen
+6858|Fossil Head Formation|21914|Bonaparte Basin
+6858|Fossil Head Formation|22075|Petrel Sub-basin
+6858|Fossil Head Formation|22114|Canning Basin
+6858|Fossil Head Formation|22196|Roebuck Basin
+6858|Fossil Head Formation|28450|Ashmore Platform
+6858|Fossil Head Formation|28590|Sahul Platform
+6858|Fossil Head Formation|33446|Londonderry High
+23601|Frances Creek Leucogranite|512263|Pine Creek Orogen
+42090|Frankenia Monzogranite|467226|Tanami Orogen
+27270|Frigate Shale|21914|Bonaparte Basin
+27270|Frigate Shale|22075|Petrel Sub-basin
+27270|Frigate Shale|22330|Money Shoal Basin
+27270|Frigate Shale|26965|Malita Graben
+27270|Frigate Shale|28590|Sahul Platform
+27270|Frigate Shale|33446|Londonderry High
+27270|Frigate Shale|33676|Troubadour Terrace
+21824|Gadabara Volcanics|512264|McArthur Basin
+21834|Garthalala Granite|559170|Arnhem Province
+24283|Gaylad Sandstone|22078|Amadeus Basin
+24284|Georgina Gap granitic gneiss|467256|Arunta Orogen
+28284|Gibbie Formation|467208|Birrindudu Basin
+27414|Giddy Granite|559170|Arnhem Province
+30863|Giddy Suite|559170|Arnhem Province
+7197|Gilbert River Formation|22401|Laura-Lakefield Basin
+7197|Gilbert River Formation|529302|Eromanga Basin
+7197|Gilbert River Formation|550572|Carpentaria Basin
+7206|Giles Complex|39836|Nebo-Babel Nickel Metallogenic Province
+7206|Giles Complex|467262|Musgrave Province
+67994|Giles Creek Dolostone|22078|Amadeus Basin
+27416|Gillen Member|22078|Amadeus Basin
+21856|Glen Helen Metamorphics|467256|Arunta Orogen
+69657|Goat Paddock beds|22109|Wiso Basin
+23629|Goose Hole Group|467103|Halls Creek Orogen
+23629|Goose Hole Group|467206|Ord Basin
+7636|Goulburn Group|359040|Arafura Basin
+7646|Goyder Formation|22078|Amadeus Basin
+7690|Grant Bluff Formation|22113|Ngalia Basin
+7742|Grebe Sandstone Member|21914|Bonaparte Basin
+7742|Grebe Sandstone Member|26965|Malita Graben
+7742|Grebe Sandstone Member|28315|Vulcan Sub-basin
+7742|Grebe Sandstone Member|28450|Ashmore Platform
+7742|Grebe Sandstone Member|28590|Sahul Platform
+7742|Grebe Sandstone Member|33446|Londonderry High
+40137|Grimwade Suite|364771|Aileron Province
+40137|Grimwade Suite|467256|Arunta Orogen
+72648|Grimwade Suite - group 1|467256|Arunta Orogen
+72649|Grimwade Suite - group 2|467256|Arunta Orogen
+72650|Grimwade Suite - group 3|467256|Arunta Orogen
+72651|Grimwade Suite - group 4|467256|Arunta Orogen
+21914|Grindall Formation|559170|Arnhem Province
+33979|Groote Eylandt Group|512264|McArthur Basin
+7869|Gum Tree Granite|467256|Arunta Orogen
+33423|Gumtree Granite Suite|467256|Arunta Orogen
+42371|Gunbarrel Granite|364772|Warumpi Province
+42371|Gunbarrel Granite|467256|Arunta Orogen
+25038|Gunpowder Creek Formation|467256|Arunta Orogen
+25038|Gunpowder Creek Formation|556523|Mount Isa Orogen
+25038|Gunpowder Creek Formation|559187|Century Domain
+25038|Gunpowder Creek Formation|559201|Mount Oxide Domain
+27064|Gwynne Sandstone|364771|Aileron Province
+27064|Gwynne Sandstone|467256|Arunta Orogen
+27791|HYC Pyritic Shale Member|556523|Mount Isa Orogen
+7964|Habgood Group|512264|McArthur Basin
+35686|Halfway Dam Formation|22078|Amadeus Basin
+27793|Halls Creek Group|20392|Litchfield Block
+27793|Halls Creek Group|429252|Lamboo Province
+24304|Hanlon Subgroup|468041|Davenport Province
+8056|Hanson River beds|22109|Wiso Basin
+8064|Harajica Sandstone Member|22078|Amadeus Basin
+8085|Hardway Granite|556523|Mount Isa Orogen
+24306|Harry Anorthositic Gabbro|364771|Aileron Province
+24306|Harry Anorthositic Gabbro|467256|Arunta Orogen
+8120|Harts Range Group|467256|Arunta Orogen
+8120|Harts Range Group|512258|Irindina Province
+36822|Harts Range Metamorphic Complex|467256|Arunta Orogen
+36822|Harts Range Metamorphic Complex|512258|Irindina Province
+8127|Harts Range pegmatite|467256|Arunta Orogen
+24307|Harverson Granite|467256|Arunta Orogen
+30858|Harverson Suite|467256|Arunta Orogen
+8130|Haslingden Group|556523|Mount Isa Orogen
+8139|Hatches Creek Group|468041|Davenport Province
+27290|Hayes Metamorphic Complex|467256|Arunta Orogen
+8199|Hayward Creek Formation|468265|Warramunga Province
+8225|Heavitree Quartzite|22078|Amadeus Basin
+8225|Heavitree Quartzite|40009|Arltunga Gold Metallogenic Province
+8225|Heavitree Quartzite|467256|Arunta Orogen
+8256|Helen Springs Volcanics|468269|Kalkarindji Igneous Province
+8256|Helen Springs Volcanics|529556|Georgina Basin
+8291|Hermannsburg Sandstone|22078|Amadeus Basin
+8293|Hermit Creek Metamorphics|20392|Litchfield Block
+8293|Hermit Creek Metamorphics|512263|Pine Creek Orogen
+27432|Hibernia Formation|21914|Bonaparte Basin
+27432|Hibernia Formation|26965|Malita Graben
+27432|Hibernia Formation|28315|Vulcan Sub-basin
+27432|Hibernia Formation|28450|Ashmore Platform
+27432|Hibernia Formation|28590|Sahul Platform
+27432|Hibernia Formation|33446|Londonderry High
+27432|Hibernia Formation|33676|Troubadour Terrace
+8362|Hillsoak Bore Metamorphics|40009|Arltunga Gold Metallogenic Province
+8362|Hillsoak Bore Metamorphics|467256|Arunta Orogen
+8388|Hobblechain Rhyolite|559170|Arnhem Province
+8468|Hooker Creek Formation|22109|Wiso Basin
+8476|Hooray Sandstone|529302|Eromanga Basin
+8493|Horn Valley Siltstone|22078|Amadeus Basin
+8504|Horseshoe Bend Shale|22078|Amadeus Basin
+28612|Huckitta Granodiorite|467256|Arunta Orogen
+8558|Hugh River Shale|22078|Amadeus Basin
+8560|Hughie Sandstone|467208|Birrindudu Basin
+8643|Idracowra Sandstone|22078|Amadeus Basin
+41844|Ikuntji Metamorphics|467256|Arunta Orogen
+8653|Illara Sandstone|22078|Amadeus Basin
+41845|Illili Suite|364772|Warumpi Province
+41845|Illili Suite|467256|Arunta Orogen
+25690|Illoquara Sandstone|467256|Arunta Orogen
+21994|Illyabba Metamorphics|467256|Arunta Orogen
+42369|Ilpili Dolerite|364772|Warumpi Province
+42369|Ilpili Dolerite|467256|Arunta Orogen
+8701|Ingula Migmatite Complex|467256|Arunta Orogen
+8702|Ingula Migmatite Suite|467256|Arunta Orogen
+26630|Inindia beds|22078|Amadeus Basin
+42375|Ininti Granite|364772|Warumpi Province
+42375|Ininti Granite|467256|Arunta Orogen
+27437|Inkamulla Granodiorite|467256|Arunta Orogen
+41160|Inningarra Suite|467226|Tanami Orogen
+42200|Inyalinga Granulite|364772|Warumpi Province
+42200|Inyalinga Granulite|467256|Arunta Orogen
+8769|Irindina Gneiss|467256|Arunta Orogen
+8769|Irindina Gneiss|512258|Irindina Province
+24318|Iwupataka Metamorphic Complex|364772|Warumpi Province
+24318|Iwupataka Metamorphic Complex|467256|Arunta Orogen
+22013|Jalma Formation|512264|McArthur Basin
+8851|Jamieson Formation|21914|Bonaparte Basin
+8851|Jamieson Formation|22102|Browse Basin
+8851|Jamieson Formation|26965|Malita Graben
+8851|Jamieson Formation|28315|Vulcan Sub-basin
+8851|Jamieson Formation|28590|Sahul Platform
+8851|Jamieson Formation|33446|Londonderry High
+8851|Jamieson Formation|33676|Troubadour Terrace
+8878|Jarrad Sandstone Member|467204|Wolfe Basin
+8892|Jay Creek Limestone|22078|Amadeus Basin
+27291|Jennings Granitic Gneiss|467256|Arunta Orogen
+30859|Jennings Suite|467256|Arunta Orogen
+28624|Jervois Granite|467256|Arunta Orogen
+30860|Jervois Suite|467256|Arunta Orogen
+8949|Jessie Gap Gneiss|467256|Arunta Orogen
+22033|Jigaimara Formation|359040|Arafura Basin
+26643|Jinka Granite|467256|Arunta Orogen
+30861|Jinka Suite|467256|Arunta Orogen
+24321|Johannsen Metagabbro|467256|Arunta Orogen
+9070|Julie Formation|22078|Amadeus Basin
+22045|Junalki Formation|468265|Warramunga Province
+72697|Kaidwalla Granite|468041|Davenport Province
+9110|Kakadu Group|512263|Pine Creek Orogen
+75724|Kalkarindji Suite|529556|Georgina Basin
+9156|Kamarga Volcanics|556523|Mount Isa Orogen
+9156|Kamarga Volcanics|559187|Century Domain
+9201|Kanandra Granulite|467256|Arunta Orogen
+9292|Karns Dolomite|512264|McArthur Basin
+9292|Karns Dolomite|556523|Mount Isa Orogen
+9312|Katherine River Group|512264|McArthur Basin
+9368|Keep Inlet Formation|22075|Petrel Sub-basin
+9375|Keepera Group|22113|Ngalia Basin
+9375|Keepera Group|529556|Georgina Basin
+9402|Kellys Knob Sandstone|21914|Bonaparte Basin
+75947|Keri Metamorphics|512263|Pine Creek Orogen
+25117|Kerridy Sandstone|22113|Ngalia Basin
+9483|Keyling Formation|21914|Bonaparte Basin
+9483|Keyling Formation|22075|Petrel Sub-basin
+9483|Keyling Formation|22114|Canning Basin
+9483|Keyling Formation|22196|Roebuck Basin
+9483|Keyling Formation|28315|Vulcan Sub-basin
+9483|Keyling Formation|28450|Ashmore Platform
+9483|Keyling Formation|33446|Londonderry High
+69563|Kiana Group|529556|Georgina Basin
+9589|Kinevans Sandstone|467204|Wolfe Basin
+25973|Kings Legend Amphibolite Member|467256|Arunta Orogen
+9623|Kinmore Group|21914|Bonaparte Basin
+9623|Kinmore Group|22075|Petrel Sub-basin
+9623|Kinmore Group|26965|Malita Graben
+9623|Kinmore Group|28450|Ashmore Platform
+9623|Kinmore Group|28590|Sahul Platform
+9623|Kinmore Group|33446|Londonderry High
+33373|Kombolgie Subgroup|408323|Pine Creek Region
+24341|Koolpinyah Dolomite|512263|Pine Creek Orogen
+72419|Koonoonyeri Granite|364771|Aileron Province
+72419|Koonoonyeri Granite|467256|Arunta Orogen
+24345|Kudinga Basalt|468041|Davenport Province
+75502|Kukalak Gneiss|512263|Pine Creek Orogen
+33810|Kulail Sandstone|22078|Amadeus Basin
+9896|Kulshill Group|21914|Bonaparte Basin
+9896|Kulshill Group|22075|Petrel Sub-basin
+9896|Kulshill Group|359040|Arafura Basin
+9923|Kuriyippi Formation|21914|Bonaparte Basin
+9923|Kuriyippi Formation|22075|Petrel Sub-basin
+9923|Kuriyippi Formation|28450|Ashmore Platform
+9923|Kuriyippi Formation|28590|Sahul Platform
+9923|Kuriyippi Formation|33446|Londonderry High
+10002|Lady Loretta Formation|467256|Arunta Orogen
+10002|Lady Loretta Formation|556523|Mount Isa Orogen
+10002|Lady Loretta Formation|559187|Century Domain
+10002|Lady Loretta Formation|559201|Mount Oxide Domain
+10045|Lake Frome Group|529788|Arrowie Basin
+28264|Lake Surprise Sandstone|22109|Wiso Basin
+72364|Lamboo Complex - dolerite|429252|Lamboo Province
+34216|Laminaria Formation|21914|Bonaparte Basin
+34216|Laminaria Formation|28590|Sahul Platform
+69780|Lander Rock Formation|364771|Aileron Province
+69780|Lander Rock Formation|467256|Arunta Orogen
+10161|Langfield Group|21914|Bonaparte Basin
+10161|Langfield Group|22075|Petrel Sub-basin
+10161|Langfield Group|28315|Vulcan Sub-basin
+10163|Langford Gneiss|467256|Arunta Orogen
+10170|Langra Formation|22078|Amadeus Basin
+10184|Larapinta Group|22078|Amadeus Basin
+24355|Laughlen metamorphics|467256|Arunta Orogen
+10261|Lawn Hill Formation|556523|Mount Isa Orogen
+10261|Lawn Hill Formation|559187|Century Domain
+10289|Ledan Schist|364771|Aileron Province
+10289|Ledan Schist|467256|Arunta Orogen
+10294|Lees Sandstone|550572|Carpentaria Basin
+42373|Leisler Metamorphics|364772|Warumpi Province
+42373|Leisler Metamorphics|467256|Arunta Orogen
+10337|Lena Quartzite Member|556523|Mount Isa Orogen
+10337|Lena Quartzite Member|559196|Leichhardt River Domain
+10365|Lewis Range Sandstone|467255|Murraba Basin
+75948|Lilyarba Mafics|512263|Pine Creek Orogen
+26689|Limbla Member|22078|Amadeus Basin
+10414|Limbunya Group|467208|Birrindudu Basin
+41847|Lizard Schist|364772|Warumpi Province
+41847|Lizard Schist|467256|Arunta Orogen
+10515|Ljiltera Member|22078|Amadeus Basin
+10668|Lothari Hill Sandstone|22109|Wiso Basin
+22219|Lovely Hill Schist|467256|Arunta Orogen
+10686|Loves Creek Member|22078|Amadeus Basin
+10840|Lucas Formation|22114|Canning Basin
+42372|Lyell Brown Granite|364772|Warumpi Province
+42372|Lyell Brown Granite|467256|Arunta Orogen
+10952|Mackunda Formation|529302|Eromanga Basin
+10952|Mackunda Formation|550572|Carpentaria Basin
+29769|Madderns Yard Metamorphic Complex|364772|Warumpi Province
+29769|Madderns Yard Metamorphic Complex|467256|Arunta Orogen
+72658|Madderns Yard Metamorphic Complex - granite|467256|Arunta Orogen
+33044|Madderns Yard Suite|467256|Arunta Orogen
+23751|Malita Formation|21914|Bonaparte Basin
+23751|Malita Formation|22075|Petrel Sub-basin
+23751|Malita Formation|26965|Malita Graben
+23751|Malita Formation|28315|Vulcan Sub-basin
+23751|Malita Formation|28590|Sahul Platform
+23751|Malita Formation|33446|Londonderry High
+23751|Malita Formation|33676|Troubadour Terrace
+38423|Manga Mauda Member|467256|Arunta Orogen
+25203|Manton Group|512263|Pine Creek Orogen
+27478|Mapata Gneiss|467256|Arunta Orogen
+26015|Marligur Member|22330|Money Shoal Basin
+11361|Marraba Volcanics|556523|Mount Isa Orogen
+11361|Marraba Volcanics|559199|Mitakoodi Domain
+11378|Marshall Granite|467256|Arunta Orogen
+26019|Mascotte Gneiss Complex|467256|Arunta Orogen
+11476|Maurice Formation|22078|Amadeus Basin
+11512|McArthur Group|512264|McArthur Basin
+26731|McKinlay Granite|512263|Pine Creek Orogen
+11575|McNamara Group|556523|Mount Isa Orogen
+30958|Melville Bay Metamorphics|559170|Arnhem Province
+11649|Mendip Metamorphics|364771|Aileron Province
+11649|Mendip Metamorphics|467256|Arunta Orogen
+11667|Mereenie Sandstone|22078|Amadeus Basin
+11835|Milingimbi Formation|359040|Arafura Basin
+11862|Milligans Formation|21914|Bonaparte Basin
+11862|Milligans Formation|22075|Petrel Sub-basin
+11911|Minglo Granite|512263|Pine Creek Orogen
+72365|Minglo Granite - phase 1|512263|Pine Creek Orogen
+72366|Minglo Granite - phase 2|512263|Pine Creek Orogen
+25243|Mirarrmina Complex|559170|Arnhem Province
+12126|Montara Formation|21914|Bonaparte Basin
+12126|Montara Formation|28315|Vulcan Sub-basin
+12130|Montejinni Limestone|22109|Wiso Basin
+72393|Montejinni Limestone, Hooker Creek Formation|22109|Wiso Basin
+12250|Moonkinu Sandstone|21914|Bonaparte Basin
+25260|Moonlight Valley Tillite|467204|Wolfe Basin
+12299|Mooroongga Formation|359040|Arafura Basin
+12305|Mopunga Group|22109|Wiso Basin
+12305|Mopunga Group|22113|Ngalia Basin
+12305|Mopunga Group|529556|Georgina Basin
+25731|Mordor Igneous Complex|42174|Mordor Nickel (prospective) Metallogenic Province
+25731|Mordor Igneous Complex|467256|Arunta Orogen
+24389|Mount Airy Orthogneiss|467256|Arunta Orogen
+26755|Mount Bleechmore Granulite|467256|Arunta Orogen
+12528|Mount Bonner Sandstone|512264|McArthur Basin
+27066|Mount Bonnie Formation|408323|Pine Creek Region
+12580|Mount Chapple Metamorphics|364771|Aileron Province
+12580|Mount Chapple Metamorphics|467256|Arunta Orogen
+35400|Mount Charles Formation|467226|Tanami Orogen
+12609|Mount Currie Conglomerate|22078|Amadeus Basin
+24395|Mount Davenport Diamictite Member|22113|Ngalia Basin
+27660|Mount Deane Volcanic Member|512263|Pine Creek Orogen
+23816|Mount Dobbie Granite|467256|Arunta Orogen
+12639|Mount Doreen Formation|22113|Ngalia Basin
+41952|Mount Dunkin Schist|467256|Arunta Orogen
+12672|Mount Eclipse Sandstone|22113|Ngalia Basin
+41953|Mount Freeling Schist|467256|Arunta Orogen
+12760|Mount Goodwin Formation|21914|Bonaparte Basin
+12760|Mount Goodwin Formation|22075|Petrel Sub-basin
+12760|Mount Goodwin Formation|26965|Malita Graben
+12760|Mount Goodwin Formation|28315|Vulcan Sub-basin
+12760|Mount Goodwin Formation|28450|Ashmore Platform
+12760|Mount Goodwin Formation|28590|Sahul Platform
+12760|Mount Goodwin Formation|33446|Londonderry High
+12786|Mount Hay Granulite|467256|Arunta Orogen
+12798|Mount Hooper Sandstone|512263|Pine Creek Orogen
+12816|Mount Ida Granite|467256|Arunta Orogen
+12822|Mount Isa Group|556523|Mount Isa Orogen
+41995|Mount Laughlen Quartzite|467256|Arunta Orogen
+12886|Mount Les Siltstone|556523|Mount Isa Orogen
+13010|Mount Parker Sandstone|467202|Osmond Basin
+13012|Mount Partridge Group|40011|Mount Todd Gold Metallogenic Province
+13012|Mount Partridge Group|512263|Pine Creek Orogen
+27050|Mount Porter Granite|467256|Arunta Orogen
+13064|Mount Rigg Group|512264|McArthur Basin
+13087|Mount Sanford Formation|467208|Birrindudu Basin
+27067|Mount Shepherd Rhyolite Member|512263|Pine Creek Orogen
+13103|Mount Smith Metamorphics|467256|Arunta Orogen
+13106|Mount Stafford Granite|467256|Arunta Orogen
+72421|Mount Stafford Member|42177|Mount Stafford Nickel (prospective) Metallogenic Province
+72421|Mount Stafford Member|364771|Aileron Province
+72421|Mount Stafford Member|467256|Arunta Orogen
+40026|Mount Stafford dolerite|42177|Mount Stafford Nickel (prospective) Metallogenic Province
+13125|Mount Swan Granite|467256|Arunta Orogen
+28815|Mount Thomas Quartzite|364771|Aileron Province
+28815|Mount Thomas Quartzite|467256|Arunta Orogen
+23837|Mount Tietkens Granite Complex|467256|Arunta Orogen
+13203|Mount Webb Granite|467256|Arunta Orogen
+31336|Mount Webb Suite|467256|Arunta Orogen
+72667|Mount Winnecke Formation - felsic volcanic facies|467226|Tanami Orogen
+29774|Mount Zeil Granite|467256|Arunta Orogen
+31337|Mount Zeil Suite|467256|Arunta Orogen
+13301|Mud Tank Carbonatite|467256|Arunta Orogen
+39323|Mulga Creek Granitic Gneiss|22078|Amadeus Basin
+39323|Mulga Creek Granitic Gneiss|467256|Arunta Orogen
+13380|Mullaman beds|550572|Carpentaria Basin
+33652|Mulyati Granite|22078|Amadeus Basin
+13494|Munyu Sandstone|467255|Murraba Basin
+13518|Muriel Range Sandstone|467255|Murraba Basin
+13528|Murphy Metamorphics|556523|Mount Isa Orogen
+26787|Murra-Kamangee Granodiorite|512263|Pine Creek Orogen
+13529|Murraba Formation|467255|Murraba Basin
+24412|Murrenja Dolerite|512263|Pine Creek Orogen
+13596|Musgrave Complex|467262|Musgrave Province
+31843|Mutitjulu Arkose|22078|Amadeus Basin
+13635|Myally Subgroup|556523|Mount Isa Orogen
+13635|Myally Subgroup|559201|Mount Oxide Domain
+13635|Myally Subgroup|559205|Sybella Domain
+13665|N'Dahla Member|22078|Amadeus Basin
+13676|Naburula Formation|22113|Ngalia Basin
+24417|Namatjira Formation|22078|Amadeus Basin
+38414|Namerinni Group|468043|Tomkinson Province
+13724|Namoona Group|512263|Pine Creek Orogen
+27856|Nanambu Complex|512263|Pine Creek Orogen
+72291|Naningbura Dolomite|359040|Arafura Basin
+41156|Nanny Goat Volcanics|467226|Tanami Orogen
+13823|Nappamerri Group|529511|Cooper Basin
+27091|Napperby Gneiss|467256|Arunta Orogen
+30862|Napperby Suite|467256|Arunta Orogen
+25329|Narbib Granulite|467256|Arunta Orogen
+13859|Naringa Calcareous Member|467256|Arunta Orogen
+37962|Narpa Group|529556|Georgina Basin
+29528|Narwietooma Metamorphic Complex|42155|Narwietooma Nickel (prospective) Metallogenic Province
+29528|Narwietooma Metamorphic Complex|467256|Arunta Orogen
+26072|Nathan Group|512264|McArthur Basin
+13949|Neave Sandstone|467208|Birrindudu Basin
+24427|Newhaven Shale Member|22113|Ngalia Basin
+24428|Newlands Volcanics|468041|Davenport Province
+31355|Ngadarunga Granite|467256|Arunta Orogen
+24429|Ngalurbindi Orthogneiss|467256|Arunta Orogen
+42368|Nguman Metamorphics|364772|Warumpi Province
+42368|Nguman Metamorphics|467256|Arunta Orogen
+14123|Nicholson Granite Complex|556523|Mount Isa Orogen
+22550|Nicker beds|467256|Arunta Orogen
+25343|Nimbuwah Complex|512263|Pine Creek Orogen
+72397|Nimbuwah Complex - migmatite|512263|Pine Creek Orogen
+14166|Ningbing Group|21914|Bonaparte Basin
+14166|Ningbing Group|22075|Petrel Sub-basin
+41951|Nolans Dam Metamorphics|467256|Arunta Orogen
+25346|Nome Formation|21914|Bonaparte Basin
+25346|Nome Formation|26965|Malita Graben
+25346|Nome Formation|28315|Vulcan Sub-basin
+25346|Nome Formation|28590|Sahul Platform
+25346|Nome Formation|33446|Londonderry High
+23881|Nourlangie Schist|512263|Pine Creek Orogen
+42398|Nyirripi beds|364771|Aileron Province
+42398|Nyirripi beds|467256|Arunta Orogen
+28161|Old Hamilton Downs Gneiss|467256|Arunta Orogen
+14550|Oliver Formation|21914|Bonaparte Basin
+14550|Oliver Formation|26965|Malita Graben
+14550|Oliver Formation|28315|Vulcan Sub-basin
+14550|Oliver Formation|28450|Ashmore Platform
+14550|Oliver Formation|28590|Sahul Platform
+14550|Oliver Formation|33446|Londonderry High
+14550|Oliver Formation|33676|Troubadour Terrace
+14563|Olympic Formation|22078|Amadeus Basin
+14590|One Tree Granite|556523|Mount Isa Orogen
+14591|Ongeva Granulite|467256|Arunta Orogen
+14592|Oodnadatta Formation|529302|Eromanga Basin
+14595|Oolbra Orthogneiss|467256|Arunta Orogen
+14599|Oonagalabi Gneiss Complex|467256|Arunta Orogen
+39122|Ooradidgee Group|39705|Warrego Metallogenic Province
+39122|Ooradidgee Group|468041|Davenport Province
+39122|Ooradidgee Group|468265|Warramunga Province
+27297|Ooralingie Granite|467256|Arunta Orogen
+14614|Ooraminna Sandstone Member|22078|Amadeus Basin
+29772|Ormiston Pound Granite|467256|Arunta Orogen
+14669|Osprey Formation|21914|Bonaparte Basin
+14669|Osprey Formation|26965|Malita Graben
+14669|Osprey Formation|28315|Vulcan Sub-basin
+14669|Osprey Formation|28450|Ashmore Platform
+14669|Osprey Formation|28590|Sahul Platform
+14669|Osprey Formation|33446|Londonderry High
+14669|Osprey Formation|33676|Troubadour Terrace
+14735|Packsaddle Microgranite|559170|Arnhem Province
+14744|Pacoota Sandstone|22078|Amadeus Basin
+41848|Papunya Igneous Complex|364772|Warumpi Province
+41848|Papunya Igneous Complex|467256|Arunta Orogen
+40028|Papunya gabbro|364772|Warumpi Province
+40028|Papunya gabbro|467256|Arunta Orogen
+14855|Parachilna Formation|20306|Mount Painter Block
+14857|Paradise Creek Formation|467256|Arunta Orogen
+14857|Paradise Creek Formation|556523|Mount Isa Orogen
+14857|Paradise Creek Formation|559187|Century Domain
+14857|Paradise Creek Formation|559201|Mount Oxide Domain
+14869|Pargee Sandstone|467226|Tanami Orogen
+14883|Parke Siltstone|22078|Amadeus Basin
+27873|Parsons Range Group|512264|McArthur Basin
+14948|Patmungala beds|467256|Arunta Orogen
+14976|Peaker Piker Volcanics|468269|Kalkarindji Igneous Province
+41849|Peculiar Complex|364772|Warumpi Province
+41849|Peculiar Complex|467256|Arunta Orogen
+27535|Pedestal beds|22114|Canning Basin
+24455|Perenti Metamorphics|467256|Arunta Orogen
+22644|Perta Hill Metamorphics|467256|Arunta Orogen
+15091|Pertaoorrta Group|22078|Amadeus Basin
+15094|Pertatataka Formation|22078|Amadeus Basin
+15099|Pertnjara Group|22078|Amadeus Basin
+15112|Petermann Sandstone|22078|Amadeus Basin
+15114|Peters Creek Volcanics|556523|Mount Isa Orogen
+72568|Phacopid Gully Bed|22114|Canning Basin
+15163|Pickwick Metabasalt Member|556523|Mount Isa Orogen
+15163|Pickwick Metabasalt Member|559196|Leichhardt River Domain
+15228|Pincombe Formation|467109|Carr Boyd Basin
+26103|Pine Hill Formation|364771|Aileron Province
+26103|Pine Hill Formation|467256|Arunta Orogen
+69776|Pingirnga Granite|364771|Aileron Province
+69776|Pingirnga Granite|467256|Arunta Orogen
+15279|Pinyinna beds|22078|Amadeus Basin
+15284|Pioneer Sandstone|22078|Amadeus Basin
+39078|Pitjantjatjara Supersuite|467262|Musgrave Province
+15306|Plain Creek Formation|556523|Mount Isa Orogen
+37959|Plenty Group|529556|Georgina Basin
+15330|Plover Formation|21914|Bonaparte Basin
+15330|Plover Formation|22075|Petrel Sub-basin
+15330|Plover Formation|22102|Browse Basin
+15330|Plover Formation|22330|Money Shoal Basin
+15330|Plover Formation|26965|Malita Graben
+15330|Plover Formation|28315|Vulcan Sub-basin
+15330|Plover Formation|28590|Sahul Platform
+15330|Plover Formation|33446|Londonderry High
+15330|Plover Formation|33676|Troubadour Terrace
+15334|Plum Tree Creek Volcanics|512263|Pine Creek Orogen
+26849|Point Spring Sandstone|21914|Bonaparte Basin
+26849|Point Spring Sandstone|22075|Petrel Sub-basin
+26849|Point Spring Sandstone|28315|Vulcan Sub-basin
+15384|Point Wakefield beds|22109|Wiso Basin
+23916|Pollard Formation|21914|Bonaparte Basin
+23916|Pollard Formation|26965|Malita Graben
+23916|Pollard Formation|28315|Vulcan Sub-basin
+23916|Pollard Formation|28450|Ashmore Platform
+23916|Pollard Formation|28590|Sahul Platform
+23916|Pollard Formation|33446|Londonderry High
+23916|Pollard Formation|33676|Troubadour Terrace
+15411|Pollock Hills Formation|467256|Arunta Orogen
+27881|Polly Conglomerate|22078|Amadeus Basin
+15442|Poolowanna Formation|529302|Eromanga Basin
+15442|Poolowanna Formation|529511|Cooper Basin
+26321|Possum Creek Charnockite|467256|Arunta Orogen
+33649|Pottoyu Granite Suite|467262|Musgrave Province
+15573|Prices Creek Group|22114|Canning Basin
+15604|Prion Formation|21914|Bonaparte Basin
+15604|Prion Formation|26965|Malita Graben
+15604|Prion Formation|28315|Vulcan Sub-basin
+15604|Prion Formation|28450|Ashmore Platform
+15604|Prion Formation|28590|Sahul Platform
+15604|Prion Formation|33446|Londonderry High
+15604|Prion Formation|33676|Troubadour Terrace
+15646|Puffin Formation|21914|Bonaparte Basin
+15646|Puffin Formation|22330|Money Shoal Basin
+15646|Puffin Formation|26965|Malita Graben
+15646|Puffin Formation|28315|Vulcan Sub-basin
+15646|Puffin Formation|28450|Ashmore Platform
+15646|Puffin Formation|33446|Londonderry High
+15684|Purni Formation|529549|Pedirka Basin
+41850|Putardi Quartzite|364772|Warumpi Province
+41850|Putardi Quartzite|467256|Arunta Orogen
+27544|Queenie Flat Granite|467256|Arunta Orogen
+15764|Quilalar Formation|556523|Mount Isa Orogen
+15764|Quilalar Formation|559196|Leichhardt River Domain
+15764|Quilalar Formation|559201|Mount Oxide Domain
+28948|Ragged Range Conglomerate|21914|Bonaparte Basin
+38003|Randall Peak Metamorphics|467256|Arunta Orogen
+15830|Ranford Formation|467204|Wolfe Basin
+72411|Rapide Granite|467256|Arunta Orogen
+72681|Redbank Deformed Zone|467256|Arunta Orogen
+15983|Redcliff Pound Group|467255|Murraba Basin
+70535|Redhackle Granite|364771|Aileron Province
+70535|Redhackle Granite|467256|Arunta Orogen
+38406|Renner Group|468043|Tomkinson Province
+16061|Reynolds Range Group|364771|Aileron Province
+16061|Reynolds Range Group|467256|Arunta Orogen
+16087|Riddock Amphibolite|467256|Arunta Orogen
+16104|Ringwood Member|22078|Amadeus Basin
+16107|Rinkabeena Shale|22078|Amadeus Basin
+16107|Rinkabeena Shale|22113|Ngalia Basin
+16118|Rising Sun Conglomerate|468043|Tomkinson Province
+16118|Rising Sun Conglomerate|468265|Warramunga Province
+24472|Riversleigh Siltstone|556523|Mount Isa Orogen
+24472|Riversleigh Siltstone|559187|Century Domain
+16267|Rolling Downs Group|22401|Laura-Lakefield Basin
+16267|Rolling Downs Group|27354|Surat Basin
+16267|Rolling Downs Group|529302|Eromanga Basin
+16267|Rolling Downs Group|550572|Carpentaria Basin
+16319|Roper Group|20211|Wearyan Shelf
+16319|Roper Group|512264|McArthur Basin
+16420|Ruby Gap Nappe Complex|467256|Arunta Orogen
+16439|Rum Jungle Complex|512263|Pine Creek Orogen
+24482|Rungutjirba Gneiss|467256|Arunta Orogen
+41851|Russell Charnockite|467256|Arunta Orogen
+22797|Ryans Gap Metamorphics|467256|Arunta Orogen
+16493|Sadadeen Range Gneiss|467256|Arunta Orogen
+16515|Sahul Group|21914|Bonaparte Basin
+16515|Sahul Group|22075|Petrel Sub-basin
+16515|Sahul Group|22102|Browse Basin
+16515|Sahul Group|28315|Vulcan Sub-basin
+16515|Sahul Group|28450|Ashmore Platform
+16515|Sahul Group|28590|Sahul Platform
+16515|Sahul Group|33446|Londonderry High
+26131|Samarkand Pegmatite|467256|Arunta Orogen
+23956|Sandpiper Sandstone|21914|Bonaparte Basin
+23956|Sandpiper Sandstone|22075|Petrel Sub-basin
+23956|Sandpiper Sandstone|28590|Sahul Platform
+42367|Sandy Blight Quartzite|364772|Warumpi Province
+42367|Sandy Blight Quartzite|467256|Arunta Orogen
+16619|Santo Sandstone|22078|Amadeus Basin
+16698|Scrutton Volcanics|559170|Arnhem Province
+72566|Scutellid Bed|22114|Canning Basin
+28991|Seale Sandstone|467208|Birrindudu Basin
+16726|Seigal Volcanics|556523|Mount Isa Orogen
+16758|Septimus Limestone|21914|Bonaparte Basin
+37961|Shadow Group|529556|Georgina Basin
+16787|Shady Bore Quartzite|467256|Arunta Orogen
+16787|Shady Bore Quartzite|556523|Mount Isa Orogen
+16787|Shady Bore Quartzite|559187|Century Domain
+72395|Shady Bore Quartzite, Plain Creek Formation, Lawn Hill Formation|556523|Mount Isa Orogen
+16797|Shannon Formation|22078|Amadeus Basin
+24493|Shoobridge Granite|512263|Pine Creek Orogen
+24495|Simpsons Gap Metasediments|467256|Arunta Orogen
+16942|Sir Frederick Conglomerate|22078|Amadeus Basin
+26141|Skinner Sandstone|467204|Wolfe Basin
+16978|Skull Creek Formation|467208|Birrindudu Basin
+16999|Sliding Rock Metamorphics|467256|Arunta Orogen
+17111|South Alligator Group|40011|Mount Todd Gold Metallogenic Province
+17111|South Alligator Group|512263|Pine Creek Orogen
+17123|South Nicholson Group|551269|South Nicholson Basin
+40018|Southwark Suite|364771|Aileron Province
+40018|Southwark Suite|467256|Arunta Orogen
+22869|Speares Metamorphics|467256|Arunta Orogen
+17150|Speewah Group|467103|Halls Creek Orogen
+17150|Speewah Group|467104|King Leopold Orogen
+17150|Speewah Group|467107|Speewah Basin
+29406|Spencer Creek Group|512264|McArthur Basin
+42234|Stafford Granite|467256|Arunta Orogen
+26147|Stairway Sandstone|22078|Amadeus Basin
+17256|Stanbroke Sandstone|556523|Mount Isa Orogen
+17256|Stanbroke Sandstone|559194|Kalkadoon-Leichhardt Domain
+37624|Stanley Metamorphics|512263|Pine Creek Orogen
+75910|Stanovos Gneiss|467256|Arunta Orogen
+17363|Stokes Siltstone|22078|Amadeus Basin
+17367|Stonewall Sandstone|467109|Carr Boyd Basin
+17395|Strangways Metamorphic Complex|467256|Arunta Orogen
+25695|Strzeleckie Volcanics|364771|Aileron Province
+25695|Strzeleckie Volcanics|467256|Arunta Orogen
+22910|Stuart Pass Dolerite|22078|Amadeus Basin
+22910|Stuart Pass Dolerite|467256|Arunta Orogen
+17454|Stubb Formation|467208|Birrindudu Basin
+17551|Surprise Creek Formation|556523|Mount Isa Orogen
+17551|Surprise Creek Formation|559187|Century Domain
+17551|Surprise Creek Formation|559194|Kalkadoon-Leichhardt Domain
+17551|Surprise Creek Formation|559196|Leichhardt River Domain
+17551|Surprise Creek Formation|559201|Mount Oxide Domain
+17572|Swan Formation|21914|Bonaparte Basin
+17572|Swan Formation|22075|Petrel Sub-basin
+17572|Swan Formation|28315|Vulcan Sub-basin
+17589|Sybella Granite|556523|Mount Isa Orogen
+27578|Tabletop Granite|512263|Pine Creek Orogen
+37706|Talipata Granite|364772|Warumpi Province
+37706|Talipata Granite|467256|Arunta Orogen
+17763|Tanami Group|467226|Tanami Orogen
+17763|Tanami Group|467256|Arunta Orogen
+17793|Tanmurra Formation|21914|Bonaparte Basin
+17793|Tanmurra Formation|22075|Petrel Sub-basin
+17902|Tawallah Group|20211|Wearyan Shelf
+17902|Tawallah Group|512264|McArthur Basin
+29770|Teapot Granite Complex|467256|Arunta Orogen
+41832|Teapot Suite|467256|Arunta Orogen
+17941|Tempe Formation|22078|Amadeus Basin
+17944|Temple Bar Sandstone Member|22078|Amadeus Basin
+39127|Tennant Creek Supersuite|39705|Warrego Metallogenic Province
+39127|Tennant Creek Supersuite|468265|Warramunga Province
+27058|Tennysons Leucogranite|512263|Pine Creek Orogen
+17968|Teppa Hill Metamorphics|467256|Arunta Orogen
+17975|Termite Range Formation|556523|Mount Isa Orogen
+17975|Termite Range Formation|559187|Century Domain
+18111|Ti-Tree Granophyre|512263|Pine Creek Orogen
+18130|Tickalara Metamorphics|429252|Lamboo Province
+35323|Tijunna Group|467208|Birrindudu Basin
+18163|Timber Creek Formation|467208|Birrindudu Basin
+24526|Tinfish Sandstone|467256|Arunta Orogen
+42374|Tinki Granite|364772|Warumpi Province
+42374|Tinki Granite|467256|Arunta Orogen
+36772|Tjauwata Group|22078|Amadeus Basin
+36772|Tjauwata Group|467262|Musgrave Province
+41853|Tjungkubu Granodiorite|364772|Warumpi Province
+41853|Tjungkubu Granodiorite|467256|Arunta Orogen
+69015|Todd River Dolostone|22078|Amadeus Basin
+18263|Toko Group|529556|Georgina Basin
+18275|Tolmer Group|467208|Birrindudu Basin
+18275|Tolmer Group|512263|Pine Creek Orogen
+18318|Tomkinson Creek Group|468043|Tomkinson Province
+38005|Tommys Gap Metamorphics|467256|Arunta Orogen
+18438|Torpedo Creek Quartzite|556523|Mount Isa Orogen
+18438|Torpedo Creek Quartzite|559187|Century Domain
+18438|Torpedo Creek Quartzite|559201|Mount Oxide Domain
+18473|Tortachilla Limestone|20406|St Vincent Basin
+18515|Townsend Quartzite|22115|Officer Basin
+30738|Treasure Suite|39705|Warrego Metallogenic Province
+24536|Trephina granitic gneiss|467256|Arunta Orogen
+18576|Treuer Member|22113|Ngalia Basin
+18608|Troughton Group|21914|Bonaparte Basin
+18608|Troughton Group|22075|Petrel Sub-basin
+18608|Troughton Group|28590|Sahul Platform
+18608|Troughton Group|33446|Londonderry High
+18718|Turnstone Formation|21914|Bonaparte Basin
+18718|Turnstone Formation|22102|Browse Basin
+18718|Turnstone Formation|28315|Vulcan Sub-basin
+18718|Turnstone Formation|28590|Sahul Platform
+18718|Turnstone Formation|33446|Londonderry High
+18718|Turnstone Formation|33676|Troubadour Terrace
+24545|Tyson Creek granulite|467256|Arunta Orogen
+41854|Udor Granite|364772|Warumpi Province
+41854|Udor Granite|467256|Arunta Orogen
+41855|Ulambaura Granodiorite|467256|Arunta Orogen
+24546|Uldirra Porphyry|467256|Arunta Orogen
+37622|Ulta Limestone|529801|Lake Eyre Basin
+72418|Umbeara Sandstone|364771|Aileron Province
+72418|Umbeara Sandstone|467256|Arunta Orogen
+26285|Unca Granite|467256|Arunta Orogen
+26188|Undandita Member|22078|Amadeus Basin
+18837|Undoolya Siltstone Member|22078|Amadeus Basin
+28281|Unimbra Sandstone|468041|Davenport Province
+28281|Unimbra Sandstone|468265|Warramunga Province
+19017|Utnalanama Granulite|467256|Arunta Orogen
+19019|Utopia Quartzite|467256|Arunta Orogen
+19044|Van Diemen Sandstone|22330|Money Shoal Basin
+19064|Vaughan Springs Quartzite|22113|Ngalia Basin
+19064|Vaughan Springs Quartzite|529556|Georgina Basin
+19070|Vee Formation|21914|Bonaparte Basin
+19070|Vee Formation|28315|Vulcan Sub-basin
+19070|Vee Formation|28450|Ashmore Platform
+19070|Vee Formation|33446|Londonderry High
+30314|Vizard Group|512264|McArthur Basin
+19148|Vulcan Formation|21914|Bonaparte Basin
+19148|Vulcan Formation|28315|Vulcan Sub-basin
+19148|Vulcan Formation|33446|Londonderry High
+23115|Wabudali Granite|364771|Aileron Province
+23115|Wabudali Granite|467256|Arunta Orogen
+31691|Wagait Suite|512263|Pine Creek Orogen
+30242|Wakurlpa Granite|467256|Arunta Orogen
+72423|Walabanba Member|364771|Aileron Province
+72423|Walabanba Member|467256|Arunta Orogen
+75550|Walbiri Dolostone|22113|Ngalia Basin
+27602|Waldo Pedlar Member|22078|Amadeus Basin
+19228|Walford Dolomite|556523|Mount Isa Orogen
+24069|Walkandi Formation|529549|Pedirka Basin
+23121|Walker River Formation|550572|Carpentaria Basin
+19323|Wallumbilla Formation|27354|Surat Basin
+42366|Walungurru Volcanics|364772|Warumpi Province
+42366|Walungurru Volcanics|467256|Arunta Orogen
+41856|Waluwiya Suite|467256|Arunta Orogen
+24556|Wangala Granite|467256|Arunta Orogen
+19392|Wangarlu Formation|21914|Bonaparte Basin
+19392|Wangarlu Formation|22075|Petrel Sub-basin
+19392|Wangarlu Formation|22330|Money Shoal Basin
+19392|Wangarlu Formation|26965|Malita Graben
+19392|Wangarlu Formation|28315|Vulcan Sub-basin
+19392|Wangarlu Formation|28450|Ashmore Platform
+19392|Wangarlu Formation|33446|Londonderry High
+19392|Wangarlu Formation|33676|Troubadour Terrace
+38831|Ware Group|467226|Tanami Orogen
+26331|Warimbi Schist|467256|Arunta Orogen
+35718|Warimbi Suite|467256|Arunta Orogen
+30741|Warramunga Formation|39705|Warrego Metallogenic Province
+30741|Warramunga Formation|468265|Warramunga Province
+19519|Warrego Granite|468265|Warramunga Province
+19609|Wattie Group|467208|Birrindudu Basin
+24565|Wauchope Subgroup|468041|Davenport Province
+19643|Weaber Group|21914|Bonaparte Basin
+19643|Weaber Group|22075|Petrel Sub-basin
+19643|Weaber Group|22114|Canning Basin
+19643|Weaber Group|22196|Roebuck Basin
+19658|Weberra Granite|556523|Mount Isa Orogen
+19658|Weberra Granite|559201|Mount Oxide Domain
+73949|Weldon Metamorphics|364771|Aileron Province
+73949|Weldon Metamorphics|467256|Arunta Orogen
+19716|Welltree Metamorphics|512263|Pine Creek Orogen
+27928|Wessel Group|359040|Arafura Basin
+19842|Westmoreland Conglomerate|556523|Mount Isa Orogen
+68351|Whistleduck Dyke Swarm|467256|Arunta Orogen
+19898|White Mountain Formation|22109|Wiso Basin
+19906|White Range Quartzite|467256|Arunta Orogen
+19906|White Range Quartzite|512258|Irindina Province
+24572|Whites Formation|512263|Pine Creek Orogen
+19928|Whitewater Volcanics|429252|Lamboo Province
+19928|Whitewater Volcanics|429253|Hooper Province
+19939|Whitworth Quartzite|556523|Mount Isa Orogen
+26213|Wickham Formation|467208|Birrindudu Basin
+24573|Wickstead Creek beds|467256|Arunta Orogen
+27305|Widdallion Sandstone Member|556523|Mount Isa Orogen
+27305|Widdallion Sandstone Member|559187|Century Domain
+24105|Wildman Siltstone|512263|Pine Creek Orogen
+20124|Wills Creek Granite|556523|Mount Isa Orogen
+72416|Windajong Granite|364771|Aileron Province
+72416|Windajong Granite|467256|Arunta Orogen
+20249|Winnall beds|22078|Amadeus Basin
+20268|Winton Formation|529302|Eromanga Basin
+20268|Winton Formation|550572|Carpentaria Basin
+20288|Wire Creek Sandstone|556523|Mount Isa Orogen
+20428|Wondoan Hill Formation|467208|Birrindudu Basin
+72422|Woodalla Member|364771|Aileron Province
+72422|Woodalla Member|467256|Arunta Orogen
+72988|Woodcutters Supergroup|512263|Pine Creek Orogen
+76081|Woodenjerrie beds|468265|Warramunga Province
+24584|Woodforde River beds|467256|Arunta Orogen
+28280|Woodgreen Granite Complex|467256|Arunta Orogen
+20549|Woolaston Formation|21914|Bonaparte Basin
+20549|Woolaston Formation|22102|Browse Basin
+20549|Woolaston Formation|28315|Vulcan Sub-basin
+20549|Woolaston Formation|28590|Sahul Platform
+20549|Woolaston Formation|33446|Londonderry High
+20549|Woolaston Formation|33676|Troubadour Terrace
+75946|Woolianna Gabbro|512263|Pine Creek Orogen
+24634|Woolner Granite|512263|Pine Creek Orogen
+20664|Wuluma Granite|467256|Arunta Orogen
+41833|Wuluma Suite|467256|Arunta Orogen
+24128|Xanten Granite|467256|Arunta Orogen
+20737|Yabooma Formation|359040|Arafura Basin
+20740|Yackah beds|529556|Georgina Basin
+24592|Yakalibadgi Microgranite|467256|Arunta Orogen
+31339|Yaloolgarrie Granite|467256|Arunta Orogen
+20788|Yambah Granulite|467256|Arunta Orogen
+27307|Yaningidjara Orthogneiss|467256|Arunta Orogen
+23289|Yanungbi Volcanics|512264|McArthur Basin
+23289|Yanungbi Volcanics|559170|Arnhem Province
+20852|Yaringa Metamorphics|467256|Arunta Orogen
+20852|Yaringa Metamorphics|556523|Mount Isa Orogen
+20852|Yaringa Metamorphics|559201|Mount Oxide Domain
+23298|Yarunganyi Granite|467256|Arunta Orogen
+41858|Yaya Metamorphic Complex|364772|Warumpi Province
+41858|Yaya Metamorphic Complex|467256|Arunta Orogen
+20928|Yeldham Granite|556523|Mount Isa Orogen
+69781|Yinabalbu Member|364771|Aileron Province
+69781|Yinabalbu Member|467256|Arunta Orogen
+23310|Yirrkala Formation|550572|Carpentaria Basin
+27634|Your Dam Metamorphics|467256|Arunta Orogen
+26250|Yuendumu Sandstone|22113|Ngalia Basin
+30244|Yulyupunyu Granitic Gneiss|467256|Arunta Orogen
+31344|Yumurrpa Granophyre|364771|Aileron Province
+31344|Yumurrpa Granophyre|467256|Arunta Orogen
+72410|Yunkanjini Granite|467256|Arunta Orogen
+27310|Zamu Dolerite|512263|Pine Creek Orogen
+21089|Zimmermann Sandstone|21914|Bonaparte Basin
+31434|dolerite 31434|467256|Arunta Orogen
+35743|gneiss 35743|467256|Arunta Orogen
+35746|gneiss 35746|467256|Arunta Orogen
+35747|gneiss 35747|467256|Arunta Orogen
+35748|gneiss 35748|467256|Arunta Orogen
+35749|gneiss 35749|467256|Arunta Orogen
+35750|gneiss 35750|467256|Arunta Orogen
+35751|gneiss 35751|467256|Arunta Orogen
+31351|gneisses 31351|467256|Arunta Orogen
+31347|granite 31347|467256|Arunta Orogen
+31348|granite 31348|467256|Arunta Orogen
+31349|granite 31349|467256|Arunta Orogen
+31352|granite 31352|467256|Arunta Orogen
+31433|granite 31433|467256|Arunta Orogen
+31350|granitic gneiss 31350|467256|Arunta Orogen
+31431|orthogneiss 31431|467256|Arunta Orogen
+31432|pegmatite 31432|467256|Arunta Orogen
+35744|quartzite 35744|467256|Arunta Orogen
+31435|schist 31435|467256|Arunta Orogen

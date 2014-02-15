@@ -1,0 +1,353 @@
+Stratno | Stratigraphic Name | Category | Contents | Last update 
+24159|Angry Hill Sandstone|Name source|Angry Hill, 5.6 km NNE of Romsey and 1.5 km W of View Hill; long. 144o47'00", lat. 37o18'41", Melbourne 1:250 000 Sheet.|
+24159|Angry Hill Sandstone|Unit history|The term "Lancefield Beds" was used informally for the outcrop of Lancefield Quarry by Hall (1899).|
+24159|Angry Hill Sandstone|Type section locality|No single well-exposed section exists. The type locality is Angry Hill and Deep Creek along the flanks of Angry Hill.|
+24159|Angry Hill Sandstone|Extent|The unit is intermittently exposed between its northern contact with the Cobaw Granodiorite near Mt William, to Deep Creek near Stauro Gully, a strike length of about 14 km.|
+24159|Angry Hill Sandstone|Thickness range|About 700 m in the type locality, to about 600 m farther north.|
+24159|Angry Hill Sandstone|Lithology|Dominantly sandstone, fine to very coarse, with some interbedded siltstone, black shale, and black siliceous shale, and several bands of fine conglomerate.|
+24159|Angry Hill Sandstone|Relationships and boundaries|The contacts with underlying Bryo Gully Shale, and overlying unnamed Bendigonian beds, are conformable. The base is defined by the change from micaceous black siltstone to sandstone. The top is virtually not exposed, and is defined by the appearance of the Bendigonian zone fossil Tetragraptus fruticosus.|
+24159|Angry Hill Sandstone|Age reasons|Graptolite faunas of the upper Lancefieldian (Lower Ordovician) La2 Zone of Adelograptus victoriae range through most of the formation; the La3 Zone of Tetragraptus approximatus is confined to a thin band at the top. The La2 fauna includes Adelograptus victoriae (T.S. Hall), Dictyonema macgillivrayi T.S. Hall, D. pulchellum T.S. Hall, Clonograptus rigidus (J> Hall), C. tenellus (Linnarsson), C. flexilis (J. Hall), C. magnificus (Pritchard), Kiaerograptus antiquus (T.S. Hall), K. pritchardi (T.S. Hall), K. taylori (T.S. Hall), Tetragraptus decipiens T.S. Hall, and abundant phyllocarid crustacea. The faunas of the uppermost beds of the formation are much poorer, but the presence of Tetragraptus approximatus is diagnostic of uppermost Lancefieldian (La3) age.|
+24171|Balook Formation|Name source|Named after the hamlet of Balook (AMG grid ref. 46200E 574600N), after which Thomas & Baragwanath (1948) named the Balook Block.|
+24171|Balook Formation|Type section locality|Occurs between a depth of 220 and 630 metres in bore Denison 53 - AMG coordinates 490884 m east, 5791256 m north, zone 54. Tops and bottoms interpreted from wire-line logs. Sample stored in Department of Minerals and Energy core store.|
+24171|Balook Formation|Extent|Occurs as a sub-surface unit trending in a NNE-SSW direction along the western margin of the Gippsland sedimentary basin within the Lake Wellington and Seaspray Depressions.|
+24171|Balook Formation|Lithology|Fine to medium grained quartz sand with numerous ligneous and clayey horizons. Predominantly sandy in the type section, but sand to clay ratio varies in other bores depending on their relative position with respect to the marine facies equivalent. Calcareous marine fossils are absent in the type section but the siliceous foraminifera Ammodiscus occurs in some horizons. The unit is up to 400 m thick, 4 to 5 kilometres wide and extends some 10's of kilometres laterally.|
+24171|Balook Formation|Relationships and boundaries|Overlies the Latrobe Group (Eocene) and is overlain by the late Miocene to Pliocene Lake Wellington Formation. Its depositional mode is interpreted as being a type of barrier sequence between the marine Seaspray Group (Upper Oligocene to Middle Miocene) and its non-marine facies equivalent and the presence of flora indicative of the Proteacidites tuberculatus zone.|
+24171|Balook Formation|Name first published by|Vandenberg, A.H.M. 1975.|
+28253|Baranduda Granite|Name source|Granite lies within Parish of Baranduda incorporating Mount Baranduda. An AMG reference is Zone 55 H-487400 5987900 Albury 1:100 000 Sheet area (822, Ed. 1, Series R 652), Wangaratta 1:250 000 sheet area (SJ 55-2, Ed. 1, Series R 502).|
+28253|Baranduda Granite|Type section locality|Fresh granite is exposed along the T.V. Jeep Track 500 m due east of Mount Baranduda. (See grid ref. above).|
+28253|Baranduda Granite|Extent|The granite is exposed over 2 km2 at Mount Baranduda, 6 km north of Yackandandah.|
+28253|Baranduda Granite|Lithology|Granite, fine grained, consisting essentially of plagioclase, potash feldspar, quartz and biotite with a crystal size of 0.2 to 2 mm. The plagioclase forms anhedral crystals which are zoned and in places incipiently sericitized. Potash feldspar occurs as anhedral crystals which show microcline twinning and are in places incipiently sericitized. Quartz forms anhedral, relatively unstrained, crystals. Biotite flakes are fresh. Sericite occurs as an alteration product of the feldspars and as thin selvedges to most of the crystals.|
+28253|Baranduda Granite|Relationships and boundaries|Granite previously not recorded. Granite intrudes gneiss of the Omeo-Albury Metamorphic Complex. Contact relationships are not exposed. The granite is unstressed.|
+28253|Baranduda Granite|Age reasons|Potassium-argon dating suggests a minimum age of 388+/-4 million years (McKenzie et al. 1983).|
+28253|Baranduda Granite|Proposed publication|Report of the Geological  Survey of Victoria|
+24199|Bryo Gully Shale|Name source|Bryo Gully, a tributary of Deep Creek, 5.4 km NE of Romsey (long. 144o47'30", late. 37o19'20", Melbourne 1:250 000 Sheet).|
+24199|Bryo Gully Shale|Type section locality|Bryo Gully, 215 m to 389 m upstream from its junction with Deep Creek.|
+24199|Bryo Gully Shale|Extent|The formation is intermittently exposed between its northern contact with the Cobaw Granodiorite, SW of Mt William, to Stauro Gully, a strike length of about 13 km.|
+24199|Bryo Gully Shale|Thickness range|Ranges from about 160 m (type section) to about 130 m.|
+24199|Bryo Gully Shale|Lithology|In measured sections in Bryo and Stauro Gullies, the formation consists of a basal 60 m thick unit of black siliceous shale, a middle 60 m thick unit of soft, mostly thin-bedded siltstone, and an upper 40 m thick unit of black siliceous shale with some siltstone.|
+24199|Bryo Gully Shale|Relationships and boundaries|Contacts with the underlying Split Hill sandstone and overlying Angry Hill Formation are conformable. The base is sharp, marked by abrupt change from sandstone to siliceous shale. The top is gradational, marked by increase in mica content just below the basal sandstone of the Angry Hill Sandstone.|
+24199|Bryo Gully Shale|Age reasons|The type locality of the lower Lancefieldian (Lower Ordovician) La1.5 Zone of Psigraptus and Clonograptus is situated about 59 m above the base in Bryo Gully, and it contains Psigraptus lenzi Jackson and slender Clonograptus spp. The upper Lancefieldian La2 Zone of Adelograptus victoriae first appears in the uppermost 12 m of the formation, and comprises A. victoriae (T.S. Hall), Kiaerograptus antiquus (T.S. Hall), Temnograptus sp., Clonograptus tenellus (Linnarsson), C. spp., Tetragraptus decipiens T.S. Hall, T. bulmani Thomas. (Cooper & Stewart, in press).|
+24200|Buckeran Diorite|Name source|Parish of Buckeran Yarrack.|
+24200|Buckeran Diorite|Type section locality|Adjacent to a creek at grid reference 645200-5823800.|
+24200|Buckeran Diorite|Extent|Unit extends over an area of approximately 6 km2 in the vicinity of Yarrack Road (grid reference 645200-5823800 and 644300-5821900; Willaura 1:100 000 Topographic map), and also near grid reference 643000-5825600.|
+24200|Buckeran Diorite|Lithology|Massive, medium to coarse grained, weakly to strongly magnetic, dark grey to greenish, holocrystalline intrusive rock composed of plagioclase, pyroxene, hornblende, biotite, quartz, accessory apatite and zircon and secondary sphene, chlorite and epidote.|
+24200|Buckeran Diorite|Relationships and boundaries|Unit is intrusive into the St Arnaud Beds, in which a narrow contact metamorphic aureole has been developed; manifested by the presence of quartz hornfels and phyllite.|
+24200|Buckeran Diorite|Age reasons|No definite age is available. Possibly contemporaneous with the nearby (Early Devonian) Bushby Creek Granodiorite.|
+24785|Bullung Siltstone|Name source|Parish of Bullung, Matlock district.|
+24785|Bullung Siltstone|Unit history|Whether this formation is included in Unit 1 of the Matlock Formation of Moore (1965) is difficult to establish. The lithology given by Moore (bluish slates, blue-yhellow claystones, greenish siltstones increasingly towards the top of Unit 1) can only be partly reconciled with the lithology of the Bullung Siltstone. The only locality given by Moore (p.231) lies at a horizon in the Norton Gully Sandstone, stratigraphically much higher in the sequence.|
+24785|Bullung Siltstone|Type section locality|T-J Divide and new MMBW Swingler Road, Matlock 188-565 to 217-533.|
+24785|Bullung Siltstone|Extent|Confined to the Easton Axis, traceable from the Thomson River near Swingler's to Enoch's point.|
+24785|Bullung Siltstone|Thickness range|Approx. 600 m.|
+24785|Bullung Siltstone|Lithology|Predominantly thinly banded siltstones, typically olive green in outcrop; several interbedded turbidite horizons of thick structureless fine-grained sandstone or siltstone.|
+24785|Bullung Siltstone|Fossils|Comminuted shelly fauna with rare monograptids in turbidites. Shelly fauna includes abundant bryozoa, brachipoda (incl. Orthids, Plectodonta, Leptestiina, ?Aegiria, Stropheodonta, Strophonella, "Chonetes", Lissatrypa, Eospirifer, Howellella etc.), trilobita, rare corals including Pleurodictyum megastoma, rare monograptids (M. ex gr. dubius).|
+24785|Bullung Siltstone|Relationships and boundaries|Conformable with underlying McAdam Hill Sandstone and overlying Sinclair Valley Sandstone.|
+24785|Bullung Siltstone|Age reasons|Lower to Middle Silurian (triangulatus zone near Wenlock-Ludlow boundary).|
+39124|Dja Dja Wrung Supergroup|Name source|Dja Dja Wrung tribe, whose land extends over much of western Victoria.|
+39124|Dja Dja Wrung Supergroup|Constituents|Includes the Magdala Volcanics, the Pitfield Volcanics and the Heathcote Volcanics and their subsurface equivalents.|
+39124|Dja Dja Wrung Supergroup|Lithology|Tholeiitic basalt and intrusive rocks typical of oceanic crust.|
+39124|Dja Dja Wrung Supergroup|Age reasons|Upper Proterozoic to Lower Cambrian (lies below the Knowsley East Shale).|
+39124|Dja Dja Wrung Supergroup|Correlations|Correlates with other ocean floor rocks formed during the Upper Proterzoic and Early Cambrian in eastern Australia.|07/JUL/11
+39124|Dja Dja Wrung Supergroup|Proposed publication|Moore, D.H., (2003). St. Arnaud 1:250 000 map: a geological interpretation of geophysical data. Victorian Initative for Minerals and Petroleum, Report 8x. Department of Primary Industries, Victoria.|
+24942|Echuca Formation|Name source|Parish of Echuca North, grid reference 277540, Bendigo 1:250 000 sheet area.|
+24942|Echuca Formation|Unit history|Lawrence (1975, fig 90) tentatively included these beds in his "Torrumbarry Clay" unit.|
+24942|Echuca Formation|Type section locality|Mines Department borehole Echuca North 1, grid reference 277540. The hole was drilled in 1963 by a percussion rig and samples are kept by the Mines Department.  The description of the type section is as follows: (from Lawrence 1975).|
+24942|Echuca Formation|Extent|The formation occurs only in the subsurface and was encountered in the Echuca, Naroika, Kyabram and Kotta districts.|
+24942|Echuca Formation|Thickness range|Up to 38 metres.|
+24942|Echuca Formation|Lithology|Light brown to grey slightly carbonaceous clay. It is micaceous and sandy in parts.|
+24942|Echuca Formation|Relationships and boundaries|It occurs as a lense within the Calivil Formation (Macumber, 1973) at depths of between 90 and 120 metres. It appears to be conformable with the overlying and underlying Calivil Formation.|
+24942|Echuca Formation|Age reasons|The microspore Nothofagus emarcida was reported from this formation (Lawrence 1975). The age range of this fossil is Upper Cretaceoeus to Middle Miocene (Ripper, personal communication). The formation is underlain by beds containing fossils which range in age from Lower Eocene to Lower Miocene. Therefore the age range of the Echuca Formation is Lower Eocene to Lower Miocene.|
+24942|Echuca Formation|Proposed publication|Published Report, Geol. Survey of Vict.|
+24942|Echuca Formation|References|79/02696|
+24942|Echuca Formation|Defn approved by|Victoria (taken from a photocopy - see 75/381)|
+24942|Echuca Formation|Name first published by|Tickell S.J., 1977|
+24268|Enano Group|Name source|Parish of Enano, Limestone Creek area, NE Victoria (Tallangatta 1:250 000 Sheet).|
+24268|Enano Group|Unit history|In previous literature, the unit is referred to as the Cowombat Group (Talent, 1965; Talent et al., 1975, 1964, 1967) or was included in the Wombat Creek Group (VandenBerg et al., 1976). The name Cowombat Group is pre-occupied by the Cowombat Formation (Talent et al., 1964, 1967, 1975; Talent, 1965).|
+24268|Enano Group|Constituents|Gibsons Folly Formation, Towanga Formation, Cowombat Formation.|
+24268|Enano Group|Type section locality|No single area includes all units, so the two belts specified above are designated as type area.|
+24268|Enano Group|Extent|The unit is exposed in two broad belts, flanking Thorkidaan Volcanics; one extending from Bindi northeast to the Indi River (outcrop area about 100 km2), another extending from Bindi northeast to Mt Wombargo (outcrop area about 180 km2). Preliminary mapping suggests that another belt occurs east of the Snowy River Volcanics.|
+24268|Enano Group|Thickness range|Not known, probably in the order of 1 to 10 m.|
+24268|Enano Group|Lithology|The group consists of interbedded acid (rhyodacite) to intermediate (andesite) and rare mafic (basalt) volcanics, and marine sediments (siltstone, sandstone, volcaniclastic sediments, conglomerate, and limestone lenses).|
+24268|Enano Group|Relationships and boundaries|Contacts with Lower Silurian? Metamorphics (Omeo Metamorphic Complex, derived from Upper Ordovidian) are faulted. Contacts with Thorkidaan Volcanics (Silurian?) are mostly fault true stratigraphic relationships not established. Contact with overlying Snowy River Volcanics (Lower Devonian) is a sharp, angular, regional unconformity.|
+24268|Enano Group|Age reasons|The Gibsons Folly Beds are unfossiliferous. The two other formations contain Upper Silurian shelly fossils and conodonts (Talent et al., 1975 - see Cowombat Group). The shelly fauna is very similar to that of the Yass Basin sequence.|
+24268|Enano Group|References|Vandenberg A.H.M., Garratt M.J., Spencer-Jones D., 1976. Silurian, in Geology of Victoria, Spec. Pap. Geol. Soc. Austr., 5:44-76 (79/04447); Talent J.A., 1965d. The stratigraphic and diastrophic evolution of central and eastern Victoria in middle Palaeozoic times. Proc. roy. Soc. Vic. 79(1) p179-195 (01/31646).|
+27289|Gibsons Folly Formation|Name source|Gibsons Folly Track, grid ref. 850-330, Omeo 1:63 360 map (Bairnsdale 1:250 000 Sheet).|
+27289|Gibsons Folly Formation|Type section locality|Along unnamed NW-flowing tributary of Tambo River, about 1 km SW of Tea Pot Creek Track (approx. grid ref. 880-370), Glen Wills 1:63 360 sheet) (Tallangatta 1:250 000 sheet).|
+27289|Gibsons Folly Formation|Extent|In a narrow NNE trending belt from Bindi to Dead Horse Creek Bairnsdale and Tallangatta 1:250 000 sheets) (approx. area 35 km2), and in a small belt near junction of Reedy Creek and Buchan River (Bairnsdale Sh.).|
+27289|Gibsons Folly Formation|Thickness range|Due to complex deformation, thickness is not known.|
+27289|Gibsons Folly Formation|Lithology|In the type section, the unit consists of strongly foliated acid volcanics (rhyodacite) interbedded with marine slate. Farther NE, in the headwaters of Middle Creek (around grid ref. 980-510) the unit includes a substantial proportion of andesite. Apart from siltstone (slate), the unit also includes conglomerate, fine to coarse volcaniclastic sediments, and rare sandstone.|
+27289|Gibsons Folly Formation|Relationships and boundaries|Contacts with high-grade Omeo Metamorphic Complex are faulted; with overlying?Cowombat Formation gradational and probably conformable.|
+27289|Gibsons Folly Formation|Age reasons|The strong contrast in metamorphic grade between the unit (greenschist facies) and the adjacent Omeo Metamorphic Complex (Hornblende hornfels facies) suggests that the unit post-dates the Omeo Complex; the best age for that is Early Silurian. The overlying? Cowombat Formation contains good Late Silurian shelly fossils, thus the age of the Gibsons Folly Formation may be Middle or early Late Silurian.|
+27289|Gibsons Folly Formation|First Reference|82/23016|
+24287|Glen Creek Lithic Sandstone|Name source|Glen Creek (021031, Alexandra).|
+24287|Glen Creek Lithic Sandstone|Type section locality|(011075 to 027074, Euroa, 1:100 000).|
+24287|Glen Creek Lithic Sandstone|Thickness range|250 m, type section|
+24287|Glen Creek Lithic Sandstone|Lithology|Lithic sandstone, quartz sandstone, siltstone, shale and oligomictic conglomerate.|
+24287|Glen Creek Lithic Sandstone|Relationships and boundaries|The Glen Creek Lithic Sandstone conformably overlies the Bonnie Doon Formation and outcrops in the major synclinorium east of Dry Creek Rd. The base of the formation is marked by discontinuous conglomerate lenses and lithic sandstone. The formation is overlain by unnamed mudstones to the east. Whereas poorly bedded, grey-green quartz sandstones and mudstones predominate, conglomerate and several units of grey lithic sandstone form mappable horizons. These latter are only 1-10 m thick but are usually continuous for hundreds of metres.  On lithological grounds, the Glen Creek Lithic Sandstone is correlated with the Norton Gully Sandstone of the Walhalla Group (VandenBerg, 1975). As for the Bonnie Doon Formation, lack of fossil evidence makes the correlation tentative.|
+24287|Glen Creek Lithic Sandstone|Proposer|Phillips G.N. and Wall V.J.|
+24287|Glen Creek Lithic Sandstone|Resdate|12-APR-1978|
+25015|Glenronald Shale Member|Name source|"Glenronald" property, grid reference 644600-5831300, Willaura 1:100 000 Topographic map.|
+25015|Glenronald Shale Member|Type section locality|Creek, immediately south of Mount Stavely and north of the Glenelg Highway (grid reference 644300-5830800, Willaura 1:100 000 Topographic Map).|
+25015|Glenronald Shale Member|Extent|This unit outcrops for a strike length of 11 km, from near Stavely Railway Siding to just south of Yarrack Road.|
+25015|Glenronald Shale Member|Thickness range|Drilling indicates that the unit is at least 13 m thick (Buckland, 1984). However, the unit is approximately 8 m thick at the type locality.|
+25015|Glenronald Shale Member|Lithology|Laminated black pyritic shale, laminated grey volcanic siltstone and minor black chert.|
+25015|Glenronald Shale Member|Relationships and boundaries|Both boundaries are marked by the change to coarse volcanic breccia (Fairview Andesitic Breccia). Toward the north (642600-5834900) unit appears to be in contact with the overlying Nanapundah Tuff unit, suggesting a transgressive relationship.|
+25015|Glenronald Shale Member|Age reasons|No palaeontological evidence. Assumed to be Cambrian.|
+25015|Glenronald Shale Member|References|83/23306|
+25015|Glenronald Shale Member|Status|1|
+24290|Glenthompson Sandstone|Name source|Glenthompson township, on the Glenelg Highway, Western Victoria.|
+24290|Glenthompson Sandstone|Type section locality|In a creek, grid reference 647500-5830800 Willaura 1:100 000 Topographic Map.|
+24290|Glenthompson Sandstone|Extent|Outcrops over extensive areas to the immediate east towards Wickliffe and west towards Glenthompson; of the Mount Stavely Volcanic Complex. (Buckland G.L. and Ramsay W.R.H. 1982).|
+24290|Glenthompson Sandstone|Thickness range|Thickness not known.|
+24290|Glenthompson Sandstone|Lithology|Massive to thickly bedded quartzose sandstone and greywacke with minor thinly bedded discontinuous siltstone lenses. The sandstone comprises about 90% subangular to angular quartz grains to 0.5 mm length with the remainder of the unit being composed of sub-angular feldspathic volcanic fragments and siltstone fragments; set in a matrix comprising very fine quartz grains and sericite laths, with minor constituents being chlorite, carbonate, sericite and biotite; opaque material and rare microcline. This unit is grey to white in colour on fresh surfaces but weathered outcrops appear orangish.  At grid reference 646100E, 5832500N; Willaura 1:100 000 Topographic Map, sequence also contains a thin (10 cm) calcareous mudstone interbed with nearby pebbly horizons and a 1 m wide conglomerate band that contains subrounded to rounded mature sandstone clasts up to 12 cm and smaller rounded volcanic? (?andesite) clasts. At Gray Creek in the southwest, thin calcareous mudstone is interbedded with slightly metamorphosed siltstone (Wilkinson in Cooper and Grindley; 1982).|
+24290|Glenthompson Sandstone|Relationships and boundaries|Faulted against the western and eastern margins of Mount Stavely Volcanic Complex at the Mount Stavely West Fault and Mount Stavely East Fault respectively. No exposed contact with the Glenelg River Beds to the west and the St Arnaud Beds to the east.|
+24290|Glenthompson Sandstone|Age reasons|Age not known. Assumed to be only slightly younger than the Mount Stavely Volcanic Complex, (Cambrian or older - Buckland and Ramsay, 1982) owing to the presence of volcanic fragments near to the eastern margin of the Complex. (Wilkinson H.E. in Cooper R.A. and Grindley G.W., 1982; Ramsay, 1982, 1983; Buckland G.L. in prep.). The oldest overlying rocks are those of the late Silurian-early Devonian Grampians Group.|
+24290|Glenthompson Sandstone|Comments|NOTE: This name is a variation of Glenthompson beds proposed by H.E. Wilkinson (in Cooper R.A. and Grindley G.W; 1982).|
+24290|Glenthompson Sandstone|References|83/23306|
+24290|Glenthompson Sandstone|Proposer|Wilkinson H.E. and Buckland G.L.|
+24290|Glenthompson Sandstone|Resdate|18-APR-1984|
+24290|Glenthompson Sandstone|Status|1|
+27663|Kergunyah Granite|Name source|Granite lies in central part of Parish of Kergunyah, 4 km west of Kergunyah South. A general AMG is Zone 55 H - 499000 5971300 Albury 1:100 000 sheet area (8225, Ed. 1. Series R 652), Wangaratta 1:250 000 Sheet area (SJ 55-2, Ed. 1, Series R502).|
+27663|Kergunyah Granite|Type section locality|Fresh granite is exposed along Cherry Tree Creek Road (see Grid Ref. Above).|
+27663|Kergunyah Granite|Extent|The granite is exposed over 6 km2 on the south eastern portion of the Albury 1:100 000 Sheet area about 6 km ENE of Glen Creek. The granite extends onto the adjoining Tallangatta 1:100 000 Sheet area (8325).|
+27663|Kergunyah Granite|Lithology|Granite, medium grained. Thin section shows it consisting predominantly of plagioclase, quartz and potash feldspar with minor biotite, muscovite and chlorite. The plagioclase forms subhedral to anhedral, zoned crystals up to 5 mm long which are commonly incipiently sericitized. Quartz and potash feldspar occur as anhedral crystals of similar size to the plagioclase; the potash feldspar is perthitic in places and shows microcline twinning. Biotite forms irregular flakes up to 1 mm in size which are predominantly fresh although some flakes are partially to completely chloritized. Muscovite flakes are less abundant and generally of smaller size than the biotite.|
+27663|Kergunyah Granite|Relationships and boundaries|Granite previously not recorded. The granite intrudes gneiss and schist of the Omeo-Albury Metamorphic Complex. The boundary is normal intrusive with a contact metamorphic effect more noticeable in the schists. The granite is unstressed.|
+27663|Kergunyah Granite|Age reasons|Potassium-argon dating suggests a minimum age of 392 +/- 4 million years (McKenzie et al. 1983).|
+27663|Kergunyah Granite|Proposed publication|Report of the Geological Survey of Victoria|
+27663|Kergunyah Granite|Resdate|22-APR-1983|
+24352|Lalkaldarno Porphyry|Name source|Parish of Lalkaldarno.|
+24352|Lalkaldarno Porphyry|Type section locality|At grid reference 643400-5835500, Willaura 1:100 000 Topographic Map, near Stavely Road.|
+24352|Lalkaldarno Porphyry|Extent|Unit outcrops over approximately 3 km2 in two principal areas - adjacent to the Glenelg Highway and south of Stavely Railway Siding. Scattered outcrops occur elsewhere in the Mount Stavely Volcanic Complex.|
+24352|Lalkaldarno Porphyry|Lithology|The unit is an intrusive, massive light grey porphyritic holocrystaline rock containing phenocrysts of plagioclase, hornblende and augite, and microphenocrysts of quartz, zircon, apatite and opaque oxide; set in a quartzo-feldspathic mosaic with small patches of sphene, epidote and chlorite.|
+24352|Lalkaldarno Porphyry|Relationships and boundaries|Field relations indicate that the unit is intrusive into other units of the Mount Stavely Volcanic Complex.|
+24352|Lalkaldarno Porphyry|Age reasons|No evidence of age. Post-dates extrusive and sedimentary units of the Mount Stavely Volcanic Complex.|
+24352|Lalkaldarno Porphyry|Defn approved by|Asked 12/10/82 for approval sign.|
+24352|Lalkaldarno Porphyry|Resdate|10-JUN-1982|
+24354|Lano Gully Sandstone|Name source|Lano Gully; Lat. 37o19'33", Long. 144o47'54", Melbourne 1:250 000 Sheet.|
+24354|Lano Gully Sandstone|Type section locality|Lano Gully and upper part of Stauro Gully.|
+24354|Lano Gully Sandstone|Extent|The formation is intermittently exposed between its contact with the Cobaw Granodiorite, near Mt William, to Stauro Gully, east of Romsey; the total strike length is about 12 km.|
+24354|Lano Gully Sandstone|Thickness range|About 280 m in type section; about 180 m near Mt William.|
+24354|Lano Gully Sandstone|Lithology|Predominantly greywacke-type sandstone with a little interbedded siltstone; predominantly thick-bedded, with sedimentary structures suggesting they are turbidites.|
+24354|Lano Gully Sandstone|Relationships and boundaries|The contact with the underlying Goldie Chert is somewhat gradational and conformable, marked by the disappearance of cherty shale and by a change from thin, regular, shaly bedding to poorly bedded siltstone with prominent mica component. The contact with the overlying Stauro Gully Shale is sharp and conformable, marked by sharp change from siltstone to black certy shale.|
+24354|Lano Gully Sandstone|Age reasons|The unit is unfossiliferous, but the overlying Stauro Gully Shale contains basal Lancefieldian (La1, Lowermost Ordovician) graptolites. The underlying Goldie Chert is also unfossiliferous. The unit is best correlated with the lower Tremadocian (i.e. either Lower Ordovician or uppermost Cambrian, depending on the definition of the Cambro-Ordovidian boundary).|
+11503|McAdam Sandstone|Name source|McAdam Hill, Yarra Track, near Mt Matlock|
+11503|McAdam Sandstone|Unit history|Informally referred to as "the Silurian sandstones at the base of McAdam's Hill Syncline..." by Harris and Thomas (1947, p.48, Min. Geol. J. 3(1), 44-49).  Moore (1965 Proc. Roy. Soc. Vict. 78(2) 221-239) defined the Saint Clair Formation as "the oldest Silurian sediments outcropping adjacent to the strike fault west of McAdam Hill where they are typically represented by black slates".  Although Moore did not recover any fossils, he argued that these are the repeat of the "M. exiguus beds" of Harris and Thomas (1947). There is however considerable doubt about which unit is referred to by Moore, as black slates are extremely rare in the McAdam Sandstone, but are the characteristic lithology of the Upper Ordovidian Easton Shale, which outcrops at the same locality.  Both units are quite richly fossiliferous.|
+11503|McAdam Sandstone|Type section locality|(a) Yarra Track below McAdam Hill (Matlock 155-628 to 157-634 and 165-630 to 170-646);  (b) Big River Road near Enoch's Point (Jamieson 102-839 to 104-807).|
+11503|McAdam Sandstone|Extent|Confined to the Easton Axis, where it outcrops from Enoch's Point to the Thomson River near its junction with Jordan R; also known from the Waratah Bay district (Douglas & Paton 1972). Min. Geol. J. 7(2) 33.|
+11503|McAdam Sandstone|Thickness range|No complete section known. Its maximum exposed thickness is in the order of 500 m.|
+11503|McAdam Sandstone|Lithology|Thick-bedded structureless to thin-bedded laminated and current-bedded sandstones, sandy siltstones and minor shales. The thick sandstones typically show very poor sorting, and contain large muscovite flakes.|
+11503|McAdam Sandstone|Fossils|Llandoverian graptolites, including Monograptus pridon, M.pandus, M. exiguus, M. spiralis, M. ex gr. Triangulatus, Stomatograptus australis, Rastrites sp.|
+11503|McAdam Sandstone|Relationships and boundaries|Faulted against Upper Ordovician Easton Shale wherever found; conformable with overlying Bullung Siltstone (see its definition also).|
+11503|McAdam Sandstone|Age reasons|Lower Silurian (up to triangulatus zone).|
+11503|McAdam Sandstone|Defn approved by|Taken from copy of approved def. sent by Victorian Sub-Committee|
+11503|McAdam Sandstone|Name first published by|VandenBerg A.H.M., 1973|
+27199|Monegeetta Shale|Name source|Township of Monegeetta, 47.5 km NNW of Melbourne, Melbourne 1:250 000 sheet.|
+27199|Monegeetta Shale|Type section locality|Along Deep Creek below Brock's Hill, GR 0351-6126 (base) to 0356-6227 (top of unit), Springfield 1:25 000 sheet.|
+27199|Monegeetta Shale|Extent|The unit is exposed along the Heathcote Belt from its northern contact with the Cobaw Granodiorite, to Brock's Hill, Monegeetta, a strike length of 20 km. An isolated outlier occurs in a creek section near the Riddell-Monegeetta Road, 5.6 km SW of Brock's Hill.|
+27199|Monegeetta Shale|Thickness range|About 200 m in type section, to at least 580 m farther north at Kilmore Gap (possibly exaggerated by folding).|
+27199|Monegeetta Shale|Lithology|Predominantly black shale and black siltstone, siliceous at base of unit; with up to 10% of interbedded thick to very thin lithic (basalt-derived) graded sandstone.|
+27199|Monegeetta Shale|Relationships and boundaries|Contact with underlying Heathcote Greenstone is sharp, probably conformable, marked by abrupt change from metabasalt to siliceous shale. Contact with overlying Goldie Chert is conformable and gradational, marked by gradual change from soft shale to cherty shale and chert, extending over about 20 m.|
+27199|Monegeetta Shale|Age reasons|The type section contains the famous "hydroid band", of which the rich dendroid fauna has been described by Chapman & Thomas (1936). The Kilmore Gap section contains abundant algal remains, and inarticulate brachiopods and a few trilobites. On the whole, the age suggested by the fossils is Middle Cambrian or early Late Cambrian (P A Jell, pers. comm.).|
+27199|Monegeetta Shale|References|79/19684; +;+;+|
+27199|Monegeetta Shale|Category|2|
+27199|Monegeetta Shale|Defn approved by|Victorian Stratigraphic Nomenclature Sub-Committee|
+26039|Montys Hut Formation|Name source|Monty's Hut, at the junction of the Yarra Track and the Marysville-Woods Point Road, Matlock district.|
+26039|Montys Hut Formation|Unit history|The formation includes a number of localities which were referred to the Tanjil Formation and the Upper Yarra Formation by Moore (1965, Proc. Roy. Soc.Vict. V. 78, p.221-229). The affinities of Moore's units are difficult to establish. The Tanjil Formation is largely the equivalent of the Norton's Creek Sandstone and Walhalla Beds of Thomas (1953, Min. Geol. Jnl. Vict., v 5, pt 2, p. 27), but other stratigraphically equivalent horizons were included by Moore in the Matlock Formation and in the Upper Yarra Formation.  The present author has revised the definition of the Norton Gully Sandstone, and has included all the localities of Unit 1 of the Upper Yarra Formation, and part of the (type?) section of Unit 2 of this formation. Thus the Montys Hut Formation is not considered to be the equivalent of the Upper Yarra Formation.|
+26039|Montys Hut Formation|Extent|So far recognised only in the Upper Yarra-Matlock District.|
+26039|Montys Hut Formation|Thickness range|Probably in excess of 3000 m.|
+26039|Montys Hut Formation|Lithology|Predominantly thin-bedded fine sandstones, siltstones and claystones with interbedded sandstones of medium thickness.|
+26039|Montys Hut Formation|Relationships and boundaries|Conformable with underlying Norton Gully Sandstone; relationship with overlying Koala Creek Beds not certain.|
+26039|Montys Hut Formation|Age reasons|Probably largely Middle Devonian.|
+26039|Montys Hut Formation|Defn author|VandenBerg A.H.M., 1975.|
+26039|Montys Hut Formation|Defn approved by|taken from copy of approved def. sent by Victorian Sub-Committee|
+13108|Mount Stavely Volcanic Complex|Name source|Mount Stavely; grid reference 644400-5831400, Willaura 1:100 000 Topographic map.|
+13108|Mount Stavely Volcanic Complex|Constituents|Lalkaldarno Porphyry (a formation).  Williamsons Road Serpentinite (a formation).  Towanway Tuff (a formation).  Narrapumelap Road Rhyolite Member (a member).  Nanapundah Tuff (a formation).  Fairview Andesitic Breccia (a formation). Glenronald Chert Member (a member).|
+13108|Mount Stavely Volcanic Complex|Type section locality|Type localities for the respective units comprising the Mount Stavely Volcanic Complex are grid referenced to the Willaura 1:100 000 Topographic Map.|
+13108|Mount Stavely Volcanic Complex|Extent|The Mount Stavely Volcanic Complex is exposed over approximately 33 km2 in the southwest portion of the Ballarat 1:250 000 Sheet area (SJ 54-8), in the vicinity of Wickliffe (651900-5826900, Willaura 1:100 000 Topographic map).|
+13108|Mount Stavely Volcanic Complex|Lithology|The Mount Stavely Volcanic Complex comprises a sequence of ultramafic to acid extrusive, intrusive and epiclastic rocks. Their lithology is radically different from adjacent massive sandstone, greywacke and minor siltstone of the St Arnaud Beds.|
+13108|Mount Stavely Volcanic Complex|Relationships and boundaries|Faulted against sediments of the St Arnaud Beds.|
+13108|Mount Stavely Volcanic Complex|Age reasons|No palaeontological evidence.  Assumed to be Cambrian.|
+13108|Mount Stavely Volcanic Complex|Category|2 (Res.as Mount Stavely Complex)|
+13108|Mount Stavely Volcanic Complex|Defn approved by|asked 12/10/82 for approval sign.|
+24418|Nanapundah Tuff|Name source|Parish of Nanapundah|
+24418|Nanapundah Tuff|Type section locality|North of the Glenelg Highway, grid reference 644100-5833300, Willaura 1:100 000 Topographic Map.|
+24418|Nanapundah Tuff|Extent|Outcrops over approximately 3 km2, south of Stavely Railway Siding and adjacent to the Glenelg Highway.|
+24418|Nanapundah Tuff|Thickness range|True thickness not known. Maximum outcrop width is approximately 800 m.|
+24418|Nanapundah Tuff|Lithology|The unit is a massive, poorly to moderately sorted, dark green rock composed of abundant (approximately 70% by volume) debris comprising angular to subrounded lithic fragments of porphyritic and vesicular andesite, up to 2 mm across; and crystal debris (plagioclase, K-feldspar, clinopyroxene) in a very fine grained matrix of chlorite, sphene, prehnite, epidote and minor sericite. Some hand specimens display fine bedding represented by the alignment of lithic fragments.|
+24418|Nanapundah Tuff|Relationships and boundaries|Western (and assumed stratigraphically lower) contact marked by change to coarse volcanic breccia (Fairview Andesitic Breccia) while the eastern contact is represented by the appearance of serpentinite (Williamsons Road Serpentinite) adjacent to the Glenelg Highway or by acidic rocks of the Towanway Tuff in the north.|
+24418|Nanapundah Tuff|Age reasons|No palaeontological evidence. Assumed to be Cambrian|
+24418|Nanapundah Tuff|References|83/23306|
+24418|Nanapundah Tuff|Defn approved by|Asked 12/10/82 for approval sign.|
+24418|Nanapundah Tuff|Proposer|Buckland G.L.|
+24418|Nanapundah Tuff|Resdate|10-JUN-1982|
+15316|Platina Siltstone Member|Name source|Old Platina railway station near Coopers Creek.|
+15316|Platina Siltstone Member|Type section locality|Erica-Walhalla Road, Coopers Creek (Walhalla 403-178 to 403-185).|
+15316|Platina Siltstone Member|Extent|Recognised in the Coopers Creek area; near Telbit Crossing; and at the junction of the west and east branches of the Tanjil R.|
+15316|Platina Siltstone Member|Thickness range|Generally less than 100 m.|
+15316|Platina Siltstone Member|Lithology|Thin, medium and thick-bedded quartz-rich dark siltstones which sometimes show burrows: rare interbedded thin sandstones comprised of chert and basic igneous rock detritus.|
+15316|Platina Siltstone Member|Fossils|Its fairly rich shelly fauna has not been examined in detail.|
+15316|Platina Siltstone Member|Relationships and boundaries|Conformable with underlying Telbit Sandstone Member and with overlying Wilson Creek Shale; both contacts are exposed in the type section.|
+15316|Platina Siltstone Member|Age reasons|Early Devonian (probably Early Emsian).|
+15316|Platina Siltstone Member|Defn approved by|Taken from copy of approved def. Sent by Victorian Sub-Committee.|
+15316|Platina Siltstone Member|Name first published by|VandenBerg A.H.M., Garratt M.J., 1976|
+16421|Rubyview Gneiss|Name source|Property called 'Rubyview' in southwest corner of Hume 1:50 000 Sheet, grid ref. 051925.|
+16421|Rubyview Gneiss|Unit history|Tattam (1929) refers to this unit north of the Tarrangatta Schist as 'Banded Gneisses of Tarrangatta Creek'. To the south of the Tarrangatta Schist he calls the unit the 'Tallangatta Gneisses'.|
+16421|Rubyview Gneiss|Type section locality|Tarrangatta Creek, grid ref. 185080 to 195060. Well exposed section in creek, showing banding in gneiss suggestive of original sedimentary bedding.|
+16421|Rubyview Gneiss|Extent|The unit is found between Talgarno and Tallangatta, in the eastern half of the Hume 1:50 000 Sheet, and between Ebden and Sandy Creek in the southwest corner of the Hume 1:50 000 Sheet. To the south of the Hume 1:50 000 Sheet the southerly extent of the unit has not been delineated.|
+16421|Rubyview Gneiss|Thickness range|Indeterminate.|
+16421|Rubyview Gneiss|Lithology|North of the Tarrangatta Schist, the gneiss is medium to coarse grained, inhomogenous and granitic in composition. To the south of the Tarrangatta Schist the gneiss is more variable in nature, grading from well foliated banded gneiss into medium to coarse grained homogenous granitic gneiss in the south.|
+16421|Rubyview Gneiss|Relationships and boundaries|Apparently conformable contacts with the Tarrangatta Creek Schist in the eastern half of the Hume 1:50 000 Sheet. Faulted contact with the Bethanga Gneiss to the west. Outcrop between Ebden and Spring Creek shows apparently conformable contact to the southwest with Tarrangatta Creek Schist equivalents, possibly faulted to the northeast against Bellbridge Gneiss.|
+16421|Rubyview Gneiss|Age reasons|These gneisses form part of a belt of regionally metamorphosed rocks which grade eastwards into unmetamorphosed sediments. Graptolites of Eastonian to Gisbornian age have been recorded from the sediments 2 km from Walwa (45 km east of the gneiss), and on this basis the Rubyview Gneiss has been assigned a Late Ordovician age.|
+16421|Rubyview Gneiss|Proposed publication|Explanatory Notes on the Hume 1:50 000 Geological Map - Vic. Mines Dept. Unpubl. Rept.|
+16421|Rubyview Gneiss|References|01/31645|
+16421|Rubyview Gneiss|Proposer|O'Shea P.J.|
+16430|Rufus Formation|Name source|Rufus River|
+16430|Rufus Formation|Type section locality|Valley floor of Murray River between SA border and Mildura.  Location of Type Section: 3 miles SE of S end of Lake Victoria between Frenchmans Creek and The Wentworth-Renmark road at a corner in the road. Latitude 34o3'S, longitude 141o22'E. Large outlier on north bank of Frenchman's Creek.|
+16430|Rufus Formation|Extent|See map herewith|
+16430|Rufus Formation|Thickness range|a) At type section: 20+ ft;  b) Maximum known: 20+ ft.|
+16430|Rufus Formation|Lithology|Red alluvium - relics of a former floodplain.|
+16430|Rufus Formation|Fossils|Extinct Marsupials.|
+16430|Rufus Formation|Relationships and boundaries|Underlies Coonambidgal Formation as outliers (see note herewith). Boundaries defined as: (see note)|
+16430|Rufus Formation|Age reasons|Pleistocene - C14 datings on surrounding rocks and vertebrate palaeontology.|
+16430|Rufus Formation|Proposed publication|Memoir 34, National Museum, Victoria|
+16430|Rufus Formation|Comments|Defined|
+16430|Rufus Formation|Defn approved by|Copied from xerox sent by NSW Stratigraphic Nomenclature Sub-Committee.|
+16430|Rufus Formation|Name first published by|Gill E.D., 1973|
+16430|Rufus Formation|Reserved? Yes/No|E.D. Gill|
+16430|Rufus Formation|State(s)|NSW|
+25474|Shepparton Formation|Name source|City of Shepparton, grid reference 342512, Bendigo 1:250 000 Sheet area.|
+25474|Shepparton Formation|Type section locality|Mines Department of Victoria borehole Narioka 1, grid reference 312555, by a percussion rig and samples are kept by the Mines Department. The description of the section is as follows.|
+25474|Shepparton Formation|Extent|The unit occurs over the whole of the Riverine plain in northern Victoria and southern New South Wales.|
+25474|Shepparton Formation|Thickness range|Maximum of 132 metres but usually between 50 and 125 metres.|
+25474|Shepparton Formation|Lithology|Mottled brown, reddishs brown, grey, white and yellow clays and light brown, reddish brown and grey, fine to coarse grained sands and gravels. The sands are sometimes cross-bedded and often show upward fining in grainsize.|
+25474|Shepparton Formation|Relationships and boundaries|The top of the formation comprises much of the present day Riverine Plain land surface. Along the major river courses it is cut into and overlain by the river terrace deposits of the Coonambidgal Formation. Close to the highland front it unconformably overlies Palaeozoic rocks while further away from the highlands it either conformably or disconformably overlies various Tertiary Formations.  The Shepparton Formation dips away from the highland front with a grade of about 1 in 3000, paralleling the dip of the land surface.|
+25474|Shepparton Formation|Age reasons|Bowler (1967) obtained radio-carbon dates on the upper part of the formation, ranging from 20 900+/-500 years BP to 30 600+/-1300 years BP.  The lowest possible age limit of the formation is obtained from the Loddon area where it overlies a basalt flow dated as Upper Pliocene (Aziz-Ur-Rahaman and McDougall 1972).|
+25474|Shepparton Formation|Proposed publication|Published report, Geological Survey of Victoria|
+25474|Shepparton Formation|References|01/31644; 01/31643.|
+25474|Shepparton Formation|Defn approved by|retyped from photocopy see 75/381 8 November 1976|
+16928|Sinclair Valley Sandstone|Name source|Sinclair Valley, Springs Clearing, Yarra Track.|
+16928|Sinclair Valley Sandstone|Unit history|None.  N.B. It will be noted that if Moore's definition of the St Clear Formation is considered valid by the committee, an alternative name will be necessary for the above unit. If so, the alternative name I would propose to be Whitelaw Sandstone, derived from Whitelaw Creek, Upper Thomson area.|
+16928|Sinclair Valley Sandstone|Type section locality|(a) Big River Road, near 25-mile Creek (Jamieson 095-765 to 099-765);  (b) Thomson Portal Road, near Junction with Swingler Road (Matlock 232-511 to Aberfeldy 243-509).|
+16928|Sinclair Valley Sandstone|Extent|Along the Easton Axis, outcropping in a continuous belt from Thomson River near Whitelaw Creek to Bonnie Doon, and in the area west of Erica.|
+16928|Sinclair Valley Sandstone|Thickness range|Approx. 300 m|
+16928|Sinclair Valley Sandstone|Lithology|Thick-bedded structureless to thin-bedded laminated and current-bedded very fine-grained sandstones to siltstones with interbedded shales. Sandstones dark to very light grey in outcrop, often silicified.|
+16928|Sinclair Valley Sandstone|Fossils|Monograptids including Bohemograptus bohemicus bohemicus.|
+16928|Sinclair Valley Sandstone|Relationships and boundaries|Conformable between underlying Bullung Siltstone and overlying Thomson Siltstone.|
+16928|Sinclair Valley Sandstone|Age reasons|Upper Silurian|
+16928|Sinclair Valley Sandstone|Defn approved by|Taken from copy of approved def. Sent by Victorian Sub-Committee|
+24499|Split Hill Sandstone|Name source|Split Hill, south of Stauro Gully, 5.3 km NE of Romsey (grid ref. 833-951, Lancefield 1:63 360 Sheet). (Lat. 37o19'51", Long. 144o47'47", Melbourne 1:250 000 Sheet).|
+24499|Split Hill Sandstone|Type section locality|Bryo Gully, 420 m to 490 m upstream from its junction with Deep Creek.|
+24499|Split Hill Sandstone|Extent|The unit is intermittently exposed between its contact with the Cobaw Granodiorite near Mt William, to the southern slope of Split Hill, a strike length of about 12 km.|
+24499|Split Hill Sandstone|Thickness range|At least 61 m, at most 75 m.|
+24499|Split Hill Sandstone|Lithology|In measured sections in Bryo and Stauro Gullies, the formation consists of a basal 16 m thick unit of thick-bedded sandstone and siltstone, a middle 31 m thick unit of black siliceous shale, and a 15 m thick upper unit of interbedded sandstone and siltstone.|
+24499|Split Hill Sandstone|Relationships and boundaries|Contacts with underlying Stauro Gully Shale and overlying Bryo Gully Shale are both conformable, marked by sharp changes from siliceous shale to sandstone (at base) and sandstone to shale (top).|
+24499|Split Hill Sandstone|Age reasons|The formation lies stratigraphically between the type localities for the lower Lancefieldian (Lower Ordovician) La1 Zone of Dictyonema scitulum and Anisograptus, and the La1.5 Zone of Psigraptus and Clonograptus (see Copper & Stewart, in press, for zonal connotations). The formation itself contains phyllocarid crustacea but no graptolites.|
+24499|Split Hill Sandstone|Proposer|VandenBerg A.H.M.|
+24504|Stauro Gully Shale|Name source|Stauro Gully, 5.5 km NE of Romsey (long. 144o47'44", lat. 37o19'41", Melbourne 1:250 000 Sheet).|
+24504|Stauro Gully Shale|Unit history|Harris & Keble (1928) informally referred to the type section as "Springfield slates", but this name has since been pre-occupied by a better-known Silurian unit (Thomas, 1960; VandenBerg et al., 1976).|
+24504|Stauro Gully Shale|Type section locality|Stauro Gully, 511 m to 532 m upstream from its junction with Deep Creek.|
+24504|Stauro Gully Shale|Extent|The unit is intermittently exposed for a strike length of about 12 km, from its contact with the Cobaw Granodiorite, near Mt William, in the north, to a small tributary of Stauro Gully in the south.|
+24504|Stauro Gully Shale|Thickness range|Minimum 20 metres, maximum 35 metres, probably closer to the former.|
+24504|Stauro Gully Shale|Lithology|The unit consists exclusively of black siliceous shale, often pyritic.|
+24504|Stauro Gully Shale|Relationships and boundaries|Contacts with underlying Lano Gully Sandstone and overlying Split Hill Sandstone are both conformable, and are both defined by sharp lithological change from siliceous shale to greywacke.|
+24504|Stauro Gully Shale|Age reasons|The formation is the type stratum for the basal Lancefieldian (basal Ordovician) La1 Zone of Dictyonema scitulum and Anisograptus. The fauna, recently revised by Cooper & Stewart (in press) consists of Dictyonema scitulum Harris & Keble, D.? Enigma Cooper & Stewart, Anisograptus compactus Cooper &Stewart, A. Delicatulus Cooper &Stewart, and A. sp. Nov., and also includes abundant Caryocaris and a new arthropod genus. (P.A. Jell, in press).|
+24504|Stauro Gully Shale|References|Vandenberg A.H.M. et al. 1976. Silurian-Middle Devonian, Spec. Publ. Geol. Soc. Aust., 5:45-76.(79/04447); Jell P.A., in press. Two arthropods from the Lancefieldian (La1) of Central Victoria. Alcheringa ( 80/20855);  Harris W.J., Keble R.A., 1928. The Staurograptus Bed of Victoria. Proc. Roy. Soc. Vic. 40 (N.S.) part 2, p91 (01/31651).|
+24504|Stauro Gully Shale|Proposer|VandenBerg A.H.M & Wilkinson H.E.|
+17686|Talgarno Schist|Name source|Settlement of Talgarno on the north arm of Lake Hume (grid ref. 143085), Hume 1:50 000 Sheet.|
+17686|Talgarno Schist|Type section locality|Cutting on the Bellbridge to Granya road, grid ref. 192101.|
+17686|Talgarno Schist|Extent|The unit is exposed in the northern part of the Hume 1:50 000 Sheet, as lenses in the Bethanga Gneiss between the 'Talgarno Park' property (095129) and Mt Talgarno (098064), and in the Rubyview Gneiss along Wises Creek (190100 to 212075).|
+17686|Talgarno Schist|Thickness range|Indeterminate.|
+17686|Talgarno Schist|Lithology|Fine to medium grained, grey and white banded quartz-mica schists and grey quartzites.|
+17686|Talgarno Schist|Relationships and boundaries|The Talgarno Schist occurs as sporadic lenses within the Bethanga Gneiss and the Rubyview Gneiss. Contacts between the gneiss and schist appear to be gradational. The age relationships between the Talgarno Schist and the Bethanga and Rubyview Gneisses is not known.|
+17686|Talgarno Schist|Age reasons|These schists form part of a belt of regionally metamorphosed rocks which grade eastwards into unmetamorphosed sediments. Graptolites of Eastonian to Gisbornian age have been recorded from the sediments 2 km from Walwa (45 km east of the schist), and on this basis the Talgarno Schist has been assigned a Late Ordovician age.|
+17686|Talgarno Schist|Proposed publication|Explanatory Notes on the Hume 1:50 000 Geological Map - Vic. Mines Dept Unpubl. Rept|
+17686|Talgarno Schist|References|01/31645|
+17686|Talgarno Schist|First Reference|82/22719|
+24515|Tarrangatta Schist|Name source|Tarrangatta Creek in the northeast corner of the Hume 1:50 000 Sheet, grid ref. 1900700.|
+24515|Tarrangatta Schist|Unit history|Tattam (1929) referred to these schists as Upper Ordovician contact schists.|
+24515|Tarrangatta Schist|Type section locality|Exposures on the Georges Creek track (grid ref. 195015 to 208962 on track) in the eastern half of the Hume 1:50 000 Sheet. Pegmatite dykes intrude the schists on the track between grid ref. 210980 and 212970. A gradational change from Tarrangatta Schist to Rubyview Gneiss is seen at 208962.|
+24515|Tarrangatta Schist|Extent|The unit occurs in the northwest corner of the Tallangatta 1:250 000 Sheet, as a zone 1 to 6 km wide in outcrop, and may be traced in a southwest direction from the northern arm of Lake Hume (grid ref. 155075) to south of Wyeebo (grid ref. 380700).|
+24515|Tarrangatta Schist|Thickness range|Indeterminate.|
+24515|Tarrangatta Schist|Lithology|Grey to dark grey micaceous schist with ;minor siltstone and slate, grading southwest into strongly schistose silver-grey micaceous schists. Knotted schists occur within the unit.|
+24515|Tarrangatta Schist|Relationships and boundaries|North of the southern arm of Lake Hume the Tarrangatta Schist is bounded by Rubyview Gneiss, with which it shows a gradational relationship to the west and a sharply defined contact to the east. The northern extension of the schist is terminated by the Talgarno fault. South of Lake Hume the schist is bounded by granite to the west, and grades into weakly metamorphosed Ordovician sediments to the east.|
+24515|Tarrangatta Schist|Age reasons|These schists form part of a belt of regionally metamorphosed rocks which grade eastwards into unmetamorphosed sediments. Graptolites of Eastonian to Gisbornian age have been recorded from the sediments, 2 km from Walwa (45 km east of the schist), and on this basis the Talgarno Schist has been assigned a Late Ordovician age.|
+24515|Tarrangatta Schist|Proposed publication|Explanatory Notes on the Hume 1:50 000 Geological Map - Vic. Mines Dept Unpubl. Rept|
+24515|Tarrangatta Schist|References|01/31645|
+24515|Tarrangatta Schist|First Reference|82/22719|
+24515|Tarrangatta Schist|Proposer|O'Shea P.J.|
+17927|Telbit Sandstone Member|Name source|Telbit Crossing, an old railway Station, 2 1/2 km west of Erica.|
+17927|Telbit Sandstone Member|Unit history|The unit includes part of the Boola Beds and the entire Coopers Creek Formation of Philip (1962, op. cit.).|
+17927|Telbit Sandstone Member|Type section locality|(a) Telbit Road at Telbit Crossing (Walhalla 328-177 to 332-163).  (b) Erica-Walhalla Road, Coopers Creek (Walhalla 401-181 to 403-178 and 403-185 to 403-191).  (c) Immediate vicinity of the White Rock Quarry, Coopers Creek (Walhalla 407-155).|
+17927|Telbit Sandstone Member|Extent|Erica-Tyers R-Coopers Creek district; also at the junction of the east and west branches of the Tanjil R.; probably also in the Deep Creek area near Toongabbie (Kitson, 1925; Rec. Geol. Surv. Vict v 4, p. 443).|
+17927|Telbit Sandstone Member|Thickness range|About 450 m at Telbit Crossing; about 200 m near Coopers Creek.|
+17927|Telbit Sandstone Member|Lithology|Medium to thick-bedded fine to coarse sandstones, and gritstones, with some pebble conglomerates and limestones, and interbedded siltstones which predominate in the lower part of the unit; in the Tanjil R area, siltstones predominate, but thin to medium sandstones are regularly interbedded. The sandstones are characteristically lithic being composed of chert and basic igneous rock detritus, which has led some authors to describe them as tuffs.|
+17927|Telbit Sandstone Member|Fossils|Described by Philip (1962, pp. cit.; and 1965: Proc. Roy. Soc. Vict v.79, p.95-118).|
+17927|Telbit Sandstone Member|Relationships and boundaries|The unit comprises the lower part of the Coopers Creek Formation, and conformably overlies the Thomson River Siltstone (section b) or the Boola Beds. It conformably underlies the Platina Siltstone Member (section b).|
+17927|Telbit Sandstone Member|Age reasons|Early Devonian (Late Siegenian).|
+17927|Telbit Sandstone Member|References|Philip, 1962, Proc. Roy. Soc. Vict v.75, p.127|
+17927|Telbit Sandstone Member|Defn approved by|Taken from copy of approved def. sent by Victorian Sub-Committee|
+18080|Thorkidaan Volcanics|Name source|Name of Parish, Bairnsdale 1:250 000 map.|
+18080|Thorkidaan Volcanics|Unit history|Talent et al. (1964) and Talent (1967) included the unit in the Snowy River Volcanics.  VandenBerg (1976) used the invalid name 'Ready River Volcanics' for the unit.|
+18080|Thorkidaan Volcanics|Type section locality|McDougall Spur, NE of Bindi. Type section not designated.|
+18080|Thorkidaan Volcanics|Extent|The unit is exposed in several wide northeast-trending belts in the headwaters of the Tambo R, Buchan R and Indi R., and is depicted as Sv on the Bairnsdale and Tallangatta 1:250 000 geol. maps.|
+18080|Thorkidaan Volcanics|Thickness range|Not known|
+18080|Thorkidaan Volcanics|Lithology|Rhyolite, rhyodacite, tuff, crystal tuff, minor andesite; often highly deformed and sheared.|
+18080|Thorkidaan Volcanics|Relationships and boundaries|Overlies Cowombat Formation (Talent, 1965) with angular unconformity; underlies Snowy River Volcanics (Talent, 1965) with angular unconformity. Contacts with adjacent rocks usually faulted.|
+18080|Thorkidaan Volcanics|Age reasons|No fossils found within unit. From stratigraphic relationships, an earliest Devonian age is probable.|
+18080|Thorkidaan Volcanics|Proposed publication|Geol. Surv. Vic Reprt 1977/|
+18080|Thorkidaan Volcanics|Comments|See letter 20/7/78 for alterations.|
+18080|Thorkidaan Volcanics|References|Vandenberg A.H.M., 1976. The Tasman Fold Belt In Victoria. Geol. Surv. Vic. Rept 1976/3 (79/04441); Talent J.A., 1967. East Gippsland in McAndrew J. and Marsden N.A.H. (Eds) Geology Excursions Handbook ANZAAS 39th Congress, Melbourne, 69-85  (01/31652).|
+18080|Thorkidaan Volcanics|First Reference|81/22213|
+18080|Thorkidaan Volcanics|Proposer|VandenBerg A.H.M.|
+18080|Thorkidaan Volcanics|Resdate|20-FEB-1978|
+24532|Towanway Tuff|Name source|Parish of Towanway.|
+24532|Towanway Tuff|Type section locality|Near Christies Lane, grid reference 647600-5826800, Willaura 1:100 000 Topographic Map.|
+24532|Towanway Tuff|Extent|Outcrops over approximately 4 km2, south of Stavely Railway Siding and south of Williamsons Road.|
+24532|Towanway Tuff|Thickness range|Non known. Maximum outcrop width is approximately 800 m.|
+24532|Towanway Tuff|Lithology|The predominant lithology is a poorly to moderately sorted, pale green rock composed of abundant (approximately 60% by volume) fine angular lithic debris consisting of angular to subrounded volcanic fragments (commonly dacitic) and angular crystal debris comprising plagioclase, quartz, chloritised mafics and clinopyroxene set in an extremely fine chloritised matrix of similar composition. The formation contains minor finely laminated chert interbedded with fine tuffaceous beds; very fine grained laminated volcanic sandstone; and a rhyolite (Narrapumelap Road Rhyolite Member).|
+24532|Towanway Tuff|Relationships and boundaries|The contact with underlying(?) rocks appears to be transgressive. In the north the conformable or paraconformable contact is marked by the change to andesitic crystal lithic tuff (Nanapundah Tuff). In the south the contact is marked by a change to coarse volcanic breccia (Fairview Andesitic Breccia). The eastern (and assumed upper) contact is a fault contact with the St Arnaud Beds.|
+24532|Towanway Tuff|Age reasons|No palaeontological evidence.  Assumed to be Cambrian.|
+24532|Towanway Tuff|References|83/23306|
+24532|Towanway Tuff|Defn approved by|asked 12/10/82 for approval sign.|
+24532|Towanway Tuff|Proposer|Buckland G.L.|
+24532|Towanway Tuff|Resdate|10-JUN-1982|
+19417|Wannaeue Formation|Name source|Parish of "Wannaeue", enclosed within map grid references 288500YE, 263300YN, 304000YE, and 271750YN, Sorrento 1:63 360 Sheet area No. 867 Zone 7.|
+19417|Wannaeue Formation|Unit history|Keble (1946) referred to the interval in the Nepear No. 1 (Sorrento) Bore between 124.3 m and 133.5 m as the "Lower Dune Series".|
+19417|Wannaeue Formation|Type section locality|Wannaeue No. 13 bore, ref. 295750 YE 269000 YN from 74.7 m to 123.4 m (55.5 to 104.2 m below mean sea level). At 74.7 m occur coarse to pebbly fossiliferous quartz sands and sandy calcarenites which persist down to 123.4 m, including four intervals of shelly grey clays up to 9.1 m thick.|
+19417|Wannaeue Formation|Extent|The unit occurs in the subsurface in bores on the Nepean Peninsula west from Selwyn Fault and east from the Bellarine Fault. No outcrop is known.|
+19417|Wannaeue Formation|Thickness range|Range 38.1 to 85.3 m. Thickens westwards across the Nepean Peninsula towards Sorrento.|
+19417|Wannaeue Formation|Lithology|Predominantly shelly sands and clays in the Wannaeue bores, and predominantly coarse shelly calcarenites in the Nepean bores, with some finer shelly sand and/or calcarenite interbeds.|
+19417|Wannaeue Formation|Relationships and boundaries|Overlies the Brighton Group (Gill, 1957). The boundary relationship is indeterminate, and may be conformable, or disconformable and overlapping.  In the latter case the top of the Brighton Group includes weathered red-brown and yellow grey clays with carbonaceous material. Conformably overlain by the Bridgewater Formation (Boutakoff and Sprigg 1953) which is a much finer grained and less shelly calcarenite.|
+19417|Wannaeue Formation|Age reasons|The contained fauna includes amongst others the mollusc Zenatiopsis ultima Darragh & Kendrick, and the foraminifera Globorotalia crassaformis and G. hirsuta praehirsuta Blow; all of which indicate a Pliocene to early Pleistocene age (T. Darragh and C. Mallet pers. comm. in Holdgate, 1976).|
+19417|Wannaeue Formation|Proposed publication|Proceedings of the Royal Society of Victoria|
+19417|Wannaeue Formation|References|Boutakoff N., Sprigg R.C., 1953. Summary Report on the Petroleum possibilities of the Mount Gambier Sunklands. Mining and Geol. Journ. of Vic. 5, 2, pp28-42 (01/31653)|
+19417|Wannaeue Formation|Name first published by|Abele C., 1977|
+19816|Western Port Group|Proposed publication|Geological Survey Report No 58|
+19816|Western Port Group|References|Thompson B.R. 1974. Geology and Hydrogeology of the Westernport Sunklands. Geol. Surv. Rep. 1974/1 (79/04299); Abele C. 1976. Central coastal basins. Tertiary in Geology of Victoria (eds J G Douglas, J A Ferguson). Geol. Soc. Aust. Spec. Publ. 5, p229-248 (79/19679); Jenkin J J, 1962a. The geology and hydrology of the Western Port area. Underground Water Invest. geol. Surv. Vic., 5, p81 + maps (01/31654).|
+19921|Whitelaw Siltstone|Name source|Whitelaw Creek|
+19921|Whitelaw Siltstone|Unit history|Referred to as Thomson Siltstone by VandenBerg and Schleiger (1972, Bull. Amer. Geol. Soc. V. 83, p. 1565-1570), but no definition or description was given.|
+19921|Whitelaw Siltstone|Type section locality|(a) MMBW Thomson Portal Road, (Matlock 211-514 to 232-511).  (b) Yarra Track (Matlock 142-597 to 151-599).  (c) Moe-Erica Road, near Tyers R. (Moe 327-098 to 334-101).  (d) Erica-Walhalla Road, Coopers Ck (Walhalla 395-178 to 401-181).  (e) Eildon-Bonnie Doon Road, near Mitchell Bay (Eildon 1:50 000 prov., 964-931 to 968-943 metric).|
+19921|Whitelaw Siltstone|Extent|Recognised from the western flank of the Mt Easton "Axis" from Woodfield (near Bonnie Doon) to Whitelaw Ck (near the Thomson-Jordan R junction); and in the Tyers Anticline at Coopers Creek and in the Tanjil River Anticlinorium between the Tanjil and Tyers Rivers.|
+19921|Whitelaw Siltstone|Thickness range|About 1000 m near Woodfield; about 600 m in the Matlock district; about 700 m in the Telbit Anticline west of Erica.|
+19921|Whitelaw Siltstone|Lithology|Finely laminatead siltstones characterise the formation. It also includes very fine-grained quartz-mica sandstones, which are regularly interbedded, and several relatively thin horizons of thick-bedded quartz-rich sandstones.|
+19921|Whitelaw Siltstone|Relationships and boundaries|Conformable with underlying Sinclair Valley Sandstone (Sections a, b, c and e) throughout the distribution area; conformable with overlying Eildon Beds in the Eildon district (Section e); with the overlying Wilson Creek Shale in the Matlock district (section b); and with the overlying Coopers Creek Formation at Coopers Creek (sections c and d). The unit is regarded as a lateral equivalent of the Boola Beds (Philip, 1962: Proc. Roy. Soc. Vict. V 75, p 127), which lacks the fine lamination of the Thomson River Siltstone.|
+19921|Whitelaw Siltstone|Age reasons|Early Devonian (Gedinnian to Middle or Late Siegenian).|
+19921|Whitelaw Siltstone|Defn author|VandenBerg A.H.M., 1975|
+19921|Whitelaw Siltstone|Defn approved by|Taken from copy of approved def. sent by Victorian Sub-Committee|
+24575|Williamsons Road Serpentinite|Name source|Williamsons Road, grid reference 642600-5828200, Willaura 1:100 000 Topographic map.|
+24575|Williamsons Road Serpentinite|Type section locality|Creek adjacent to Williamsons Road, grid reference 646900-5827800, Willaura 1:100 000 Topographic Map.|
+24575|Williamsons Road Serpentinite|Extent|Over approximately 2 km2 in two areas - near the intersection of Williamsons Road and Christies Lane, and in the north near Stavely railway siding.|
+24575|Williamsons Road Serpentinite|Lithology|Pale grey to red-brown to dark greenish grey, brecciated "web-textured" rock indistinctly foliated at some locations, comprising a remnant platy and fibrous serpentine mineral (chrysotile?), euhedral chromite grains and abundant replacement quartz, opaline silica veinlets and fine magnetite disseminations.|
+24575|Williamsons Road Serpentinite|Relationships and boundaries|Relationships are uncertain as contacts are not exposed. Contacts are parallel or subparallel with the trend of the host rocks, and are assumed to be faulted(?).|
+24575|Williamsons Road Serpentinite|Age reasons|No direct evidence. Post-dates extrusive and sedimentary units of the Mount Stavely Volcanic Complex.|
+24575|Williamsons Road Serpentinite|References|83/23306|
+24575|Williamsons Road Serpentinite|Defn approved by|asked 12/10/82 for approval sign.|
+24575|Williamsons Road Serpentinite|Proposer|Buckland G.L.|
+24575|Williamsons Road Serpentinite|Resdate|10-JUN-1982|
+24593|Yallock Formation|Name source|The name is derived from the Parish of Yallock in the eastern part of the Western Port Basin where the formation attains its maximum thickness.|
+24593|Yallock Formation|Type section locality|A bed of Hurdy Gurdy Creek, approximately four kilometres northeast of Grantville, where the unit is exposed for a distance of 500 m (between coordinates 760518 and 756521, Warragul 1:100 000 Sheet) , is designated as the type section. Here the formation consists of unconsolidated gravel (individual grains up to 8 mm) and very coarse sand interbedded with grey sandy clay.|
+24593|Yallock Formation|Lithology|In general, the formation comprises medium to coarse sand and gravel with numerous brown coal and clay interbeds. The stratigraphic interval between 67 and 128 m depth in the Yallock 9 bore (see lithologic log below) is designated as a reference section.|
+24593|Yallock Formation|Relationships and boundaries|The Yallock Formation rests disconformably or unconformably on Older Volcanics and basement rocks. Near the type locality, it is exposed in quarries along the Heath Hill Fault scarp where the beds dip at 40o to the northwest, with dips decreasing rapidly away from the fault. To the north-west, the unit is covered by Quaternary sediments. Further west, as in the Yallock 9 bore, it underlies the Tb1 member of the Baxter Formation. In the northwestern part of the basin, the Yallock Formation intervenes between the Older Volcanics and the Sherwood Formation.|
+24593|Yallock Formation|Age reasons|The Yallock Formation is probably Oligocene in age.  The Yallock Formation is the basal formation of the Westernport Group.|
+24593|Yallock Formation|Defn author|Lakey R. and Tickell S.J. (1980) "Effects of Channel Dredging in Tyabb area on Westernport Basin Groundwater".|
+24593|Yallock Formation|Proposed publication|Geological Survey Rept No 58.|
+24593|Yallock Formation|Comments|DME Geol. Surv. Report 58|

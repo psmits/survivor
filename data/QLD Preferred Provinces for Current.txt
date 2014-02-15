@@ -1,0 +1,1759 @@
+Stratno | Stratigraphic Name | Entity Number | Province Name 
+52|Abernethy Basalt|40484|New England Orogen
+156|Agnes Water Volcanics|40484|New England Orogen
+156|Agnes Water Volcanics|407419|Gympie Province
+41256|Ah Fat Granite Complex|40484|New England Orogen
+25756|Airlie Volcanics|40484|New England Orogen
+41264|Aisbetts Granodiorite|40484|New England Orogen
+33153|Aitken Creek Gabbro|40484|New England Orogen
+36381|Albany Pass beds|550572|Carpentaria Basin
+262|Algebuckina Sandstone|529302|Eromanga Basin
+39010|Alice Creek beds|40484|New England Orogen
+75358|Alpha Centauri Metamorphics|556523|Mount Isa Orogen
+75358|Alpha Centauri Metamorphics|559205|Sybella Domain
+40103|Alton Downs Basalt|40484|New England Orogen
+344|Alum Rock Conglomerate|40484|New England Orogen
+349|Amamoor beds|40484|New England Orogen
+349|Amamoor beds|407416|Wandilla Province
+75644|Amelia Creek Tonalite|40536|Connors-Auburn Province
+33149|Ametdale Volcanics|40484|New England Orogen
+33149|Ametdale Volcanics|40536|Connors-Auburn Province
+401|Anakie Metamorphic Group|39793|Belyando Gold Province
+401|Anakie Metamorphic Group|449962|Anakie Province
+34362|Angelay Granite|556523|Mount Isa Orogen
+30693|Annable Granite|556523|Mount Isa Orogen
+28024|Annie Creek Schist|20455|Yambo Subprovince
+28185|Answer Slate|556523|Mount Isa Orogen
+28185|Answer Slate|559197|Marimo-Staveley Domain
+526|Aramac Coal Measures|550790|Galilee Basin
+27670|Aranbanga Volcanic Group|21915|Ipswich Basin
+27670|Aranbanga Volcanic Group|40484|New England Orogen
+27670|Aranbanga Volcanic Group|407416|Wandilla Province
+539|Arbroath beds|530059|Bowen Basin
+574|Argentine Metamorphics|559188|Charters Towers Province
+585|Argylla Formation|39708|Selwyn Metallogenic Province
+585|Argylla Formation|556523|Mount Isa Orogen
+585|Argylla Formation|559194|Kalkadoon-Leichhardt Domain
+585|Argylla Formation|559198|Mary Kathleen Domain
+585|Argylla Formation|559199|Mitakoodi Domain
+31445|Argylla Suite|556523|Mount Isa Orogen
+28028|Arkara Gneiss|20455|Yambo Subprovince
+23342|Arrabury Formation|529302|Eromanga Basin
+27036|Arrongulla Formation|442771|Croydon Province
+705|Ashford Coal Measures|40484|New England Orogen
+705|Ashford Coal Measures|559229|Ashford Basin
+724|Astrea Formation|20444|Savannah Province
+75737|Augustus Igneous Complex|556523|Mount Isa Orogen
+26358|Aurora Granite|20437|Etheridge Province
+31367|Avoca Creek Granodiorite|40484|New England Orogen
+825|Babalangee Amphibolite|20535|Barnard Province
+845|Back Creek Group|39627|Cracow Metallogenic Province
+845|Back Creek Group|40484|New England Orogen
+845|Back Creek Group|530059|Bowen Basin
+845|Back Creek Group|550790|Galilee Basin
+870|Badu Granite|559176|Cape York - Oriomo Province
+36368|Badu Suite|559176|Cape York - Oriomo Province
+33928|Baileys monzodiorite|556523|Mount Isa Orogen
+33142|Bajool Quartz Diorite|40484|New England Orogen
+32040|Balaclava Formation|40484|New England Orogen
+40846|Balcooma Metavolcanic Group|443092|Greenvale Province
+73063|Bald Hill Formation|40484|New England Orogen
+73063|Bald Hill Formation|559208|Silverwood Province
+41584|Ballandean Granite|40484|New England Orogen
+73886|Ballandean Suite|40484|New England Orogen
+73885|Ballandean Supersuite|40484|New England Orogen
+27702|Ballara Quartzite|556523|Mount Isa Orogen
+27702|Ballara Quartzite|559194|Kalkadoon-Leichhardt Domain
+23356|Bally Knob Volcanics|443092|Greenvale Province
+1007|Balnagowan Volcanic Member|40484|New England Orogen
+1007|Balnagowan Volcanic Member|407416|Wandilla Province
+1084|Barambah Basalt|40484|New England Orogen
+1113|Barmundoo Formation|40535|Calliope Province
+1117|Barnard Metamorphics|20535|Barnard Province
+23365|Bathampton Metamorphics|449962|Anakie Province
+1283|Bayfield Granite|40484|New England Orogen
+1283|Bayfield Granite|407416|Wandilla Province
+1388|Beeswing Rhyolite|40484|New England Orogen
+1429|Bellthorpe Andesite|40484|New England Orogen
+35123|Ben Mohr Igneous Complex|40484|New England Orogen
+69041|Ben Mohr Igneous Complex - gabbro|40484|New England Orogen
+69040|Ben Mohr Igneous Complex - granite|40484|New England Orogen
+27075|Bernecker Creek Formation|20454|Forsayth Subprovince
+41100|Berri Berri Granite|40484|New England Orogen
+38891|Berserker Group|40484|New England Orogen
+28243|Betts Creek beds|550790|Galilee Basin
+36217|Big Bend Formation|20469|Burdekin Basin
+25784|Big Toby Granite|467256|Arunta Orogen
+31421|Big Toby Suite|556523|Mount Isa Orogen
+1621|Bigie Formation|556523|Mount Isa Orogen
+1621|Bigie Formation|559196|Leichhardt River Domain
+1621|Bigie Formation|559201|Mount Oxide Domain
+23388|Bimurra Volcanics|39626|Pajingo Metallogenic Province
+23388|Bimurra Volcanics|559189|Drummond Basin
+1691|Bingleburra Formation|40484|New England Orogen
+75646|Birds Nest Granodiorite|40536|Connors-Auburn Province
+1729|Birkhead Formation|27354|Surat Basin
+1729|Birkhead Formation|529511|Cooper Basin
+33437|Bjelke Petersen beds|40484|New England Orogen
+33437|Bjelke Petersen beds|407416|Wandilla Province
+24726|Black Alley Shale|550790|Galilee Basin
+32275|Black Angel Gneiss Complex|556523|Mount Isa Orogen
+32275|Black Angel Gneiss Complex|559194|Kalkadoon-Leichhardt Domain
+1837|Black Snake Creek Granite|40484|New England Orogen
+24729|Black Snake Porphyry|40484|New England Orogen
+24188|Blackeye Granite|556523|Mount Isa Orogen
+1871|Blackstone Formation|21915|Ipswich Basin
+1871|Blackstone Formation|529922|Clarence-Moreton Basin
+26398|Blackwall Breccia|21915|Ipswich Basin
+26398|Blackwall Breccia|529922|Clarence-Moreton Basin
+1876|Blackwater Group|530059|Bowen Basin
+28377|Blackwood Quartz Syenite|40484|New England Orogen
+2034|Blythesdale Group|27354|Surat Basin
+32128|Boam Creek Granite|40484|New England Orogen
+39068|Bobby Volcanics|40484|New England Orogen
+38882|Bocoolima Granodiorite|40484|New England Orogen
+33926|Bode syenogranite|556523|Mount Isa Orogen
+24742|Boiler Gully Complex|20454|Forsayth Subprovince
+24742|Boiler Gully Complex|443092|Greenvale Province
+2107|Boiling Creek Group|40484|New England Orogen
+2168|Bondonga beds|40484|New England Orogen
+2193|Boogooramunya Granite|40484|New England Orogen
+73824|Bookookoorara Monzogranite|40484|New England Orogen
+35036|Boolgal Granophyre|40484|New England Orogen
+2232|Booloumba beds|40484|New England Orogen
+2232|Booloumba beds|407416|Wandilla Province
+42515|Boomarra Metamorphics|556523|Mount Isa Orogen
+42515|Boomarra Metamorphics|559198|Mary Kathleen Domain
+25801|Boonara Granodiorite|40484|New England Orogen
+25801|Boonara Granodiorite|407416|Wandilla Province
+2259|Boondooma Igneous Complex|407416|Wandilla Province
+42048|Boondooma Igneous Complex - granite|40484|New England Orogen
+42049|Boondooma Igneous Complex - granodiorite|40484|New England Orogen
+42050|Boondooma Igneous Complex - tonalite|40484|New England Orogen
+73902|Boonoo Granite|40484|New England Orogen
+73902|Boonoo Granite|559208|Silverwood Province
+73903|Boonoo Suite|40484|New England Orogen
+39860|Boorama Tank Gneiss|556523|Mount Isa Orogen
+39860|Boorama Tank Gneiss|559204|Soldiers Cap Domain
+41797|Bora Creek Quartz Monzodiorite|40484|New England Orogen
+41797|Bora Creek Quartz Monzodiorite|40536|Connors-Auburn Province
+2333|Boree Salt|22077|Adavale Basin
+39066|Borilla Granite|40484|New England Orogen
+39072|Bororen Tonalite|40484|New England Orogen
+28307|Boroston Formation|559174|Broken River Province
+2360|Bottletree Formation|556523|Mount Isa Orogen
+2360|Bottletree Formation|559194|Kalkadoon-Leichhardt Domain
+2360|Bottletree Formation|559196|Leichhardt River Domain
+41107|Boughyard Quartz Diorite|40484|New England Orogen
+39613|Bowler Creek Granite|20437|Etheridge Province
+24196|Bowlers Hole Granite|556523|Mount Isa Orogen
+24196|Bowlers Hole Granite|559194|Kalkadoon-Leichhardt Domain
+2455|Boxvale Sandstone Member|27354|Surat Basin
+27116|Boxwell Granodiorite|40484|New England Orogen
+69438|Boxwell Suite|40484|New England Orogen
+27723|Branch Creek Formation|40484|New England Orogen
+2507|Brassal Subgroup|529922|Clarence-Moreton Basin
+27724|Breakaway Shale|556523|Mount Isa Orogen
+27724|Breakaway Shale|559196|Leichhardt River Domain
+30705|Briar Granite|556523|Mount Isa Orogen
+2553|Briggs Granodiorite|40085|Mount Rawdon Copper Gold Province
+2553|Briggs Granodiorite|40484|New England Orogen
+24766|Brighton beds|22361|Nambour Basin
+2579|Brisbane Tuff|21915|Ipswich Basin
+2579|Brisbane Tuff|22361|Nambour Basin
+2579|Brisbane Tuff|40484|New England Orogen
+39711|Brisbane Valley Porphyrite|40484|New England Orogen
+32129|Broadlands Granite|40484|New England Orogen
+73792|Broadsound Range Volcanics|40536|Connors-Auburn Province
+28306|Broken River Group|559174|Broken River Province
+35393|Bromley Hills Formation|40484|New England Orogen
+35393|Bromley Hills Formation|559208|Silverwood Province
+2627|Brookfield Volcanics|40484|New England Orogen
+29558|Broome Head Metamorphics|40484|New England Orogen
+29558|Broome Head Metamorphics|407416|Wandilla Province
+2647|Broomfield Granite|40484|New England Orogen
+2647|Broomfield Granite|407419|Gympie Province
+2652|Brooweena Formation|22345|Maryborough Basin
+2652|Brooweena Formation|407419|Gympie Province
+2732|Bryden Formation|20434|Esk Trough
+2732|Bryden Formation|40484|New England Orogen
+2732|Bryden Formation|529922|Clarence-Moreton Basin
+39025|Buaraba Granodiorite|40484|New England Orogen
+25708|Buckabie Formation|22077|Adavale Basin
+77826|Bucket Hole Metavolcanics|467256|Arunta Orogen
+77826|Bucket Hole Metavolcanics|556523|Mount Isa Orogen
+27119|Bucklands Hill Diorite|559188|Charters Towers Province
+40106|Bucknalla Gabbro|40484|New England Orogen
+2809|Buddawadda Basalt Member|556523|Mount Isa Orogen
+23435|Bulgeri Formation|559174|Broken River Province
+25817|Bulimba Formation|557148|Karumba Basin
+2891|Bulldog Shale|464193|Callabonna Sub-basin
+2891|Bulldog Shale|529302|Eromanga Basin
+2917|Bulliwallah Formation|559189|Drummond Basin
+24202|Bulmung Sandstone Member|556523|Mount Isa Orogen
+24202|Bulmung Sandstone Member|559187|Century Domain
+74232|Bulonga Metavolcanics|556523|Mount Isa Orogen
+74232|Bulonga Metavolcanics|559175|Canobie Domain
+74232|Bulonga Metavolcanics|559199|Mitakoodi Domain
+74232|Bulonga Metavolcanics|559206|Tommy Creek Domain
+39029|Bundaleer Tonalite|40484|New England Orogen
+2963|Bundamba Group|27354|Surat Basin
+2963|Bundamba Group|529922|Clarence-Moreton Basin
+2978|Bundarra Granodiorite|40484|New England Orogen
+27077|Bundock Creek Group|559174|Broken River Province
+3008|Bungil Formation|27354|Surat Basin
+3008|Bungil Formation|529302|Eromanga Basin
+38279|Bungulla Monzogranite|40484|New England Orogen
+67899|Bungulla Suite|40484|New England Orogen
+3045|Bunya Phyllite|40484|New England Orogen
+3045|Bunya Phyllite|407416|Wandilla Province
+25820|Burdekin Formation|20469|Burdekin Basin
+3082|Burnett Formation|40484|New England Orogen
+27123|Burngrove Formation|530059|Bowen Basin
+38864|Burns Spur Nepheline Monzosyenite|40484|New England Orogen
+3148|Burrum Coal Measures|22345|Maryborough Basin
+25823|Burstall Granite|556523|Mount Isa Orogen
+25823|Burstall Granite|559198|Mary Kathleen Domain
+21399|Burunga Formation|530059|Bowen Basin
+35093|Burwood Complex|40484|New England Orogen
+35093|Burwood Complex|40536|Connors-Auburn Province
+3190|Bury Limestone|22077|Adavale Basin
+3265|Cadarga Creek Granodiorite|40484|New England Orogen
+3284|Cadna-owie Formation|464193|Callabonna Sub-basin
+3284|Cadna-owie Formation|529302|Eromanga Basin
+3318|Calen Coal Measures|572234|Calen Basin
+25826|Calgoa Diorite|40484|New England Orogen
+3346|Callide Coal Measures|27540|Callide Basin
+3346|Callide Coal Measures|40484|New England Orogen
+3353|Calliope beds|40484|New England Orogen
+3353|Calliope beds|40535|Calliope Province
+3366|Cambalanga Tuff Member|40484|New England Orogen
+3378|Camboon Volcanics|39627|Cracow Metallogenic Province
+3378|Camboon Volcanics|40536|Connors-Auburn Province
+3378|Camboon Volcanics|530059|Bowen Basin
+31368|Cambroon beds|40484|New England Orogen
+31368|Cambroon beds|407416|Wandilla Province
+35184|Cameron Creek Granite|40484|New England Orogen
+33146|Camp Creek Granite|40484|New England Orogen
+27732|Campaspe Formation|20477|Campaspe Basin
+27732|Campaspe Formation|408346|Charters Towers Region
+3415|Campaspe Surface|408346|Charters Towers Region
+29557|Campwyn Volcanics|40484|New England Orogen
+25687|Candlow Formation|20454|Forsayth Subprovince
+3458|Candover Metamorphics|556523|Mount Isa Orogen
+3458|Candover Metamorphics|559196|Leichhardt River Domain
+33429|Canoe Creek Granite|40484|New England Orogen
+3497|Cape Hillsborough beds|22353|Hillsborough Basin
+27361|Cape River Metamorphics|559188|Charters Towers Province
+32037|Capella Creek Group|40084|Mount Morgan base Metal Gold Metallogenic Province
+32037|Capella Creek Group|40535|Calliope Province
+29741|Capsize Creek Complex|40484|New England Orogen
+68158|Caramar Siltstone|22345|Maryborough Basin
+36108|Cardross Orthogneiss|20455|Yambo Subprovince
+28102|Carew Greenstone|20444|Savannah Province
+69011|Carinya Granite|40484|New England Orogen
+27363|Carmila beds|40484|New England Orogen
+27363|Carmila beds|40536|Connors-Auburn Province
+3691|Carriers Well Formation|559174|Broken River Province
+3701|Carters Bore Rhyolite|556523|Mount Isa Orogen
+3701|Carters Bore Rhyolite|559196|Leichhardt River Domain
+21463|Carysfort Quartzite|20444|Savannah Province
+39614|Cassidy Creek Metamorphics|20437|Etheridge Province
+39614|Cassidy Creek Metamorphics|20454|Forsayth Subprovince
+3756|Castle Hill Granite|40484|New England Orogen
+24830|Castletower Granite|40484|New England Orogen
+24830|Castletower Granite|407416|Wandilla Province
+33141|Cecilwood Quartz Diorite|40484|New England Orogen
+3854|Cedar Pocket Porphyry|40484|New England Orogen
+3854|Cedar Pocket Porphyry|407419|Gympie Province
+3855|Cedarton Volcanics|40484|New England Orogen
+3855|Cedarton Volcanics|407416|Wandilla Province
+69008|Ceratodus Granite|40484|New England Orogen
+35110|Cerberus Rhyolite Member|40484|New England Orogen
+35110|Cerberus Rhyolite Member|40536|Connors-Auburn Province
+33435|Chahpingah Meta-Igneous Complex|40484|New England Orogen
+33435|Chahpingah Meta-Igneous Complex|407416|Wandilla Province
+38892|Chalmers Formation|40484|New England Orogen
+39079|Champion Hills Diorite|40484|New England Orogen
+31010|Channer Creek beds|40484|New England Orogen
+3929|Charters Towers Metamorphics|559188|Charters Towers Province
+35856|Chase Point Meta-andesite|407417|Marlborough Province
+21488|Chelmsford Gneiss|20455|Yambo Subprovince
+41263|Cheltenham Creek Granite|40484|New England Orogen
+68149|Cherwell Mudstone Member|22345|Maryborough Basin
+3981|Chillagoe Formation|20527|Hodgkinson Province
+3981|Chillagoe Formation|39982|Hodgkinson Gold Metallogenic Province
+3991|Chillingham Volcanics|21915|Ipswich Basin
+3991|Chillingham Volcanics|40484|New England Orogen
+4041|Chowey Granite|40484|New England Orogen
+4041|Chowey Granite|407419|Gympie Province
+21499|Chuko Quartzite|20455|Yambo Subprovince
+23487|Chulcee Formation|442771|Croydon Province
+4064|Chumvale Breccia|556523|Mount Isa Orogen
+4077|Claddagh Granodiorite|40484|New England Orogen
+4077|Claddagh Granodiorite|407416|Wandilla Province
+35124|Clairview Volcanics|40484|New England Orogen
+4090|Claraville beds|557148|Karumba Basin
+25711|Clarke River Group|559174|Broken River Province
+40870|Clayhole Schist|39807|Balcooma Base Metal Metallogenic Province
+40870|Clayhole Schist|443092|Greenvale Province
+33152|Cleethorpes Granodiorite|40484|New England Orogen
+33152|Cleethorpes Granodiorite|407417|Marlborough Province
+4137|Clematis Group|530059|Bowen Basin
+4137|Clematis Group|550790|Galilee Basin
+41798|Clement Creek Quartz Monzodiorite|40484|New England Orogen
+73797|Clements Creek beds|40484|New England Orogen
+4151|Cliffdale Volcanics|556523|Mount Isa Orogen
+41800|Clive Creek Volcanics|40484|New England Orogen
+41800|Clive Creek Volcanics|40536|Connors-Auburn Province
+33914|Cloncurry Supersuite|556523|Mount Isa Orogen
+24855|Cobbold Metadolerite|20437|Etheridge Province
+41789|Cobweb Mountain Rhyolite|40536|Connors-Auburn Province
+24856|Cockie Spring Tonalite|443092|Greenvale Province
+4294|Coen Metamorphic Group|20444|Savannah Province
+28099|Coleman River Gneiss|20444|Savannah Province
+33161|Collaroy Volcanics|40484|New England Orogen
+33161|Collaroy Volcanics|40536|Connors-Auburn Province
+4337|Colleges Conglomerate|21915|Ipswich Basin
+4337|Colleges Conglomerate|529922|Clarence-Moreton Basin
+4338|Colless Volcanics|468269|Kalkarindji Igneous Province
+27130|Collopy Formation|559188|Charters Towers Province
+40146|Colodon Granite|40484|New England Orogen
+4381|Combarngo Volcanics|530059|Bowen Basin
+28465|Comet Volcanics|530059|Bowen Basin
+4417|Condamine beds|40484|New England Orogen
+4417|Condamine beds|559208|Silverwood Province
+4452|Connolly Volcanics|40484|New England Orogen
+4452|Connolly Volcanics|559208|Silverwood Province
+70433|Connors Volcanic Group|40484|New England Orogen
+70433|Connors Volcanic Group|40536|Connors-Auburn Province
+24222|Coocerina Formation|556523|Mount Isa Orogen
+24222|Coocerina Formation|559175|Canobie Domain
+4512|Cooladdi Dolomite|22077|Adavale Basin
+24871|Coonambula Granodiorite|40484|New England Orogen
+4610|Cooneana Sandstone Member|21915|Ipswich Basin
+4610|Cooneana Sandstone Member|529922|Clarence-Moreton Basin
+26493|Coorikiana Sandstone|529302|Eromanga Basin
+41794|Coppermine Andesite|40536|Connors-Auburn Province
+31366|Coppermine Creek Granodiorite|40484|New England Orogen
+31366|Coppermine Creek Granodiorite|407416|Wandilla Province
+33154|Copperville Granodiorite|40484|New England Orogen
+27285|Corbett Formation|20454|Forsayth Subprovince
+4721|Coreena Member|27354|Surat Basin
+4727|Corella Formation|39708|Selwyn Metallogenic Province
+4727|Corella Formation|556523|Mount Isa Orogen
+4727|Corella Formation|559175|Canobie Domain
+4727|Corella Formation|559194|Kalkadoon-Leichhardt Domain
+4727|Corella Formation|559198|Mary Kathleen Domain
+4727|Corella Formation|559206|Tommy Creek Domain
+34130|Cornelia Orthogneiss|20437|Etheridge Province
+34130|Cornelia Orthogneiss|559188|Charters Towers Province
+38880|Coulston Volcanics|40484|New England Orogen
+27951|Cowie Granite|556523|Mount Isa Orogen
+33046|Cowie Suite|556523|Mount Isa Orogen
+33046|Cowie Suite|559204|Soldiers Cap Domain
+35048|Craigilee beds|40484|New England Orogen
+35048|Craigilee beds|40535|Calliope Province
+39082|Craiglands Quartz Monzodiorite|40484|New England Orogen
+4859|Cravens Peak beds|529556|Georgina Basin
+4885|Cressbrook Creek Group|407416|Wandilla Province
+4893|Cribb Conglomerate|21915|Ipswich Basin
+4893|Cribb Conglomerate|529922|Clarence-Moreton Basin
+27755|Cromwell Metabasalt Member|556523|Mount Isa Orogen
+27755|Cromwell Metabasalt Member|559196|Leichhardt River Domain
+4941|Crossdale Rhyolite|40484|New England Orogen
+26505|Crown Point Formation|22078|Amadeus Basin
+26505|Crown Point Formation|529549|Pedirka Basin
+4958|Crows Nest Granite|40484|New England Orogen
+4958|Crows Nest Granite|407416|Wandilla Province
+4968|Croydon Volcanic Group|39826|Croydon Gold Metallogenic Province
+4968|Croydon Volcanic Group|442771|Croydon Province
+39145|Crystal Vale Monzogranite|40484|New England Orogen
+4984|Culcraigie Granite|40484|New England Orogen
+4999|Cultivation Gully Formation|20469|Burdekin Basin
+5093|Curtis Island Group|40085|Mount Rawdon Copper Gold Province
+5093|Curtis Island Group|40484|New England Orogen
+5093|Curtis Island Group|407416|Wandilla Province
+38868|Cynthia beds|40484|New England Orogen
+33148|Dacey Granite|40484|New England Orogen
+33148|Dacey Granite|40536|Connors-Auburn Province
+5124|Dadamarine Rhyolite|40484|New England Orogen
+73614|Dahls Hill Complex|407416|Wandilla Province
+21604|Daintree Gneiss|20455|Yambo Subprovince
+5157|Dalrymple Sandstone|22401|Laura-Lakefield Basin
+33424|Dangore Volcanics|40484|New England Orogen
+26300|Daniel Creek Formation|20454|Forsayth Subprovince
+27758|Dargalong Metamorphics|20455|Yambo Subprovince
+75641|Dartmoor Granodiorite|40536|Connors-Auburn Province
+40114|Dawson Granite|40484|New England Orogen
+5288|Dayboro Tonalite|40484|New England Orogen
+27080|Dead Horse Metabasalt|20454|Forsayth Subprovince
+38869|Deception Quartz Monzonite|40484|New England Orogen
+5339|Degilbo Granodiorite|40484|New England Orogen
+5339|Degilbo Granodiorite|407419|Gympie Province
+5341|Deighton Quartzite|556523|Mount Isa Orogen
+5341|Deighton Quartzite|559194|Kalkadoon-Leichhardt Domain
+5344|Delaney Granite|20437|Etheridge Province
+5355|Delubra Quartz Gabbro|40484|New England Orogen
+5355|Delubra Quartz Gabbro|530059|Bowen Basin
+41092|Delusion Granodiorite|40484|New England Orogen
+25715|Dido Tonalite|443092|Greenvale Province
+5470|Digby Formation|530016|Gunnedah Basin
+5470|Digby Formation|530059|Bowen Basin
+5474|Digger Creek Granite|20437|Etheridge Province
+38879|Diglum Granodiorite|40484|New England Orogen
+28100|Dinah Formation|20444|Savannah Province
+35545|Dingo Diorite|40484|New England Orogen
+35545|Dingo Diorite|40536|Connors-Auburn Province
+5514|Dinner Creek Conglomerate|40484|New England Orogen
+30727|Dipvale Granodiorite|556523|Mount Isa Orogen
+30727|Dipvale Granodiorite|559198|Mary Kathleen Domain
+28260|Dirie Sandstone|442771|Croydon Province
+5547|Djuan Tonalite|40484|New England Orogen
+5547|Djuan Tonalite|407416|Wandilla Province
+41255|Dogherty Granite|40484|New England Orogen
+24246|Doherty Formation|556523|Mount Isa Orogen
+5593|Doncaster Member|27354|Surat Basin
+41251|Donore Granite Gneiss|40484|New England Orogen
+33137|Dooloo Tops Volcanics|40484|New England Orogen
+5619|Doomadgee Formation|556523|Mount Isa Orogen
+5622|Doonbara Formation|529801|Lake Eyre Basin
+5627|Doonmulla Member|529302|Eromanga Basin
+5628|Doonside Formation|40484|New England Orogen
+5628|Doonside Formation|407416|Wandilla Province
+69123|Doraville Granodiorite|40484|New England Orogen
+35134|Doreen Granite|40484|New England Orogen
+35134|Doreen Granite|40536|Connors-Auburn Province
+41585|Dormans Flat Granite|40484|New England Orogen
+27391|Dotswood Group|20469|Burdekin Basin
+24253|Double Crossing Metamorphics|556523|Mount Isa Orogen
+24253|Double Crossing Metamorphics|559197|Marimo-Staveley Domain
+5652|Double Mountain Volcanics|40484|New England Orogen
+5661|Douglas Creek Limestone|39793|Belyando Gold Province
+28513|Drake Volcanics|40484|New England Orogen
+28513|Drake Volcanics|559519|Emu Creek Province
+40868|Dry River Metavolcanics|39807|Balcooma Base Metal Metallogenic Province
+40868|Dry River Metavolcanics|443092|Greenvale Province
+5734|Duaringa Formation|20298|Duaringa Basin
+5739|Ducabrook Formation|559189|Drummond Basin
+5749|Duckinwilla Group|22345|Maryborough Basin
+73613|Duckpond Road Metamorphics|407416|Wandilla Province
+23563|Duffs Range Granite|443092|Greenvale Province
+5777|Dugald River Shale|556523|Mount Isa Orogen
+5777|Dugald River Shale|559198|Mary Kathleen Domain
+5776|Dugald River Shale Member|556523|Mount Isa Orogen
+5784|Dulcie Sandstone|22113|Ngalia Basin
+5784|Dulcie Sandstone|529556|Georgina Basin
+32047|Dumgree Tonalite|40484|New England Orogen
+5829|Dundee Rhyodacite|40484|New England Orogen
+69880|Dunollie beds|40484|New England Orogen
+69880|Dunollie beds|40535|Calliope Province
+77107|Durabilla Formation|27354|Surat Basin
+75642|East Creek Tonalite|40536|Connors-Auburn Province
+30694|Easter Egg Granite|556523|Mount Isa Orogen
+5911|Eastern Creek Volcanics|556523|Mount Isa Orogen
+5911|Eastern Creek Volcanics|559196|Leichhardt River Domain
+5911|Eastern Creek Volcanics|559201|Mount Oxide Domain
+5911|Eastern Creek Volcanics|559205|Sybella Domain
+33939|Eastwood Formation|22077|Adavale Basin
+5953|Eddystone beds|530059|Bowen Basin
+27395|Edgecumbe beds|40484|New England Orogen
+27395|Edgecumbe beds|40536|Connors-Auburn Province
+5994|Edward River Metamorphic Group|20444|Savannah Province
+5997|Eerwah Vale Tonalite|40484|New England Orogen
+5997|Eerwah Vale Tonalite|407419|Gympie Province
+26533|Eidsvold Complex|40484|New England Orogen
+24945|Eight Mile Creek beds|40484|New England Orogen
+24945|Eight Mile Creek beds|559208|Silverwood Province
+6018|Einasleigh Metamorphics|20437|Etheridge Province
+6018|Einasleigh Metamorphics|39659|Woolgar Metallogenic Province
+69534|Einasleigh Metamorphics - calcsilicate gneiss|20454|Forsayth Subprovince
+69535|Einasleigh Metamorphics - gneiss|20454|Forsayth Subprovince
+69536|Einasleigh Metamorphics - gneiss and migmatite|20454|Forsayth Subprovince
+23575|Eland Metavolcanics|443092|Greenvale Province
+69522|Eland Metavolcanics - chert|443092|Greenvale Province
+69521|Eland Metavolcanics - meta-andesite|443092|Greenvale Province
+28142|Ellenvale beds|452730|Kennedy Igneous Province - Charters Towers region
+6106|Elliott Formation|22345|Maryborough Basin
+38893|Ellrott Rhyolite|40484|New England Orogen
+6118|Elyuah Formation|22113|Ngalia Basin
+29984|Emerald Creek Microgranite|20527|Hodgkinson Province
+29983|Emerald Creek Supersuite|20527|Hodgkinson Province
+6188|Engow Member|452730|Kennedy Igneous Province - Charters Towers region
+6196|Enoggera Granite|40484|New England Orogen
+6196|Enoggera Granite|407416|Wandilla Province
+38890|Erebus beds|40484|New England Orogen
+38890|Erebus beds|40535|Calliope Province
+39852|Ernest Henry Diorite|556523|Mount Isa Orogen
+6265|Esk Formation|20434|Esk Trough
+6265|Esk Formation|40484|New England Orogen
+69446|Eskdale Granodiorite - gabbro|40484|New England Orogen
+69466|Eskdale Granodiorite 1|40484|New England Orogen
+69467|Eskdale Granodiorite 2|40484|New England Orogen
+69468|Eskdale Granodiorite 3|40484|New England Orogen
+69469|Eskdale Granodiorite 4|40484|New England Orogen
+73487|Eskdale Granodiorite 5|40484|New England Orogen
+6279|Esmeralda Granite|442771|Croydon Province
+31455|Esmeralda Supersuite|39826|Croydon Gold Metallogenic Province
+31455|Esmeralda Supersuite|442771|Croydon Province
+6282|Esperanza Formation|467256|Arunta Orogen
+6282|Esperanza Formation|556523|Mount Isa Orogen
+6282|Esperanza Formation|559187|Century Domain
+6282|Esperanza Formation|559201|Mount Oxide Domain
+6287|Etadunna Formation|464193|Callabonna Sub-basin
+6287|Etadunna Formation|529801|Lake Eyre Basin
+6300|Etheridge Group|20437|Etheridge Province
+6300|Etheridge Group|20454|Forsayth Subprovince
+6319|Etonvale Formation|22077|Adavale Basin
+6356|Eulo Queen Group|550572|Carpentaria Basin
+6357|Eulogie Park Gabbro|40484|New England Orogen
+33910|Eureka Supersuite|556523|Mount Isa Orogen
+35042|Euroka Granite|40484|New England Orogen
+6386|Eurombah Formation|27354|Surat Basin
+6386|Eurombah Formation|529302|Eromanga Basin
+37372|Eurydesma beds|40484|New England Orogen
+37372|Eurydesma beds|559208|Silverwood Province
+41254|Evandale Tonalite|40484|New England Orogen
+6414|Everetts Creek Volcanics|559174|Broken River Province
+6416|Evergreen Formation|27354|Surat Basin
+6416|Evergreen Formation|27546|Mulgildie Basin
+6416|Evergreen Formation|529302|Eromanga Basin
+28542|Ewan Formation|452730|Kennedy Igneous Province - Charters Towers region
+6432|Ewen Granite|556523|Mount Isa Orogen
+6432|Ewen Granite|559194|Kalkadoon-Leichhardt Domain
+6451|Eyre Formation|464193|Callabonna Sub-basin
+6451|Eyre Formation|529801|Lake Eyre Basin
+25903|Fahey Range Andesite|40484|New England Orogen
+6516|Fanning River Group|20469|Burdekin Basin
+6516|Fanning River Group|559188|Charters Towers Province
+33427|Farquharson Granite|40484|New England Orogen
+31117|Fat Hen Creek Complex|559188|Charters Towers Province
+6565|Featherbed Volcanic Group|39691|Comeno Metallogenic Province
+6631|Fickling Group|556523|Mount Isa Orogen
+6639|Fiery Creek Volcanics|556523|Mount Isa Orogen
+6639|Fiery Creek Volcanics|559196|Leichhardt River Domain
+6639|Fiery Creek Volcanics|559201|Mount Oxide Domain
+38573|Fiery Suite|556523|Mount Isa Orogen
+30637|Fiery Supersuite|556523|Mount Isa Orogen
+33434|Fifer Creek Metamorphics|40484|New England Orogen
+33434|Fifer Creek Metamorphics|407416|Wandilla Province
+29308|Fig Tree Hill Granite Complex|20437|Etheridge Province
+35102|Finch Hatton Granite|40484|New England Orogen
+6674|First Branch Creek Sandstone|40535|Calliope Province
+6682|Fish River Formation|556523|Mount Isa Orogen
+35395|Fitz Creek beds|40484|New England Orogen
+35395|Fitz Creek beds|559208|Silverwood Province
+39102|Flaggy Quartz Monzodiorite|40484|New England Orogen
+41109|Flat Range Granodiorite|40484|New England Orogen
+35200|Flat Top Diorite|40484|New England Orogen
+6767|Floraville Formation|557148|Karumba Basin
+27408|Forest Home Trondhjemite|20437|Etheridge Province
+6821|Fork Lagoons beds|39793|Belyando Gold Province
+6821|Fork Lagoons beds|449962|Anakie Province
+6827|Forsayth Granite|20437|Etheridge Province
+29974|Forsayth Supersuite|39826|Croydon Gold Metallogenic Province
+72798|Foyle Volcanics|559189|Drummond Basin
+23603|Fullarton River Group|556523|Mount Isa Orogen
+39071|Gaeta Diorite|40484|New England Orogen
+27411|Gallangowan Granodiorite|40484|New England Orogen
+27411|Gallangowan Granodiorite|407416|Wandilla Province
+38881|Galloway Plains Igneous Complex|40484|New England Orogen
+34809|Gandry Dam Gneiss|556523|Mount Isa Orogen
+34809|Gandry Dam Gneiss|559204|Soldiers Cap Domain
+24282|Garden Creek Porphyry|556523|Mount Isa Orogen
+35189|Gargett Granite|40484|New England Orogen
+7031|Garraway Sandstone|550572|Carpentaria Basin
+40116|Gavial Gabbro|40484|New England Orogen
+7065|Gayndah Formation|20434|Esk Trough
+7065|Gayndah Formation|40484|New England Orogen
+73612|Gaythorn Metamorphics|407416|Wandilla Province
+36784|Gibraltar Quartz Monzodiorite|40484|New England Orogen
+7182|Gidgealpa Group|529511|Cooper Basin
+30695|Gidya Granite|556523|Mount Isa Orogen
+7193|Gigoomgan Limestone|40484|New England Orogen
+7193|Gigoomgan Limestone|407419|Gympie Province
+7197|Gilbert River Formation|22401|Laura-Lakefield Basin
+7197|Gilbert River Formation|529302|Eromanga Basin
+7197|Gilbert River Formation|550572|Carpentaria Basin
+25005|Gilberton Formation|20488|Gilberton Basin
+23616|Gilded Rose Breccia|556523|Mount Isa Orogen
+7225|Gilgurry Mudstone|40484|New England Orogen
+7225|Gilgurry Mudstone|559519|Emu Creek Province
+36985|Gilla Volcanics|40484|New England Orogen
+36985|Gilla Volcanics|407416|Wandilla Province
+25924|Gilpeppee Member|529302|Eromanga Basin
+7245|Gin Creek Granite|556523|Mount Isa Orogen
+7245|Gin Creek Granite|559197|Marimo-Staveley Domain
+32035|Ginger Creek Member|40535|Calliope Province
+7313|Glandore Granodiorite|39627|Cracow Metallogenic Province
+7313|Glandore Granodiorite|40484|New England Orogen
+73778|Glassford Igneous Complex - leucocratic granite|40484|New England Orogen
+74686|Glen Eva Complex|407416|Wandilla Province
+23619|Glen Idol Schist|556523|Mount Isa Orogen
+23619|Glen Idol Schist|559204|Soldiers Cap Domain
+41106|Glen View Quartz Monzodiorite|40484|New England Orogen
+40122|Glencoe Gabbro|40484|New England Orogen
+27782|Glenell Granodiorite|39799|Mount Leyshon Gold Metallogenic Province
+32146|Glenhalvern Granite|40484|New England Orogen
+34819|Glenholme Breccia|556523|Mount Isa Orogen
+32148|Glenleigh Granite|40484|New England Orogen
+33160|Glenprairie beds|40484|New England Orogen
+33160|Glenprairie beds|559209|Yarrol Province
+7441|Glenrock Group|20469|Burdekin Basin
+7441|Glenrock Group|452730|Kennedy Igneous Province - Charters Towers region
+7441|Glenrock Group|559188|Charters Towers Province
+41253|Glissons Granodiorite|40484|New England Orogen
+35543|Gloucester Granite|40484|New England Orogen
+35543|Gloucester Granite|40536|Connors-Auburn Province
+21875|Gobongo Metamorphics|40484|New England Orogen
+21875|Gobongo Metamorphics|407416|Wandilla Province
+40866|Golden Creek Meta-andesite|39807|Balcooma Base Metal Metallogenic Province
+40866|Golden Creek Meta-andesite|443092|Greenvale Province
+23624|Goldsmiths Granite|20437|Etheridge Province
+35018|Gonyelinka Ignimbrite Member|40484|New England Orogen
+23625|Good Night beds|40484|New England Orogen
+23625|Good Night beds|407416|Wandilla Province
+32158|Goodedulla beds|40484|New England Orogen
+21884|Goolha-Goolha Schist|20444|Savannah Province
+30165|Goomboorian Intrusive Complex|407419|Gympie Province
+74039|Goomboorian Intrusive Complex - diorite|40484|New England Orogen
+74040|Goomboorian Intrusive Complex - gabbro|40484|New England Orogen
+27785|Goondicum Gabbro|40484|New England Orogen
+31678|Gorge Quartzite|20444|Savannah Province
+7645|Goyan Andesite|40484|New England Orogen
+40123|Gracemere Gabbro|40484|New England Orogen
+7661|Grafton Formation|529922|Clarence-Moreton Basin
+25933|Grahams Creek Formation|22345|Maryborough Basin
+7690|Grant Bluff Formation|22113|Ngalia Basin
+27083|Graveyard Creek Group|559174|Broken River Province
+7724|Gray Creek Complex|20454|Forsayth Subprovince
+7724|Gray Creek Complex|443092|Greenvale Province
+7724|Gray Creek Complex|559174|Broken River Province
+28256|Greenbank Quartz Diorite|40484|New England Orogen
+77822|Greencoat Quartz Monzonite|530059|Bowen Basin
+7777|Greenvale Formation|559174|Broken River Province
+7788|Gregory Sandstone Member|22345|Maryborough Basin
+39067|Grevillea Granite|40484|New England Orogen
+23638|Greybank Volcanics|559189|Drummond Basin
+7819|Greymare Granodiorite|40484|New England Orogen
+73901|Greymare Suite|40484|New England Orogen
+73900|Greymare Supersuite|40484|New England Orogen
+69001|Greystone Granite|40484|New England Orogen
+7826|Griman Creek Formation|27354|Surat Basin
+7826|Griman Creek Formation|529302|Eromanga Basin
+7848|Gubberamunda Sandstone|27354|Surat Basin
+7848|Gubberamunda Sandstone|529302|Eromanga Basin
+28164|Guela Sandstone|442771|Croydon Province
+7871|Gumbardo Volcanics|22077|Adavale Basin
+25038|Gunpowder Creek Formation|467256|Arunta Orogen
+25038|Gunpowder Creek Formation|556523|Mount Isa Orogen
+25038|Gunpowder Creek Formation|559187|Century Domain
+25038|Gunpowder Creek Formation|559201|Mount Oxide Domain
+30696|Guns Knob Granite|556523|Mount Isa Orogen
+30696|Guns Knob Granite|559205|Sybella Domain
+7945|Gympie Group|40484|New England Orogen
+7945|Gympie Group|407419|Gympie Province
+32149|Hainault Granodiorite|40484|New England Orogen
+25720|Halls Reward Metamorphics|20454|Forsayth Subprovince
+25720|Halls Reward Metamorphics|443092|Greenvale Province
+76907|Hampden Slate|556523|Mount Isa Orogen
+76907|Hampden Slate|559195|Kuridala-Selwyn Domain
+8025|Hampstead Sandstone|550572|Carpentaria Basin
+8085|Hardway Granite|556523|Mount Isa Orogen
+25942|Hardwick Formation|20469|Burdekin Basin
+69009|Harkness Granodiorite|40484|New England Orogen
+32152|Harrami Igneous Complex|40484|New England Orogen
+23642|Harry Creek Formation|559174|Broken River Province
+8130|Haslingden Group|556523|Mount Isa Orogen
+30697|Hay Mill Granite|556523|Mount Isa Orogen
+35135|Hazlewood Granite|40484|New England Orogen
+35135|Hazlewood Granite|40536|Connors-Auburn Province
+28602|Hecate Granite|40484|New England Orogen
+8240|Hector Tuff|21915|Ipswich Basin
+8240|Hector Tuff|529922|Clarence-Moreton Basin
+68999|Hefferon Creek Gabbro|40484|New England Orogen
+8255|Helby beds|550572|Carpentaria Basin
+8256|Helen Springs Volcanics|468269|Kalkarindji Igneous Province
+8256|Helen Springs Volcanics|529556|Georgina Basin
+8264|Heliman Formation|20454|Forsayth Subprovince
+8269|Hells Gate Rhyolite|452730|Kennedy Igneous Province - Charters Towers region
+8269|Hells Gate Rhyolite|559174|Broken River Province
+41586|Herries Granite|40484|New England Orogen
+41586|Herries Granite|559208|Silverwood Province
+73904|Herries Suite|40484|New England Orogen
+73827|Herries Supersuite|40484|New England Orogen
+25948|Highbury Volcanics|407419|Gympie Province
+40859|Highway Metavolcanics|39807|Balcooma Base Metal Metallogenic Province
+35050|Hildura Granodiorite|40484|New England Orogen
+33425|Hivesville Granite|40484|New England Orogen
+33425|Hivesville Granite|407416|Wandilla Province
+8388|Hobblechain Rhyolite|559170|Arnhem Province
+8404|Hodgkinson Formation|20527|Hodgkinson Province
+8404|Hodgkinson Formation|39691|Comeno Metallogenic Province
+8404|Hodgkinson Formation|39982|Hodgkinson Gold Metallogenic Province
+73597|Hodgkinson Formation - basalt|20527|Hodgkinson Province
+68940|Hodgkinson Formation - chert|20527|Hodgkinson Province
+68941|Hodgkinson Formation - hornfelsed|20527|Hodgkinson Province
+68942|Hodgkinson Formation - mudstone|20527|Hodgkinson Province
+68943|Hodgkinson Formation - schist|20527|Hodgkinson Province
+25061|Hogback Granite|40484|New England Orogen
+25061|Hogback Granite|407416|Wandilla Province
+25063|Holroyd Group|20444|Savannah Province
+8476|Hooray Sandstone|529302|Eromanga Basin
+36370|Horn Island Granite|559176|Cape York - Oriomo Province
+41250|Horse Leucogneiss|40484|New England Orogen
+23653|Horse Pocket Volcanics|452730|Kennedy Igneous Province - Charters Towers region
+8589|Hungerford Granite|20489|Thomson Orogen
+8599|Hurleys Metamorphics|449962|Anakie Province
+32137|Hutchinsons Granite|40484|New England Orogen
+8610|Hutton Sandstone|27354|Surat Basin
+8610|Hutton Sandstone|27546|Mulgildie Basin
+8610|Hutton Sandstone|529302|Eromanga Basin
+8610|Hutton Sandstone|550572|Carpentaria Basin
+24314|Idalia Rhyolite|442771|Croydon Province
+41260|Impey Granodiorite|40484|New England Orogen
+8710|Injune Creek Group|27354|Surat Basin
+8710|Injune Creek Group|529302|Eromanga Basin
+27438|Inorunie Group|442771|Croydon Province
+27438|Inorunie Group|571616|Inorunie Basin
+25957|Insolvency Gully Formation|452730|Kennedy Igneous Province - Charters Towers region
+40124|Inverness Volcanics|40484|New England Orogen
+8762|Ipswich Coal Measures|21915|Ipswich Basin
+35133|Iron Pot Granite|40484|New England Orogen
+68174|Isis Arenite|22345|Maryborough Basin
+41095|J P Granite|40484|New England Orogen
+27085|Jack Formation|559174|Broken River Province
+41097|Jan Mar Granite|40484|New England Orogen
+26308|Jayah Creek Metabasalt|556523|Mount Isa Orogen
+26308|Jayah Creek Metabasalt|559196|Leichhardt River Domain
+31677|Jedda Schist|20455|Yambo Subprovince
+25087|Jenny Lind Granite|40484|New England Orogen
+74030|Jibbinbar Granite|40484|New England Orogen
+29599|Jimna Phyllite|40484|New England Orogen
+29599|Jimna Phyllite|407416|Wandilla Province
+28230|Joe Joe Group|550790|Galilee Basin
+9007|Johngboon Rhyolite|40484|New England Orogen
+35194|Johnstone Creek Igneous Complex|40484|New England Orogen
+9016|Jollys Lookout Andesite|40484|New England Orogen
+32135|Jonah Vale Granite|40484|New England Orogen
+33135|Judas Trachybasalt|40484|New England Orogen
+25723|Judea Formation|559174|Broken River Province
+23675|Julago Volcanics|40484|New England Orogen
+23675|Julago Volcanics|452730|Kennedy Igneous Province - Charters Towers region
+9065|Julia Formation|20469|Burdekin Basin
+26309|Juntala Metamorphics|20454|Forsayth Subprovince
+39538|Kabra Quartz Monzodiorite|40484|New England Orogen
+30699|Kahko Granodiorite|556523|Mount Isa Orogen
+9136|Kalkadoon Granodiorite|556523|Mount Isa Orogen
+9136|Kalkadoon Granodiorite|559194|Kalkadoon-Leichhardt Domain
+9136|Kalkadoon Granodiorite|559196|Leichhardt River Domain
+30638|Kalkadoon Supersuite|556523|Mount Isa Orogen
+30638|Kalkadoon Supersuite|559194|Kalkadoon-Leichhardt Domain
+30638|Kalkadoon Supersuite|559196|Leichhardt River Domain
+75724|Kalkarindji Suite|529556|Georgina Basin
+24330|Kallala Quartzite|467256|Arunta Orogen
+24330|Kallala Quartzite|556523|Mount Isa Orogen
+24330|Kallala Quartzite|559205|Sybella Domain
+9156|Kamarga Volcanics|556523|Mount Isa Orogen
+9156|Kamarga Volcanics|559187|Century Domain
+31447|Kandanga Creek Megabreccia|40484|New England Orogen
+31447|Kandanga Creek Megabreccia|407416|Wandilla Province
+32139|Kandoonan Granite|40484|New England Orogen
+9211|Kangaroo Creek Sandstone|529922|Clarence-Moreton Basin
+9215|Kangaroo Hills Formation|559174|Broken River Province
+27171|Karana Quartz Diorite|40484|New England Orogen
+31365|Karandah Granodiorite|40484|New England Orogen
+31365|Karandah Granodiorite|407416|Wandilla Province
+22067|Kariboe Layered Gabbro|40484|New England Orogen
+9292|Karns Dolomite|512264|McArthur Basin
+9292|Karns Dolomite|556523|Mount Isa Orogen
+9362|Keefton Formation|40484|New England Orogen
+9362|Keefton Formation|407419|Gympie Province
+27810|Keelbottom Group|20469|Burdekin Basin
+27810|Keelbottom Group|559188|Charters Towers Province
+32140|Keen Creek Granite|40484|New England Orogen
+9375|Keepera Group|22113|Ngalia Basin
+9375|Keepera Group|529556|Georgina Basin
+30700|Keithys Granite|556523|Mount Isa Orogen
+30700|Keithys Granite|559205|Sybella Domain
+35589|Kelvin Falls Formation|40484|New England Orogen
+35589|Kelvin Falls Formation|559208|Silverwood Province
+25115|Kendall Surface|556523|Mount Isa Orogen
+33722|Kenewah Granodiorite|40484|New England Orogen
+41266|Kenmore Gabbro|40484|New England Orogen
+9437|Kennedy Siltstone|556523|Mount Isa Orogen
+9437|Kennedy Siltstone|559196|Leichhardt River Domain
+75659|Key Creek Gneiss|40536|Connors-Auburn Province
+26661|Kholo Subgroup|21915|Ipswich Basin
+26661|Kholo Subgroup|529922|Clarence-Moreton Basin
+39146|Kilbeggan Granite|40484|New England Orogen
+37030|Kilcunda Rhyolite|407416|Wandilla Province
+37030|Kilcunda Rhyolite|407419|Gympie Province
+69002|Kildare Granodiorite|40484|New England Orogen
+28030|Kimba Gneiss|20455|Yambo Subprovince
+9570|Kimbala Granodiorite|40484|New England Orogen
+9581|Kin Kin beds|22345|Maryborough Basin
+9581|Kin Kin beds|40484|New England Orogen
+9581|Kin Kin beds|407419|Gympie Province
+9588|Kinellan Basalt|40484|New England Orogen
+9606|Kingaham Creek Granodiorite|40484|New England Orogen
+9606|Kingaham Creek Granodiorite|407416|Wandilla Province
+29758|Kitja Gneiss|20455|Yambo Subprovince
+9649|Kitoba Member|20527|Hodgkinson Province
+74109|Kitty Plain Microgranite|556523|Mount Isa Orogen
+9656|Knapdale Quartzite|556523|Mount Isa Orogen
+9656|Knapdale Quartzite|559198|Mary Kathleen Domain
+22121|Kokojelandji Schist|20455|Yambo Subprovince
+25976|Kolbar Formation|40484|New England Orogen
+25976|Kolbar Formation|407419|Gympie Province
+32151|Kooingal Granite Complex|40484|New England Orogen
+32145|Kooyong Gabbro|40484|New England Orogen
+35120|Koumala Granite|40484|New England Orogen
+76887|Kurbayia Metamorphic Complex|556523|Mount Isa Orogen
+76887|Kurbayia Metamorphic Complex|559194|Kalkadoon-Leichhardt Domain
+9919|Kuridala Group|39708|Selwyn Metallogenic Province
+9919|Kuridala Group|556523|Mount Isa Orogen
+9919|Kuridala Group|559195|Kuridala-Selwyn Domain
+25139|Kurwongbah beds|40484|New England Orogen
+25139|Kurwongbah beds|407416|Wandilla Province
+68563|Kyle Mohr Igneous Complex - gabbro|40484|New England Orogen
+68564|Kyle Mohr Igneous Complex - granite|40484|New England Orogen
+78364|Lady Clayre Formation|556523|Mount Isa Orogen
+10002|Lady Loretta Formation|467256|Arunta Orogen
+10002|Lady Loretta Formation|556523|Mount Isa Orogen
+10002|Lady Loretta Formation|559187|Century Domain
+10002|Lady Loretta Formation|559201|Mount Oxide Domain
+32276|Lakes Creek Formation|40484|New England Orogen
+25986|Lakeview Dolerite|556523|Mount Isa Orogen
+30726|Lalor beds|556523|Mount Isa Orogen
+10146|Landsborough Sandstone|22361|Nambour Basin
+24353|Lane Creek Formation|20454|Forsayth Subprovince
+41803|Langdale Hill Rhyolite|40484|New England Orogen
+27818|Langdon River Mudstone|20454|Forsayth Subprovince
+28247|Langlovale Group|20444|Savannah Province
+36349|Langton Dolerite|407419|Gympie Province
+37173|Laroona Arkose|556736|Lachlan Orogen
+22167|Larramore Metabasalt Member|20527|Hodgkinson Province
+10261|Lawn Hill Formation|556523|Mount Isa Orogen
+10261|Lawn Hill Formation|559187|Century Domain
+38872|Lawyer Granite|40484|New England Orogen
+25158|Leander Quartzite|556523|Mount Isa Orogen
+25158|Leander Quartzite|559196|Leichhardt River Domain
+10280|Leard Formation|530016|Gunnedah Basin
+10294|Lees Sandstone|550572|Carpentaria Basin
+34680|Leichhardt Supersuite|452730|Kennedy Igneous Province - Charters Towers region
+34680|Leichhardt Supersuite|559188|Charters Towers Province
+28675|Leichhardt Volcanics|39708|Selwyn Metallogenic Province
+28675|Leichhardt Volcanics|556523|Mount Isa Orogen
+28675|Leichhardt Volcanics|559194|Kalkadoon-Leichhardt Domain
+28675|Leichhardt Volcanics|559196|Leichhardt River Domain
+10337|Lena Quartzite Member|556523|Mount Isa Orogen
+10337|Lena Quartzite Member|559196|Leichhardt River Domain
+74541|Les Jumelles beds|449962|Anakie Province
+35011|Leura Volcanics|40484|New England Orogen
+35011|Leura Volcanics|40536|Connors-Auburn Province
+30723|Levian Granite|556523|Mount Isa Orogen
+30723|Levian Granite|559175|Canobie Domain
+10392|Lighthouse Granite|20437|Etheridge Province
+23730|Lissoy Sandstone|22077|Adavale Basin
+10487|Little River Coal Measures|22401|Laura-Lakefield Basin
+41322|Little Toby Granite|467256|Arunta Orogen
+41322|Little Toby Granite|556523|Mount Isa Orogen
+38873|Littlemore Granodiorite|40484|New England Orogen
+10514|Lizzie Creek Volcanics|40484|New England Orogen
+25171|Llewellyn Creek Formation|556523|Mount Isa Orogen
+25171|Llewellyn Creek Formation|559204|Soldiers Cap Domain
+23734|Locharwood Rhyolite|559189|Drummond Basin
+39682|Lochenbar Formation|40484|New England Orogen
+39682|Lochenbar Formation|40535|Calliope Province
+32044|Lochenbar beds|40484|New England Orogen
+40860|Lochlea Metarhyolite|39807|Balcooma Base Metal Metallogenic Province
+40860|Lochlea Metarhyolite|443092|Greenvale Province
+22209|Lochs Gneiss|20444|Savannah Province
+10583|Log Creek Formation|22077|Adavale Basin
+10586|Lollypop Formation|20469|Burdekin Basin
+10594|Lolworth Igneous Complex|39798|Charters Towers Gold Metallogenic Province
+32154|Lonesome Creek Monzonite|40484|New England Orogen
+35394|Long Mountain Breccia Member|559208|Silverwood Province
+32042|Lookerbie Igneous Complex|40484|New England Orogen
+10663|Lorelle Sandstone Member|530059|Bowen Basin
+32558|Lorray Formation|40484|New England Orogen
+10666|Loth Formation|550572|Carpentaria Basin
+33150|Lotus Creek Rhyolite|40484|New England Orogen
+33150|Lotus Creek Rhyolite|40536|Connors-Auburn Province
+39615|Louey Granite|20437|Etheridge Province
+27824|Lucky Creek Metamorphic Group|443092|Greenvale Province
+23743|Lugano Metamorphics|443092|Greenvale Province
+25185|Lunch Creek Gabbro|556523|Mount Isa Orogen
+25185|Lunch Creek Gabbro|559198|Mary Kathleen Domain
+27293|Lyall Formation|559174|Broken River Province
+32138|Lyndale Diorite|40484|New England Orogen
+39611|Lyndbrook Complex|20437|Etheridge Province
+39610|Lynwater Complex|443092|Greenvale Province
+69554|Lynwater Complex - Ordovician|443092|Greenvale Province
+69555|Lynwater Complex - Proterozoic|443092|Greenvale Province
+23746|Macauley Creek Granite|559174|Broken River Province
+33151|Macksford Volcanics|20547|Connors Igneous Subprovince
+33151|Macksford Volcanics|40536|Connors-Auburn Province
+10952|Mackunda Formation|529302|Eromanga Basin
+10952|Mackunda Formation|550572|Carpentaria Basin
+27472|Magazine Shale|556523|Mount Isa Orogen
+27472|Magazine Shale|559196|Leichhardt River Domain
+27185|Magna Lynn Metabasalt|556523|Mount Isa Orogen
+27185|Magna Lynn Metabasalt|559194|Kalkadoon-Leichhardt Domain
+11011|Magnetic Island Granite|40484|New England Orogen
+41804|Magog Gabbro|40484|New England Orogen
+41804|Magog Gabbro|407417|Marlborough Province
+24369|Mairindi Creek Granite|556523|Mount Isa Orogen
+24369|Mairindi Creek Granite|559194|Kalkadoon-Leichhardt Domain
+11049|Makbat Sandstone|556523|Mount Isa Orogen
+11049|Makbat Sandstone|559194|Kalkadoon-Leichhardt Domain
+24371|Malacura Sandstone|20454|Forsayth Subprovince
+27646|Malairo Rhyolite Member|452730|Kennedy Igneous Province - Charters Towers region
+30704|Malakoff Granite|556523|Mount Isa Orogen
+30704|Malakoff Granite|559175|Canobie Domain
+27187|Malbon Group|556523|Mount Isa Orogen
+40125|Mannersley Granodiorite|40484|New England Orogen
+11201|Mant Basalt|40484|New England Orogen
+11201|Mant Basalt|407419|Gympie Province
+29340|Manumbar Metamorphics|40484|New England Orogen
+29340|Manumbar Metamorphics|407416|Wandilla Province
+24373|Maramungee Granite|556523|Mount Isa Orogen
+31448|Maramungee Suite|556523|Mount Isa Orogen
+32045|Marble Waterhole beds|40484|New England Orogen
+32045|Marble Waterhole beds|40535|Calliope Province
+11331|Marlborough Metamorphics|40484|New England Orogen
+11331|Marlborough Metamorphics|407417|Marlborough Province
+23765|Maronan Supergroup|556523|Mount Isa Orogen
+11343|Maronghi Creek beds|40484|New England Orogen
+11343|Maronghi Creek beds|407416|Wandilla Province
+11361|Marraba Volcanics|556523|Mount Isa Orogen
+11361|Marraba Volcanics|559199|Mitakoodi Domain
+11380|Marshs Creek Formation|452730|Kennedy Igneous Province - Charters Towers region
+11380|Marshs Creek Formation|559174|Broken River Province
+11399|Marumba beds|40484|New England Orogen
+11399|Marumba beds|407416|Wandilla Province
+40126|Marvel Creek Gabbro|40484|New England Orogen
+26018|Mary Kathleen Group|556523|Mount Isa Orogen
+11409|Maryborough Formation|22345|Maryborough Basin
+11417|Maryland Granite|40484|New England Orogen
+11417|Maryland Granite|559208|Silverwood Province
+75652|Massey Granite|40536|Connors-Auburn Province
+39155|Matchbox Range Granite|40484|New England Orogen
+11472|Maules Creek Formation|530016|Gunnedah Basin
+36128|Mavis Granodiorite|556523|Mount Isa Orogen
+36128|Mavis Granodiorite|559175|Canobie Domain
+11485|May Downs Gneiss|556523|Mount Isa Orogen
+11485|May Downs Gneiss|559205|Sybella Domain
+41265|May Queen Gabbro|40484|New England Orogen
+11512|McArthur Group|512264|McArthur Basin
+11534|McDevitt Metamorphics|20437|Etheridge Province
+11534|McDevitt Metamorphics|20454|Forsayth Subprovince
+69038|McDevitt Metamorphics - amphibolite|20454|Forsayth Subprovince
+69037|McDevitt Metamorphics - gneiss|20454|Forsayth Subprovince
+27484|McKinnons Creek Granite|443092|Greenvale Province
+41252|McKonkey Granodiorite|40484|New England Orogen
+11575|McNamara Group|556523|Mount Isa Orogen
+37120|Melrose Igneous Complex|40484|New England Orogen
+37120|Melrose Igneous Complex|407416|Wandilla Province
+33428|Memerambi Granite|40484|New England Orogen
+75748|Menilden Creek Tonalite|40536|Connors-Auburn Province
+35193|Mia Mia Igneous Complex|40484|New England Orogen
+11840|Millaroo Granite|39799|Mount Leyshon Gold Metallogenic Province
+31441|Milo beds|556523|Mount Isa Orogen
+31441|Milo beds|559206|Tommy Creek Domain
+75666|Milwarra Quartz Diorite|40536|Connors-Auburn Province
+11889|Mine Corridor Volcanics|40084|Mount Morgan base Metal Gold Metallogenic Province
+69204|Mingimarny Granite|40484|New England Orogen
+23797|Mingo Granite|40484|New England Orogen
+11923|Minmi Member|27354|Surat Basin
+26033|Miriam Vale Granodiorite|40484|New England Orogen
+26033|Miriam Vale Granodiorite|407416|Wandilla Province
+27198|Mistletoe Granite|20437|Etheridge Province
+25245|Mitakoodi Quartzite|556523|Mount Isa Orogen
+25245|Mitakoodi Quartzite|559175|Canobie Domain
+25245|Mitakoodi Quartzite|559199|Mitakoodi Domain
+26744|Moah Creek beds|40484|New England Orogen
+39065|Molangul Granite|40484|New England Orogen
+12035|Mole Granite|40484|New England Orogen
+26746|Molloy beds|20527|Hodgkinson Province
+41324|Monaghans Granite|467256|Arunta Orogen
+41324|Monaghans Granite|556523|Mount Isa Orogen
+38874|Monal Granodiorite|40484|New England Orogen
+70384|Monduran Granite|40484|New England Orogen
+32155|Monkey Springs Granite|40484|New England Orogen
+12115|Monsildale Granodiorite|40484|New England Orogen
+12129|Monteagle Quartzite|449962|Anakie Province
+32131|Montour Gabbro|40484|New England Orogen
+39148|Moocoorooba Granite|39627|Cracow Metallogenic Province
+39148|Moocoorooba Granite|40484|New England Orogen
+12170|Mooga Sandstone|27354|Surat Basin
+12170|Mooga Sandstone|529302|Eromanga Basin
+12187|Moolayember Formation|530059|Bowen Basin
+12187|Moolayember Formation|550790|Galilee Basin
+23804|Moolboolaman Granodiorite|40484|New England Orogen
+39134|Moolyung Granodiorite|40484|New England Orogen
+12236|Moondarra Siltstone|556523|Mount Isa Orogen
+12236|Moondarra Siltstone|559196|Leichhardt River Domain
+39552|Moonkan Granite|40484|New England Orogen
+12305|Mopunga Group|22109|Wiso Basin
+12305|Mopunga Group|22113|Ngalia Basin
+12305|Mopunga Group|529556|Georgina Basin
+41267|Morang Volcanics|40484|New England Orogen
+69003|Morrow Granite|40484|New England Orogen
+35187|Morugo Granite|40484|New England Orogen
+30725|Mosses Tank dolerite|556523|Mount Isa Orogen
+24387|Mostyndale Mudstone Member|530059|Bowen Basin
+12435|Mount Abbot Igneous Complex|40484|New England Orogen
+12441|Mount Albert Group|556523|Mount Isa Orogen
+32041|Mount Alma Formation|40484|New England Orogen
+32041|Mount Alma Formation|40535|Calliope Province
+32041|Mount Alma Formation|547736|Melrose Trough
+24390|Mount Angelay Granite|556523|Mount Isa Orogen
+24390|Mount Angelay Granite|559191|Doherty - Fig Tree Gully Domain
+32147|Mount Appenben Granite|40484|New England Orogen
+70398|Mount Bania Granite|40484|New England Orogen
+12480|Mount Barker Granodiorite|40484|New England Orogen
+12490|Mount Barney beds|40484|New England Orogen
+41938|Mount Bassett Dolerite|40484|New England Orogen
+12504|Mount Bauple Syenite|40484|New England Orogen
+32161|Mount Benmore Volcanics|40484|New England Orogen
+32161|Mount Benmore Volcanics|40536|Connors-Auburn Province
+70141|Mount Bridgman Igneous Complex|40484|New England Orogen
+33143|Mount Buffalo Rhyolite|40484|New England Orogen
+33143|Mount Buffalo Rhyolite|40536|Connors-Auburn Province
+35013|Mount Bulgi Conglomerate Member|40484|New England Orogen
+35013|Mount Bulgi Conglomerate Member|40536|Connors-Auburn Province
+69203|Mount Bullaganang Granite|40484|New England Orogen
+12562|Mount Byron Volcanics|21915|Ipswich Basin
+12562|Mount Byron Volcanics|40484|New England Orogen
+12562|Mount Byron Volcanics|407416|Wandilla Province
+35185|Mount Chelona Granite|40484|New England Orogen
+35183|Mount Christian Granite|40484|New England Orogen
+40127|Mount Clairvoyant Granite|40484|New England Orogen
+29342|Mount Clara beds|22345|Maryborough Basin
+29342|Mount Clara beds|40484|New England Orogen
+29342|Mount Clara beds|407419|Gympie Province
+24393|Mount Cobalt Granite|556523|Mount Isa Orogen
+12591|Mount Coolon Andesite|559189|Drummond Basin
+75643|Mount Crompton Granodiorite|40536|Connors-Auburn Province
+12604|Mount Crosby Formation|21915|Ipswich Basin
+12604|Mount Crosby Formation|529922|Clarence-Moreton Basin
+39553|Mount Cross Igneous Complex|40484|New England Orogen
+32039|Mount Dick beds|40484|New England Orogen
+32039|Mount Dick beds|40535|Calliope Province
+24396|Mount Dore Granite|556523|Mount Isa Orogen
+24396|Mount Dore Granite|559195|Kuridala-Selwyn Domain
+23817|Mount Douglas Formation|452730|Kennedy Igneous Province - Charters Towers region
+68997|Mount Eagle Volcanics|40484|New England Orogen
+24398|Mount Erle Igneous Complex|556523|Mount Isa Orogen
+12698|Mount Etna Limestone|40484|New England Orogen
+12714|Mount Formartine Granite|20527|Hodgkinson Province
+12715|Mount Formartine Supersuite|20527|Hodgkinson Province
+77818|Mount Fort Bowen Sandstone|529727|Millungera Basin
+31420|Mount Fort Constantine Volcanics|556523|Mount Isa Orogen
+31420|Mount Fort Constantine Volcanics|559175|Canobie Domain
+26761|Mount Frosty Member|556523|Mount Isa Orogen
+12754|Mount Godkin Granite|556523|Mount Isa Orogen
+12768|Mount Guide Quartzite|556523|Mount Isa Orogen
+12768|Mount Guide Quartzite|559196|Leichhardt River Domain
+25279|Mount Hall Formation|559189|Drummond Basin
+12790|Mount Hedlow Trachyte|40484|New England Orogen
+24400|Mount Hogan Granite|20437|Etheridge Province
+27089|Mount Holly Formation|40484|New England Orogen
+27089|Mount Holly Formation|40535|Calliope Province
+32043|Mount Hoopbound Formation|40484|New England Orogen
+12822|Mount Isa Group|556523|Mount Isa Orogen
+12886|Mount Les Siltstone|556523|Mount Isa Orogen
+30707|Mount Maggie Granite|556523|Mount Isa Orogen
+12910|Mount Marcella Volcanics|20434|Esk Trough
+12910|Mount Marcella Volcanics|40484|New England Orogen
+30718|Mount Margaret Granite|556523|Mount Isa Orogen
+30718|Mount Margaret Granite|559175|Canobie Domain
+12931|Mount Mee Granophyre|40484|New England Orogen
+23825|Mount Mia Serpentinite|40484|New England Orogen
+23825|Mount Mia Serpentinite|407416|Wandilla Province
+34036|Mount Morgan Trondhjemite|40084|Mount Morgan base Metal Gold Metallogenic Province
+34036|Mount Morgan Trondhjemite|40484|New England Orogen
+34036|Mount Morgan Trondhjemite|40535|Calliope Province
+36785|Mount Mucki Diorite|40484|New England Orogen
+12978|Mount Norna Quartzite|556523|Mount Isa Orogen
+12978|Mount Norna Quartzite|559204|Soldiers Cap Domain
+75668|Mount Nutt Granite|40536|Connors-Auburn Province
+34045|Mount Oxide Chert|556523|Mount Isa Orogen
+25735|Mount Oxide Chert Member|556523|Mount Isa Orogen
+13029|Mount Philp Breccia|556523|Mount Isa Orogen
+27648|Mount Podge Limestone|20469|Burdekin Basin
+27846|Mount Rankin Formation|559189|Drummond Basin
+69010|Mount Rose Gabbro|40484|New England Orogen
+74231|Mount Roseby Schist|556523|Mount Isa Orogen
+74231|Mount Roseby Schist|559198|Mary Kathleen Domain
+68996|Mount Runsome Basalt|40484|New England Orogen
+22444|Mount Ryan Quartzite|20444|Savannah Province
+29932|Mount Salmon Volcanics|40484|New England Orogen
+13083|Mount Samson Granodiorite|40484|New England Orogen
+13083|Mount Samson Granodiorite|407416|Wandilla Province
+35182|Mount Scott Granite|40484|New England Orogen
+69013|Mount Seaview Igneous Complex - diorite, gabbro|40484|New England Orogen
+69012|Mount Seaview Igneous Complex - granite|40484|New England Orogen
+41940|Mount Shields Granodiorite|40484|New England Orogen
+41782|Mount Spencer Granodiorite|40484|New England Orogen
+26058|Mount Start Member|556523|Mount Isa Orogen
+23833|Mount Storth Granite|40484|New England Orogen
+39612|Mount Turner Granite|20437|Etheridge Province
+13158|Mount Urah Granodiorite|40484|New England Orogen
+41277|Mount Walker Member|20527|Hodgkinson Province
+13183|Mount Warner Volcanics|40084|Mount Morgan base Metal Gold Metallogenic Province
+13183|Mount Warner Volcanics|40484|New England Orogen
+13183|Mount Warner Volcanics|40535|Calliope Province
+13216|Mount Wickham Rhyolite|40484|New England Orogen
+13216|Mount Wickham Rhyolite|40536|Connors-Auburn Province
+13235|Mount Windsor Volcanics|39800|Thalanga Base Metal Metallogenic Province
+13235|Mount Windsor Volcanics|559188|Charters Towers Province
+13251|Mount Wyatt Formation|39626|Pajingo Metallogenic Province
+13251|Mount Wyatt Formation|559189|Drummond Basin
+41587|Mount You You Granite|40484|New England Orogen
+73979|Mount You You Suite|40484|New England Orogen
+73980|Mount You You Supersuite|40484|New England Orogen
+13259|Mountain Creek Conglomerate|20527|Hodgkinson Province
+41786|Mountain View Volcanics|40484|New England Orogen
+41786|Mountain View Volcanics|40536|Connors-Auburn Province
+33436|Mountefontein Metamorphics|40484|New England Orogen
+33436|Mountefontein Metamorphics|407416|Wandilla Province
+26062|Muggleton Formation|530059|Bowen Basin
+13363|Mulgildie Coal Measures|27546|Mulgildie Basin
+23844|Mulgrave Formation|20527|Hodgkinson Province
+23844|Mulgrave Formation|39982|Hodgkinson Gold Metallogenic Province
+13380|Mullaman beds|550572|Carpentaria Basin
+69878|Munbooree beds|40484|New England Orogen
+69878|Munbooree beds|40535|Calliope Province
+35203|Munbura Diorite|40484|New England Orogen
+27850|Muncon Volcanics|40484|New England Orogen
+13473|Mungore Granite|40484|New England Orogen
+13473|Mungore Granite|407419|Gympie Province
+41102|Mungungal Granite|40484|New England Orogen
+38875|Munholme Quartz Diorite|40484|New England Orogen
+23852|Muntalunga Range Granite|40484|New England Orogen
+13528|Murphy Metamorphics|556523|Mount Isa Orogen
+13577|Murta Formation|529302|Eromanga Basin
+13609|Musket Flat Granodiorite|40484|New England Orogen
+13609|Musket Flat Granodiorite|407419|Gympie Province
+13635|Myally Subgroup|556523|Mount Isa Orogen
+13635|Myally Subgroup|559201|Mount Oxide Domain
+13635|Myally Subgroup|559205|Sybella Domain
+13654|Myrtle Creek Sandstone|22345|Maryborough Basin
+13654|Myrtle Creek Sandstone|22361|Nambour Basin
+25318|Myrtlevale Formation|20469|Burdekin Basin
+13663|Mytton Formation|559174|Broken River Province
+24416|Mywyn Granite|20437|Etheridge Province
+13707|Namba Formation|464193|Callabonna Sub-basin
+13707|Namba Formation|529801|Lake Eyre Basin
+13710|Nambour Formation|22361|Nambour Basin
+13738|Namur Sandstone|529302|Eromanga Basin
+13823|Nappamerri Group|529511|Cooper Basin
+13831|Napperby Formation|530016|Gunnedah Basin
+13831|Napperby Formation|556736|Lachlan Orogen
+13847|Naraku Granite|556523|Mount Isa Orogen
+35063|Naraku Suite|39708|Selwyn Metallogenic Province
+13853|Narayen beds|40484|New England Orogen
+37962|Narpa Group|529556|Georgina Basin
+13927|Natal Formation|559189|Drummond Basin
+30708|Natalie Granite|556523|Mount Isa Orogen
+30708|Natalie Granite|559198|Mary Kathleen Domain
+26072|Nathan Group|512264|McArthur Basin
+13930|Native Bee Siltstone|556523|Mount Isa Orogen
+13930|Native Bee Siltstone|559196|Leichhardt River Domain
+13932|Native Cat Andesite|40484|New England Orogen
+29341|Native Creek Microgranite|40484|New England Orogen
+13946|Neara Volcanics|20434|Esk Trough
+13946|Neara Volcanics|40484|New England Orogen
+13946|Neara Volcanics|407416|Wandilla Province
+14021|Neranleigh-Fernvale beds|40484|New England Orogen
+14021|Neranleigh-Fernvale beds|407416|Wandilla Province
+14032|Netherwood Tonalite|443092|Greenvale Province
+14032|Netherwood Tonalite|559174|Broken River Province
+31382|Neurum Complex|40484|New England Orogen
+31382|Neurum Complex|407416|Wandilla Province
+76908|New Hope Sandstone|556523|Mount Isa Orogen
+76908|New Hope Sandstone|559195|Kuridala-Selwyn Domain
+26077|New Moonta Diorite|40484|New England Orogen
+14068|Newberry Metamorphic Group|20455|Yambo Subprovince
+28097|Newirie Formation|20444|Savannah Province
+14123|Nicholson Granite Complex|556523|Mount Isa Orogen
+30724|Nicholson Suite|556523|Mount Isa Orogen
+41094|Nine Mile Granite|40484|New England Orogen
+41801|Nob Creek Amphibolite|407417|Marlborough Province
+14207|Nogo beds|40484|New England Orogen
+14246|Normanby Formation|22401|Laura-Lakefield Basin
+41141|North Arm Volcanic Group|407416|Wandilla Province
+41141|North Arm Volcanic Group|407419|Gympie Province
+14289|Northbrook beds|40484|New England Orogen
+14289|Northbrook beds|407416|Wandilla Province
+22568|Northumberland Serpentinite|407417|Marlborough Province
+38883|Norton Tonalite|40484|New England Orogen
+14314|Nour Nour Granodiorite|40484|New England Orogen
+32127|Nulambie Granite|40484|New England Orogen
+76903|Nundata Granite|556523|Mount Isa Orogen
+76903|Nundata Granite|559191|Doherty - Fig Tree Gully Domain
+29322|O'Briens Creek Supersuite|20527|Hodgkinson Province
+30082|OK Member|20527|Hodgkinson Province
+39609|Oasis Metamorphics|20437|Etheridge Province
+39609|Oasis Metamorphics|20454|Forsayth Subprovince
+39609|Oasis Metamorphics|443092|Greenvale Province
+69552|Oasis Metamorphics - amphibolite|443092|Greenvale Province
+41805|Og Syenite|40484|New England Orogen
+41805|Og Syenite|407417|Marlborough Province
+40129|Okangal Granodiorite|40484|New England Orogen
+39070|Old Kolonga Gabbro|40484|New England Orogen
+27990|Olkolo Formation|20444|Savannah Province
+23885|Olsens Granite|442771|Croydon Province
+35142|Olympus Granite|40484|New England Orogen
+22590|One Mile Creek Granite|407416|Wandilla Province
+14590|One Tree Granite|556523|Mount Isa Orogen
+14592|Oodnadatta Formation|529302|Eromanga Basin
+27528|Ooramera Volcanics|40484|New England Orogen
+27528|Ooramera Volcanics|407419|Gympie Province
+14635|Orallo Formation|27354|Surat Basin
+14635|Orallo Formation|529302|Eromanga Basin
+14646|Orient beds|556523|Mount Isa Orogen
+35392|Ormoral Volcanics|40484|New England Orogen
+35392|Ormoral Volcanics|559208|Silverwood Province
+24445|Oroopo Metabasalt|467256|Arunta Orogen
+24445|Oroopo Metabasalt|556523|Mount Isa Orogen
+28023|Oswald Schist|20455|Yambo Subprovince
+26091|Overhang Jaspilite|556523|Mount Isa Orogen
+26091|Overhang Jaspilite|559199|Mitakoodi Domain
+24447|Oweenee Rhyolite|452730|Kennedy Igneous Province - Charters Towers region
+36411|Oweenee Supersuite|452730|Kennedy Igneous Province - Charters Towers region
+36411|Oweenee Supersuite|559188|Charters Towers Province
+14717|Owl Gully Volcanics|40484|New England Orogen
+14735|Packsaddle Microgranite|559170|Arnhem Province
+14759|Paddys Creek Phyllite|443092|Greenvale Province
+36419|Palm Islands Granite|40484|New England Orogen
+35186|Palms Lookout Granodiorite|40484|New England Orogen
+23891|Paluma Rhyolite|452730|Kennedy Igneous Province - Charters Towers region
+23892|Paning Member|529511|Cooper Basin
+14854|Parabarana Sandstone|20306|Mount Painter Block
+14854|Parabarana Sandstone|529302|Eromanga Basin
+14857|Paradise Creek Formation|467256|Arunta Orogen
+14857|Paradise Creek Formation|556523|Mount Isa Orogen
+14857|Paradise Creek Formation|559187|Century Domain
+14857|Paradise Creek Formation|559201|Mount Oxide Domain
+32136|Parraweena Gabbro|40484|New England Orogen
+24451|Parrot Camp Rhyolite|442771|Croydon Province
+14970|Peak Range Volcanics|530059|Bowen Basin
+14976|Peaker Piker Volcanics|468269|Kalkarindji Igneous Province
+14984|Peawaddy Formation|550790|Galilee Basin
+24619|Peera Peera Formation|529549|Pedirka Basin
+15022|Pelican Range Formation|559174|Broken River Province
+15032|Pemberton Grange Basalt|22345|Maryborough Basin
+15038|Peninsula Range Volcanics|40484|New England Orogen
+22638|Penny Gneiss|20455|Yambo Subprovince
+15060|Percy Creek Volcanics|452730|Kennedy Igneous Province - Charters Towers region
+15073|Perry Creek Formation|559174|Broken River Province
+31364|Peters Creek Greenstone|40484|New England Orogen
+31364|Peters Creek Greenstone|407416|Wandilla Province
+15114|Peters Creek Volcanics|556523|Mount Isa Orogen
+69039|Peters Creek Volcanics - units 2 to 7|556523|Mount Isa Orogen
+15141|Philpott Limestone|40535|Calliope Province
+15153|Piccadilly Formation|20469|Burdekin Basin
+74235|Pickhandle Tonalite|40536|Connors-Auburn Province
+15163|Pickwick Metabasalt Member|556523|Mount Isa Orogen
+15163|Pickwick Metabasalt Member|559196|Leichhardt River Domain
+15176|Piebald Basalt|20471|Piebold Igneous Subprovince
+15185|Pikedale beds|40484|New England Orogen
+77817|Pilpah Formation|556523|Mount Isa Orogen
+34633|Pine Mountain Serpentinite|40484|New England Orogen
+32130|Pinedale Granite|40484|New England Orogen
+35195|Pisgah Igneous Complex|40484|New England Orogen
+15306|Plain Creek Formation|556523|Mount Isa Orogen
+30709|Playboy Granite|556523|Mount Isa Orogen
+30709|Playboy Granite|559198|Mary Kathleen Domain
+70106|Plevna beds|40484|New England Orogen
+24459|Plum Mountain Gneiss|556523|Mount Isa Orogen
+24459|Plum Mountain Gneiss|559194|Kalkadoon-Leichhardt Domain
+23914|Poley Cow Formation|559174|Broken River Province
+15406|Polland Waterhole Shale|550572|Carpentaria Basin
+41259|Pollard Granodiorite|40484|New England Orogen
+28027|Pombete Gneiss|20455|Yambo Subprovince
+40132|Pomegranate Tonalite|40484|New England Orogen
+30137|Ponto Basalt Member|20469|Burdekin Basin
+15442|Poolowanna Formation|529302|Eromanga Basin
+15442|Poolowanna Formation|529511|Cooper Basin
+15452|Porcupine Formation|530016|Gunnedah Basin
+15488|Portal Creek Volcanics|21915|Ipswich Basin
+15488|Portal Creek Volcanics|40484|New England Orogen
+74676|Pothole Creek Gneiss|556523|Mount Isa Orogen
+74676|Pothole Creek Gneiss|559194|Kalkadoon-Leichhardt Domain
+15540|Precipice Sandstone|27354|Surat Basin
+15540|Precipice Sandstone|27540|Callide Basin
+15540|Precipice Sandstone|27546|Mulgildie Basin
+15540|Precipice Sandstone|529302|Eromanga Basin
+40133|Princhester Serpentinite|40484|New England Orogen
+40133|Princhester Serpentinite|407417|Marlborough Province
+15615|Proserpine Volcanics|40484|New England Orogen
+15641|Puckley Granite|20527|Hodgkinson Province
+23922|Puddler Creek Formation|39799|Mount Leyshon Gold Metallogenic Province
+23922|Puddler Creek Formation|39800|Thalanga Base Metal Metallogenic Province
+23922|Puddler Creek Formation|559188|Charters Towers Province
+15655|Pumpkin Hut Mudstone|40484|New England Orogen
+15655|Pumpkin Hut Mudstone|40535|Calliope Province
+15676|Purlawaugh Formation|27354|Surat Basin
+26115|Pyri Pyri Granite|40484|New England Orogen
+26115|Pyri Pyri Granite|407416|Wandilla Province
+23929|Quadroy Conglomerate|20527|Hodgkinson Province
+69000|Quaggy Mountain Quartz Gabbro|40484|New England Orogen
+15717|Quamby Conglomerate|556523|Mount Isa Orogen
+40134|Quarry Gabbro|40484|New England Orogen
+30701|Queen Elizabeth Granite|556523|Mount Isa Orogen
+15764|Quilalar Formation|556523|Mount Isa Orogen
+15764|Quilalar Formation|559196|Leichhardt River Domain
+15764|Quilalar Formation|559201|Mount Oxide Domain
+41802|Racecourse Creek Gabbro|40484|New England Orogen
+41802|Racecourse Creek Gabbro|407417|Marlborough Province
+38877|Radley Nepheline Syenite|40484|New England Orogen
+15817|Rammutt Formation|407419|Gympie Province
+15843|Rannes beds|40484|New England Orogen
+32036|Raspberry Creek Formation|40484|New England Orogen
+32036|Raspberry Creek Formation|40535|Calliope Province
+41104|Ravenscraig Gabbro|40484|New England Orogen
+26119|Ravenswood Granodiorite Complex|39798|Charters Towers Gold Metallogenic Province
+26119|Ravenswood Granodiorite Complex|39799|Mount Leyshon Gold Metallogenic Province
+26119|Ravenswood Granodiorite Complex|559188|Charters Towers Province
+26865|Rawbelle batholith|39627|Cracow Metallogenic Province
+26865|Rawbelle batholith|40536|Connors-Auburn Province
+26866|Raymond Sandstone|39626|Pajingo Metallogenic Province
+26866|Raymond Sandstone|559189|Drummond Basin
+15930|Red Cliff Coal Measures|21915|Ipswich Basin
+15930|Red Cliff Coal Measures|40484|New England Orogen
+39574|Redshirt Granite|40484|New England Orogen
+16012|Reids Dome beds|530059|Bowen Basin
+77636|Retreat Supersuite|449962|Anakie Province
+24471|Revenue Granite|556523|Mount Isa Orogen
+24471|Revenue Granite|559198|Mary Kathleen Domain
+16054|Rewan Group|530059|Bowen Basin
+16054|Rewan Group|550790|Galilee Basin
+16070|Rhyolite Range beds|559208|Silverwood Province
+16093|Ridgelands Granodiorite|40484|New England Orogen
+16093|Ridgelands Granodiorite|40535|Calliope Province
+16093|Ridgelands Granodiorite|407417|Marlborough Province
+38865|Ridler Monzonite|40484|New England Orogen
+23940|Ringwood Park Microgranite|39807|Balcooma Base Metal Metallogenic Province
+23940|Ringwood Park Microgranite|443092|Greenvale Province
+16116|Risdon Stud Formation|40484|New England Orogen
+16116|Risdon Stud Formation|559208|Silverwood Province
+24472|Riversleigh Siltstone|556523|Mount Isa Orogen
+24472|Riversleigh Siltstone|559187|Century Domain
+38885|Riverston Granodiorite|40484|New England Orogen
+16145|Riverstone Sandstone Member|530059|Bowen Basin
+38870|Robert Granite|40484|New England Orogen
+41096|Rockdale Granite|40484|New England Orogen
+16202|Rockhampton Group|40484|New England Orogen
+16216|Rocksberg Greenstone|40484|New England Orogen
+16216|Rocksberg Greenstone|407416|Wandilla Province
+40135|Rocky Point Granodiorite|40484|New England Orogen
+41099|Rockybar Granodiorite|40484|New England Orogen
+23942|Rolfe Creek Schist|449962|Anakie Province
+16267|Rolling Downs Group|22401|Laura-Lakefield Basin
+16267|Rolling Downs Group|27354|Surat Basin
+16267|Rolling Downs Group|529302|Eromanga Basin
+16267|Rolling Downs Group|550572|Carpentaria Basin
+23944|Rollston Range Formation|39800|Thalanga Base Metal Metallogenic Province
+23944|Rollston Range Formation|559188|Charters Towers Province
+16301|Ronlow beds|529302|Eromanga Basin
+16306|Rookwood Volcanics|40484|New England Orogen
+27055|Ropewalk Granite|20437|Etheridge Province
+16352|Rosenthal Creek Formation|559208|Silverwood Province
+41098|Ross Granite|40484|New England Orogen
+36354|Rosser Schist|20455|Yambo Subprovince
+35199|Round Top Granite|40484|New England Orogen
+16404|Roxmere Quartzite|556523|Mount Isa Orogen
+16404|Roxmere Quartzite|559191|Doherty - Fig Tree Gully Domain
+16404|Roxmere Quartzite|559197|Marimo-Staveley Domain
+16417|Ruby Creek Granite|40484|New England Orogen
+38871|Rule Gabbro|40484|New England Orogen
+27228|Running River Metamorphics|559188|Charters Towers Province
+36708|Rush Creek Granodiorite|40484|New England Orogen
+36708|Rush Creek Granodiorite|407416|Wandilla Province
+16481|Ruxton Formation|559174|Broken River Province
+68988|Sabina Point Schist|40484|New England Orogen
+26129|Saddington Tonalite|443092|Greenvale Province
+26129|Saddington Tonalite|559174|Broken River Province
+41588|Sailor Jack Granite|40484|New England Orogen
+73887|Sailor Jack Suite|40484|New England Orogen
+16520|Saint Anns Formation|559189|Drummond Basin
+23953|Saint Giles Volcanics|452730|Kennedy Igneous Province - Charters Towers region
+27230|Saint James Volcanics|20469|Burdekin Basin
+27230|Saint James Volcanics|452730|Kennedy Igneous Province - Charters Towers region
+69509|Saint James Volcanics - rhyolite|452730|Kennedy Igneous Province - Charters Towers region
+69510|Saint James Volcanics - volcaniclastics|452730|Kennedy Igneous Province - Charters Towers region
+24486|Saint Ronans Metamorphics|467256|Arunta Orogen
+24486|Saint Ronans Metamorphics|556523|Mount Isa Orogen
+33930|Saltmine Creek monzogranite|556523|Mount Isa Orogen
+41788|Sambo Quartz Monzonite|40484|New England Orogen
+41788|Sambo Quartz Monzonite|40536|Connors-Auburn Province
+16575|Samford Granodiorite|40484|New England Orogen
+16575|Samford Granodiorite|407416|Wandilla Province
+16588|Sandalwood Serpentinite|20437|Etheridge Province
+16588|Sandalwood Serpentinite|20454|Forsayth Subprovince
+16588|Sandalwood Serpentinite|443092|Greenvale Province
+68947|Saraga Schist - gneiss-bearing|20455|Yambo Subprovince
+68948|Saraga Schist - metagranite-bearing|20437|Etheridge Province
+68949|Saraga Schist - metasediment|20455|Yambo Subprovince
+68950|Saraga Schist - schist and granulite-bearing|20455|Yambo Subprovince
+40136|Sawnee Gabbro|40484|New England Orogen
+24488|Sawpit Granodiorite|20437|Etheridge Province
+26324|Saxby Granite|556523|Mount Isa Orogen
+26324|Saxby Granite|559204|Soldiers Cap Domain
+16667|Scartwater Formation|559189|Drummond Basin
+30710|Scheelite Granite|556523|Mount Isa Orogen
+34919|Scotia Member|530059|Bowen Basin
+41927|Screaming Creek Gabbro|40484|New England Orogen
+23960|Scurvy Creek Meta-arenite|449962|Anakie Province
+25469|Sefton Metamorphics|20563|Iron Range Province
+16726|Seigal Volcanics|556523|Mount Isa Orogen
+25471|Selwyn Supergroup|556523|Mount Isa Orogen
+23961|Seventy Mile Range Group|39798|Charters Towers Gold Metallogenic Province
+23961|Seventy Mile Range Group|39800|Thalanga Base Metal Metallogenic Province
+23961|Seventy Mile Range Group|559188|Charters Towers Province
+16787|Shady Bore Quartzite|467256|Arunta Orogen
+16787|Shady Bore Quartzite|556523|Mount Isa Orogen
+16787|Shady Bore Quartzite|559187|Century Domain
+35033|Shawlands Granite Complex|40484|New England Orogen
+27653|Shield Creek Formation|556736|Lachlan Orogen
+16848|Shoalwater Formation|40484|New England Orogen
+16848|Shoalwater Formation|407416|Wandilla Province
+16860|Showgrounds Sandstone|530059|Bowen Basin
+25477|Silver Hills Volcanics|39626|Pajingo Metallogenic Province
+25477|Silver Hills Volcanics|39793|Belyando Gold Province
+25477|Silver Hills Volcanics|559189|Drummond Basin
+16892|Silver Spur beds|40484|New England Orogen
+16903|Silverwood Group|40484|New England Orogen
+16903|Silverwood Group|559208|Silverwood Province
+16949|Sirius Mudstone Member|530059|Bowen Basin
+40138|Sleipner Member|40484|New England Orogen
+40139|Smoky beds|40484|New England Orogen
+17026|Snake Creek Mudstone Member|530059|Bowen Basin
+26144|Soldiers Cap Group|39708|Selwyn Metallogenic Province
+26144|Soldiers Cap Group|556523|Mount Isa Orogen
+26144|Soldiers Cap Group|559175|Canobie Domain
+26144|Soldiers Cap Group|559204|Soldiers Cap Domain
+42051|Somerset Dam Igneous Complex - gabbro|40484|New England Orogen
+42052|Somerset Dam Igneous Complex - granophyre|40484|New England Orogen
+39585|South Buaraba Microdiorite|40484|New England Orogen
+26145|South Curra Limestone|407419|Gympie Province
+36417|South Island Gabbro|407417|Marlborough Province
+17123|South Nicholson Group|551269|South Nicholson Basin
+23981|Southern Cross Formation|408346|Charters Towers Region
+17143|Spear Siltstone|556523|Mount Isa Orogen
+17143|Spear Siltstone|559196|Leichhardt River Domain
+17205|Springbok Sandstone|27354|Surat Basin
+17205|Springbok Sandstone|529302|Eromanga Basin
+24501|Squirrel Hills Granite|556523|Mount Isa Orogen
+24501|Squirrel Hills Granite|559191|Doherty - Fig Tree Gully Domain
+17242|Staircase Sandstone Member|530059|Bowen Basin
+17256|Stanbroke Sandstone|556523|Mount Isa Orogen
+17256|Stanbroke Sandstone|559194|Kalkadoon-Leichhardt Domain
+17274|Stanthorpe Granite|559208|Silverwood Province
+73853|Stanthorpe Granite 1|40484|New England Orogen
+73855|Stanthorpe Granite 2|40484|New England Orogen
+73856|Stanthorpe Granite 3|40484|New England Orogen
+73857|Stanthorpe Granite 4|40484|New England Orogen
+73858|Stanthorpe Granite 5|40484|New England Orogen
+73859|Stanthorpe Granite 6|40484|New England Orogen
+17277|Stanthorpe Suite|40484|New England Orogen
+73988|Stanthorpe Supersuite|40484|New England Orogen
+17284|Stanwell Coal Measures|40484|New England Orogen
+17296|Star of Hope Formation|39626|Pajingo Metallogenic Province
+17296|Star of Hope Formation|559189|Drummond Basin
+74793|Starcross Formation|556523|Mount Isa Orogen
+74793|Starcross Formation|559195|Kuridala-Selwyn Domain
+75654|Starvation Creek Complex|40536|Connors-Auburn Province
+17306|Staveley Formation|556523|Mount Isa Orogen
+17306|Staveley Formation|559191|Doherty - Fig Tree Gully Domain
+17306|Staveley Formation|559197|Marimo-Staveley Domain
+17306|Staveley Formation|559204|Soldiers Cap Domain
+30702|Steeles Granite|556523|Mount Isa Orogen
+17319|Stenhouse Creek Amphibolite|20454|Forsayth Subprovince
+17319|Stenhouse Creek Amphibolite|443092|Greenvale Province
+41937|Stony Creek Granite|40484|New England Orogen
+28096|Strathburn Formation|20444|Savannah Province
+28104|Strathmay Formation|20444|Savannah Province
+33432|Stuart River Granite|40484|New England Orogen
+33432|Stuart River Granite|407416|Wandilla Province
+17459|Stud Formation|20469|Burdekin Basin
+17459|Stud Formation|556736|Lachlan Orogen
+17477|Styx Coal Measures|22644|Styx Basin
+29759|Sugarbag Creek Quartzite|20444|Savannah Province
+17500|Sugarloaf Metamorphics|40484|New England Orogen
+17500|Sugarloaf Metamorphics|407416|Wandilla Province
+17504|Sugars Basalt|21915|Ipswich Basin
+41257|Sujeewong Gabbro|40484|New England Orogen
+24510|Sulieman Gneiss|467256|Arunta Orogen
+24510|Sulieman Gneiss|556523|Mount Isa Orogen
+24510|Sulieman Gneiss|559205|Sybella Domain
+17546|Surat Siltstone|27354|Surat Basin
+17546|Surat Siltstone|529302|Eromanga Basin
+17551|Surprise Creek Formation|556523|Mount Isa Orogen
+17551|Surprise Creek Formation|559187|Century Domain
+17551|Surprise Creek Formation|559194|Kalkadoon-Leichhardt Domain
+17551|Surprise Creek Formation|559196|Leichhardt River Domain
+17551|Surprise Creek Formation|559201|Mount Oxide Domain
+35201|Swayneville Granite|40484|New England Orogen
+17589|Sybella Granite|556523|Mount Isa Orogen
+30647|Sybella Suite|556523|Mount Isa Orogen
+26155|Sybil Group|452730|Kennedy Igneous Province - Charters Towers region
+26155|Sybil Group|559174|Broken River Province
+17626|Tablelands Complex|40484|New England Orogen
+29597|Talamy Schist|40484|New England Orogen
+29597|Talamy Schist|407416|Wandilla Province
+26921|Talbot Creek Trondhjemite|20437|Etheridge Province
+35192|Tally Ho Igneous Complex|40484|New England Orogen
+26160|Tamaree Formation|407419|Gympie Province
+41093|Tan Lies Quartz Monzodiorite|40484|New England Orogen
+41792|Tanderra Volcanics|40484|New England Orogen
+69004|Tandora Granodiorite|40484|New England Orogen
+77828|Tandora Suite|530059|Bowen Basin
+24512|Tangalooma Sandstone|27354|Surat Basin
+26282|Tank Creek Sandstone|556736|Lachlan Orogen
+17850|Tareela Volcanics|20469|Burdekin Basin
+17850|Tareela Volcanics|452730|Kennedy Igneous Province - Charters Towers region
+38894|Targinie Quartz Monzonite|40484|New England Orogen
+36987|Taromeo Igneous Complex|407416|Wandilla Province
+42054|Taromeo Igneous Complex - diorite|40484|New England Orogen
+42055|Taromeo Igneous Complex - granodiorite 1|40484|New England Orogen
+42053|Taromeo Igneous Complex - granodiorite 2|40484|New England Orogen
+42058|Taromeo Igneous Complex - granodiorite 3|40484|New England Orogen
+42056|Taromeo Igneous Complex - granodiorite 4|40484|New England Orogen
+42057|Taromeo Igneous Complex - tonalite|40484|New England Orogen
+17861|Tarong beds|27541|Tarong Basin
+17861|Tarong beds|40484|New England Orogen
+17861|Tarong beds|407416|Wandilla Province
+41795|Tartrus Rhyolite|40536|Connors-Auburn Province
+17901|Tawah Granodiorite|40484|New England Orogen
+17901|Tawah Granodiorite|407419|Gympie Province
+17902|Tawallah Group|20211|Wearyan Shelf
+17902|Tawallah Group|512264|McArthur Basin
+32142|Tecoma Granite|40484|New England Orogen
+17919|Teddy Mount Formation|559174|Broken River Province
+17921|Teebar Formation|40484|New England Orogen
+17921|Teebar Formation|407419|Gympie Province
+35191|Teemburra Igneous Complex|40484|New England Orogen
+35037|Telemark Granodiorite|40484|New England Orogen
+17932|Telemon Formation|559189|Drummond Basin
+41101|Ten Mile Granite|40484|New England Orogen
+17956|Tenningering Granodiorite|40484|New England Orogen
+17975|Termite Range Formation|556523|Mount Isa Orogen
+17975|Termite Range Formation|559187|Century Domain
+18012|Texas beds|40484|New England Orogen
+68989|The Shacks Mylonite|40484|New England Orogen
+42392|Theodolite Siltstone|22345|Maryborough Basin
+27911|Theresa Creek Volcanics|39793|Belyando Gold Province
+18102|Three Moon Conglomerate|40484|New England Orogen
+25529|Thunderbolt Granite|40484|New England Orogen
+25529|Thunderbolt Granite|40536|Connors-Auburn Province
+39882|Ti Tree Granite|556523|Mount Isa Orogen
+18119|Tiaro Coal Measures|22345|Maryborough Basin
+18166|Timberoo Member|556523|Mount Isa Orogen
+18166|Timberoo Member|559199|Mitakoodi Domain
+24524|Tin Hill Quartzite Member|20454|Forsayth Subprovince
+18192|Tinaroo Granite|20527|Hodgkinson Province
+73611|Tincat Road Metamorphics|407416|Wandilla Province
+32132|Tindarra Granite|40484|New England Orogen
+36531|Tintarple granite|20437|Etheridge Province
+18248|Tivoli Formation|21915|Ipswich Basin
+18263|Toko Group|529556|Georgina Basin
+38863|Tollbar Breccia|40484|New England Orogen
+26176|Tommy Creek Microgranite|556523|Mount Isa Orogen
+26176|Tommy Creek Microgranite|559206|Tommy Creek Domain
+75665|Tommy Roundback Granodiorite|40536|Connors-Auburn Province
+35207|Toobier Granite|40484|New England Orogen
+18352|Toogoolawah Group|20434|Esk Trough
+18352|Toogoolawah Group|21915|Ipswich Basin
+18352|Toogoolawah Group|40484|New England Orogen
+18370|Toole Creek Volcanics|556523|Mount Isa Orogen
+18370|Toole Creek Volcanics|559204|Soldiers Cap Domain
+35131|Tooloombah Creek Granite|40484|New England Orogen
+39154|Toonboro Granite|40484|New England Orogen
+18404|Toondahra Granite|40484|New England Orogen
+18438|Torpedo Creek Quartzite|556523|Mount Isa Orogen
+18438|Torpedo Creek Quartzite|559187|Century Domain
+18438|Torpedo Creek Quartzite|559201|Mount Oxide Domain
+36369|Torres Strait Volcanic Group|559176|Cape York - Oriomo Province
+35006|Torsdale Volcanics|40484|New England Orogen
+35006|Torsdale Volcanics|40536|Connors-Auburn Province
+73897|Towgon Grange Suite|40484|New England Orogen
+24534|Townley Formation|20454|Forsayth Subprovince
+34358|Townshend Formation|40484|New England Orogen
+34358|Townshend Formation|407416|Wandilla Province
+18558|Traveston Formation|407419|Gympie Province
+27592|Tribute Hills Arenite|559174|Broken River Province
+24044|Trooper Creek Formation|39800|Thalanga Base Metal Metallogenic Province
+24044|Trooper Creek Formation|559188|Charters Towers Province
+26962|Tungi Creek Granodiorite|40484|New England Orogen
+26962|Tungi Creek Granodiorite|407416|Wandilla Province
+24052|Turrets Formation|559174|Broken River Province
+23072|Twelve Mile Schist|20455|Yambo Subprovince
+18773|Ukalunda Formation|449962|Anakie Province
+18773|Ukalunda Formation|556736|Lachlan Orogen
+39593|Umbrella Granodiorite|40484|New England Orogen
+41352|Undercliffe Falls Monzogranite|40484|New England Orogen
+77823|Upland Supersuite|559188|Charters Towers Province
+35205|Uraba Granite|40484|New England Orogen
+41761|Urannah Batholith - monzodiorite|40484|New England Orogen
+41772|Urannah Batholith 15|40484|New England Orogen
+18979|Urannah Igneous Complex|40484|New England Orogen
+35092|Urannah Suite|40484|New England Orogen
+19007|Urquhart Shale|556523|Mount Isa Orogen
+19007|Urquhart Shale|559196|Leichhardt River Domain
+41941|Uruba Granite|40484|New England Orogen
+19045|Van Dyke Litharenite|20527|Hodgkinson Province
+19058|Vanneck Formation|20469|Burdekin Basin
+24550|Venetia Formation|559174|Broken River Province
+32048|Voewood Granite|40484|New England Orogen
+19176|Wade beds|20458|Cattle Creek Basin
+19176|Wade beds|550790|Galilee Basin
+19176|Wade beds|559174|Broken River Province
+19210|Wairuna Formation|559174|Broken River Province
+35140|Waitara Granite|40484|New England Orogen
+27922|Wakeful Metabasalt Member|556523|Mount Isa Orogen
+19228|Walford Dolomite|556523|Mount Isa Orogen
+26330|Wallabadah Siltstone|442771|Croydon Province
+26196|Wallabella Coal Member|530059|Bowen Basin
+19254|Wallaby beds|559208|Silverwood Province
+36340|Wallaman Falls Volcanics|20527|Hodgkinson Province
+19265|Wallangarra Volcanics|40484|New England Orogen
+19303|Walloon Coal Measures|27354|Surat Basin
+19303|Walloon Coal Measures|529922|Clarence-Moreton Basin
+19323|Wallumbilla Formation|27354|Surat Basin
+19368|Wandilla Formation|40484|New England Orogen
+19368|Wandilla Formation|407416|Wandilla Province
+24074|Wando Vale Subgroup|559174|Broken River Province
+29113|Wandsworth Volcanic Group|40484|New England Orogen
+19432|Warang Sandstone|550790|Galilee Basin
+19533|Warrina Park Quartzite|556523|Mount Isa Orogen
+19533|Warrina Park Quartzite|559196|Leichhardt River Domain
+26987|Watalgan Granite|40484|New England Orogen
+26987|Watalgan Granite|407419|Gympie Province
+26988|Wateranga Gabbro|40484|New England Orogen
+26988|Wateranga Gabbro|407419|Gympie Province
+19589|Watermark Formation|530016|Gunnedah Basin
+24083|Watershed North Rhyolite|452730|Kennedy Igneous Province - Charters Towers region
+69006|Wathonga Granite|40484|New England Orogen
+40142|Wattlebank Granodiorite|40484|New England Orogen
+19646|Weald Sandstone|27354|Surat Basin
+19646|Weald Sandstone|529302|Eromanga Basin
+19658|Weberra Granite|556523|Mount Isa Orogen
+19658|Weberra Granite|559201|Mount Oxide Domain
+19691|Weir Basalt|21915|Ipswich Basin
+24567|Welfern Granite|20437|Etheridge Province
+19779|West Branch Creek beds|39807|Balcooma Base Metal Metallogenic Province
+19796|Westbourne Formation|27354|Surat Basin
+19842|Westmoreland Conglomerate|556523|Mount Isa Orogen
+19853|Wetheron Basalt|40484|New England Orogen
+41780|Whelan Creek Volcanics|40484|New England Orogen
+41780|Whelan Creek Volcanics|40536|Connors-Auburn Province
+27254|White Blow Formation|556523|Mount Isa Orogen
+27254|White Blow Formation|559194|Kalkadoon-Leichhardt Domain
+35181|Whitehorse Granite|40484|New England Orogen
+35181|Whitehorse Granite|40536|Connors-Auburn Province
+19932|Whitsunday Volcanics|40484|New England Orogen
+19939|Whitworth Quartzite|556523|Mount Isa Orogen
+19954|Whypalla Supersuite|20527|Hodgkinson Province
+41258|Widbury Granite|40484|New England Orogen
+27305|Widdallion Sandstone Member|556523|Mount Isa Orogen
+27305|Widdallion Sandstone Member|559187|Century Domain
+29600|Wide Bay Creek Gneiss|40484|New England Orogen
+29600|Wide Bay Creek Gneiss|407416|Wandilla Province
+29601|Widgee Metamorphics|40484|New England Orogen
+29601|Widgee Metamorphics|407416|Wandilla Province
+30703|Widgewarra Granite|556523|Mount Isa Orogen
+30703|Widgewarra Granite|559205|Sybella Domain
+20003|Wigton Granite|40484|New England Orogen
+20016|Wildash Group|40540|Woolomin Province
+33426|Wilfred Creek Igneous Complex|40484|New England Orogen
+36459|Wilkie Gray Group|20469|Burdekin Basin
+36459|Wilkie Gray Group|556736|Lachlan Orogen
+36459|Wilkie Gray Group|559188|Charters Towers Province
+20083|Williams Granite|556523|Mount Isa Orogen
+30680|Williams Supersuite|39708|Selwyn Metallogenic Province
+30680|Williams Supersuite|556523|Mount Isa Orogen
+30680|Williams Supersuite|559195|Kuridala-Selwyn Domain
+30680|Williams Supersuite|559204|Soldiers Cap Domain
+20124|Wills Creek Granite|556523|Mount Isa Orogen
+27935|Wimberu Granite|39708|Selwyn Metallogenic Province
+27935|Wimberu Granite|556523|Mount Isa Orogen
+27935|Wimberu Granite|559197|Marimo-Staveley Domain
+24109|Wimma Sandstone Member|529302|Eromanga Basin
+24109|Wimma Sandstone Member|529511|Cooper Basin
+41105|Wind Mill Diorite|40484|New England Orogen
+35005|Wingfield Granite|40484|New England Orogen
+77819|Wingfield Suite|530059|Bowen Basin
+20253|Winnathoola Coal Member|530059|Bowen Basin
+30711|Winston Churchill Granite|556523|Mount Isa Orogen
+38867|Winterbourne Volcanics|40484|New England Orogen
+20268|Winton Formation|529302|Eromanga Basin
+20268|Winton Formation|550572|Carpentaria Basin
+20288|Wire Creek Sandstone|556523|Mount Isa Orogen
+20310|Wiseman Formation|530059|Bowen Basin
+24117|Wolca Granite|40484|New England Orogen
+77208|Wolfgang Coal Measures|530059|Bowen Basin
+26230|Wonbah Granodiorite|40484|New England Orogen
+20436|Wonga Complex|39708|Selwyn Metallogenic Province
+27938|Wonga Granite|556523|Mount Isa Orogen
+27938|Wonga Granite|559198|Mary Kathleen Domain
+30706|Wonga Suite|556523|Mount Isa Orogen
+29339|Wongella Metamorphics|40484|New England Orogen
+29339|Wongella Metamorphics|407416|Wandilla Province
+41791|Wongrabry beds|40484|New England Orogen
+20453|Wongwibinda Complex|40484|New England Orogen
+23243|Wonomo Granite|556523|Mount Isa Orogen
+68211|Woodgate Siltstone|22345|Maryborough Basin
+20523|Woodmillar Andesite|40484|New England Orogen
+38186|Woodstock Supersuite|452730|Kennedy Igneous Province - Charters Towers region
+38186|Woodstock Supersuite|559188|Charters Towers Province
+32157|Woolein Formation|40484|New England Orogen
+32157|Woolein Formation|40536|Connors-Auburn Province
+36398|Woolooga Granodiorite|40484|New England Orogen
+26233|Woolshed Mountain Granodiorite|40484|New England Orogen
+26233|Woolshed Mountain Granodiorite|407416|Wandilla Province
+32150|Woolton Granite Complex|40484|New England Orogen
+20601|Woondum Granite|40484|New England Orogen
+20601|Woondum Granite|407419|Gympie Province
+42073|Woondum Granite - dacite|40484|New England Orogen
+36399|Woonga Granodiorite|40484|New England Orogen
+33431|Wooroolin Granite|40484|New England Orogen
+37119|Wooroonden Granodiorite|40484|New England Orogen
+41942|Wundaru Granodiorite|40484|New England Orogen
+20690|Wyaaba beds|557148|Karumba Basin
+33452|Wyalla Granite|40484|New England Orogen
+20722|Wynyard Metamorphics|449962|Anakie Province
+29746|Yabba Creek Granodiorite|40484|New England Orogen
+20740|Yackah beds|529556|Georgina Basin
+23282|Yambo Metamorphic Group|20455|Yambo Subprovince
+24133|Yan Can Greenstone Member|449962|Anakie Province
+40144|Yaparaba Volcanics|40484|New England Orogen
+20834|Yappar Member|550572|Carpentaria Basin
+20852|Yaringa Metamorphics|467256|Arunta Orogen
+20852|Yaringa Metamorphics|556523|Mount Isa Orogen
+20852|Yaringa Metamorphics|559201|Mount Oxide Domain
+24594|Yarman Formation|20454|Forsayth Subprovince
+23294|Yarraden Schist|20444|Savannah Province
+39834|Yarraman Sandstone Member|556736|Lachlan Orogen
+35196|Yarravale Creek Granite|40484|New England Orogen
+27943|Yarrol Formation|40484|New England Orogen
+20921|Yatton Limestone|40484|New England Orogen
+20928|Yeldham Granite|556523|Mount Isa Orogen
+41336|Yeldham Suite|556523|Mount Isa Orogen
+24599|Yellow Waterhole Granite|556523|Mount Isa Orogen
+24599|Yellow Waterhole Granite|559195|Kuridala-Selwyn Domain
+24141|Yenda Granodiorite|40484|New England Orogen
+41249|Yerilla Metamorphics|40484|New England Orogen
+41249|Yerilla Metamorphics|40536|Connors-Auburn Province
+21012|Yorkeys Diorite|40484|New England Orogen
+21016|Youlambie Conglomerate|40484|New England Orogen
+39597|Zig Zag Tonalite|40484|New England Orogen
+68951|felsic intrusives 68951|20437|Etheridge Province
+69548|felsic intrusives 69548|20437|Etheridge Province
+68952|mafic intrusives 68952|20437|Etheridge Province
+68946|metamorphic rocks 68946|20455|Yambo Subprovince

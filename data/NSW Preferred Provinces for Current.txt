@@ -1,0 +1,2322 @@
+Stratno | Stratigraphic Name | Entity Number | Province Name 
+27689|Aarons Pass Granite|556736|Lachlan Orogen
+32|Abercorn Granite|556736|Lachlan Orogen
+69898|Abercrombie Formation|556736|Lachlan Orogen
+48|Aberfoyle River Porphyrite|40484|New England Orogen
+63|Abroi Granodiorite|40484|New England Orogen
+73910|Abroi Suite|40484|New England Orogen
+88|Acton Shale Member|556736|Lachlan Orogen
+98|Adaminaby Group|556736|Lachlan Orogen
+98|Adaminaby Group|559178|Central NSW - Omeo Province
+23323|Adderley Formation|556736|Lachlan Orogen
+41273|Adelargo Basalt Member|556736|Lachlan Orogen
+134|Adelong Norite|556736|Lachlan Orogen
+26339|Agnes Greywacke|40484|New England Orogen
+25757|Akuna Mudstone|556736|Lachlan Orogen
+210|Alandoon Chert|556736|Lachlan Orogen
+279|Allandale Formation|530059|Bowen Basin
+70446|Allawa Ignimbrite Member|40484|New England Orogen
+23328|Allendale Metasediments|408445|Olary Domain
+26341|Alley Sandstone Member|556736|Lachlan Orogen
+23329|Allyn River Member|40484|New England Orogen
+317|Alma Granite Gneiss|20331|Curnamona Province
+23331|Alton Limestone Member|556736|Lachlan Orogen
+342|Alum Mountain Volcanics|40484|New England Orogen
+342|Alum Mountain Volcanics|549700|Gloucester Basin
+342|Alum Mountain Volcanics|569864|Myall Syncline
+23332|Ambone Volcanics|547727|Mount Hope Trough
+357|Amboyne Granodiorite|556736|Lachlan Orogen
+381|Amphitheatre Group|535919|Cobar Basin
+381|Amphitheatre Group|549130|Rast Trough
+381|Amphitheatre Group|556736|Lachlan Orogen
+401|Anakie Metamorphic Group|39793|Belyando Gold Province
+401|Anakie Metamorphic Group|449962|Anakie Province
+427|Andersons Flat beds|40484|New England Orogen
+25684|Anembo Granodiorite|556736|Lachlan Orogen
+27693|Angullong Formation|556736|Lachlan Orogen
+24660|Annalee Pyroclastics|40484|New England Orogen
+29659|Anson Formation|556736|Lachlan Orogen
+37907|Appleogue Dacite Member|40484|New England Orogen
+510|Apsley River Diorite|40484|New England Orogen
+74037|Apsley River Suite|40484|New England Orogen
+520|Arable Tonalite|556736|Lachlan Orogen
+24663|Ararat Formation|40484|New England Orogen
+554|Ardlethan Granite|556736|Lachlan Orogen
+31543|Ardlethan Suite|556736|Lachlan Orogen
+581|Argyll Granodiorite|40484|New England Orogen
+73911|Argyll Suite|40484|New England Orogen
+37004|Armidale beds|40484|New England Orogen
+36829|Arranmor Ignimbrite Member|40484|New England Orogen
+77272|Arrowfield Coal Member|530078|Sydney Basin
+31547|Arthursleigh Suite|556736|Lachlan Orogen
+29663|Ashburnia Group|556736|Lachlan Orogen
+705|Ashford Coal Measures|40484|New England Orogen
+705|Ashford Coal Measures|559229|Ashford Basin
+76101|Ashford Limestone Member|40484|New England Orogen
+77318|Ashford Member|40484|New England Orogen
+714|Ashleigh Member|556736|Lachlan Orogen
+27696|Ashton Member|556736|Lachlan Orogen
+33796|Asylum Granite|556736|Lachlan Orogen
+41049|Attunga Creek Monzogranite|40484|New England Orogen
+41049|Attunga Creek Monzogranite|407569|Wisemans Arm Province
+23347|Avenall Basic Intrusive Complex|556736|Lachlan Orogen
+24675|Avoca Valley Shale|556736|Lachlan Orogen
+795|Avon Lea Mudstone Member|556736|Lachlan Orogen
+802|Avon Subgroup|40484|New England Orogen
+29277|Avondale Granite|556736|Lachlan Orogen
+23349|Babepercy Volcanics|40484|New England Orogen
+25702|Babinda Volcanics|556736|Lachlan Orogen
+845|Back Creek Group|39627|Cracow Metallogenic Province
+845|Back Creek Group|40484|New England Orogen
+845|Back Creek Group|530059|Bowen Basin
+845|Back Creek Group|550790|Galilee Basin
+70448|Back Creek Ignimbrite Member|40484|New England Orogen
+25770|Back Swamp Granodiorite|556736|Lachlan Orogen
+21173|Badja Granodiorite|556736|Lachlan Orogen
+875|Bagdad Formation|556736|Lachlan Orogen
+913|Bakers Creek Diorite|40484|New England Orogen
+917|Balala Granodiorite|40484|New England Orogen
+949|Baldwin Formation|40484|New England Orogen
+949|Baldwin Formation|40555|Gamilaroi Terrane/Province
+954|Baledmund Formation|556736|Lachlan Orogen
+965|Balickera Conglomerate|40484|New England Orogen
+77082|Balickera Conglomerate Member|40484|New England Orogen
+77015|Ballallaba Monzogranite|556736|Lachlan Orogen
+33967|Ballast Formation|556736|Lachlan Orogen
+991|Ballengara Member|40484|New England Orogen
+28166|Ballingoole Limestone|556736|Lachlan Orogen
+1000|Ballyhooley Granite|556736|Lachlan Orogen
+41050|Banalasta Monzogranite|40484|New England Orogen
+67897|Banalasta Suite|40484|New England Orogen
+26367|Banda Banda Monzodiorite|40484|New England Orogen
+1037|Bangadilly Granite|556736|Lachlan Orogen
+1051|Bango Limestone Member|556736|Lachlan Orogen
+1073|Banshea Granite|556736|Lachlan Orogen
+1098|Bargo Claystone|530078|Sydney Basin
+23361|Barmedman Granite|556736|Lachlan Orogen
+31550|Barmedman Suite|556736|Lachlan Orogen
+23362|Barneys Spring Andesite Member|40484|New England Orogen
+76020|Baroorangee Creek Formation|20314|Wonominta Block
+76942|Barracks Creek Monzogranite|556736|Lachlan Orogen
+29569|Barrajin Group|556736|Lachlan Orogen
+34265|Barrallier Ignimbrite|556736|Lachlan Orogen
+26371|Barrandella Shale Member|556736|Lachlan Orogen
+27328|Barrington Tops Granodiorite|40484|New England Orogen
+78370|Barrona granite|20489|Thomson Orogen
+1218|Barry Granodiorite|556736|Lachlan Orogen
+31549|Barry Suite|556736|Lachlan Orogen
+29526|Bartletts Creek Granite|556736|Lachlan Orogen
+1232|Baryulgil Serpentinite|40484|New England Orogen
+35879|Basso Suite|408445|Olary Domain
+1244|Bathurst Granite|556736|Lachlan Orogen
+31450|Bathurst Suite|556736|Lachlan Orogen
+31449|Bathurst Supersuite|556736|Lachlan Orogen
+1282|Bay Formation|556736|Lachlan Orogen
+35758|Beacons Hill Chert|556736|Lachlan Orogen
+1321|Beargamil Subgroup|556736|Lachlan Orogen
+1362|Bee Conglomerate Member|556736|Lachlan Orogen
+1379|Beechwood beds|40484|New England Orogen
+37870|Beetoomba Granodiorite|556736|Lachlan Orogen
+76975|Begonia Monzogranite|556736|Lachlan Orogen
+21219|Belimebung Volcanics|556736|Lachlan Orogen
+30910|Bell River Member|556736|Lachlan Orogen
+1423|Bellbird Creek Formation|556736|Lachlan Orogen
+24709|Bells Creek Volcanics|556736|Lachlan Orogen
+1435|Belmore Granite|556736|Lachlan Orogen
+30472|Belowra Granodiorite|556736|Lachlan Orogen
+1444|Belubula Limestone|556736|Lachlan Orogen
+1445|Belubula Shale|556736|Lachlan Orogen
+1448|Bemboka Granodiorite|556736|Lachlan Orogen
+30473|Bemboka Suite|556736|Lachlan Orogen
+1451|Ben Boyd Formation|556736|Lachlan Orogen
+33192|Bena Monzodiorite|559178|Central NSW - Omeo Province
+41051|Bendemeer Monzogranite|40484|New England Orogen
+38325|Bendemeer Supersuite|40484|New England Orogen
+1466|Bendethera Limestone Member|556736|Lachlan Orogen
+1474|Bendoc Group|39754|Walhalla-Wood's Point Gold Metallogenic Province
+1474|Bendoc Group|444520|Tabberabbera Zone
+1474|Bendoc Group|444524|Mallacoota Zone
+1474|Bendoc Group|556736|Lachlan Orogen
+1474|Bendoc Group|559178|Central NSW - Omeo Province
+25781|Bendora Granodiorite|556736|Lachlan Orogen
+35363|Bennys Top Limestone|40555|Gamilaroi Terrane/Province
+1516|Berrico Creek Formation|40484|New England Orogen
+1524|Berrigan Granite|556736|Lachlan Orogen
+28365|Bethungra Formation|556736|Lachlan Orogen
+28365|Bethungra Formation|559178|Central NSW - Omeo Province
+37908|Bexley Rhyolite Member|40484|New England Orogen
+1574|Bickham Formation|40484|New England Orogen
+28129|Biddabirra Formation|535919|Cobar Basin
+28129|Biddabirra Formation|556736|Lachlan Orogen
+25783|Biddi Granodiorite|556736|Lachlan Orogen
+40754|Bideroie Ignimbrite Member|40484|New England Orogen
+24181|Big Hole Formation|556736|Lachlan Orogen
+29201|Big Jack Granite|556736|Lachlan Orogen
+1608|Bigga Granite|556736|Lachlan Orogen
+1617|Biggam Tonalite|556736|Lachlan Orogen
+1645|Billy Creek Formation|20306|Mount Painter Block
+1645|Billy Creek Formation|529788|Arrowie Basin
+1656|Billygoat Hill Monzonite|40484|New England Orogen
+38268|Billyrimba Leucomonzogranite|40484|New England Orogen
+1662|Billys Creek Tonalite|40484|New England Orogen
+41598|Bilpa Conglomerate|20533|Delamerian Orogen
+26254|Bimberi Leucogranite|556736|Lachlan Orogen
+1669|Bimbimbie Granodiorite|556736|Lachlan Orogen
+1674|Binda Granite|556736|Lachlan Orogen
+77065|Bindaboo Coal Member|40484|New England Orogen
+38303|Bindaboo seam|40484|New England Orogen
+70455|Bindawalla Ignimbrite Member|40484|New England Orogen
+28368|Bindogandri Granite|556736|Lachlan Orogen
+69879|Bindook Group|556736|Lachlan Orogen
+1689|Bingie Bingie Gabbro|556736|Lachlan Orogen
+1690|Bingleburn Formation|40484|New England Orogen
+1691|Bingleburra Formation|40484|New England Orogen
+28370|Birdwood Formation|40484|New England Orogen
+77319|Birken Head Rhyolite|40484|New England Orogen
+39258|Birken Head Volcanic Member|40484|New England Orogen
+1727|Birkenburn beds|556736|Lachlan Orogen
+36147|Bishopthorpe Dolerite|556736|Lachlan Orogen
+21260|Bitter Ground Volcanics|40484|New England Orogen
+73421|Bittles Tank Volcanics|20314|Wonominta Block
+1776|Black Bog Shale|556736|Lachlan Orogen
+1798|Black Jack Group|530016|Gunnedah Basin
+24186|Black Mountain Sandstone|556736|Lachlan Orogen
+1812|Black Range Group|556736|Lachlan Orogen
+1826|Black Rock Granite|556736|Lachlan Orogen
+1837|Black Snake Creek Granite|40484|New England Orogen
+1841|Black Springs Granite|556736|Lachlan Orogen
+35160|Blackbutt Formation|556736|Lachlan Orogen
+67907|Blackfellows Gully Leucomonzogranite|40484|New England Orogen
+1863|Blackmans Creek Granite|556736|Lachlan Orogen
+1865|Blackmans Flat Conglomerate|530078|Sydney Basin
+1869|Blacks Flat Diorite|556736|Lachlan Orogen
+1876|Blackwater Group|530059|Bowen Basin
+1918|Blanchetown Clay|536552|Murray Basin
+25792|Bland Diorite|556736|Lachlan Orogen
+25792|Bland Diorite|559178|Central NSW - Omeo Province
+1926|Blanket Flat Granite|556736|Lachlan Orogen
+1934|Blaxland Granite|556736|Lachlan Orogen
+29501|Blayney Volcanics|556736|Lachlan Orogen
+1955|Blind Gabbro|556736|Lachlan Orogen
+26402|Bloomfield Limestone Member|556736|Lachlan Orogen
+25794|Blow Clear Member|556736|Lachlan Orogen
+27671|Blowering Formation|556736|Lachlan Orogen
+75836|Blue Knob Serpentinite|40484|New England Orogen
+41052|Blue Knobby Monzogranite|40484|New England Orogen
+73912|Blue Knobby Suite|40484|New England Orogen
+2006|Blue Waterhole Formation|556736|Lachlan Orogen
+2034|Blythesdale Group|27354|Surat Basin
+40930|Boambolo Member|556736|Lachlan Orogen
+25796|Bobs Creek Formation|40484|New England Orogen
+25796|Bobs Creek Formation|40540|Woolomin Province
+23398|Bocobidgle Conglomerate|556736|Lachlan Orogen
+36110|Bodalla Monzogranite|556736|Lachlan Orogen
+42412|Bodonga beds|40484|New England Orogen
+77003|Bog Hole Monzogranite|556736|Lachlan Orogen
+31620|Bogalong Suite|556736|Lachlan Orogen
+2084|Bogandyera Granite|556736|Lachlan Orogen
+2088|Boggabri Volcanics|530016|Gunnedah Basin
+27715|Boggy Plain Granitic Complex|556736|Lachlan Orogen
+2091|Boggy Plain Suite|556736|Lachlan Orogen
+2092|Boggy Plain Supersuite|556736|Lachlan Orogen
+23400|Boginderra Granite|556736|Lachlan Orogen
+2097|Bogolo Formation|556736|Lachlan Orogen
+2101|Bogong Granite|556736|Lachlan Orogen
+31481|Bogong Suite|556736|Lachlan Orogen
+74588|Bogungra Dacite Member|556736|Lachlan Orogen
+2108|Boiling Down Sandstone Member|40484|New England Orogen
+2119|Bolairo Granodiorite|556736|Lachlan Orogen
+23401|Bold Slate Granite|556736|Lachlan Orogen
+38267|Bolivia Range Leucomonzogranite|40484|New England Orogen
+73987|Bolivia Range Suite|40484|New England Orogen
+2134|Boloko Granodiorite|556736|Lachlan Orogen
+2145|Boltons beds|556736|Lachlan Orogen
+31536|Bombala Suite|556736|Lachlan Orogen
+32182|Bombala Tonalite|556736|Lachlan Orogen
+2167|Bondi Granite|556736|Lachlan Orogen
+2168|Bondonga beds|40484|New England Orogen
+27717|Bonnington Siltstone|40484|New England Orogen
+77367|Bonshaw Coal Seam|40484|New England Orogen
+77320|Bonshaw Member|40484|New England Orogen
+2192|Boogledie Formation|556736|Lachlan Orogen
+73824|Bookookoorara Monzogranite|40484|New England Orogen
+2203|Bookpurnong Formation|536552|Murray Basin
+24748|Boolahbone Granite|556736|Lachlan Orogen
+23408|Boolambayte Formation|40484|New England Orogen
+37903|Boomi Rhyolite Member|40484|New England Orogen
+2253|Boonanghi beds|40484|New England Orogen
+2253|Boonanghi beds|40558|Hastings Province
+39259|Boorabil Ignimbrite Member|40484|New England Orogen
+2271|Booral Formation|40484|New England Orogen
+42293|Booral Formation, Buckets Gap Formation|40484|New England Orogen
+29733|Booralee Volcanics|556736|Lachlan Orogen
+77033|Booralong Monzogranite|40484|New England Orogen
+2286|Booroomba Leucogranite|556736|Lachlan Orogen
+42361|Bootheragandra Group|549130|Rast Trough
+42361|Bootheragandra Group|556736|Lachlan Orogen
+2294|Boothumble Formation|549130|Rast Trough
+2294|Boothumble Formation|556736|Lachlan Orogen
+24752|Booti Booti Sandstone|40484|New England Orogen
+39667|Bootoowa Fossil Member|556736|Lachlan Orogen
+24753|Boraig Group|556736|Lachlan Orogen
+2330|Boree Creek Formation|556736|Lachlan Orogen
+2341|Borenore Limestone|556736|Lachlan Orogen
+2344|Boro Granite|556736|Lachlan Orogen
+2356|Botheram Granodiorite|556736|Lachlan Orogen
+73825|Botumburra Range Monzogranite|40484|New England Orogen
+73826|Botumburra Suite|40484|New England Orogen
+27115|Bourimbla Limestone Member|556736|Lachlan Orogen
+31724|Bowan Park Limestone Subgroup|556736|Lachlan Orogen
+26419|Bowman beds|40484|New England Orogen
+2436|Bowning Group|556736|Lachlan Orogen
+29583|Box Ridge Volcanics|556736|Lachlan Orogen
+31756|Boxers Creek Formation|556736|Lachlan Orogen
+2455|Boxvale Sandstone Member|27354|Surat Basin
+27116|Boxwell Granodiorite|40484|New England Orogen
+69438|Boxwell Suite|40484|New England Orogen
+27117|Boyd Volcanic Complex|39645|Pambula Metallogenic Province
+27117|Boyd Volcanic Complex|39656|Yalwal Gold Metallogenic Province
+27117|Boyd Volcanic Complex|556736|Lachlan Orogen
+2470|Brackendale Metamorphics|40484|New England Orogen
+34467|Bradleys Creek Metamorphic Complex|556736|Lachlan Orogen
+2487|Braidwood Granodiorite|556736|Lachlan Orogen
+31487|Braidwood Suite|556736|Lachlan Orogen
+31717|Brangan Volcanics|556736|Lachlan Orogen
+32509|Brassington mass|40484|New England Orogen
+23416|Break O'Day Amphibolite|556736|Lachlan Orogen
+25809|Breckin Ignimbrite Member|40484|New England Orogen
+21321|Bredbo Group|556736|Lachlan Orogen
+76052|Breeza Coal Member|530016|Gunnedah Basin
+78458|Brewarrina Granite|20489|Thomson Orogen
+35709|Briarlee Granite|556736|Lachlan Orogen
+21325|Bribbaree Formation|556736|Lachlan Orogen
+2538|Bridge Creek Limestone Member|556736|Lachlan Orogen
+29525|Brittlejack Granite|556736|Lachlan Orogen
+77058|Brogans Creek Limestone Member|556736|Lachlan Orogen
+30475|Brogo Granodiorite|556736|Lachlan Orogen
+23424|Broken Cart Granodiorite|556736|Lachlan Orogen
+2617|Broken Hill Group|20331|Curnamona Province
+26255|Broken Range Group|547727|Mount Hope Trough
+26255|Broken Range Group|556736|Lachlan Orogen
+29574|Bronxhome Formation|556736|Lachlan Orogen
+28402|Brooklana beds|40484|New England Orogen
+21339|Brookong Formation|556736|Lachlan Orogen
+29587|Brothers Creek Granite|556736|Lachlan Orogen
+29521|Broula Granite|556736|Lachlan Orogen
+28233|Browning Vale Andesite Member|40555|Gamilaroi Terrane/Province
+2701|Bruinbun Granite|556736|Lachlan Orogen
+23428|Brungle Creek Metabasalt|556736|Lachlan Orogen
+39023|Bruxner Monzogranite|40484|New England Orogen
+39021|Bruxner Suite|40484|New England Orogen
+2732|Bryden Formation|20434|Esk Trough
+2732|Bryden Formation|40484|New England Orogen
+2732|Bryden Formation|529922|Clarence-Moreton Basin
+30504|Buccleuch Formation|536552|Murray Basin
+2754|Buchan Group|39646|Tara Metallogenic Province
+2754|Buchan Group|556736|Lachlan Orogen
+2762|Buchargingah Granite|556736|Lachlan Orogen
+2778|Buckburraga Slate|556736|Lachlan Orogen
+78492|Buckenbowra Andesite Member|556736|Lachlan Orogen
+26429|Buckenbowra Granodiorite|556736|Lachlan Orogen
+26430|Buckets Gap Formation|40484|New England Orogen
+77069|Bucketts Way Coal Member|40484|New England Orogen
+38308|Bucketts Way seam|40484|New England Orogen
+76944|Buckleys Lake Monzogranite|556736|Lachlan Orogen
+23432|Buddigower Granite|556736|Lachlan Orogen
+35306|Budgery Sandstone Member|556736|Lachlan Orogen
+73654|Budhang Chert Member|556736|Lachlan Orogen
+36963|Buffers Creek Formation|40484|New England Orogen
+2828|Buggary Granodiorite|556736|Lachlan Orogen
+2835|Bugs Ridge Granite|556736|Lachlan Orogen
+23434|Bugtown Tonalite|556736|Lachlan Orogen
+28410|Bukalong Granite|556736|Lachlan Orogen
+77321|Bukkulla Member|40484|New England Orogen
+27727|Bulahdelah Formation|40484|New England Orogen
+27727|Bulahdelah Formation|569864|Myall Syncline
+2869|Bulgoo Formation|530359|Darling Basin
+74015|Bullaganang Suite|40484|New England Orogen
+36336|Bullamalita Conglomerate|556736|Lachlan Orogen
+2885|Bullanamang Porphyry|556736|Lachlan Orogen
+2889|Bullawyarra Schist|556736|Lachlan Orogen
+2891|Bulldog Shale|464193|Callabonna Sub-basin
+2891|Bulldog Shale|529302|Eromanga Basin
+27120|Bullenbalong Granodiorite|556736|Lachlan Orogen
+2895|Bullenbalong Suite|556736|Lachlan Orogen
+2897|Bullenbalong Supersuite|556736|Lachlan Orogen
+70000|Bulliac Formation|40573|Tamworth Province
+2911|Bullio Granite|556736|Lachlan Orogen
+2926|Bulls Camp Volcanics|556736|Lachlan Orogen
+33275|Bumballa Formation|556736|Lachlan Orogen
+2937|Bumberra Formation|556736|Lachlan Orogen
+2939|Bumberry Formation|556736|Lachlan Orogen
+2947|Bumbolee Creek Formation|556736|Lachlan Orogen
+68915|Bunaleer Dacite Member|40484|New England Orogen
+27121|Bundaburrah Granodiorite|556736|Lachlan Orogen
+2963|Bundamba Group|27354|Surat Basin
+2963|Bundamba Group|529922|Clarence-Moreton Basin
+2980|Bundarra Suite|40484|New England Orogen
+67901|Bundarra Supersuite|40484|New England Orogen
+34392|Bundook beds|40484|New England Orogen
+2992|Bundundah Granite|556736|Lachlan Orogen
+23439|Bundycoola Formation|530359|Darling Basin
+3000|Bunga beds|556736|Lachlan Orogen
+24203|Bungendore Formation|556736|Lachlan Orogen
+3008|Bungil Formation|27354|Surat Basin
+3008|Bungil Formation|529302|Eromanga Basin
+34589|Bungonia Group|556736|Lachlan Orogen
+38279|Bungulla Monzogranite|40484|New England Orogen
+67899|Bungulla Suite|40484|New England Orogen
+73423|Bunker Creek Formation|20533|Delamerian Orogen
+3060|Burcher Greywacke|556736|Lachlan Orogen
+21388|Burilda Granite|556736|Lachlan Orogen
+3078|Burly Jacky Sandstone Member|556736|Lachlan Orogen
+73706|Burnt Yards Basalt|556736|Lachlan Orogen
+77076|Burnt Yards Basalt Member|556736|Lachlan Orogen
+3099|Burra Burra Creek Formation|556736|Lachlan Orogen
+3106|Burra Group|20306|Mount Painter Block
+3117|Burraga Granite|556736|Lachlan Orogen
+31555|Burraga Suite|556736|Lachlan Orogen
+24797|Burranah Formation|556736|Lachlan Orogen
+3126|Burrandana Granite|556736|Lachlan Orogen
+3126|Burrandana Granite|559178|Central NSW - Omeo Province
+25710|Burrandong Creek Member|556736|Lachlan Orogen
+75833|Burrawan serpentinite|40484|New England Orogen
+3142|Burrinjuck Granite|556736|Lachlan Orogen
+3148|Burrum Coal Measures|22345|Maryborough Basin
+3177|Burthong Formation|556736|Lachlan Orogen
+28421|Butmaroo Granite|556736|Lachlan Orogen
+31655|Butmaroo Suite|556736|Lachlan Orogen
+29500|Byng Volcanics|556736|Lachlan Orogen
+3226|Byong Volcanics|556736|Lachlan Orogen
+3235|Byron Range Group|556736|Lachlan Orogen
+3248|CSA Siltstone|535919|Cobar Basin
+3248|CSA Siltstone|556736|Lachlan Orogen
+3251|Cabanandra Granodiorite|556736|Lachlan Orogen
+21409|Cabonne Group|40077|Cadia Porphyry Copper Gold Metallogenic Province
+21409|Cabonne Group|556736|Lachlan Orogen
+3277|Cadia Coach Shale|556736|Lachlan Orogen
+29660|Cadia Hill Monzonite|556736|Lachlan Orogen
+3284|Cadna-owie Formation|464193|Callabonna Sub-basin
+3284|Cadna-owie Formation|529302|Eromanga Basin
+76945|Cairncross Monzogranite|40484|New England Orogen
+3322|Calivil Formation|556736|Lachlan Orogen
+77040|Callaghan Creek Tonalite|40484|New England Orogen
+3345|Callemondah Granodiorite|556736|Lachlan Orogen
+3359|Caloma Sandstone|556736|Lachlan Orogen
+33680|Cambalong Metamorphic Complex|556736|Lachlan Orogen
+3378|Camboon Volcanics|39627|Cracow Metallogenic Province
+3378|Camboon Volcanics|40536|Connors-Auburn Province
+3378|Camboon Volcanics|530059|Bowen Basin
+23460|Cambrai Granite|556736|Lachlan Orogen
+28197|Camden Haven Group|22198|Lorne Basin
+28197|Camden Haven Group|40484|New England Orogen
+28197|Camden Haven Group|407594|Port Macquarie Province
+3385|Camden Head Claystone|22198|Lorne Basin
+3390|Camelford Limestone|556736|Lachlan Orogen
+24208|Camp Hill Sandstone Member|556736|Lachlan Orogen
+3427|Campbells Group|556736|Lachlan Orogen
+42011|Campbells Group undifferentiated sediments|556736|Lachlan Orogen
+41053|Campbells Hill Monzogranite|40484|New England Orogen
+67904|Campfire Monzogranite|40484|New England Orogen
+3447|Canberra Formation|556736|Lachlan Orogen
+21429|Candelo Tonalite|556736|Lachlan Orogen
+76976|Cannabul Monzogranite|556736|Lachlan Orogen
+73521|Cannela Formation|20314|Wonominta Block
+3473|Canobolas Volcanic Complex|556736|Lachlan Orogen
+3476|Canomodine Limestone|556736|Lachlan Orogen
+29527|Canowindra Volcanics|556736|Lachlan Orogen
+42000|Canowindra Volcanics, Nargong Volcanics|556736|Lachlan Orogen
+3554|Cappanana Formation|556736|Lachlan Orogen
+30309|Captain Rocks Formation|40484|New England Orogen
+30309|Captain Rocks Formation|40555|Gamilaroi Terrane/Province
+3563|Captains Flat Formation|556736|Lachlan Orogen
+28435|Cara Formation|40484|New England Orogen
+3566|Caragabal Granite|556736|Lachlan Orogen
+31544|Caragabal Suite|556736|Lachlan Orogen
+31459|Carawandool Volcanics|556736|Lachlan Orogen
+3588|Carcoar Granodiorite|556736|Lachlan Orogen
+40934|Cardinal View Formation|556736|Lachlan Orogen
+33857|Cargelligo Formation|556736|Lachlan Orogen
+3610|Cargo Creek Limestone|556736|Lachlan Orogen
+33398|Carlachy Sandstone Member|556736|Lachlan Orogen
+3651|Caroda Formation|40484|New England Orogen
+77255|Caroona Seam|530016|Gunnedah Basin
+3671|Carrai Granodiorite|40484|New England Orogen
+73981|Carrai Suite|40484|New England Orogen
+40759|Carramundra Member|40484|New England Orogen
+3716|Carwoola Formation|556736|Lachlan Orogen
+3779|Cataract River Member|40484|New England Orogen
+77032|Cathcart Monzogranite|556736|Lachlan Orogen
+3787|Cathedral Group|556736|Lachlan Orogen
+3787|Cathedral Group|559492|Melbourne-Mathinna Zone
+3797|Catombal Group|556736|Lachlan Orogen
+3824|Cavan Bluff Limestone|556736|Lachlan Orogen
+3853|Cedar Party Limestone|40484|New England Orogen
+76977|Celeys Creek Monzogranite|556736|Lachlan Orogen
+3873|Cerberean Volcanics|559492|Melbourne-Mathinna Zone
+24835|Cessnock Sandstone Member|22361|Nambour Basin
+3883|Chaelundi Complex|40484|New England Orogen
+33678|Chakola Formation|556736|Lachlan Orogen
+32689|Charcoal Tank Granite|556736|Lachlan Orogen
+32689|Charcoal Tank Granite|559178|Central NSW - Omeo Province
+28221|Chateau Douglas Sandstone Member|40484|New England Orogen
+3937|Chaucer Redbed Member|556736|Lachlan Orogen
+3938|Checkers Member|556736|Lachlan Orogen
+24837|Cheesemans Creek Formation|556736|Lachlan Orogen
+28449|Cheitmore Limestone Member|556736|Lachlan Orogen
+21487|Chellington Quartz Syenite|556736|Lachlan Orogen
+30854|Chesleigh Group|556736|Lachlan Orogen
+3959|Chesney Formation|535919|Cobar Basin
+3959|Chesney Formation|556736|Lachlan Orogen
+3972|Cheyenne Complex|40484|New England Orogen
+24219|Chichester Formation|40484|New England Orogen
+70476|Chilcotts Creek Ignimbrite Member|40484|New England Orogen
+3991|Chillingham Volcanics|21915|Ipswich Basin
+3991|Chillingham Volcanics|40484|New England Orogen
+4080|Clagger Sandstone|556736|Lachlan Orogen
+4081|Claire Creek Limestone Member|556736|Lachlan Orogen
+30040|Clandulla Limestone|556736|Lachlan Orogen
+29561|Clarence River Suite|40484|New England Orogen
+36112|Clarence River Supersuite|40484|New England Orogen
+77609|Clareval Coal Member|40484|New England Orogen
+40924|Clarevale Barite Member|556736|Lachlan Orogen
+33400|Clear Hills Monzodiorite|556736|Lachlan Orogen
+4128|Clear Range Granodiorite|556736|Lachlan Orogen
+31567|Clear Range Suite|556736|Lachlan Orogen
+25846|Clearview Limestone Member|556736|Lachlan Orogen
+4137|Clematis Group|530059|Bowen Basin
+4137|Clematis Group|550790|Galilee Basin
+32694|Clements Formation|556736|Lachlan Orogen
+4144|Clevedale Migmatite|408445|Olary Domain
+76946|Clevedale Migmatite Member|408445|Olary Domain
+31725|Cliefden Caves Limestone Subgroup|556736|Lachlan Orogen
+4147|Clifden Formation|40484|New England Orogen
+77256|Clift Seam|530016|Gunnedah Basin
+4165|Cliftonwood Limestone Member|556736|Lachlan Orogen
+38274|Clive Monzogranite|40484|New England Orogen
+76947|Cloghnan Shale Member|556736|Lachlan Orogen
+25849|Coan Granite|556736|Lachlan Orogen
+26259|Coando Volcanics|547727|Mount Hope Trough
+77050|Coates Creek Ignimbrite Member|556736|Lachlan Orogen
+29508|Coates Creek Member|556736|Lachlan Orogen
+27673|Cobar Supergroup|556736|Lachlan Orogen
+21510|Cobargo Granodiorite|556736|Lachlan Orogen
+31492|Cobargo Suite|556736|Lachlan Orogen
+32459|Cobbannah Group|444520|Tabberabbera Zone
+32459|Cobbannah Group|556736|Lachlan Orogen
+4260|Cobblers Creek Limestone|556736|Lachlan Orogen
+77257|Cobbora Formation|530016|Gunnedah Basin
+27372|Cobra Formation|556736|Lachlan Orogen
+40947|Cockatoo Point Limestone Member|556736|Lachlan Orogen
+21515|Coco Range Sandstone|530359|Darling Basin
+4293|Cocoparra Group|556736|Lachlan Orogen
+70478|Coeypolly Conglomerate Member|40484|New England Orogen
+38341|Coffs Harbour Association|40484|New England Orogen
+4301|Coffs Harbour beds|40484|New England Orogen
+4301|Coffs Harbour beds|40549|Coffs Harbour Province
+70480|Cohens Gully Ignimbrite Member|40484|New England Orogen
+4334|Colinton Volcanics|556736|Lachlan Orogen
+23496|Collingullie Granite|556736|Lachlan Orogen
+23496|Collingullie Granite|559178|Central NSW - Omeo Province
+31562|Collingullie Suite|556736|Lachlan Orogen
+4374|Colraine Mudstone|40484|New England Orogen
+21522|Combaning Formation|556736|Lachlan Orogen
+4387|Comboyne Basalt|22198|Lorne Basin
+25853|Comerong Volcanics|39645|Pambula Metallogenic Province
+25853|Comerong Volcanics|556736|Lachlan Orogen
+27131|Comiala Shale Member|40484|New England Orogen
+34399|Commong Formation|40484|New England Orogen
+4421|Condobolin Formation|556736|Lachlan Orogen
+74202|Confreys Formation|556736|Lachlan Orogen
+4433|Conger Formation|40484|New England Orogen
+41054|Congi Creek Monzogranite|40484|New England Orogen
+73959|Congi Creek Suite|40484|New England Orogen
+21532|Connemarra Formation|556736|Lachlan Orogen
+4452|Connolly Volcanics|40484|New England Orogen
+4452|Connolly Volcanics|559208|Silverwood Province
+4471|Coocoran Claystone Member|27354|Surat Basin
+23503|Coodravale Granodiorite|556736|Lachlan Orogen
+33193|Cookaburragong Granodiorite|559178|Central NSW - Omeo Province
+40938|Cookbundoon Formation|556736|Lachlan Orogen
+4499|Cookman Formation|556736|Lachlan Orogen
+33801|Cooks Vale Granite|556736|Lachlan Orogen
+4503|Coolac Ophiolite Suite|556736|Lachlan Orogen
+4506|Coolac Serpentinite|556736|Lachlan Orogen
+24606|Coolagolite Granodiorite|556736|Lachlan Orogen
+25856|Coolamine Igneous Complex|556736|Lachlan Orogen
+31468|Coolamine Suite|556736|Lachlan Orogen
+76978|Coolangubra Monzogranite|556736|Lachlan Orogen
+25857|Cooleman Limestone|556736|Lachlan Orogen
+4528|Cooleman Plains Group|556736|Lachlan Orogen
+21546|Coolumbooka Granodiorite|556736|Lachlan Orogen
+31565|Coolumbooka Suite|556736|Lachlan Orogen
+4571|Cooma Granodiorite|556736|Lachlan Orogen
+4572|Cooma Metamorphic Complex|556736|Lachlan Orogen
+4573|Cooma Suite|556736|Lachlan Orogen
+31495|Cooma Supersuite|556736|Lachlan Orogen
+31842|Coomaloo Ignimbrite Member|556736|Lachlan Orogen
+23506|Coombadjha Volcanic Complex|40484|New England Orogen
+29939|Coomber Formation|556736|Lachlan Orogen
+4594|Coombing Formation|556736|Lachlan Orogen
+31716|Coonambro Volcanics|556736|Lachlan Orogen
+77004|Coondella Creek Monzogranite|556736|Lachlan Orogen
+4616|Coonigan Formation|20417|Bancannia Trough
+24873|Coopers Creek Limestone|556736|Lachlan Orogen
+75739|Coorabakh Conglomerate|40484|New England Orogen
+26493|Coorikiana Sandstone|529302|Eromanga Basin
+4654|Cootamundra Group|556736|Lachlan Orogen
+27134|Cootralantra Granodiorite|556736|Lachlan Orogen
+4667|Copeland Road Formation|40484|New England Orogen
+42294|Copeland Road Formation, Faulkland Formation, Karuah Formation|40484|New England Orogen
+34439|Copes Creek Andesite|40484|New England Orogen
+4677|Copper Creek Shale|556736|Lachlan Orogen
+37468|Copper Hill Intrusive Complex|556736|Lachlan Orogen
+68844|Copper Hill Suite|556736|Lachlan Orogen
+31721|Copperhannia Member|556736|Lachlan Orogen
+40929|Copplestone Member|556736|Lachlan Orogen
+4698|Coramba beds|40484|New England Orogen
+4721|Coreena Member|27354|Surat Basin
+4735|Corner Limestone Member|556736|Lachlan Orogen
+4755|Corryong Granite|556736|Lachlan Orogen
+38278|Cottesbrook Monzogranite|40484|New England Orogen
+27752|Cotton Formation|556736|Lachlan Orogen
+27265|Couragago Granodiorite|556736|Lachlan Orogen
+28479|Cow Flat Granite Porphyry|556736|Lachlan Orogen
+21568|Cowangara Formation|40484|New England Orogen
+27135|Cowcumbala Rhyolite|556736|Lachlan Orogen
+25864|Cowombat Siltstone|556736|Lachlan Orogen
+74598|Cowpers Creek Conglomerate|556736|Lachlan Orogen
+4811|Cowra Granodiorite|556736|Lachlan Orogen
+31569|Cowra Suite|556736|Lachlan Orogen
+4813|Cowridge Siltstone|556736|Lachlan Orogen
+31722|Cowriga Limestone Member|556736|Lachlan Orogen
+37713|Coynallan Tonalite|556736|Lachlan Orogen
+4847|Cranky Corner Sandstone|570581|Cranky Corner Basin
+4869|Crawney Limestone Member|40484|New England Orogen
+4879|Crescent Complex|40484|New England Orogen
+69439|Crescent Head Formation|40484|New England Orogen
+70521|Creswells Tank Granodiorite|20489|Thomson Orogen
+29283|Crinoidal Limestone Member|556736|Lachlan Orogen
+4910|Croajingalong Granite|556736|Lachlan Orogen
+23521|Crossleys Tank Formation|556736|Lachlan Orogen
+23523|Crowl Creek Formation|530359|Darling Basin
+29918|Crowther Monzodiorite|556736|Lachlan Orogen
+4961|Crowthers Road Conglomerate|40484|New England Orogen
+4970|Crudine Group|556736|Lachlan Orogen
+4974|Cudal Group|556736|Lachlan Orogen
+42012|Cudal Group undifferentiated sediments|556736|Lachlan Orogen
+70030|Cuddyong Formation|556736|Lachlan Orogen
+33397|Cudgelbar Sandstone Member|556736|Lachlan Orogen
+33408|Culela Member|556736|Lachlan Orogen
+77061|Culela Mudstone Member|556736|Lachlan Orogen
+73992|Cullendore Granite|40484|New England Orogen
+25867|Cullens Creek Granite|40484|New England Orogen
+73890|Cullens Creek Suite|40484|New England Orogen
+5014|Cumberland Rhyolite|556736|Lachlan Orogen
+5017|Cumbijowa Granite|556736|Lachlan Orogen
+31563|Cumbijowa Suite|556736|Lachlan Orogen
+5030|Cunglebung Creek beds|40484|New England Orogen
+5031|Cunningham Formation|556736|Lachlan Orogen
+24236|Curdimurka Subgroup|20331|Curnamona Province
+24238|Curmulee Conglomerate|556736|Lachlan Orogen
+5055|Currabubula Formation|40484|New England Orogen
+33194|Currah Granite|559178|Central NSW - Omeo Province
+5060|Currajong Limestone Member|556736|Lachlan Orogen
+38857|Currajong Park Beds""|556736|Lachlan Orogen
+74607|Currawalla Shale|556736|Lachlan Orogen
+27138|Currawang Basalt|556736|Lachlan Orogen
+30310|Curricabark Formation|40555|Gamilaroi Terrane/Province
+78494|Currowan Creek Basalt Member|556736|Lachlan Orogen
+5084|Currowong Granodiorite|556736|Lachlan Orogen
+21594|Currumburrama Volcanics|556736|Lachlan Orogen
+5093|Curtis Island Group|40085|Mount Rawdon Copper Gold Province
+5093|Curtis Island Group|40484|New England Orogen
+5093|Curtis Island Group|407416|Wandilla Province
+31705|Curumbenya Ignimbrite Member|556736|Lachlan Orogen
+5119|Daalboro Sandstone|556736|Lachlan Orogen
+76948|Daisy Plains Leucomonzogranite|40484|New England Orogen
+73984|Daisy Plains Suite|40484|New England Orogen
+5142|Dalgety Granodiorite|556736|Lachlan Orogen
+5143|Dalgety Suite|556736|Lachlan Orogen
+31423|Dalrida Granite|556736|Lachlan Orogen
+28493|Dalwood Group|530078|Sydney Basin
+5174|Dandahra Creek Leucogranite|40484|New England Orogen
+25714|Dangarfield Formation|40484|New England Orogen
+24240|Danswell Creek Granodiorite|556736|Lachlan Orogen
+33453|Darbys Ridge Conglomerate|556736|Lachlan Orogen
+77026|Dargals Monzogranite|556736|Lachlan Orogen
+23533|Daroobalgie Volcanics|556736|Lachlan Orogen
+37914|Darthula Rhyodacite Member|40484|New England Orogen
+23537|Darts Creek Mudstone|40484|New England Orogen
+5274|Davies Creek Granite|556736|Lachlan Orogen
+5279|Davys Plains Limestone Member|556736|Lachlan Orogen
+35345|Dawsons Granite|556736|Lachlan Orogen
+27079|Daylesford Limestone|556736|Lachlan Orogen
+5290|Days Creek Gabbro|40484|New England Orogen
+74036|Days Creek Suite|40484|New England Orogen
+5292|De Drack Formation|556736|Lachlan Orogen
+25874|Deakin Volcanics|556736|Lachlan Orogen
+77066|Deards Coal Member|40484|New England Orogen
+73365|Dederang Siltstone Member|556736|Lachlan Orogen
+5335|Deep Gully Creek Conglomerate Member|556736|Lachlan Orogen
+77005|Delegate Monzogranite|556736|Lachlan Orogen
+5352|Delegate River Mudstone|556736|Lachlan Orogen
+31500|Delegate Suite|556736|Lachlan Orogen
+5365|Dempsey Formation|530078|Sydney Basin
+25877|Denman Formation|530078|Sydney Basin
+5391|Deriah Formation|530016|Gunnedah Basin
+74616|Derrida Phase|556736|Lachlan Orogen
+5403|Derriwong Group|556736|Lachlan Orogen
+5426|Deua Formation|556736|Lachlan Orogen
+5432|Devils Elbow Limestone Member|40484|New England Orogen
+24917|Dewrang Group|549700|Gloucester Basin
+77039|Dicky Cooper Monzogranite|556736|Lachlan Orogen
+5470|Digby Formation|530016|Gunnedah Basin
+5470|Digby Formation|530059|Bowen Basin
+5480|Digilah Formation|27354|Surat Basin
+37357|Dignams Siltstone|556736|Lachlan Orogen
+78493|Dingo Road Basalt Member|556736|Lachlan Orogen
+29267|Dinoga Formation|40540|Woolomin Province
+21669|Dirnaseer Gabbro|556736|Lachlan Orogen
+5547|Djuan Tonalite|40484|New England Orogen
+5547|Djuan Tonalite|407416|Wandilla Province
+23549|Doctor George Granite|556736|Lachlan Orogen
+23550|Dog Trap Creek Formation|40484|New England Orogen
+5593|Doncaster Member|27354|Surat Basin
+36335|Donganelly Formation|556736|Lachlan Orogen
+24250|Donovan Basic Complex|556736|Lachlan Orogen
+5620|Doona Sandstone Member|27354|Surat Basin
+77246|Doona Seam|530016|Gunnedah Basin
+5622|Doonbara Formation|529801|Lake Eyre Basin
+39535|Doongala Chert Member|556736|Lachlan Orogen
+5628|Doonside Formation|40484|New England Orogen
+5628|Doonside Formation|407416|Wandilla Province
+41585|Dormans Flat Granite|40484|New England Orogen
+5642|Dorrigo Mountain Complex|40484|New England Orogen
+23556|Double Peak Volcanics|547727|Mount Hope Trough
+5654|Doubtful River Gabbro|556736|Lachlan Orogen
+5668|Douro Group|556736|Lachlan Orogen
+5685|Downderry Limestone Member|556736|Lachlan Orogen
+37910|Downs Rhyodacite Member|40484|New England Orogen
+75835|Doyles River Road Serpentinite|40484|New England Orogen
+28513|Drake Volcanics|40484|New England Orogen
+28513|Drake Volcanics|559519|Emu Creek Province
+21693|Dramoore Granodiorite|556736|Lachlan Orogen
+27392|Drik-Drik Formation|40555|Gamilaroi Terrane/Province
+29673|Drogheda Volcanics|556736|Lachlan Orogen
+73366|Drouin Conglomerate Member|556736|Lachlan Orogen
+23562|Dryden Sandstone Member|556736|Lachlan Orogen
+24931|Drysdale Conglomerate Member|535919|Cobar Basin
+5750|Duckmaloi Granite|556736|Lachlan Orogen
+39631|Dukes Basalt|556736|Lachlan Orogen
+29509|Dulladerry Volcanics|556736|Lachlan Orogen
+5798|Dumboy-Gragin Granite|40484|New England Orogen
+73938|Dumboy-Gragin Suite|40484|New England Orogen
+27393|Dumbudgery Creek Granodiorite|40484|New England Orogen
+73891|Dumbudgery Creek Suite|40484|New England Orogen
+25886|Dummy Creek Conglomerate|40484|New England Orogen
+39092|Duncans Creek Suite|40484|New England Orogen
+5803|Duncans Creek Trondhjemite|40484|New England Orogen
+5803|Duncans Creek Trondhjemite|40540|Woolomin Province
+5806|Dunchurch Formation|556736|Lachlan Orogen
+5829|Dundee Rhyodacite|40484|New England Orogen
+74026|Dundee Suite|40484|New England Orogen
+73899|Dundee Supersuite|40484|New England Orogen
+24937|Dundurrabin Granodiorite|40484|New England Orogen
+73905|Dundurrabin Suite|40484|New England Orogen
+5845|Dungeree Volcanics|556736|Lachlan Orogen
+24258|Dunhill Bluff Limestone Member|556736|Lachlan Orogen
+5846|Dunkeld Granite|556736|Lachlan Orogen
+26531|Dunmoogin Formation|556736|Lachlan Orogen
+30352|Durandal Granite|556736|Lachlan Orogen
+5881|Duxford Member|40484|New England Orogen
+5883|Dyamberin beds|40484|New England Orogen
+70522|Dynamite Tank Granodiorite|20489|Thomson Orogen
+5895|Eagleton Volcanics|40484|New England Orogen
+41055|East Lake Monzogranite|40484|New England Orogen
+73913|East Lake Suite|40484|New England Orogen
+73552|Easter Monday Formation|556736|Lachlan Orogen
+77633|Eastons Arm Rhyolite Member|40484|New England Orogen
+69441|Echo Hills Formation|40484|New England Orogen
+39340|Edithvale Formation|556736|Lachlan Orogen
+34598|Efflux Siltstone Member|556736|Lachlan Orogen
+76979|Egan Peaks Monzogranite|556736|Lachlan Orogen
+6018|Einasleigh Metamorphics|20437|Etheridge Province
+6018|Einasleigh Metamorphics|39659|Woolgar Metallogenic Province
+75831|Elby Glen Station serpentinite|40484|New England Orogen
+21740|Ellenborough Volcanics|40484|New England Orogen
+25893|Ellenden Granite|556736|Lachlan Orogen
+31573|Ellenden Suite|556736|Lachlan Orogen
+6092|Ellerslie Granodiorite|556736|Lachlan Orogen
+31635|Ellerslie Suite|556736|Lachlan Orogen
+6102|Elliots Shale Member|556736|Lachlan Orogen
+26537|Elmside Formation|556736|Lachlan Orogen
+6114|Elsmore Granite|40484|New England Orogen
+73956|Elsmore Suite|40484|New England Orogen
+77013|Emerald Beach Monzogranite|40484|New England Orogen
+74016|Emerald Beach Suite|40484|New England Orogen
+6143|Emmaville Volcanics|40484|New England Orogen
+6156|Emu Creek Formation|40484|New England Orogen
+6156|Emu Creek Formation|559519|Emu Creek Province
+24953|Emu Hollow Dacite|556736|Lachlan Orogen
+41056|Enmore Monzogranite|40484|New England Orogen
+73914|Enmore Suite|40484|New England Orogen
+41569|Erigolia Granite|556736|Lachlan Orogen
+25898|Erimeran Granite|556736|Lachlan Orogen
+25898|Erimeran Granite|559178|Central NSW - Omeo Province
+24958|Erins Vale Formation|530078|Sydney Basin
+37298|Ermelo Pyroclastics|40484|New England Orogen
+37298|Ermelo Pyroclastics|40573|Tamworth Province
+29585|Errowan Monzonite|556736|Lachlan Orogen
+68031|Escott Zeolitite Member|40484|New England Orogen
+6265|Esk Formation|20434|Esk Trough
+6265|Esk Formation|40484|New England Orogen
+77031|Etheridge Monzogranite|556736|Lachlan Orogen
+6333|Ettrema Limestone Member|556736|Lachlan Orogen
+32326|Euchabil Gap Formation|556736|Lachlan Orogen
+6348|Eucumbene Granite|556736|Lachlan Orogen
+27770|Eugowra Granite|556736|Lachlan Orogen
+30099|Eulendool Formation|556736|Lachlan Orogen
+40557|Eulowrie Pyroclastic Member|40484|New England Orogen
+6369|Eungai Mudstone|40484|New England Orogen
+6369|Eungai Mudstone|40555|Gamilaroi Terrane/Province
+6386|Eurombah Formation|27354|Surat Basin
+6386|Eurombah Formation|529302|Eromanga Basin
+29575|Eurongilly Serpentinite|556736|Lachlan Orogen
+24965|Eurow Formation|556736|Lachlan Orogen
+37372|Eurydesma beds|40484|New England Orogen
+37372|Eurydesma beds|559208|Silverwood Province
+30351|Eusdale Granite|556736|Lachlan Orogen
+6403|Evans Crown Granite|556736|Lachlan Orogen
+24966|Evans Head Coal Measures|21915|Ipswich Basin
+6416|Evergreen Formation|27354|Surat Basin
+6416|Evergreen Formation|27546|Mulgildie Basin
+6416|Evergreen Formation|529302|Eromanga Basin
+6451|Eyre Formation|464193|Callabonna Sub-basin
+6451|Eyre Formation|529801|Lake Eyre Basin
+25904|Fairbridge Volcanics|556736|Lachlan Orogen
+33490|Fairholme Igneous Complex|556736|Lachlan Orogen
+69896|Fairy Hole Creek Sandstone Member|556736|Lachlan Orogen
+6504|Fairy Meadow Limestone Member|556736|Lachlan Orogen
+31708|Falnash Granite|556736|Lachlan Orogen
+6555|Faulkland Formation|40484|New England Orogen
+31675|Federal Suite|556736|Lachlan Orogen
+25907|Fentonville Tonalite|556736|Lachlan Orogen
+75834|Fenwicks Creek Serpentinite|40484|New England Orogen
+76847|Feral gneiss|20331|Curnamona Province
+21778|Fermoy Volcanics|556736|Lachlan Orogen
+76950|Fife Monzogranite|40484|New England Orogen
+40945|Fifeshire Shale|556736|Lachlan Orogen
+23591|Fifteen Mile Tank Conglomerate Member|556736|Lachlan Orogen
+75943|Figtree Creek Ignimbrite Member|40484|New England Orogen
+76980|Figurehead Monzogranite|556736|Lachlan Orogen
+6655|Finister Granodiorite|556736|Lachlan Orogen
+21794|Five Hundred Acre Granodiorite|556736|Lachlan Orogen
+6721|Flagstaff Formation|40484|New England Orogen
+21799|Flint Hill Chert Member|556736|Lachlan Orogen
+6774|Florida Volcanics|556736|Lachlan Orogen
+6789|Foggs Hollow Granite|556736|Lachlan Orogen
+34596|Folly Point Limestone Member|556736|Lachlan Orogen
+37289|Folly Volcanics|40484|New England Orogen
+37289|Folly Volcanics|40555|Gamilaroi Terrane/Province
+25912|Forbes Group|556736|Lachlan Orogen
+74591|Forest Lodge Quartz Monzodiorite|556736|Lachlan Orogen
+29306|Forest Range Member|40484|New England Orogen
+6819|Forest Reefs Volcanics|556736|Lachlan Orogen
+41998|Forest Reefs Volcanics, Angullong Formation, Malongulli Formation, Millambri Formation, Weemalla Formation|556736|Lachlan Orogen
+6862|Fossil Hill Limestone|556736|Lachlan Orogen
+23600|Fosters Creek Conglomerate|556736|Lachlan Orogen
+6880|Foxlow beds|556736|Lachlan Orogen
+6881|Frampton Volcanics|556736|Lachlan Orogen
+77023|Free Damper Monzogranite|556736|Lachlan Orogen
+31577|Free Damper Suite|556736|Lachlan Orogen
+23602|Freyers Metasediments|408445|Olary Domain
+35359|Frog Hollow Formation|40555|Gamilaroi Terrane/Province
+6926|Frome Hill Formation|556736|Lachlan Orogen
+6942|Fyshwick Gravel|556736|Lachlan Orogen
+6947|Gabo Suite|556736|Lachlan Orogen
+28226|Gaden Tonalite|556736|Lachlan Orogen
+6970|Galore Granite|559178|Central NSW - Omeo Province
+31546|Galore Suite|556736|Lachlan Orogen
+37403|Gamboola Shale|556736|Lachlan Orogen
+6987|Ganantagi Granite|556736|Lachlan Orogen
+76951|Gang Gang Monzogranite|556736|Lachlan Orogen
+23607|Ganmain Granite|556736|Lachlan Orogen
+23607|Ganmain Granite|559178|Central NSW - Omeo Province
+41058|Gara Monzogranite|40484|New England Orogen
+73915|Gara Suite|40484|New England Orogen
+77016|Garibaldi Monzogranite|40484|New England Orogen
+74038|Garibaldi Suite|40484|New England Orogen
+21833|Garland Granodiorite|556736|Lachlan Orogen
+7019|Garoo Conglomerate Member|40484|New England Orogen
+27082|Garrawilla Volcanics|27354|Surat Basin
+27082|Garrawilla Volcanics|530016|Gunnedah Basin
+27082|Garrawilla Volcanics|556736|Lachlan Orogen
+25718|Gatelee Ignimbrite|556736|Lachlan Orogen
+7046|Gattamurh Granite|556736|Lachlan Orogen
+7090|Geera Clay|536552|Murray Basin
+37719|Gentle Annie Porphyry|556736|Lachlan Orogen
+32273|Geordies Spur Gabbro|556736|Lachlan Orogen
+7159|Gerybong Limestone Member|556736|Lachlan Orogen
+7161|Ghost Hill Formation|556736|Lachlan Orogen
+23613|Giants Den Leucoadamellite|40484|New England Orogen
+73888|Giants Den Suite|40484|New England Orogen
+7167|Gibraltar Ignimbrite|40484|New England Orogen
+21844|Gidginbung Volcanics|556736|Lachlan Orogen
+73666|Gidyen Volcanic Member|556736|Lachlan Orogen
+7218|Gilgai Granite|40484|New England Orogen
+73957|Gilgai Suite|40484|New England Orogen
+7222|Gilgunnia Granite|556736|Lachlan Orogen
+7225|Gilgurry Mudstone|40484|New England Orogen
+7225|Gilgurry Mudstone|559519|Emu Creek Province
+69147|Gilmore Hill Suite|556736|Lachlan Orogen
+7238|Gilmore Volcanic Group|40484|New England Orogen
+77014|Ginini Leucomonzogranite|556736|Lachlan Orogen
+7262|Ginninderra Porphyry|556736|Lachlan Orogen
+27158|Girilambone Group|556736|Lachlan Orogen
+27158|Girilambone Group|559178|Central NSW - Omeo Province
+7292|Giro beds|40484|New England Orogen
+7295|Girrakool beds|40484|New England Orogen
+42292|Girrakool beds, Agnes Greywacke|40484|New England Orogen
+7313|Glandore Granodiorite|39627|Cracow Metallogenic Province
+7313|Glandore Granodiorite|40484|New England Orogen
+7324|Glebe Farm Adamellite|556736|Lachlan Orogen
+24286|Gleesons Limestone Member|556736|Lachlan Orogen
+40761|Glen Allyn Ignimbrite Member|40484|New England Orogen
+21854|Glen Ayr Syenite|556736|Lachlan Orogen
+70279|Glen Bell Formation|407569|Wisemans Arm Province
+7333|Glen Bower Member|556736|Lachlan Orogen
+74801|Glen Eden Granite|40484|New England Orogen
+77012|Glen Esk Monzogranite|40484|New England Orogen
+74017|Glen Esk Suite|40484|New England Orogen
+33679|Glen Fergus Member|556736|Lachlan Orogen
+38275|Glen Garry Microleucogranite|40484|New England Orogen
+74018|Glen Garry Suite|40484|New England Orogen
+40559|Glen Idle Rhyolite Member|40484|New England Orogen
+77071|Glen Road Coal Member|40484|New England Orogen
+25013|Glenbog Granodiorite|556736|Lachlan Orogen
+7361|Glenbog Suite|556736|Lachlan Orogen
+7362|Glenbog Supersuite|556736|Lachlan Orogen
+41059|Glenburnie Leucomonzogranite|40484|New England Orogen
+74019|Glenburnie Suite|40484|New England Orogen
+70280|Glencairn Formation|40484|New England Orogen
+41060|Glenclair Monzogranite|40484|New England Orogen
+67900|Glenclair Suite|40484|New England Orogen
+7375|Glendalough Formation|556736|Lachlan Orogen
+7410|Gleneski Formation|40070|Woodlawn Base Metal Metallogenic Province
+73833|Glenifer Monzogranite|40484|New England Orogen
+30051|Glenisla Volcanics|556736|Lachlan Orogen
+7422|Glenlawn Mudstone|40484|New England Orogen
+7435|Glenmore Formation|40484|New England Orogen
+67908|Glenore Monzogranite|40484|New England Orogen
+25925|Glenrae Limestone Member|556736|Lachlan Orogen
+69449|Glenreach Monzogranite|40484|New England Orogen
+7440|Glenrock Granodiorite|556736|Lachlan Orogen
+35161|Glenrock Lagoon Formation|556736|Lachlan Orogen
+26583|Glenrossal Granite|556736|Lachlan Orogen
+27783|Glenrowan Intrusives|27354|Surat Basin
+30522|Glenrowe Granite|556736|Lachlan Orogen
+77421|Glenview Coal Member|40484|New England Orogen
+7449|Glory Vale Conglomerate|40484|New England Orogen
+7452|Gloucester Coal Measures|40484|New England Orogen
+7452|Gloucester Coal Measures|549700|Gloucester Basin
+27420|Goalen Head Gabbro|556736|Lachlan Orogen
+7469|Gobondery Granite|556736|Lachlan Orogen
+7469|Gobondery Granite|559178|Central NSW - Omeo Province
+7470|Gocup Granite|556736|Lachlan Orogen
+7481|Gogs Top Trondhjemite|40484|New England Orogen
+26266|Gooandra Volcanics|556736|Lachlan Orogen
+33689|Goobang Volcanics|556736|Lachlan Orogen
+25929|Goobarragandra Volcanics|556736|Lachlan Orogen
+68172|Goodwood Mudstone|22345|Maryborough Basin
+76952|Googong Monzogranite|556736|Lachlan Orogen
+33409|Gooloogong Member|556736|Lachlan Orogen
+23627|Goona Volcanics|547727|Mount Hope Trough
+24296|Goonbri Formation|530016|Gunnedah Basin
+77251|Goondi Formation|530016|Gunnedah Basin
+24297|Goonigal Group|556736|Lachlan Orogen
+7573|Goonoo Goonoo Mudstone|40484|New England Orogen
+40939|Goonoonglah Monzodiorite|556736|Lachlan Orogen
+7578|Goonumbla Volcanics|40077|Cadia Porphyry Copper Gold Metallogenic Province
+7578|Goonumbla Volcanics|556736|Lachlan Orogen
+7608|Gordonbrook Serpentinite|40484|New England Orogen
+41061|Gostwyck Monzogranite|40484|New England Orogen
+73916|Gostwyck Suite|40484|New England Orogen
+24299|Gourock Granodiorite|556736|Lachlan Orogen
+7643|Gowrie Sandstone Member|40484|New England Orogen
+7661|Grafton Formation|529922|Clarence-Moreton Basin
+7665|Gragin Conglomerate|40484|New England Orogen
+7672|Grampians Group|20367|Stawell Zone
+7672|Grampians Group|556736|Lachlan Orogen
+29590|Grants Corner Granodiorite|556736|Lachlan Orogen
+7702|Grants Head Formation|22198|Lorne Basin
+7707|Granya Granite|556736|Lachlan Orogen
+7707|Granya Granite|559178|Central NSW - Omeo Province
+76021|Grasmere Formation|20314|Wonominta Block
+7710|Grass Flat Granite|556736|Lachlan Orogen
+7731|Great Cobar Slate|535919|Cobar Basin
+7731|Great Cobar Slate|556736|Lachlan Orogen
+7753|Green Hills Granodiorite|556736|Lachlan Orogen
+29670|Greenslopes Porphyry|556736|Lachlan Orogen
+7780|Greenwood Granite|556736|Lachlan Orogen
+7789|Gregra Group|556736|Lachlan Orogen
+7795|Grenfell Granite|556736|Lachlan Orogen
+21911|Gresham Granite|556736|Lachlan Orogen
+7798|Greta Coal Measures|530078|Sydney Basin
+7815|Grey Mare Granodiorite|556736|Lachlan Orogen
+7819|Greymare Granodiorite|40484|New England Orogen
+73901|Greymare Suite|40484|New England Orogen
+73900|Greymare Supersuite|40484|New England Orogen
+7826|Griman Creek Formation|27354|Surat Basin
+7826|Griman Creek Formation|529302|Eromanga Basin
+25032|Grong Grong Granite|556736|Lachlan Orogen
+25032|Grong Grong Granite|559178|Central NSW - Omeo Province
+31630|Grong Grong Suite|556736|Lachlan Orogen
+25936|Guapa Tank Rhyodacite Member|556736|Lachlan Orogen
+7848|Gubberamunda Sandstone|27354|Surat Basin
+7848|Gubberamunda Sandstone|529302|Eromanga Basin
+7860|Gulgong Granite|556736|Lachlan Orogen
+31452|Gulgong Suite|556736|Lachlan Orogen
+76156|Gum Creek Member|20314|Wonominta Block
+68693|Gum Vale beds|20314|Wonominta Block
+7872|Gumble Granite|556736|Lachlan Orogen
+73892|Gummi Plain Suite|40484|New England Orogen
+27162|Gundagai Serpentinite|556736|Lachlan Orogen
+7886|Gundahl Complex|40484|New England Orogen
+23639|Gundaroo Sandstone|556736|Lachlan Orogen
+29581|Gundibindyal Granite|556736|Lachlan Orogen
+32685|Gundibindyal Suite|556736|Lachlan Orogen
+24302|Gundillion Conglomerate|556736|Lachlan Orogen
+7897|Gundle Granite|40484|New England Orogen
+73985|Gundle Suite|40484|New England Orogen
+77006|Gungarlin Monzogranite|556736|Lachlan Orogen
+7908|Gungoandra Siltstone|556736|Lachlan Orogen
+77360|Gunnan Ignimbrite|40484|New England Orogen
+73575|Gunnars Dam beds|556736|Lachlan Orogen
+7913|Gunnee Formation|40484|New England Orogen
+7915|Gunning Granite|556736|Lachlan Orogen
+31580|Gunning Suite|556736|Lachlan Orogen
+35027|Gunningbland Formation|556736|Lachlan Orogen
+21923|Gunningrah Tonalite|556736|Lachlan Orogen
+40131|Gurragong Volcanics|556736|Lachlan Orogen
+7927|Gurrangorambla Granophyre|556736|Lachlan Orogen
+35786|Gurrundah Granite|556736|Lachlan Orogen
+40991|Guygallon Volcanic Member|40484|New England Orogen
+41062|Gwydir River Monzogranite|40484|New England Orogen
+27044|Haedon Formation|40484|New England Orogen
+27044|Haedon Formation|40555|Gamilaroi Terrane/Province
+37394|Haematitic Limestone Member""|556736|Lachlan Orogen
+76993|Half Moon Peak Monzogranite|556736|Lachlan Orogen
+8032|Hampton Granite|556736|Lachlan Orogen
+21940|Hangmans Creek Granodiorite|556736|Lachlan Orogen
+77007|Happy Jacks Monzogranite|556736|Lachlan Orogen
+28176|Harnham Grove Porphyritic Microtonalite|40484|New England Orogen
+25943|Harrisons Peak Granite|556736|Lachlan Orogen
+26606|Hartley Granite|556736|Lachlan Orogen
+38464|Harts Paddock Diorite|556736|Lachlan Orogen
+21947|Harts Tank beds|556736|Lachlan Orogen
+28130|Hartwood Tuff Member|556736|Lachlan Orogen
+69450|Hat Head Member|40484|New England Orogen
+25047|Hatchery Creek Conglomerate|556736|Lachlan Orogen
+23644|Hathaway Conglomerate Member|556736|Lachlan Orogen
+8145|Hattons Corner Group|556736|Lachlan Orogen
+8157|Havilah Granite|556736|Lachlan Orogen
+8165|Hawkesbury Sandstone|530078|Sydney Basin
+8179|Hawkins Suite|556736|Lachlan Orogen
+8184|Hawkins Volcanics|556736|Lachlan Orogen
+8189|Hawksview Granite|556736|Lachlan Orogen
+8189|Hawksview Granite|559178|Central NSW - Omeo Province
+75829|Haydonville serpentinite|40484|New England Orogen
+37334|Hazeldene Sandstone|556736|Lachlan Orogen
+37912|Hazelvale Rhyodacite Member|40484|New England Orogen
+8214|Heatherdale Shale|22352|Stansbury Basin
+76996|Hell Hole Creek Monzogranite|556736|Lachlan Orogen
+73653|Henleigh Siltstone|556736|Lachlan Orogen
+8273|Henry River Granite|40484|New England Orogen
+73917|Henry River Suite|40484|New England Orogen
+8277|Hensleigh Siltstone|556736|Lachlan Orogen
+25947|Hervey Group|556736|Lachlan Orogen
+25055|Hexham Subgroup|556736|Lachlan Orogen
+23649|Hianana Volcanics|40484|New England Orogen
+37297|High Valley andesite tuff|40484|New England Orogen
+25948|Highbury Volcanics|407419|Gympie Province
+8337|Highlands Complex|40484|New England Orogen
+76953|Hillgrove Monzogranite|40484|New England Orogen
+8351|Hillgrove Suite|40484|New England Orogen
+67847|Hillgrove Supersuite|40484|New England Orogen
+8373|Himalaya Formation|408445|Olary Domain
+8422|Holbrook Granite|556736|Lachlan Orogen
+23650|Hollanders Formation|556736|Lachlan Orogen
+33384|Home Rule Quartz Monzonite|556736|Lachlan Orogen
+41064|Honeysuckle Creek Leucomonzogranite|40484|New England Orogen
+32687|Honeysuckle beds|556736|Lachlan Orogen
+8476|Hooray Sandstone|529302|Eromanga Basin
+8489|Hores Gneiss|408445|Olary Domain
+35282|Hoskins Chert|556736|Lachlan Orogen
+8512|Hoskinstown Group|556736|Lachlan Orogen
+26622|Howe Range Granite|556736|Lachlan Orogen
+77378|Howes Hill Coal Member|530016|Gunnedah Basin
+8538|Howqua Chert|444520|Tabberabbera Zone
+8538|Howqua Chert|556736|Lachlan Orogen
+42357|Hudsons Peak Ignimbrite Member, Johns Hill Ignimbrite Member, Martins Creek Ignimbrite Member|40484|New England Orogen
+21981|Hughies Bore beds|556736|Lachlan Orogen
+8572|Hume Park Granite|556736|Lachlan Orogen
+31590|Hume Park Suite|556736|Lachlan Orogen
+8589|Hungerford Granite|20489|Thomson Orogen
+31710|Hunter Formation|556736|Lachlan Orogen
+76981|Hurlstone Monzogranite|556736|Lachlan Orogen
+8610|Hutton Sandstone|27354|Surat Basin
+8610|Hutton Sandstone|27546|Mulgildie Basin
+8610|Hutton Sandstone|529302|Eromanga Basin
+8610|Hutton Sandstone|550572|Carpentaria Basin
+8619|Hyandra Creek Group|556736|Lachlan Orogen
+21987|Hyde Creek Granodiorite|556736|Lachlan Orogen
+8621|Hyde Greywacke Member|40484|New England Orogen
+21988|Hyndmans Creek Formation|40484|New England Orogen
+8637|Icely Granite|556736|Lachlan Orogen
+76982|Illawambra Monzogranite|556736|Lachlan Orogen
+27802|Illawarra Coal Measures|530078|Sydney Basin
+31839|Illunie Volcanics|556736|Lachlan Orogen
+24315|Ina Volcanics|556736|Lachlan Orogen
+8688|Ingebyrah Granodiorite|556736|Lachlan Orogen
+8689|Ingebyrah Suite|556736|Lachlan Orogen
+67905|Ingleba Monzogranite|40484|New England Orogen
+73922|Ingleba Suite|40484|New England Orogen
+8710|Injune Creek Group|27354|Surat Basin
+8710|Injune Creek Group|529302|Eromanga Basin
+8716|Inlet Monzonite|40484|New England Orogen
+8716|Inlet Monzonite|40540|Woolomin Province
+8716|Inlet Monzonite|407569|Wisemans Arm Province
+8753|Iona Tonalite|556736|Lachlan Orogen
+8762|Ipswich Coal Measures|21915|Ipswich Basin
+8777|Ironbark Creek Arenite|40484|New England Orogen
+27165|Ironbong Dacite Member|556736|Lachlan Orogen
+8785|Irondoon Granodiorite|556736|Lachlan Orogen
+26634|Isabella Granite|556736|Lachlan Orogen
+31592|Isabella Suite|556736|Lachlan Orogen
+8801|Isismurra Formation|40484|New England Orogen
+77028|Island Bend Monzogranite|556736|Lachlan Orogen
+8810|Iventure Ignimbrite Member|40484|New England Orogen
+23664|Jackalass Slate|556736|Lachlan Orogen
+8829|Jackson Granite|556736|Lachlan Orogen
+8837|Jagungal Volcanics|556736|Lachlan Orogen
+25087|Jenny Lind Granite|40484|New England Orogen
+73893|Jenny Lind Suite|40484|New England Orogen
+8912|Jenolan Caves Limestone|556736|Lachlan Orogen
+33682|Jerangle Metamorphic Complex|556736|Lachlan Orogen
+26638|Jeremadra Granodiorite|556736|Lachlan Orogen
+8926|Jerilderie Formation|20308|Oaklands Basin
+31720|Jesse Limestone Member|556736|Lachlan Orogen
+29245|Jillamatong Granodiorite|556736|Lachlan Orogen
+76983|Jillicambra Monzogranite|556736|Lachlan Orogen
+74201|Jimberoo Formation|556736|Lachlan Orogen
+76954|Jincumbilly Monzogranite|556736|Lachlan Orogen
+8971|Jindabyne Suite|556736|Lachlan Orogen
+8972|Jindabyne Tonalite|556736|Lachlan Orogen
+27440|Jindalee Group|556736|Lachlan Orogen
+76997|Jinden Monzogranite|556736|Lachlan Orogen
+31489|Jinden Suite|556736|Lachlan Orogen
+8980|Jindera Granite|556736|Lachlan Orogen
+8980|Jindera Granite|559178|Central NSW - Omeo Province
+31594|Jindera Suite|556736|Lachlan Orogen
+8987|Jingera Rock Syenite Complex|556736|Lachlan Orogen
+29577|Jingerangle Formation|556736|Lachlan Orogen
+76984|Jingo Creek Monzogranite|556736|Lachlan Orogen
+34262|Joaramin Ignimbrite|556736|Lachlan Orogen
+76757|Johnniefelds granodiorite|556736|Lachlan Orogen
+9012|Johnsons Creek Conglomerate|40484|New England Orogen
+42295|Johnsons Creek Conglomerate, McInnes Formation|40484|New England Orogen
+26269|Jolly Nose Conglomerate|22198|Lorne Basin
+9018|Jones Creek Diorite|556736|Lachlan Orogen
+69891|Joppa Siltstone Member|556736|Lachlan Orogen
+33794|Julong Granite|556736|Lachlan Orogen
+29578|Junawarra Volcanics|556736|Lachlan Orogen
+22048|Junee Reefs Granite|556736|Lachlan Orogen
+29570|Kabadah Formation|556736|Lachlan Orogen
+24324|Kadoona Dacite Member|556736|Lachlan Orogen
+24325|Kadungle Volcanics|556736|Lachlan Orogen
+77047|Kain Porphyry Member|556736|Lachlan Orogen
+24328|Kalimna Limestone Member|556736|Lachlan Orogen
+77018|Kalkite Monzogranite|556736|Lachlan Orogen
+73894|Kaloe Suite|40484|New England Orogen
+77043|Kaloe Tonalite|40484|New England Orogen
+9184|Kameruka Granodiorite|556736|Lachlan Orogen
+9203|Kanangra Granite|556736|Lachlan Orogen
+29513|Kandos Group|556736|Lachlan Orogen
+9206|Kangaloolah Volcanics|556736|Lachlan Orogen
+9211|Kangaroo Creek Sandstone|529922|Clarence-Moreton Basin
+70450|Kankool Ignimbrite Member|40484|New England Orogen
+23685|Karalinga Formation|556736|Lachlan Orogen
+23686|Karawina Formation|556736|Lachlan Orogen
+23687|Karikeree Metadolerite|40484|New England Orogen
+23687|Karikeree Metadolerite|407594|Port Macquarie Province
+40130|Karingal Rhyolite Member|556736|Lachlan Orogen
+67879|Karinya Metamorphics|40484|New England Orogen
+35615|Karoopa Granite|556736|Lachlan Orogen
+70496|Karralee Ignimbrite Member|40484|New England Orogen
+23689|Kataway Mudstone|40484|New England Orogen
+9358|Keatings Shale Member|556736|Lachlan Orogen
+9364|Keelindi beds|27354|Surat Basin
+9376|Keepit Conglomerate|40484|New England Orogen
+73842|Kellys Creek Leucomonzogranite|40484|New England Orogen
+74020|Kellys Creek Suite|40484|New England Orogen
+9408|Kellys Plain Volcanics|556736|Lachlan Orogen
+29941|Kempfield Granodiorite|556736|Lachlan Orogen
+9426|Kempsey beds|40484|New England Orogen
+29516|Kenilworth Group|40077|Cadia Porphyry Copper Gold Metallogenic Province
+29516|Kenilworth Group|556736|Lachlan Orogen
+77021|Kennedy Range Monzogranite|556736|Lachlan Orogen
+76955|Kenross Monzogranite|556736|Lachlan Orogen
+25678|Kensington Formation|40484|New England Orogen
+26660|Kentucky Diorite|40484|New England Orogen
+9449|Kenyu Formation|556736|Lachlan Orogen
+70251|Kerrawary Siltstone|556736|Lachlan Orogen
+70498|Kewell Creek Volcanic Member|40484|New England Orogen
+25970|Khan Yunis Formation|556736|Lachlan Orogen
+32248|Khancoban Granodiorite|556736|Lachlan Orogen
+9490|Khatoun Tonalite|40484|New England Orogen
+40936|Kialla Quartz Diorite|556736|Lachlan Orogen
+27446|Kiandra Group|444524|Mallacoota Zone
+27446|Kiandra Group|556736|Lachlan Orogen
+27446|Kiandra Group|559178|Central NSW - Omeo Province
+9537|Kikoira Granite|556736|Lachlan Orogen
+9537|Kikoira Granite|559178|Central NSW - Omeo Province
+67906|Kilburnie Monzogranite|40484|New England Orogen
+73923|Kilburnie Suite|40484|New England Orogen
+9545|Kildrummie Formation|556736|Lachlan Orogen
+9552|Kilgower Member|556736|Lachlan Orogen
+25972|Killimicat Granite|556736|Lachlan Orogen
+77019|Kimberley Park Monzogranite|40484|New England Orogen
+73928|Kimberley Park Suite|40484|New England Orogen
+9576|Kimbriki Formation|40484|New England Orogen
+22101|Kindee Conglomerate|40484|New England Orogen
+32272|Kings Cross Formation|556736|Lachlan Orogen
+33795|Kings Vale Granite|556736|Lachlan Orogen
+40921|Kingsdale Limestone Member|556736|Lachlan Orogen
+9617|Kingsfield Formation|40484|New England Orogen
+37189|Kingsgate Leucogranite|40484|New England Orogen
+70499|Kingsmill Peak Andesite Member|40484|New England Orogen
+9634|Kirawin Formation|556736|Lachlan Orogen
+31707|Kirribilli Formation|556736|Lachlan Orogen
+26666|Kiwarrak beds|40484|New England Orogen
+9701|Koetong Granite|556736|Lachlan Orogen
+9701|Koetong Granite|559178|Central NSW - Omeo Province
+9703|Koetong Suite|556736|Lachlan Orogen
+9704|Koetong Supersuite|556736|Lachlan Orogen
+27175|Kohinoor Volcanics|556736|Lachlan Orogen
+42279|Kohinoor Volcanics, Copper Creek Shale|556736|Lachlan Orogen
+28651|Koogah Formation|40484|New England Orogen
+38287|Kookabookra Monzogranite|40484|New England Orogen
+73931|Kookabookra Suite|40484|New England Orogen
+76956|Koolambah Monzogranite|556736|Lachlan Orogen
+27176|Koolanock Sandstone|40484|New England Orogen
+22128|Koonenberry Formation|20314|Wonominta Block
+9801|Koorainghat beds|40484|New England Orogen
+37902|Kooringal Dacite Member|40484|New England Orogen
+28654|Kopyje Group|547725|Kopyje Shelf
+28654|Kopyje Group|547733|Canbelego - Mineral Hill Rift Zone
+28654|Kopyje Group|556736|Lachlan Orogen
+25132|Koreelan Creek Granodiorite|40484|New England Orogen
+74021|Koreelan Creek Suite|40484|New England Orogen
+69882|Kowmung Formation|556736|Lachlan Orogen
+23706|Kruge Conglomerate Member|556736|Lachlan Orogen
+9854|Kuark Metamorphic Complex|556736|Lachlan Orogen
+9879|Kullatine Formation|40484|New England Orogen
+9925|Kurrajong Park Formation|556736|Lachlan Orogen
+31597|Kyeamba Suite|556736|Lachlan Orogen
+31597|Kyeamba Suite|559178|Central NSW - Omeo Province
+9979|Kyndalyn Mudstone Member|40484|New England Orogen
+30553|Kynuna Granite|556736|Lachlan Orogen
+34075|Kywong beds|40484|New England Orogen
+9992|Lachlan Formation|556736|Lachlan Orogen
+23711|Lady Brassey Formation|408445|Olary Domain
+32270|Lady Northcotts Granodiorite|556736|Lachlan Orogen
+31600|Lady Northcotts Suite|556736|Lachlan Orogen
+10024|Laidlaw Volcanics|556736|Lachlan Orogen
+10032|Lake Bathurst Granite|556736|Lachlan Orogen
+33050|Lake Cowal Volcanic Complex|40077|Cadia Porphyry Copper Gold Metallogenic Province
+33050|Lake Cowal Volcanic Complex|556736|Lachlan Orogen
+10103|Lambie Group|556736|Lachlan Orogen
+25987|Lambs Valley Ignimbrite Member|40484|New England Orogen
+10139|Landers Creek Formation|556736|Lachlan Orogen
+10194|Lark Hill Formation|40484|New England Orogen
+10240|Laurieton Conglomerate|22198|Lorne Basin
+10240|Laurieton Conglomerate|40558|Hastings Province
+10268|Lawsons Gully Porphyry|556736|Lachlan Orogen
+26684|Laytons Range Conglomerate|40484|New England Orogen
+77030|Leaning Rock Monzogranite|556736|Lachlan Orogen
+10280|Leard Formation|530016|Gunnedah Basin
+40925|Ledgeworth Facies|556736|Lachlan Orogen
+25990|Leesville Granodiorite|556736|Lachlan Orogen
+33861|Leeton Igneous Complex|556736|Lachlan Orogen
+23722|Leloma Formation|40484|New England Orogen
+23723|Lerida Limestone Member|556736|Lachlan Orogen
+26686|Lett Granite|556736|Lachlan Orogen
+37572|Lickhole Volcanic Group|444520|Tabberabbera Zone
+37572|Lickhole Volcanic Group|556736|Lachlan Orogen
+35614|Licking Gully Granite|556736|Lachlan Orogen
+41065|Limbri Leucomonzogranite|40484|New England Orogen
+73974|Limbri Suite|40484|New England Orogen
+25167|Limekilns Formation|556736|Lachlan Orogen
+77060|Limestone A|556736|Lachlan Orogen
+37397|Limestone A""|556736|Lachlan Orogen
+77063|Limestone B|556736|Lachlan Orogen
+37399|Limestone B""|556736|Lachlan Orogen
+77064|Linden Coal Member|40484|New England Orogen
+76957|Linden Hill Monzogranite|40484|New England Orogen
+38301|Linden seam|40484|New England Orogen
+10454|Liscombe Pools Limestone|556736|Lachlan Orogen
+23732|Little Brown Mountain Granite|556736|Lachlan Orogen
+29591|Little Forest Granite|556736|Lachlan Orogen
+29531|Little Plains Granite|556736|Lachlan Orogen
+77009|Little Popong Monzogranite|556736|Lachlan Orogen
+10511|Livingstone Porphyry|556736|Lachlan Orogen
+31599|Llanelly Suite|556736|Lachlan Orogen
+76958|Llangothlin Monzogranite|40484|New England Orogen
+74008|Llangothlin Suite|40484|New England Orogen
+10529|Lobelia Limestone Member|556736|Lachlan Orogen
+10540|Lochaber Greywacke|40484|New England Orogen
+35507|Lock Lomond Granite|556736|Lachlan Orogen
+10578|Lockyersleigh Granite|556736|Lachlan Orogen
+10619|Long Flat Volcanics|556736|Lachlan Orogen
+27292|Long Swamp Creek Formation|556736|Lachlan Orogen
+23738|Long Tunnel Metabasic Igneous Complex|556736|Lachlan Orogen
+36331|Longreach Volcanics|556736|Lachlan Orogen
+41066|Looanga Monzogranite|40484|New England Orogen
+73975|Looanga Suite|40484|New England Orogen
+10646|Lookdown Limestone|556736|Lachlan Orogen
+26701|Loomat Granite|556736|Lachlan Orogen
+10653|Loomberah Limestone Member|40484|New England Orogen
+25692|Looney Intrusive Complex|556736|Lachlan Orogen
+31715|Lords Granite|556736|Lachlan Orogen
+27183|Loughmore Formation|20308|Oaklands Basin
+42360|Louie pluton|556736|Lachlan Orogen
+78374|Louth volcanics|20489|Thomson Orogen
+10693|Lowana Formation|40484|New England Orogen
+10693|Lowana Formation|40555|Gamilaroi Terrane/Province
+10825|Loxton Sand|536552|Murray Basin
+29592|Lucan Complex|556736|Lachlan Orogen
+26001|Lucas Creek Granite|556736|Lachlan Orogen
+10849|Lucyvale Granite|556736|Lachlan Orogen
+10849|Lucyvale Granite|559178|Central NSW - Omeo Province
+26002|Lumga Siltstone|556736|Lachlan Orogen
+10866|Lumley Granite|556736|Lachlan Orogen
+26003|Luton Formation|40484|New England Orogen
+38266|Mackenzie Monzogranite|40484|New England Orogen
+10952|Mackunda Formation|529302|Eromanga Basin
+10952|Mackunda Formation|550572|Carpentaria Basin
+10958|Macleay Group|40484|New England Orogen
+10958|Macleay Group|40564|Nambucca Province
+27826|Macquarie Park Sandstone|556736|Lachlan Orogen
+41630|Macqueen Member|40484|New England Orogen
+77010|Maffra Monzogranite|556736|Lachlan Orogen
+39629|Magdala Basalt|20367|Stawell Zone
+39629|Magdala Basalt|39753|Bendigo Gold Metallogenic Province
+39629|Magdala Basalt|556736|Lachlan Orogen
+11039|Maitland Group|530078|Sydney Basin
+26007|Majors Creek Formation|40484|New England Orogen
+27473|Majuba Volcanics|556736|Lachlan Orogen
+11044|Majurgong Formation|556736|Lachlan Orogen
+35759|Malay Creek Formation|556736|Lachlan Orogen
+11126|Malongulli Formation|556736|Lachlan Orogen
+23757|Mammy Johnsons Formation|40484|New England Orogen
+77429|Manar Ignimbrite Member|556736|Lachlan Orogen
+31605|Mandari Suite|556736|Lachlan Orogen
+26010|Mandowa Mudstone|40484|New England Orogen
+22253|Mandurama Ponds Granodiorite|556736|Lachlan Orogen
+22254|Manfred Sandstone|556736|Lachlan Orogen
+11186|Manning Group|40484|New England Orogen
+26012|Manooka Limestone Member|556736|Lachlan Orogen
+11212|Manuka Farm Porphyritic Microtonalite|40484|New England Orogen
+11232|Maramingo Granite|444524|Mallacoota Zone
+11232|Maramingo Granite|556736|Lachlan Orogen
+29522|Marangulla Syenite|556736|Lachlan Orogen
+26013|Marble Arch Limestone Member|556736|Lachlan Orogen
+77422|Marker Two Coal Member|40484|New England Orogen
+11329|Markwell Coal Measures|40484|New England Orogen
+22270|Marrar Dyke|556736|Lachlan Orogen
+36827|Marrawarra Rhyolite Member|40484|New England Orogen
+11383|Martindale Mudstone|40484|New England Orogen
+11385|Martins Creek Ignimbrite Member|40484|New England Orogen
+11390|Marulan Granite|556736|Lachlan Orogen
+69871|Marulan Supersuite|556736|Lachlan Orogen
+11409|Maryborough Formation|22345|Maryborough Basin
+11417|Maryland Granite|40484|New England Orogen
+11417|Maryland Granite|559208|Silverwood Province
+73906|Maryland Suite|40484|New England Orogen
+25216|Matong Granodiorite|556736|Lachlan Orogen
+26020|Matthews Gap Dacitic Tuff Member|40484|New England Orogen
+11472|Maules Creek Formation|530016|Gunnedah Basin
+23774|Mayers Flat Limestone Member|40484|New England Orogen
+23775|Mayfair Granite|559178|Central NSW - Omeo Province
+37576|McCarty Limestone|556736|Lachlan Orogen
+36964|McGraths Hump Metabasalt|40484|New England Orogen
+11542|McInnes Formation|40484|New England Orogen
+11542|McInnes Formation|40573|Tamworth Province
+76994|McKeahnie Monzogranite|556736|Lachlan Orogen
+11564|McLaughlins Flat Granodiorite|556736|Lachlan Orogen
+11568|McLeod Hill Gabbro|556736|Lachlan Orogen
+11589|Meadows Tank Formation|530359|Darling Basin
+27486|Melbergen Sandstone|556736|Lachlan Orogen
+31301|Melgra Formation|556736|Lachlan Orogen
+24377|Meloola Volcanics|556736|Lachlan Orogen
+39132|Melougel Ignimbrite|556736|Lachlan Orogen
+11673|Merewether Conglomerate Member|556736|Lachlan Orogen
+26028|Merlewood Formation|40484|New England Orogen
+23787|Merrastone Formation|40484|New England Orogen
+38845|Merrere Conglomerate Member|556736|Lachlan Orogen
+11705|Merriangaah Siltstone|556736|Lachlan Orogen
+11708|Merricumbene Granodiorite|556736|Lachlan Orogen
+31493|Merricumbene Suite|556736|Lachlan Orogen
+31719|Merriganowry Shale Member|556736|Lachlan Orogen
+11713|Merrimbula Group|39645|Pambula Metallogenic Province
+11713|Merrimbula Group|556736|Lachlan Orogen
+11724|Merrimerriwa Formation|530359|Darling Basin
+29917|Merrions Formation|556736|Lachlan Orogen
+41247|Merton Formation|556736|Lachlan Orogen
+76961|Merumbadgee Monzogranite|556736|Lachlan Orogen
+26275|Merumbago Granodiorite|556736|Lachlan Orogen
+11741|Meryula Formation|556736|Lachlan Orogen
+76998|Micaligo Monzogranite|556736|Lachlan Orogen
+27194|Micalong Swamp Basic Igneous Complex|556736|Lachlan Orogen
+11773|Michelago Igneous Complex|556736|Lachlan Orogen
+22324|Middledale Gabbroic Diorite|556736|Lachlan Orogen
+40757|Mihi Rhyolite Member|40484|New England Orogen
+22326|Mila Granodiorite|556736|Lachlan Orogen
+31609|Mila Suite|556736|Lachlan Orogen
+31714|Milandra Granite|556736|Lachlan Orogen
+34363|Mile Road beds|40484|New England Orogen
+34363|Mile Road beds|407594|Port Macquarie Province
+25236|Milk Shanty Formation|556736|Lachlan Orogen
+11838|Millah Murrah Granite|556736|Lachlan Orogen
+27195|Millambri Formation|556736|Lachlan Orogen
+28128|Millewa Group|550808|Berri Basin
+30024|Millsville Formation|556736|Lachlan Orogen
+29555|Milmiland Granite|556736|Lachlan Orogen
+34494|Milton Grove Formation|556736|Lachlan Orogen
+11875|Milton Monzonite|556736|Lachlan Orogen
+11894|Mineral Hill Volcanics|556736|Lachlan Orogen
+23795|Mingaletta Formation|40484|New England Orogen
+27687|Mingelo Volcanics|556736|Lachlan Orogen
+11921|Minjary Volcanics|556736|Lachlan Orogen
+11923|Minmi Member|27354|Surat Basin
+76962|Minnegans Monzogranite|556736|Lachlan Orogen
+11956|Mirannie Volcanic Member|40484|New England Orogen
+26743|Mirrabooka Formation|556736|Lachlan Orogen
+77260|Mirrie Formation|530016|Gunnedah Basin
+29688|Mishurley Creek Granite|556736|Lachlan Orogen
+33382|Mitchell Formation|556736|Lachlan Orogen
+26745|Mogendoura Granodiorite|556736|Lachlan Orogen
+12035|Mole Granite|40484|New England Orogen
+73958|Mole Suite|40484|New England Orogen
+73955|Mole Supersuite|40484|New England Orogen
+12050|Molong Limestone|556736|Lachlan Orogen
+26036|Monash Formation|550808|Berri Basin
+12098|Monga Granite|556736|Lachlan Orogen
+31607|Monga Suite|556736|Lachlan Orogen
+77038|Mongamula Monzogranite|556736|Lachlan Orogen
+24384|Monkellan Granodiorite|556736|Lachlan Orogen
+22365|Montagu Dacite Member|556736|Lachlan Orogen
+12170|Mooga Sandstone|27354|Surat Basin
+12170|Mooga Sandstone|529302|Eromanga Basin
+12187|Moolayember Formation|530059|Bowen Basin
+12187|Moolayember Formation|550790|Galilee Basin
+38288|Moombil Siltstone|40484|New England Orogen
+12226|Moonbah Tonalite|556736|Lachlan Orogen
+41069|Moonbi Monzogranite|40484|New England Orogen
+41069|Moonbi Monzogranite|40540|Woolomin Province
+29249|Moonbi Suite|40484|New England Orogen
+36465|Moonbi Supersuite|40484|New England Orogen
+35404|Moonshine Granite|556736|Lachlan Orogen
+38285|Moonta Gully Monzogranite|40484|New England Orogen
+74022|Moonta Gully Suite|40484|New England Orogen
+34397|Mooraback beds|40484|New England Orogen
+34397|Mooraback beds|40564|Nambucca Province
+75832|Mooral Creek serpentinite|40484|New England Orogen
+12278|Moorara Granite|556736|Lachlan Orogen
+12281|Moore Creek Limestone Member|40555|Gamilaroi Terrane/Province
+42302|Moore Creek Limestone Member, Sulcor Limestone Member|40484|New England Orogen
+22380|Moorilda Monzonite|556736|Lachlan Orogen
+73843|Morgans Creek Monzogranite|40484|New England Orogen
+12344|Mornington Diorite|40484|New England Orogen
+74034|Mornington Suite|40484|New England Orogen
+12350|Moroka Glen Formation|556736|Lachlan Orogen
+12371|Moruya Suite|556736|Lachlan Orogen
+28778|Moruya Tonalite|556736|Lachlan Orogen
+23812|Mostyn Vale Formation|40484|New England Orogen
+23812|Mostyn Vale Formation|40555|Gamilaroi Terrane/Province
+12438|Mount Ainslie Volcanics|556736|Lachlan Orogen
+12451|Mount Alfred Granite|556736|Lachlan Orogen
+12454|Mount Allen Granite|556736|Lachlan Orogen
+12470|Mount Arthur Granite|559178|Central NSW - Omeo Province
+31548|Mount Arthur Suite|556736|Lachlan Orogen
+12490|Mount Barney beds|40484|New England Orogen
+35609|Mount Boorithumble Member|556736|Lachlan Orogen
+40756|Mount Byar Ignimbrite Member|40484|New England Orogen
+33416|Mount Cole Formation|556736|Lachlan Orogen
+12623|Mount Daubeny Formation|530359|Darling Basin
+27501|Mount Dijou Volcanics|556736|Lachlan Orogen
+12644|Mount Dromedary Igneous Complex|39658|Mount Dromedary Metallogenic Province
+12644|Mount Dromedary Igneous Complex|556736|Lachlan Orogen
+35274|Mount Drysdale Conglomerate Member|556736|Lachlan Orogen
+22411|Mount Durham Tuff Member|40484|New England Orogen
+41070|Mount Duval Monzogranite|40484|New England Orogen
+67902|Mount Duval Suite|40484|New England Orogen
+12695|Mount Ephraim Granodiorite|40484|New England Orogen
+73896|Mount Ephraim Suite|40484|New England Orogen
+26052|Mount Fairy Group|556736|Lachlan Orogen
+26760|Mount Flakney Granite|556736|Lachlan Orogen
+26760|Mount Flakney Granite|559178|Central NSW - Omeo Province
+32376|Mount Foster Monzonite|556736|Lachlan Orogen
+12721|Mount Frome Limestone|556736|Lachlan Orogen
+75830|Mount George serpentinite|40484|New England Orogen
+23819|Mount Halfway Volcanics|547727|Mount Hope Trough
+70502|Mount Helen Rhyodacite Member|40484|New England Orogen
+37913|Mount Hook Rhyolite Member|40484|New England Orogen
+25281|Mount Hope Group|556736|Lachlan Orogen
+12849|Mount Johnstone Formation|40484|New England Orogen
+12849|Mount Johnstone Formation|530078|Sydney Basin
+38269|Mount Jonblee Leucomonzogranite|40484|New England Orogen
+28308|Mount Kennan Volcanics|547727|Mount Hope Trough
+12872|Mount Knobby Formation|547736|Melrose Trough
+12872|Mount Knobby Formation|556736|Lachlan Orogen
+30853|Mount Knowles Group|556736|Lachlan Orogen
+12887|Mount Lewin Limestone Member|556736|Lachlan Orogen
+28804|Mount Manara Conglomerate|556736|Lachlan Orogen
+78380|Mount Merrere Conglomerate|556736|Lachlan Orogen
+12933|Mount Misery Granite|556736|Lachlan Orogen
+38283|Mount Mitchell Monzogranite|40484|New England Orogen
+24403|Mount Painter Volcanics|556736|Lachlan Orogen
+31723|Mount Pleasant Basalt Member|556736|Lachlan Orogen
+13039|Mount Pleasant Limestone Member|40484|New England Orogen
+76985|Mount Poole Monzogranite|556736|Lachlan Orogen
+26056|Mount Rivers Ignimbrite Member|40484|New England Orogen
+30984|Mount Royal Formation|556736|Lachlan Orogen
+13115|Mount Stromlo Granite|556736|Lachlan Orogen
+34614|Mount Susannah Conglomerate|556736|Lachlan Orogen
+37765|Mount Unicorn Porphyry|556736|Lachlan Orogen
+26059|Mount Walton Porphyry|556736|Lachlan Orogen
+32033|Mountain Creek Suite|556736|Lachlan Orogen
+13264|Mountain Creek Volcanics|556736|Lachlan Orogen
+13267|Mountain Dam Limestone|556736|Lachlan Orogen
+29589|Moura Formation|556736|Lachlan Orogen
+25736|Mouramba Group|549130|Rast Trough
+27209|Mowambah Granodiorite|556736|Lachlan Orogen
+37821|Mozart Chert Member|556736|Lachlan Orogen
+28823|Mudgee River Granite|556736|Lachlan Orogen
+24407|Mugga Mugga Porphyry Member|556736|Lachlan Orogen
+13338|Mugincoble Chert|556736|Lachlan Orogen
+13340|Muirs Creek Conglomerate|40484|New England Orogen
+26063|Mulga Downs Group|20417|Bancannia Trough
+26063|Mulga Downs Group|529913|Yathong Trough
+26063|Mulga Downs Group|530359|Darling Basin
+26063|Mulga Downs Group|556736|Lachlan Orogen
+26063|Mulga Downs Group|570577|Nelyambo Trough
+33798|Mulgowrie Granite|556736|Lachlan Orogen
+33419|Mulguthrie Formation|556736|Lachlan Orogen
+13397|Mullions Range Volcanics|40070|Woodlawn Base Metal Metallogenic Province
+13397|Mullions Range Volcanics|556736|Lachlan Orogen
+26064|Mulwaree Group|556736|Lachlan Orogen
+13407|Mumbedah Granite|556736|Lachlan Orogen
+42278|Mumbidgle Formation, Bocobidgle Conglomerate|556736|Lachlan Orogen
+13411|Mumbil Group|556736|Lachlan Orogen
+42013|Mumbil Group undifferentiated sediments|556736|Lachlan Orogen
+23848|Mumbulla Granite|556736|Lachlan Orogen
+30468|Mumbulla Suite|556736|Lachlan Orogen
+13428|Munderoo Granodiorite|556736|Lachlan Orogen
+13430|Mundi Mundi Granite|20331|Curnamona Province
+13443|Mundoonen Sandstone|556736|Lachlan Orogen
+33191|Murda Formation|556736|Lachlan Orogen
+69452|Murder Dog Monzogranite|40484|New England Orogen
+73932|Murder Dog Suite|40484|New England Orogen
+22482|Murrabrine Quartz Diorite|556736|Lachlan Orogen
+38848|Murrawombie Schist|556736|Lachlan Orogen
+23854|Murrawong Creek Formation|40484|New England Orogen
+23854|Murrawong Creek Formation|40555|Gamilaroi Terrane/Province
+37766|Murray Gates Leucogranite|556736|Lachlan Orogen
+13544|Murray Group|536552|Murray Basin
+13549|Murrays Flats beds|556736|Lachlan Orogen
+35522|Murrindindi Supergroup|39754|Walhalla-Wood's Point Gold Metallogenic Province
+35522|Murrindindi Supergroup|556736|Lachlan Orogen
+35522|Murrindindi Supergroup|559492|Melbourne-Mathinna Zone
+31614|Murringo Suite|556736|Lachlan Orogen
+13560|Murrumbateman Creek Formation|556736|Lachlan Orogen
+27854|Murrumbidgee Group|556736|Lachlan Orogen
+31611|Murrumbucka Suite|556736|Lachlan Orogen
+26067|Murrumbucka Tonalite|556736|Lachlan Orogen
+70503|Murrurundi Ignimbrite Member|40484|New England Orogen
+22487|Musical Tonalite|556736|Lachlan Orogen
+72958|Mutawintji Group|20533|Delamerian Orogen
+30467|Myalla Road Syenite Complex|556736|Lachlan Orogen
+74011|Myanbah Suite|40484|New England Orogen
+76986|Myocum Monzogranite|556736|Lachlan Orogen
+31523|Myocum Suite|556736|Lachlan Orogen
+26792|Myra beds|22198|Lorne Basin
+26792|Myra beds|40484|New England Orogen
+27052|Nacka Nacka Metabasic Igneous Complex|556736|Lachlan Orogen
+13682|Nagha Granite|556736|Lachlan Orogen
+76987|Naghi Monzogranite|556736|Lachlan Orogen
+22501|Nalbaugh Granodiorite|556736|Lachlan Orogen
+30909|Nallawa Complex|556736|Lachlan Orogen
+13707|Namba Formation|464193|Callabonna Sub-basin
+13707|Namba Formation|529801|Lake Eyre Basin
+29689|Nambucca beds|40484|New England Orogen
+22502|Nambucurra Granodiorite|556736|Lachlan Orogen
+13721|Namoi Formation|40484|New England Orogen
+77020|Namungo Monzogranite|556736|Lachlan Orogen
+26071|Nangahrah Formation|40484|New England Orogen
+26071|Nangahrah Formation|40540|Woolomin Province
+13778|Nangar Subgroup|556736|Lachlan Orogen
+13831|Napperby Formation|530016|Gunnedah Basin
+13831|Napperby Formation|556736|Lachlan Orogen
+29826|Nargong Volcanics|556736|Lachlan Orogen
+23864|Naringla Granodiorite|556736|Lachlan Orogen
+22512|Narooma Chert|556736|Lachlan Orogen
+13874|Narrabeen Group|530078|Sydney Basin
+24420|Narrabundah Ashstone Member|556736|Lachlan Orogen
+69150|Narraburra Complex|556736|Lachlan Orogen
+13890|Narraburra Granite|556736|Lachlan Orogen
+33406|Narragudgil Volcanics|556736|Lachlan Orogen
+33802|Narrawa Granite|556736|Lachlan Orogen
+68843|Narromine Igneous Complex|556736|Lachlan Orogen
+37767|Narrowleaf Leucogranite|556736|Lachlan Orogen
+29252|Nash Hill Volcanics|556736|Lachlan Orogen
+13935|Native Dog Member|40484|New England Orogen
+13946|Neara Volcanics|20434|Esk Trough
+13946|Neara Volcanics|40484|New England Orogen
+13946|Neara Volcanics|407416|Wandilla Province
+13976|Nelligen Granodiorite|556736|Lachlan Orogen
+27679|Nelungaloo Volcanics|556736|Lachlan Orogen
+14021|Neranleigh-Fernvale beds|40484|New England Orogen
+14021|Neranleigh-Fernvale beds|407416|Wandilla Province
+14025|Nerong Volcanics|40484|New England Orogen
+42284|Nerong Volcanics, Berrico Creek Formation, Conger Formation|40484|New England Orogen
+14026|Nest Hill Granite|556736|Lachlan Orogen
+22526|Nevann Siltstone|40484|New England Orogen
+31618|Neville Suite|556736|Lachlan Orogen
+22530|New Building Granodiorite|556736|Lachlan Orogen
+27861|Newcastle Coal Measures|530078|Sydney Basin
+27861|Newcastle Coal Measures|556736|Lachlan Orogen
+25341|Newton Boyd Granodiorite|40484|New England Orogen
+73907|Newton Boyd Suite|40484|New England Orogen
+26078|Newtown Formation|40484|New England Orogen
+76988|Nimmitabel Monzogranite|556736|Lachlan Orogen
+26079|Nine Mile Volcanics|556736|Lachlan Orogen
+14179|Nioka Porphyritic Dacite Member|40484|New England Orogen
+72992|Nobbys Beach Lamprophyre|407594|Port Macquarie Province
+23876|Nombiginni Volcanics|547727|Mount Hope Trough
+38270|Nonnington Leucomonzogranite|40484|New England Orogen
+76142|Noonthorangee Formation|20314|Wonominta Block
+14234|Nootumbulla Sandstone|20533|Delamerian Orogen
+23878|Norholm Sandstone Member|556736|Lachlan Orogen
+28874|North Mooney Complex|556736|Lachlan Orogen
+23880|Northcotte Formation|40555|Gamilaroi Terrane/Province
+35020|Northparkes Volcanic Group|40077|Cadia Porphyry Copper Gold Metallogenic Province
+35020|Northparkes Volcanic Group|556736|Lachlan Orogen
+14313|Noumea beds|40484|New England Orogen
+14313|Noumea beds|40555|Gamilaroi Terrane/Province
+26082|Nowranie Creek Formation|20308|Oaklands Basin
+33380|Nubrigyn Member|556736|Lachlan Orogen
+41602|Nuchea Conglomerate|20533|Delamerian Orogen
+37225|Nullawonga latite member""|556736|Lachlan Orogen
+76963|Numbla Vale Monzogranite|556736|Lachlan Orogen
+32461|Numeralla Chert|556736|Lachlan Orogen
+37338|Nundora Formation|20533|Delamerian Orogen
+14394|Nungar beds|556736|Lachlan Orogen
+14398|Nungatta Granodiorite|556736|Lachlan Orogen
+14417|Nurri Group|535919|Cobar Basin
+26087|Nymagee Igneous Complex|556736|Lachlan Orogen
+26087|Nymagee Igneous Complex|559178|Central NSW - Omeo Province
+14438|Nymboida Coal Measures|20434|Esk Trough
+14445|Nyora Granite|556736|Lachlan Orogen
+14446|Nyrang Sandstone Member|556736|Lachlan Orogen
+40931|O'Briens Creek Sandstone Member|556736|Lachlan Orogen
+14461|Oakdale Formation|556736|Lachlan Orogen
+28886|Oakley Limestone Member|556736|Lachlan Orogen
+38276|Oban River Leucomonzogranite|40484|New England Orogen
+73781|Oban Suite|40484|New England Orogen
+14480|Oberon Granite|556736|Lachlan Orogen
+31534|Oberon Suite|556736|Lachlan Orogen
+27053|Obley Granite|556736|Lachlan Orogen
+77027|Ogilvies Monzogranite|556736|Lachlan Orogen
+14514|Old Hut Limestone Member|556736|Lachlan Orogen
+14553|Olney Formation|536552|Murray Basin
+14578|Omeo Metamorphic Complex|556736|Lachlan Orogen
+24440|Onslow Granodiorite|556736|Lachlan Orogen
+14592|Oodnadatta Formation|529302|Eromanga Basin
+14598|Oolong Granite|556736|Lachlan Orogen
+30990|Ootha Formation|556736|Lachlan Orogen
+14623|Ootha Group|556736|Lachlan Orogen
+14635|Orallo Formation|27354|Surat Basin
+14635|Orallo Formation|529302|Eromanga Basin
+31296|Orchard Formation|556736|Lachlan Orogen
+39261|Ourimperee Ignimbrite Member|40484|New England Orogen
+26827|Oxley Metamorphics|40484|New England Orogen
+74355|Paddys Creek beds|20314|Wonominta Block
+26093|Paddys River Volcanics|556736|Lachlan Orogen
+29593|Padua Granodiorite|556736|Lachlan Orogen
+14788|Palerang Formation|556736|Lachlan Orogen
+14792|Paling Yard Formation|556736|Lachlan Orogen
+26829|Pallal Conglomerate Member|40484|New England Orogen
+14847|Panuara Formation|556736|Lachlan Orogen
+22625|Pappinbarra Formation|40484|New England Orogen
+27533|Paradise Porphyry|556736|Lachlan Orogen
+77073|Parkers Road Coal Member|40484|New England Orogen
+25742|Parkes Volcanics|556736|Lachlan Orogen
+35788|Parkesbourne Granite|556736|Lachlan Orogen
+27217|Parkvale Gabbro|556736|Lachlan Orogen
+67895|Parlour Mountain Leucomonzogranite|40484|New England Orogen
+14913|Parrabel beds|40484|New England Orogen
+14916|Parry Group|40484|New England Orogen
+14945|Paterson Volcanics|40484|New England Orogen
+14945|Paterson Volcanics|530078|Sydney Basin
+40948|Patmore Limestone Member|556736|Lachlan Orogen
+32399|Peakview Tonalite|556736|Lachlan Orogen
+36962|Pee Dee beds|40484|New England Orogen
+24619|Peera Peera Formation|529549|Pedirka Basin
+35787|Pejar Granite|556736|Lachlan Orogen
+26099|Pendergast Tonalite|556736|Lachlan Orogen
+77024|Pennyweight Monzogranite|556736|Lachlan Orogen
+39262|Penryn Rhyolite Member|40484|New England Orogen
+15041|Penshurst Sandstone Member|556736|Lachlan Orogen
+15053|Peppercorn Formation|556736|Lachlan Orogen
+40570|Peri Rhyolite Member|40484|New England Orogen
+76989|Pericoe Monzogranite|556736|Lachlan Orogen
+23901|Pheasant Creek Volcanics|40484|New England Orogen
+72762|Phils Creek Formation|556736|Lachlan Orogen
+23902|Pi Pi Ignimbrite|40484|New England Orogen
+15147|Piallaway Trig Ignimbrite Member|40484|New England Orogen
+27536|Pilleuil Andesite|556736|Lachlan Orogen
+41967|Pilleuil Andesite, Waynes Knob Rhyolite, Sharpeningstone Conglomerate|556736|Lachlan Orogen
+15220|Pilot Range Granite|556736|Lachlan Orogen
+37909|Pine Cliffs Rhyolite Member|40484|New England Orogen
+15244|Pine Mountain Granite|556736|Lachlan Orogen
+27054|Pinehurst Granite|556736|Lachlan Orogen
+40758|Piney Range Member|40484|New England Orogen
+23907|Pinnak Sandstone|444520|Tabberabbera Zone
+23907|Pinnak Sandstone|444524|Mallacoota Zone
+23907|Pinnak Sandstone|556736|Lachlan Orogen
+23907|Pinnak Sandstone|559178|Central NSW - Omeo Province
+15285|Pipeclay Creek Formation|40484|New England Orogen
+15285|Pipeclay Creek Formation|40555|Gamilaroi Terrane/Province
+69445|Pipeclay Creek Formation, Murrawong Creek Formation|40484|New England Orogen
+29938|Pipers Flat Formation|556736|Lachlan Orogen
+34004|Pitch Creek Volcanics|40484|New England Orogen
+34004|Pitch Creek Volcanics|40555|Gamilaroi Terrane/Province
+15299|Pittman Formation|556736|Lachlan Orogen
+37911|Plagyan Ignimbrite Member|40484|New England Orogen
+75932|Pleasant Hill Granite|556736|Lachlan Orogen
+68215|Plumbago Creek beds|40484|New England Orogen
+15351|Pocket Formation|556736|Lachlan Orogen
+37356|Poidevins Sandstone|556736|Lachlan Orogen
+26106|Pokolbin Hills Volcanics|40484|New England Orogen
+15418|Pollwombra Granodiorite|556736|Lachlan Orogen
+35621|Ponto Group|20314|Wonominta Block
+15448|Pooraka Formation|20406|St Vincent Basin
+15448|Pooraka Formation|464193|Callabonna Sub-basin
+15452|Porcupine Formation|530016|Gunnedah Basin
+73111|Port Macquarie Serpentinite|407594|Port Macquarie Province
+15493|Postmans Creek Granodiorite|40484|New England Orogen
+73898|Postmans Creek Suite|40484|New England Orogen
+37915|Pound Rock Rhyodacite Member|40484|New England Orogen
+22689|Powder Horn Hill Microgranite|556736|Lachlan Orogen
+15540|Precipice Sandstone|27354|Surat Basin
+15540|Precipice Sandstone|27540|Callide Basin
+15540|Precipice Sandstone|27546|Mulgildie Basin
+15540|Precipice Sandstone|529302|Eromanga Basin
+41571|Preston Formation|556736|Lachlan Orogen
+22697|Pretty Point Tonalite|556736|Lachlan Orogen
+41071|Pringles Monzogranite|40484|New England Orogen
+26857|Prison Farm Granodiorite|556736|Lachlan Orogen
+15642|Puddledock Complex|40484|New England Orogen
+27224|Pulpit Rock Dacite Member|556736|Lachlan Orogen
+15676|Purlawaugh Formation|27354|Surat Basin
+22707|Purnim Volcanic Member|556736|Lachlan Orogen
+30047|Pyangle Pass Granite|556736|Lachlan Orogen
+38277|Pyes Creek Leucomonzogranite|40484|New England Orogen
+30904|Pyramid Hill Arenite|40484|New England Orogen
+33671|Quaama Granodiorite|556736|Lachlan Orogen
+28252|Quarantine Bay Member|556736|Lachlan Orogen
+15730|Quarry Creek Limestone|556736|Lachlan Orogen
+30152|Queens Pinch Group|556736|Lachlan Orogen
+69864|Quialigo Volcanics|556736|Lachlan Orogen
+15761|Quidong Limestone|556736|Lachlan Orogen
+22719|Quintoc Group|40484|New England Orogen
+27688|Quondong Limestone|556736|Lachlan Orogen
+31297|Rabbit Creek Formation|556736|Lachlan Orogen
+15797|Raggatt Volcanics|556736|Lachlan Orogen
+36966|Rampsbeck Schist|40484|New England Orogen
+28263|Ranch Member|556736|Lachlan Orogen
+23935|Rast Group|549130|Rast Trough
+15860|Ravendale Formation|20314|Wonominta Block
+15860|Ravendale Formation|20417|Bancannia Trough
+15888|Ravine beds|556736|Lachlan Orogen
+77029|Rawsons Pass Monzogranite|556736|Lachlan Orogen
+15908|Razorback Creek Mudstone|40484|New England Orogen
+27546|Receptaculites Limestone Member|556736|Lachlan Orogen
+15930|Red Cliff Coal Measures|21915|Ipswich Basin
+15930|Red Cliff Coal Measures|40484|New England Orogen
+25434|Red East Member|556736|Lachlan Orogen
+38271|Red Range Microleucogranite|40484|New England Orogen
+15989|Redfern Granite|556736|Lachlan Orogen
+26121|Reedy Creek Limestone|556736|Lachlan Orogen
+22748|Reefton Dolerite|556736|Lachlan Orogen
+26869|Regans Creek Limestone|556736|Lachlan Orogen
+23938|Regina Volcanics|547727|Mount Hope Trough
+16014|Reids Flat Granite|556736|Lachlan Orogen
+16036|Renmark Group|536552|Murray Basin
+26123|Rileys Ridge Rhyodacite Member|556736|Lachlan Orogen
+16116|Risdon Stud Formation|40484|New England Orogen
+16116|Risdon Stud Formation|559208|Silverwood Province
+25445|Rivertree Granite|40484|New England Orogen
+67880|Rock Flat Granodiorite|556736|Lachlan Orogen
+70506|Rockford Ignimbrite Member|40484|New England Orogen
+16202|Rockhampton Group|40484|New England Orogen
+16209|Rockisle Granodiorite|40484|New England Orogen
+74023|Rockisle Suite|40484|New England Orogen
+16213|Rockley Volcanics|556736|Lachlan Orogen
+16216|Rocksberg Greenstone|40484|New England Orogen
+16216|Rocksberg Greenstone|407416|Wandilla Province
+16221|Rockton Granodiorite|556736|Lachlan Orogen
+76965|Rockvale Monzogranite|40484|New England Orogen
+73933|Rockvale Suite|40484|New England Orogen
+72991|Rocky Beach Metamorphic Melange|407594|Port Macquarie Province
+16236|Rocky Creek Conglomerate|40484|New England Orogen
+16243|Rocky Hill Granite|556736|Lachlan Orogen
+68865|Rocky River Monzogranite|40484|New England Orogen
+33761|Rocky Tank Conglomerate Member|20314|Wonominta Block
+22776|Rollans Road Formation|40484|New England Orogen
+16267|Rolling Downs Group|22401|Laura-Lakefield Basin
+16267|Rolling Downs Group|27354|Surat Basin
+16267|Rolling Downs Group|529302|Eromanga Basin
+16267|Rolling Downs Group|550572|Carpentaria Basin
+26126|Rolling Grounds Latite|556736|Lachlan Orogen
+16296|Rombo Coal Member|549700|Gloucester Basin
+27299|Rook Tuff|20331|Curnamona Province
+16331|Rosebank Shale|556736|Lachlan Orogen
+23946|Roseburg Granite|556736|Lachlan Orogen
+16344|Rosedale Member|40484|New England Orogen
+16352|Rosenthal Creek Formation|559208|Silverwood Province
+26127|Roset Sandstone|556736|Lachlan Orogen
+29669|Rossdhu Granite|556736|Lachlan Orogen
+24477|Rossi Granodiorite|556736|Lachlan Orogen
+27891|Rosyth Limestone|556736|Lachlan Orogen
+24479|Rothlyn Formation|556736|Lachlan Orogen
+32244|Rough Creek Tonalite|556736|Lachlan Orogen
+25452|Round Flat Tonalite|556736|Lachlan Orogen
+76966|Round Mountain Leucomonzogranite|40484|New England Orogen
+73982|Round Mountain Supersuite|40484|New England Orogen
+27559|Round Top Formation|556736|Lachlan Orogen
+16395|Rowena Formation|20533|Delamerian Orogen
+26323|Roxburgh Formation|556736|Lachlan Orogen
+16417|Ruby Creek Granite|40484|New England Orogen
+16472|Rutledge Quartzite Member|556736|Lachlan Orogen
+16489|Rylstone Volcanics|530078|Sydney Basin
+16489|Rylstone Volcanics|556736|Lachlan Orogen
+16491|Ryrie Formation|556736|Lachlan Orogen
+16495|Saddle Tuff|556736|Lachlan Orogen
+41588|Sailor Jack Granite|40484|New England Orogen
+24487|Salisbury Sandstone|40484|New England Orogen
+16576|Sams Road Rhyolite Member|40484|New England Orogen
+32683|Sandal Member|556736|Lachlan Orogen
+16597|Sandhills Creek Limestone Member|556736|Lachlan Orogen
+28301|Sandon beds|40484|New England Orogen
+42299|Sandon beds, Lochaber Greywacke, Oxley Metamorphics, Wybeena Metamorphics|40484|New England Orogen
+76967|Sandy Camp Monzogranite|556736|Lachlan Orogen
+38273|Sandy Flat Monzogranite|40484|New England Orogen
+16624|Sara beds|40484|New England Orogen
+16630|Sarona Downs Tuff Member|556736|Lachlan Orogen
+27652|Sawmill Tank Siltstone|556736|Lachlan Orogen
+16649|Sawpitt Granite|556736|Lachlan Orogen
+34600|Sawtooth Ridge Limestone Member|556736|Lachlan Orogen
+69881|Scabben Flat Volcanics|556736|Lachlan Orogen
+76968|Scammels Monzogranite|556736|Lachlan Orogen
+33684|Schneiders Granite|556736|Lachlan Orogen
+74760|Scotts Craig Conglomerate|556736|Lachlan Orogen
+16692|Scrub Mountain Conglomerate Member|40484|New England Orogen
+73110|Sea Acres Dolerite|407594|Port Macquarie Province
+16708|Seaham Formation|40484|New England Orogen
+22827|Seal Rocks Formation|40484|New England Orogen
+16751|Sentry Box Granite|556736|Lachlan Orogen
+16765|Serpentine Creek Sandstone|556736|Lachlan Orogen
+16792|Shalimar Tonalite|40484|New England Orogen
+16803|Shannons Flat Granodiorite|556736|Lachlan Orogen
+31633|Shannons Flat Suite|556736|Lachlan Orogen
+26892|Sharpeningstone Conglomerate|556736|Lachlan Orogen
+28997|Sheep Station Creek Complex|40484|New England Orogen
+70025|Shivering Conglomerate|556736|Lachlan Orogen
+16844|Shoalhaven Group|530078|Sydney Basin
+16848|Shoalwater Formation|40484|New England Orogen
+16848|Shoalwater Formation|407416|Wandilla Province
+16860|Showgrounds Sandstone|530059|Bowen Basin
+16866|Shume Formation|556736|Lachlan Orogen
+16867|Shuttleton Rhyolite Member|556736|Lachlan Orogen
+16884|Silver Gully Formation|40484|New England Orogen
+16884|Silver Gully Formation|40555|Gamilaroi Terrane/Province
+16898|Silverdale Formation|556736|Lachlan Orogen
+16903|Silverwood Group|40484|New England Orogen
+16903|Silverwood Group|559208|Silverwood Province
+25478|Sinclair Conglomerate Member|556736|Lachlan Orogen
+17001|Sloggets Granite|556736|Lachlan Orogen
+31453|Sloggets Suite|556736|Lachlan Orogen
+76969|Smokey Cape Monzogranite|40484|New England Orogen
+74024|Smokey Cape Suite|40484|New England Orogen
+17026|Snake Creek Mudstone Member|530059|Bowen Basin
+17038|Snobs Creek Volcanics|559492|Melbourne-Mathinna Zone
+77011|Snodgrass Monzogranite|556736|Lachlan Orogen
+40928|Snow Member|556736|Lachlan Orogen
+29213|Snowball Metabasic Igneous Complex|556736|Lachlan Orogen
+77002|Snowy Gap Monzogranite|556736|Lachlan Orogen
+17054|Snowy Plains Formation|556736|Lachlan Orogen
+17075|Sofala Volcanics|556736|Lachlan Orogen
+17078|Soho Street Amphibolite|556736|Lachlan Orogen
+23979|Solitary Hill Granite|556736|Lachlan Orogen
+70456|Sooley Volcanic Member|556736|Lachlan Orogen
+30524|Sorronto Granite|556736|Lachlan Orogen
+17108|Sourges Shale|556736|Lachlan Orogen
+22872|Specimen Hill Gabbroic Diorite|556736|Lachlan Orogen
+17167|Spion Kop Conglomerate|40484|New England Orogen
+68908|Spion Kop Conglomerate, Ermelo Pyroclastics|40484|New England Orogen
+17173|Spirifer yassensis Limestone Member|556736|Lachlan Orogen
+26906|Spring Road Granite|556736|Lachlan Orogen
+17205|Springbok Sandstone|27354|Surat Basin
+17205|Springbok Sandstone|529302|Eromanga Basin
+77252|Springfield Seam|530016|Gunnedah Basin
+33859|Square Head Formation|556736|Lachlan Orogen
+41072|Standbye Monzogranite|40484|New England Orogen
+17274|Stanthorpe Granite|559208|Silverwood Province
+17277|Stanthorpe Suite|40484|New England Orogen
+73988|Stanthorpe Supersuite|40484|New England Orogen
+77022|Stanton Rock Monzogranite|556736|Lachlan Orogen
+76999|Starvation Point Monzogranite|556736|Lachlan Orogen
+17298|State Circle Shale|556736|Lachlan Orogen
+24505|Stockinbingal Formation|556736|Lachlan Orogen
+17356|Stokefield Metagabbro|556736|Lachlan Orogen
+22896|Stone Boat Hill Granite|556736|Lachlan Orogen
+27235|Stones Tank Tuff Member|556736|Lachlan Orogen
+17403|Strathaird Formation|556736|Lachlan Orogen
+17408|Strathbogie Granite|556736|Lachlan Orogen
+17408|Strathbogie Granite|559492|Melbourne-Mathinna Zone
+31295|Strathgled Formation|556736|Lachlan Orogen
+22906|Streamville Granodiorite|556736|Lachlan Orogen
+22909|Stringy Road Granodiorite|556736|Lachlan Orogen
+33413|Stump Hole Granite|556736|Lachlan Orogen
+26152|Sugarloaf Creek Formation|556736|Lachlan Orogen
+29029|Sulcor Limestone Member|40555|Gamilaroi Terrane/Province
+17521|Sun Valley Member|40484|New England Orogen
+17531|Sundown Group|20331|Curnamona Province
+24002|Sunlight Creek Formation|556736|Lachlan Orogen
+29827|Sunset Hills Granite|556736|Lachlan Orogen
+17546|Surat Siltstone|27354|Surat Basin
+17546|Surat Siltstone|529302|Eromanga Basin
+68869|Surface Hill Syenogranite|40484|New England Orogen
+29032|Sutchers Creek Formation|556736|Lachlan Orogen
+26154|Sutton Granodiorite|556736|Lachlan Orogen
+31639|Sutton Suite|556736|Lachlan Orogen
+29672|Swallow Creek Porphyry|556736|Lachlan Orogen
+29594|Swan Ponds Tonalite|556736|Lachlan Orogen
+37332|Swastika Siltstone|556736|Lachlan Orogen
+17626|Tablelands Complex|40484|New England Orogen
+72990|Tacking Point Gabbro|407594|Port Macquarie Province
+17642|Taemas Limestone|556736|Lachlan Orogen
+17648|Taggarts Mountain Ignimbrite Member|40484|New England Orogen
+28268|Talaterang Group|530078|Sydney Basin
+17665|Talbingo Basalt|556736|Lachlan Orogen
+29039|Talingaboolba Formation|556736|Lachlan Orogen
+32034|Tallawang Granite|556736|Lachlan Orogen
+30216|Tallwood Monzodiorite|556736|Lachlan Orogen
+17757|Tamworth Group|40484|New England Orogen
+17757|Tamworth Group|40555|Gamilaroi Terrane/Province
+17776|Tangaratta Formation|40484|New England Orogen
+17776|Tangaratta Formation|40573|Tamworth Province
+27094|Tangerang Formation|556736|Lachlan Orogen
+30466|Tanja Syenite Complex|556736|Lachlan Orogen
+30153|Tannabutta Group|556736|Lachlan Orogen
+26163|Tantangara Formation|556736|Lachlan Orogen
+29046|Tanwarra Shale|556736|Lachlan Orogen
+26327|Taplow Limestone Member|556736|Lachlan Orogen
+26164|Tara Granodiorite|556736|Lachlan Orogen
+25516|Tarago Conglomerate|556736|Lachlan Orogen
+24009|Tarakan Formation|40484|New England Orogen
+17833|Taralga Group|556736|Lachlan Orogen
+17834|Tarana Granite|556736|Lachlan Orogen
+32505|Tarban mass|40484|New England Orogen
+77055|Taree Limestone Member|40484|New England Orogen
+17862|Tarpaulin Creek Ashstone Member|556736|Lachlan Orogen
+24013|Tarran Volcanics|556736|Lachlan Orogen
+31648|Tea Tree Suite|556736|Lachlan Orogen
+67877|Telegraph Point Member|40484|New England Orogen
+37348|Teltawongee Group|20533|Delamerian Orogen
+17938|Temi Formation|40484|New England Orogen
+17938|Temi Formation|40573|Tamworth Province
+22967|Temora Volcanics|556736|Lachlan Orogen
+27908|Temperance Formation|556736|Lachlan Orogen
+27584|Tenandra Formation|556736|Lachlan Orogen
+17964|Tent Hill Volcanics|40484|New England Orogen
+32507|Tenterfield mass|40484|New England Orogen
+17973|Termeil Essexite|556736|Lachlan Orogen
+17996|Terrible Vale Porphyritic Microtonalite|40484|New England Orogen
+29916|Tettenhall Monzodiorite|556736|Lachlan Orogen
+18012|Texas beds|40484|New England Orogen
+22979|Thanowring Granite|556736|Lachlan Orogen
+18032|Tharwa Adamellite|556736|Lachlan Orogen
+67910|The Basin Monzogranite|40484|New England Orogen
+69453|The Brothers Granitoids|40484|New England Orogen
+40755|The Calpe Ignimbrite Member|40484|New England Orogen
+77053|The Downs Rhyodacite Member|40484|New England Orogen
+37917|The Tops Rhyolite Member|40484|New England Orogen
+18061|Thologolong Granite|556736|Lachlan Orogen
+18061|Thologolong Granite|559178|Central NSW - Omeo Province
+18080|Thorkidaan Volcanics|556736|Lachlan Orogen
+18082|Thorndale Composite Gneiss|408445|Olary Domain
+40872|Thorndale Composite Gneiss, Clevedale Migmatite, Mulculca Formation, Ednas Gneiss, Redan Gneiss|20331|Curnamona Province
+32251|Three Rocks Tonalite|556736|Lachlan Orogen
+24029|Throsby Granite|556736|Lachlan Orogen
+24030|Thrumster Slate|40484|New England Orogen
+24030|Thrumster Slate|407594|Port Macquarie Province
+18106|Thule Granite|556736|Lachlan Orogen
+29579|Thurungly Granite|556736|Lachlan Orogen
+18114|Tia Granodiorite|40484|New England Orogen
+73934|Tia Suite|40484|New England Orogen
+18127|Tibooburra Granodiorite|20489|Thomson Orogen
+73401|Tibooburra Suite|20489|Thomson Orogen
+18134|Tidbinbilla Quartzite|556736|Lachlan Orogen
+77324|Tiilungra Limestone Member|40484|New England Orogen
+18148|Tilbuster Granodiorite|40484|New England Orogen
+29058|Tilmunda Granite|40484|New England Orogen
+23006|Timbrebongie Granite|556736|Lachlan Orogen
+18183|Timor Limestone Member|40484|New England Orogen
+78372|Tinchelooka diorite|20489|Thomson Orogen
+25532|Tinda Mountain Conglomerate Member|556736|Lachlan Orogen
+18200|Tinderra Granite|556736|Lachlan Orogen
+26173|Tinderry Granite|556736|Lachlan Orogen
+31646|Tinderry Suite|556736|Lachlan Orogen
+18207|Tingaringy Granodiorite|556736|Lachlan Orogen
+38354|Tingha Monzogranite|40484|New England Orogen
+29595|Tintern Granodiorite|556736|Lachlan Orogen
+18250|Toaks Creek Conglomerate|556736|Lachlan Orogen
+76971|Tobermory Monzogranite|40484|New England Orogen
+18255|Tocumwal Granite|556736|Lachlan Orogen
+24527|Toggannoggra Rhyolite Member|556736|Lachlan Orogen
+33379|Tolga Member|556736|Lachlan Orogen
+18286|Tom Groggin Suite|556736|Lachlan Orogen
+18289|Tomago Coal Measures|530078|Sydney Basin
+18289|Tomago Coal Measures|556736|Lachlan Orogen
+33677|Tombong Formation|556736|Lachlan Orogen
+75837|Toms Creek serpentinite|40484|New England Orogen
+18336|Tonghi Suite|556736|Lachlan Orogen
+18352|Toogoolawah Group|20434|Esk Trough
+18352|Toogoolawah Group|21915|Ipswich Basin
+18352|Toogoolawah Group|40484|New England Orogen
+30025|Toolamanang Formation|556736|Lachlan Orogen
+26178|Toongi Group|556736|Lachlan Orogen
+36828|Top-Crossing Sandstone Member|40484|New England Orogen
+30980|Tottenham Subgroup|556736|Lachlan Orogen
+24040|Touchwood Formation|40484|New England Orogen
+24040|Touchwood Formation|407594|Port Macquarie Province
+18477|Touga Granite|556736|Lachlan Orogen
+23031|Towamba Granodiorite|556736|Lachlan Orogen
+77045|Towgon Grange Tonalite|40484|New England Orogen
+72989|Town Beach Diorite|407594|Port Macquarie Province
+77000|Towneys Creek Monzogranite|556736|Lachlan Orogen
+31757|Towrang Formation|556736|Lachlan Orogen
+39263|Tranquille Dacite Member|40484|New England Orogen
+27303|Transmission Limestone Member|556736|Lachlan Orogen
+77148|Tremaine Tuff Member|40484|New England Orogen
+29502|Triangle Formation|556736|Lachlan Orogen
+23046|Trigalong Formation|556736|Lachlan Orogen
+23046|Trigalong Formation|559178|Central NSW - Omeo Province
+24537|Trilobite Hill Limestone Member|556736|Lachlan Orogen
+77070|Triple Coal Member|40484|New England Orogen
+18606|Troffs Formation|556736|Lachlan Orogen
+29079|Trundle Group|556736|Lachlan Orogen
+24046|Trungley Hall Granite|556736|Lachlan Orogen
+26184|Truro Volcanics|20533|Delamerian Orogen
+26184|Truro Volcanics|22352|Stansbury Basin
+31015|Tucklan Formation|556736|Lachlan Orogen
+35029|Tuena Formation|556736|Lachlan Orogen
+77062|Tuffaceous Trilobite Bed|556736|Lachlan Orogen
+37398|Tuffaceous Trilobite Bed""|556736|Lachlan Orogen
+31649|Tuglow Suite|556736|Lachlan Orogen
+26185|Tulcumba Sandstone|40484|New England Orogen
+26961|Tumut Pond Group|556736|Lachlan Orogen
+76174|Turkaro Range Conglomerate Member|20314|Wonominta Block
+18720|Turondale Formation|556736|Lachlan Orogen
+32519|Turondale and Waterbeach Formations undiff.|556736|Lachlan Orogen
+27918|Tuross Head Tonalite|556736|Lachlan Orogen
+18725|Turrallo Quartz Diorite|556736|Lachlan Orogen
+67914|Turrallo Suite|556736|Lachlan Orogen
+32250|Twins Creek Granodiorite|556736|Lachlan Orogen
+18746|Twofold Bay Formation|556736|Lachlan Orogen
+37916|Tycannah Rhyodacite Member|40484|New England Orogen
+18770|Ugalong Dacite|556736|Lachlan Orogen
+18770|Ugalong Dacite|559178|Central NSW - Omeo Province
+18779|Ulah Formation|556736|Lachlan Orogen
+32528|Ulan Quartz Monzonite|556736|Lachlan Orogen
+28302|Ulandra Granite|556736|Lachlan Orogen
+31650|Ulandra Suite|556736|Lachlan Orogen
+18806|Umberatana Group|20306|Mount Painter Block
+18806|Umberatana Group|42518|Gawler Craton
+41352|Undercliffe Falls Monzogranite|40484|New England Orogen
+18839|Ungarie Granite|556736|Lachlan Orogen
+18839|Ungarie Granite|559178|Central NSW - Omeo Province
+18968|Ural Volcanics|556736|Lachlan Orogen
+18971|Uralla Granodiorite|40484|New England Orogen
+18973|Uralla Suite|40484|New England Orogen
+67894|Uralla Supersuite|40484|New England Orogen
+18975|Urambie Granodiorite|556736|Lachlan Orogen
+18976|Urana Formation|550809|Ivanhoe Trough
+18976|Urana Formation|556736|Lachlan Orogen
+27247|Urialla Granite|556736|Lachlan Orogen
+18992|Uriarra Volcanics|556736|Lachlan Orogen
+78368|Utah Lake plutonic complex|20489|Thomson Orogen
+40926|Vale View Facies|556736|Lachlan Orogen
+76972|Valla Monzogranite|40484|New England Orogen
+74025|Valla Suite|40484|New England Orogen
+77072|Valley View Coal Member|40484|New England Orogen
+19043|Valley View Metabasic Igneous Complex|556736|Lachlan Orogen
+27304|Vandon Limestone|556736|Lachlan Orogen
+19083|Verulam Oolite Member|40573|Tamworth Province
+76990|Wadbilliga Monzogranite|556736|Lachlan Orogen
+32684|Wagga Group|556736|Lachlan Orogen
+32684|Wagga Group|559178|Central NSW - Omeo Province
+19196|Wagonga Group|556736|Lachlan Orogen
+30505|Wahringa Limestone Member|556736|Lachlan Orogen
+41073|Walcha Road Monzogranite|40484|New England Orogen
+19233|Walhalla Group|556736|Lachlan Orogen
+19233|Walhalla Group|559492|Melbourne-Mathinna Zone
+23120|Walibree Formation|40484|New England Orogen
+19240|Walker Volcanics|556736|Lachlan Orogen
+19257|Wallace Shale|556736|Lachlan Orogen
+76991|Wallagaraugh Monzogranite|556736|Lachlan Orogen
+19259|Wallah Granite|556736|Lachlan Orogen
+25682|Wallanbah Formation|40484|New England Orogen
+19265|Wallangarra Volcanics|40484|New England Orogen
+19267|Wallangulla Sandstone Member|27354|Surat Basin
+19273|Wallaringa Formation|40484|New England Orogen
+27603|Walleroobie Volcanics|556736|Lachlan Orogen
+27603|Walleroobie Volcanics|559178|Central NSW - Omeo Province
+19286|Walli Volcanics|556736|Lachlan Orogen
+19303|Walloon Coal Measures|27354|Surat Basin
+19303|Walloon Coal Measures|529922|Clarence-Moreton Basin
+33399|Walloy Rhyolite Member|556736|Lachlan Orogen
+19323|Wallumbilla Formation|27354|Surat Basin
+24072|Walters Range Group|547734|Walters Range Shelf
+24072|Walters Range Group|556736|Lachlan Orogen
+26198|Wambidgee Serpentinite|556736|Lachlan Orogen
+19364|Wandandian Granite|556736|Lachlan Orogen
+23130|Wandeen Formation|556736|Lachlan Orogen
+29113|Wandsworth Volcanic Group|40484|New England Orogen
+70002|Wang Wauk Formation|40484|New England Orogen
+70002|Wang Wauk Formation|40573|Tamworth Province
+77037|Wangrah Monzogranite|556736|Lachlan Orogen
+29571|Wansey Formation|556736|Lachlan Orogen
+19423|Wantabadgery Granite|556736|Lachlan Orogen
+19423|Wantabadgery Granite|559178|Central NSW - Omeo Province
+19441|Warbisco Shale|556736|Lachlan Orogen
+26202|Warbro Formation|40484|New England Orogen
+30528|Warderie Volcanic Member|556736|Lachlan Orogen
+34073|Wards Creek beds|40484|New England Orogen
+38284|Wards Mistake Monzogranite|40484|New England Orogen
+67903|Wards Mistake Suite|40484|New England Orogen
+19456|Wards River Conglomerate|40484|New England Orogen
+29580|Wargin Granite|556736|Lachlan Orogen
+19462|Warina Sand|536552|Murray Basin
+29512|Warraberry Member|556736|Lachlan Orogen
+30039|Warrah Conglomerate|556736|Lachlan Orogen
+33418|Warrangong Volcanics|556736|Lachlan Orogen
+19530|Warrigundi Igneous Complex|40484|New England Orogen
+19530|Warrigundi Igneous Complex|556736|Lachlan Orogen
+25603|Warroo Limestone Member|556736|Lachlan Orogen
+19559|Watch Box Granite|556736|Lachlan Orogen
+31491|Watch Box Suite|556736|Lachlan Orogen
+76992|Watergums Monzogranite|556736|Lachlan Orogen
+19589|Watermark Formation|530016|Gunnedah Basin
+24084|Watonga Formation|40484|New England Orogen
+24084|Watonga Formation|407594|Port Macquarie Province
+34395|Wauchope Formation|40484|New England Orogen
+19623|Waugoola Group|556736|Lachlan Orogen
+24087|Waukivory Creek Formation|40484|New England Orogen
+25608|Waverley Formation|40484|New England Orogen
+42283|Waverly Formation, Dangarfield  Formation|40484|New England Orogen
+19642|Waynes Knob Rhyolite|556736|Lachlan Orogen
+19657|Webbs Consols Leucogranite|40484|New England Orogen
+27609|Weddin Sandstone|556736|Lachlan Orogen
+28136|Weedallion Granophyre|556736|Lachlan Orogen
+29503|Weemalla Formation|556736|Lachlan Orogen
+25610|Weethalle Granite|556736|Lachlan Orogen
+76178|Weinteriga Creek Formation|20314|Wonominta Block
+36831|Welcome Volcanic Member|40484|New England Orogen
+28175|Wellingrove Granodiorite|40484|New England Orogen
+77025|Welumba Monzogranite|556736|Lachlan Orogen
+19739|Wentworth Group|444520|Tabberabbera Zone
+19739|Wentworth Group|556736|Lachlan Orogen
+19745|Wermatong Metabasalt|556736|Lachlan Orogen
+19751|Werrie Basalt|40484|New England Orogen
+19751|Werrie Basalt|530016|Gunnedah Basin
+34400|Werrikimbe Volcanics|40484|New England Orogen
+19763|Werris Creek Coal Member|40484|New England Orogen
+37905|West Lynne Rhyodacite Member|40484|New England Orogen
+29534|West Lynne Serpentinite|556736|Lachlan Orogen
+19796|Westbourne Formation|27354|Surat Basin
+27929|Westerly Leucogranite|556736|Lachlan Orogen
+35791|Wet Lagoon Volcanics|556736|Lachlan Orogen
+24097|Whinfell Chert|556736|Lachlan Orogen
+19874|Whipbird Creek Formation|556736|Lachlan Orogen
+76995|Whipstick Monzogranite|556736|Lachlan Orogen
+31660|Whipstick Suite|556736|Lachlan Orogen
+35789|Whiteheads Granite|556736|Lachlan Orogen
+24099|Whitlock Conglomerate Member|556736|Lachlan Orogen
+26212|Whitlow Formation|40484|New England Orogen
+19932|Whitsunday Volcanics|40484|New England Orogen
+23193|Why Worry Tonalite|556736|Lachlan Orogen
+19959|Wiagdon Granite|556736|Lachlan Orogen
+19967|Wianamatta Group|530078|Sydney Basin
+31300|Wilbertree Formation|556736|Lachlan Orogen
+20016|Wildash Group|40540|Woolomin Province
+27615|Wilgaroon Granite|556736|Lachlan Orogen
+20034|Wilhelmshohe Tonalite|40484|New England Orogen
+20045|Wilkawillina Limestone|20306|Mount Painter Block
+20045|Wilkawillina Limestone|529788|Arrowie Basin
+24106|Wilkerboon Conglomerate Member|556736|Lachlan Orogen
+39534|Willandra Sandstone|556736|Lachlan Orogen
+70517|Willawarra Rhyodacite Member|40484|New England Orogen
+35405|Willawong Creek Granite|556736|Lachlan Orogen
+20085|Williamsdale Dacite Member|556736|Lachlan Orogen
+27934|Willoona Tonalite|556736|Lachlan Orogen
+20119|Willow Glen Formation|556736|Lachlan Orogen
+77100|Willow Tree Coal Member|40484|New England Orogen
+29148|Willow Tree Formation|40484|New England Orogen
+20121|Willowie Creek beds|40484|New England Orogen
+39257|Willuri Formation|40484|New England Orogen
+20135|Willyama Supergroup|20331|Curnamona Province
+20146|Wilmatha Granite|556736|Lachlan Orogen
+24110|Windamere Volcanics|556736|Lachlan Orogen
+23219|Windover Quartz Monzodiorite|556736|Lachlan Orogen
+23219|Windover Quartz Monzodiorite|559178|Central NSW - Omeo Province
+25683|Winduck Group|529913|Yathong Trough
+25683|Winduck Group|530359|Darling Basin
+25683|Winduck Group|535919|Cobar Basin
+25683|Winduck Group|556736|Lachlan Orogen
+35790|Winduella Tonalite|556736|Lachlan Orogen
+20235|Windy Creek Diorite|556736|Lachlan Orogen
+33407|Wingara Formation|556736|Lachlan Orogen
+20250|Winnambool Formation|536552|Murray Basin
+76973|Winterbourne Monzogranite|40484|New England Orogen
+73935|Winterbourne Suite|40484|New England Orogen
+20268|Winton Formation|529302|Eromanga Basin
+20268|Winton Formation|550572|Carpentaria Basin
+20289|Wire Gully Limestone Member|556736|Lachlan Orogen
+20300|Wirrealpa Limestone|20331|Curnamona Province
+20300|Wirrealpa Limestone|529788|Arrowie Basin
+27937|Wisemans Arm Formation|40484|New England Orogen
+27937|Wisemans Arm Formation|407569|Wisemans Arm Province
+20334|Wittingham Coal Measures|530078|Sydney Basin
+20347|Wogarda Argillite|40484|New England Orogen
+20347|Wogarda Argillite|40555|Gamilaroi Terrane/Province
+36825|Wollundi Mudstone Member|40484|New England Orogen
+20375|Wologorong Granite|556736|Lachlan Orogen
+29162|Wolumla Conglomerate Member|556736|Lachlan Orogen
+20398|Wombat Creek Group|556736|Lachlan Orogen
+20398|Wombat Creek Group|559178|Central NSW - Omeo Province
+20405|Wombeyan Limestone|556736|Lachlan Orogen
+25698|Wombiana Formation|556736|Lachlan Orogen
+24582|Wombin Volcanics|556736|Lachlan Orogen
+29164|Wombramurra Formation|40484|New England Orogen
+20423|Wondalga Granodiorite|556736|Lachlan Orogen
+31659|Wondalga Suite|556736|Lachlan Orogen
+26333|Wongabel Rhyodacite Member|556736|Lachlan Orogen
+41076|Wongalee Leucogranite|40484|New England Orogen
+20453|Wongwibinda Complex|40484|New England Orogen
+76005|Wonnaminta Formation|20533|Delamerian Orogen
+20492|Woodburn Diorite|40484|New England Orogen
+74006|Woodburn Suite|40484|New England Orogen
+77041|Woodlands Monzonite|559178|Central NSW - Omeo Province
+73977|Woodlands Suite|40484|New England Orogen
+20516|Woodlawn Volcanics|40070|Woodlawn Base Metal Metallogenic Province
+20516|Woodlawn Volcanics|556736|Lachlan Orogen
+20530|Woodsreef Melange|40484|New England Orogen
+20530|Woodsreef Melange|407569|Wisemans Arm Province
+31412|Woodton Formation|40484|New England Orogen
+27097|Woolomin Group|40484|New England Orogen
+27097|Woolomin Group|40540|Woolomin Province
+41245|Wooloo Limestone Member|556736|Lachlan Orogen
+20575|Woolooma Formation|40484|New England Orogen
+77049|Woomargama Granite|556736|Lachlan Orogen
+77049|Woomargama Granite|559178|Central NSW - Omeo Province
+27017|Woombi Greenstone|40484|New England Orogen
+20622|Wootton beds|40484|New England Orogen
+20623|Worange Point Formation|556736|Lachlan Orogen
+70457|Wowagin Dacite Member|556736|Lachlan Orogen
+20654|Wroxley Lithic Sandstone Member|40484|New England Orogen
+20663|Wullwye Granodiorite|556736|Lachlan Orogen
+20670|Wunghnu Group|536552|Murray Basin
+20670|Wunghnu Group|556736|Lachlan Orogen
+20680|Wuuluman Granite|556736|Lachlan Orogen
+67991|Wuuluman Suite|556736|Lachlan Orogen
+20693|Wyanbene Limestone Member|556736|Lachlan Orogen
+20699|Wyangala Granite|556736|Lachlan Orogen
+20700|Wyangala Suite|556736|Lachlan Orogen
+24127|Wyangle Formation|556736|Lachlan Orogen
+27625|Wybeena Metamorphics|40484|New England Orogen
+32504|Wyberba mass|40484|New England Orogen
+40927|Wyelba Member|556736|Lachlan Orogen
+30527|Wylinga Member|556736|Lachlan Orogen
+35708|Wyoming Granite|556736|Lachlan Orogen
+26334|Wyoming Limestone Member|556736|Lachlan Orogen
+35342|Wywurri Granite|556736|Lachlan Orogen
+32186|Xmas Quartz Monzonite|556736|Lachlan Orogen
+20736|Yabba Granite|556736|Lachlan Orogen
+20736|Yabba Granite|559178|Central NSW - Omeo Province
+20742|Yackandandah Granite|444520|Tabberabbera Zone
+20742|Yackandandah Granite|556736|Lachlan Orogen
+20747|Yagon Siltstone|40484|New England Orogen
+42291|Yagon Siltstone, Booti Booti Sandstone|40484|New England Orogen
+77052|Yahoo Peaks Composite Dome Member|556736|Lachlan Orogen
+23277|Yalgatta Granodiorite|556736|Lachlan Orogen
+36151|Yalgogrin Granite|556736|Lachlan Orogen
+20777|Yalmy Group|556736|Lachlan Orogen
+20777|Yalmy Group|559178|Central NSW - Omeo Province
+20793|Yammatree Granite|556736|Lachlan Orogen
+40932|Yanawe Formation|556736|Lachlan Orogen
+76100|Yandenberry Formation|20314|Wonominta Block
+20830|Yaouk Leucogranite|556736|Lachlan Orogen
+33420|Yarnel Volcanics|556736|Lachlan Orogen
+20859|Yarra Granite|556736|Lachlan Orogen
+29299|Yarra Yarra Creek Group|556736|Lachlan Orogen
+77017|Yarrabin Monzogranite|556736|Lachlan Orogen
+76974|Yarrahapinni Monzogranite|40484|New England Orogen
+73986|Yarrahapinni Suite|40484|New England Orogen
+39264|Yarralumba Ignimbrite Member|40484|New England Orogen
+77322|Yarralumba Rhyolite|40484|New England Orogen
+20879|Yarralumla Formation|556736|Lachlan Orogen
+36830|Yarramundi Andesite Member|40484|New England Orogen
+20888|Yarrangobilly Limestone|556736|Lachlan Orogen
+40760|Yarrari Pyroclastic Member|40484|New England Orogen
+34001|Yarras Complex|40484|New England Orogen
+33692|Yarrimbah Formation|556736|Lachlan Orogen
+20896|Yarrimie Formation|40484|New England Orogen
+20896|Yarrimie Formation|40555|Gamilaroi Terrane/Province
+20898|Yarrowyck Granodiorite|40484|New England Orogen
+20908|Yass Formation|556736|Lachlan Orogen
+20920|Yathong Formation|556736|Lachlan Orogen
+38118|Yegi Conglomerate|556736|Lachlan Orogen
+73976|Yellow Gap Micromonzogranite|40484|New England Orogen
+20939|Yellow Mountain Granite|556736|Lachlan Orogen
+30041|Yellowmans Creek Formation|556736|Lachlan Orogen
+30523|Yennora Granite|556736|Lachlan Orogen
+30531|Yeoval Complex|556736|Lachlan Orogen
+31486|Yeoval Suite|556736|Lachlan Orogen
+23307|Yerna Granite|556736|Lachlan Orogen
+25672|Yessabah Limestone|40484|New England Orogen
+31670|Yewrangara Suite|556736|Lachlan Orogen
+23308|Yiddah Formation|556736|Lachlan Orogen
+77056|Youdales Hut Formation|40484|New England Orogen
+21021|Young Granodiorite|556736|Lachlan Orogen
+21021|Young Granodiorite|559178|Central NSW - Omeo Province
+31669|Young Suite|556736|Lachlan Orogen
+37904|Yuendoo Rhyolite Member|40484|New England Orogen
+23319|Yurammie Granodiorite|556736|Lachlan Orogen
+31726|Yuranigh Limestone Member|556736|Lachlan Orogen
+42169|migmatite 42169|556736|Lachlan Orogen
+42171|schist 42171|556736|Lachlan Orogen

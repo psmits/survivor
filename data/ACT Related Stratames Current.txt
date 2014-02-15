@@ -1,0 +1,125 @@
+Related Stratno | Related unit name | Relation Type | Related Stratno | Stratigraphic Name |Contact Type | Comments  
+4334|Colinton Volcanics|overlies|88|Acton Shale Member|unconformity|
+13443|Mundoonen Sandstone|underlies|1051|Bango Limestone Member|not specified|
+24186|Black Mountain Sandstone|underlies|1299|Baywulla Formation|not specified|
+14394|Nungar beds|is intruded by|25781|Bendora Granodiorite||
+16898|Silverdale Formation|underlies|1776|Black Bog Shale|not specified|
+17298|State Circle Shale|underlies|24186|Black Mountain Sandstone|conformity|
+18134|Tidbinbilla Quartzite|is equivalent to|24186|Black Mountain Sandstone||
+13264|Mountain Creek Volcanics|overlies|2006|Blue Waterhole Formation|not specified|
+19257|Wallace Shale|overlies|2341|Borenore Limestone|not specified|
+10619|Long Flat Volcanics|is intruded by|2344|Boro Granite||
+10619|Long Flat Volcanics|is intruded by|2487|Braidwood Granodiorite||
+19257|Wallace Shale|underlies|2926|Bulls Camp Volcanics|not specified|
+24186|Black Mountain Sandstone|underlies|24208|Camp Hill Sandstone Member|unconformity|
+13560|Murrumbateman Creek Formation|underlies|24208|Camp Hill Sandstone Member|unconformity|
+15299|Pittman Formation|underlies|24208|Camp Hill Sandstone Member|unconformity|
+17298|State Circle Shale|underlies|24208|Camp Hill Sandstone Member|unconformity|
+13411|Mumbil Group|underlies|3427|Campbells Group|not specified|
+24186|Black Mountain Sandstone|underlies|3447|Canberra Formation|unconformity|
+8179|Hawkins Suite|overlies|3447|Canberra Formation|not specified|
+12438|Mount Ainslie Volcanics|overlies|3447|Canberra Formation|conformity|
+13560|Murrumbateman Creek Formation|underlies|3447|Canberra Formation|unconformity|
+15299|Pittman Formation|underlies|3447|Canberra Formation|angular unconformity|
+17298|State Circle Shale|underlies|3447|Canberra Formation|unconformity|
+4334|Colinton Volcanics|overlies|3554|Cappanana Formation|not specified|
+16491|Ryrie Formation|underlies|3554|Cappanana Formation|not specified|
+3716|Carwoola Formation|underlies|3563|Captains Flat Formation|conformity|
+4677|Copper Creek Shale|underlies|3563|Captains Flat Formation|not specified|
+3563|Captains Flat Formation|overlies|3716|Carwoola Formation|conformity|
+4677|Copper Creek Shale|underlies|3716|Carwoola Formation|not specified|
+3554|Cappanana Formation|underlies|4334|Colinton Volcanics|conformity|
+13264|Mountain Creek Volcanics|overlies|27746|Condor Granodiorite||
+3563|Captains Flat Formation|overlies|4677|Copper Creek Shale|not specified|
+3716|Carwoola Formation|overlies|4677|Copper Creek Shale|disconformity|
+15299|Pittman Formation|underlies|4677|Copper Creek Shale|not specified|
+4334|Colinton Volcanics|is intruded by|4764|Cosgrove Porphyry||
+20516|Woodlawn Volcanics|underlies|4789|Covan Creek Formation|disconformity|
+18134|Tidbinbilla Quartzite|is intruded by|28479|Cow Flat Granite Porphyry||
+13411|Mumbil Group|underlies|4981|Cuga Burga Volcanics|not specified|
+20516|Woodlawn Volcanics|underlies|27138|Currawang Basalt|not specified|Interfingering relationship.
+20516|Woodlawn Volcanics|overlies|5292|De Drack Formation|not specified|Also interfingers.
+10024|Laidlaw Volcanics|overlies|25874|Deakin Volcanics|conformity|
+24403|Mount Painter Volcanics|underlies|25874|Deakin Volcanics|disconformity|
+20879|Yarralumla Formation|underlies|25874|Deakin Volcanics|conformity|
+20908|Yass Formation|underlies|25874|Deakin Volcanics|not specified|
+15299|Pittman Formation|is intruded by|25893|Ellenden Granite||
+4813|Cowridge Siltstone|underlies|26537|Elmside Formation|not specified|
+2895|Bullenbalong Suite|underlies|24268|Enano Group|nonconformity|
+20879|Yarralumla Formation|underlies|24274|Federal Golf Course Tonalite|disconformity|
+3824|Cavan Bluff Limestone|overlies|40945|Fifeshire Shale|not specified|
+5668|Douro Group|overlies|25912|Forbes Group|not specified|
+13411|Mumbil Group|underlies|7789|Gregra Group|not specified|
+16491|Ryrie Formation|overlies|7908|Gungoandra Siltstone|not specified|
+16898|Silverdale Formation|underlies|8145|Hattons Corner Group||
+3447|Canberra Formation|underlies|8179|Hawkins Suite|not specified|
+20908|Yass Formation|overlies|8179|Hawkins Suite|not specified|
+3447|Canberra Formation|underlies|8184|Hawkins Volcanics||
+20879|Yarralumla Formation|overlies|8184|Hawkins Volcanics||
+20908|Yass Formation|overlies|8184|Hawkins Volcanics|not specified|
+1776|Black Bog Shale|overlies|8569|Hume Limestone Member|not specified|Partly underlies.
+10619|Long Flat Volcanics|overlies|78646|Jinglemoney Conglomerate||
+13264|Mountain Creek Volcanics|underlies|9634|Kirawin Formation|not specified|
+3563|Captains Flat Formation|overlies|27175|Kohinoor Volcanics|conformity|
+3716|Carwoola Formation|overlies|27175|Kohinoor Volcanics|not specified|
+4677|Copper Creek Shale|underlies|27175|Kohinoor Volcanics|conformity|
+16898|Silverdale Formation|overlies|10024|Laidlaw Volcanics|not specified|
+20879|Yarralumla Formation|underlies|10024|Laidlaw Volcanics||
+20908|Yass Formation|underlies|10024|Laidlaw Volcanics|not specified|
+3824|Cavan Bluff Limestone|underlies|11044|Majurgong Formation|not specified|
+19257|Wallace Shale|overlies|26743|Mirrabooka Formation|not specified|
+3447|Canberra Formation|underlies|12438|Mount Ainslie Volcanics|conformity|
+24403|Mount Painter Volcanics|overlies|12438|Mount Ainslie Volcanics|disconformity|
+25874|Deakin Volcanics|overlies|24403|Mount Painter Volcanics|disconformity|
+12438|Mount Ainslie Volcanics|underlies|24403|Mount Painter Volcanics|disconformity|
+19240|Walker Volcanics|underlies|24403|Mount Painter Volcanics|unconformity|
+20879|Yarralumla Formation|overlies|24403|Mount Painter Volcanics|disconformity|
+20908|Yass Formation|overlies|24403|Mount Painter Volcanics|unconformity|
+24403|Mount Painter Volcanics|underlies|24407|Mugga Mugga Porphyry Member|disconformity|
+20879|Yarralumla Formation|underlies|24407|Mugga Mugga Porphyry Member|conformity|
+24208|Camp Hill Sandstone Member|overlies|13560|Murrumbateman Creek Formation|unconformity|
+3447|Canberra Formation|overlies|13560|Murrumbateman Creek Formation|unconformity|
+15299|Pittman Formation|underlies|13560|Murrumbateman Creek Formation|unconformity|
+8184|Hawkins Volcanics|underlies|40931|O'Briens Creek Sandstone Member|not specified|
+12438|Mount Ainslie Volcanics|is equivalent to|26093|Paddys River Volcanics||
+16803|Shannons Flat Granodiorite|intrudes|26093|Paddys River Volcanics||
+19240|Walker Volcanics|is equivalent to|26093|Paddys River Volcanics||
+19257|Wallace Shale|overlies|14847|Panuara Formation||
+3447|Canberra Formation|overlies|15299|Pittman Formation|not specified|
+3554|Cappanana Formation|overlies|15299|Pittman Formation|not specified|
+4677|Copper Creek Shale|overlies|15299|Pittman Formation|not specified|
+13560|Murrumbateman Creek Formation|overlies|15299|Pittman Formation|unconformity|
+16472|Rutledge Quartzite Member|overlies|15299|Pittman Formation|not specified|
+16491|Ryrie Formation|overlies|15299|Pittman Formation|unconformity|
+17298|State Circle Shale|overlies|15299|Pittman Formation|unconformity|
+1776|Black Bog Shale|underlies|15810|Rainbow Hill Member|not specified|
+1776|Black Bog Shale|underlies|16331|Rosebank Shale|not specified|
+4813|Cowridge Siltstone|overlies|16331|Rosebank Shale|conformity|
+4334|Colinton Volcanics|underlies|24479|Rothlyn Formation|conformity|
+15299|Pittman Formation|underlies|16472|Rutledge Quartzite Member|unconformity|
+8184|Hawkins Volcanics|is intruded by|16485|Rye Park Granite||
+3554|Cappanana Formation|overlies|16491|Ryrie Formation|unconformity|
+6880|Foxlow beds|underlies|16491|Ryrie Formation|unconformity|
+7908|Gungoandra Siltstone|underlies|16491|Ryrie Formation|conformity|
+26093|Paddys River Volcanics|is intruded by|16803|Shannons Flat Granodiorite||
+1776|Black Bog Shale|overlies|16898|Silverdale Formation|not specified|
+8145|Hattons Corner Group|overlies|16898|Silverdale Formation||
+10024|Laidlaw Volcanics|underlies|16898|Silverdale Formation|not specified|
+24186|Black Mountain Sandstone|overlies|17298|State Circle Shale|conformity|
+3447|Canberra Formation|overlies|17298|State Circle Shale|unconformity|
+15299|Pittman Formation|underlies|17298|State Circle Shale|unconformity|
+13264|Mountain Creek Volcanics|underlies|26152|Sugarloaf Creek Formation||
+19240|Walker Volcanics|underlies|17862|Tarpaulin Creek Ashstone Member|not specified|
+24186|Black Mountain Sandstone|is equivalent to|18134|Tidbinbilla Quartzite||
+8179|Hawkins Suite|underlies|18992|Uriarra Volcanics|unconformity|
+13264|Mountain Creek Volcanics|overlies|18992|Uriarra Volcanics|unconformity|
+17862|Tarpaulin Creek Ashstone Member|overlies|19240|Walker Volcanics|not specified|
+7908|Gungoandra Siltstone|overlies|19441|Warbisco Shale|not specified|
+8184|Hawkins Volcanics|underlies|40927|Wyelba Member|not specified|
+8145|Hattons Corner Group|overlies|40932|Yanawe Formation|not specified|
+10024|Laidlaw Volcanics|underlies|40932|Yanawe Formation|not specified|
+25874|Deakin Volcanics|overlies|20879|Yarralumla Formation|conformity|
+24403|Mount Painter Volcanics|underlies|20879|Yarralumla Formation|unconformity|
+25874|Deakin Volcanics|overlies|20908|Yass Formation|not specified|
+8184|Hawkins Volcanics|underlies|20908|Yass Formation|not specified|
+10024|Laidlaw Volcanics|overlies|20908|Yass Formation|not specified|

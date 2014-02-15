@@ -1,0 +1,1485 @@
+Stratno | Stratigraphic Name | Reference Id | Usage No |   Usage  | Page Number | Minimum Age Name | Maximum Age Name | Reference Comments | Numerical Age | Parent Units | Constituents | Related Units | Lithology 
+88|Acton Shale Member|22857|4|Described|p424 App.1 Tb.A1.5|Gisbornian|Eastonian|Of the Pittman Formation. Thinly laminated siliceous shale, pale-black when fresh; contains graptolites.|||||
+88|Acton Shale Member|30332|4|Described|p123|||Member of Pittman Formation|||||
+88|Acton Shale Member|31284|6|Mentioned|Map legend|Late Ordovician|Middle Ordovician|Middle to Upper Ordovician|||||
+88|Acton Shale Member|32820|6|Mentioned|Table 1|||Refers Crook et al (1973)|||||
+88|Acton Shale Member|33328|4|Described|Table 1|||See P8|||||
+88|Acton Shale Member|35110|6|Mentioned|p3||||||||
+88|Acton Shale Member|35118|6|Mentioned|Fig.5||||||||
+88|Acton Shale Member|36633|6|Mentioned|Map legend|Late Ordovician|Late Ordovician||||||
+88|Acton Shale Member|37728|4|Described|Table 2||||||||
+88|Acton Shale Member|39947|6|Mentioned|Map legend|Late Ordovician|Late Ordovician||||||
+88|Acton Shale Member|40136|6|Mentioned|p15|||See also P28|||||
+88|Acton Shale Member|41356|6|Mentioned|p8|||See also Fig.1|||||
+88|Acton Shale Member|42727|5|Briefly described|map legend|Late Ordovician|Middle Ordovician|Of Pittman Formation. Black graptolitic siliceous shale. BMR map symbol: Oua. Geol. Prov: Monaro Basin.|||||
+88|Acton Shale Member|42820|2|Defined|p9|Late Ordovician||Of Pittman Formation.|||||
+88|Acton Shale Member|43481|6|Mentioned|3||||||||
+88|Acton Shale Member|44093|5|Briefly described|p197 App. 1|Ordovician|Ordovician|Of Pittman Formation. In the Bruce Block. Geological Province: Lachlan Fold Belt.|||||
+88|Acton Shale Member|49043|5|Briefly described|p6||||||||
+25781|Bendora Granodiorite|36441|5|Briefly described|map legend|Pridolian|Pridolian|Of Gingera Batholith. Intrusive. S-type. Granodiorite. Intrudes Nungar Beds. BMR map code: Sgo.|||||
+25781|Bendora Granodiorite|45147|2|Defined|M214|Late Silurian|Late Silurian|Probably Late Silurian|||||
+1776|Black Bog Shale|22857|5|Briefly described|p458 App.1, Tb.A1.6|Late Silurian|Late Silurian|Of the Booroo Ponds Group. Contains rich fauna: corals, brachiopods, trilobites. Max. thickness: 147m. Geological Province: Canberra-Yass Shelf.|||||
+1776|Black Bog Shale|24248|5|Briefly described|p52, p50 Fig.1|Ludfordian|Ludfordian|Geological Province: Yass Syncline. Overlying: Rosebank Shale. Underlying Unit: Silverdale Formation.|||||
+1776|Black Bog Shale|30069|6|Mentioned|p5||||||||
+1776|Black Bog Shale|30252|6|Mentioned|p183||||||||
+1776|Black Bog Shale|30332|6|Mentioned|Table 1|||Refers Link(1971)|||||
+1776|Black Bog Shale|31852|6|Mentioned|p711|||See also P714,719,720 & Figs. 1,2,4,5. U.Sil.|||||
+1776|Black Bog Shale|32675|6|Mentioned|p8|||Refers Link (1970, 1971)|||||
+1776|Black Bog Shale|32820|6|Mentioned|Table 1|||Refers Pogson & Baker (1974)|||||
+1776|Black Bog Shale|33116|5|Briefly described|Fig.11|||Correlation|||||
+1776|Black Bog Shale|33325|5|Briefly described|Table 2|||See also Table 3.|||||
+1776|Black Bog Shale|34405|4|Described|p113||||||||
+1776|Black Bog Shale|35384|6|Mentioned|Map legend|Late Silurian|Late Silurian||||||
+1776|Black Bog Shale|35386|3|Fully described|p35||||||||
+1776|Black Bog Shale|36411|6|Mentioned|p267|||Refers Cramsie et al 1978 for definition.|||||
+1776|Black Bog Shale|36413|6|Mentioned|Table 3||||||||
+1776|Black Bog Shale|37013|6|Mentioned|p24||||||||
+1776|Black Bog Shale|37727|4|Described|p38|||See also p6 and p8..|||||
+1776|Black Bog Shale|37752|6|Mentioned|p115||||||||
+1776|Black Bog Shale|38151|6|Mentioned|p42||||||||
+1776|Black Bog Shale|38378|6|Mentioned|p142||||||||
+1776|Black Bog Shale|38787|6|Mentioned|p127||||||||
+1776|Black Bog Shale|39331|6|Mentioned|Fig.5-5||||||||
+1776|Black Bog Shale|39975|6|Mentioned|p128||||||||
+1776|Black Bog Shale|40328|3|Fully described|p51||||||||
+1776|Black Bog Shale|42994|6|Mentioned|p72|||of Booroo Ponds Group|||||
+1776|Black Bog Shale|43344|14|Not recorded|p113,119||Late Silurian|Yass|||||
+1776|Black Bog Shale|43385|14|Not recorded|p172||Late Silurian||||||
+1776|Black Bog Shale|45075|5|Briefly described|p7||||||||
+1776|Black Bog Shale|47037|6|Mentioned|p107||||||||
+1776|Black Bog Shale|50230|4|Described|Map legend|Ludlow|Ludlow|Of the Hattons Corner Group. Contains the Yarwood Siltstone Member. Overlies Hume Limestone Member (Silverdale Formation); underlies Rosebank Shale. Dark grey shale, mudstone, siltstone and graptolitic black shale.|||||
+1776|Black Bog Shale|64238|5|Briefly described|Map legend|Silurian|Silurian|Of Hattons Corner Group. Contains Yarwood Siltstone Member ("Lower Trilobite bed") - dk. grey shale, mudstone, siltstone and black graptolitic shale; +2 unnamed subunits of black graptolitic shale/mudst.(upper) and dk grey shale/mudst (lower).|||||
+24186|Black Mountain Sandstone|12185|5|Briefly described|map legend|Lower Ordovician|Lower Ordovician|Quartz sandstone, quartzite, thin shales. BMR map symbol: Ol.|||||
+24186|Black Mountain Sandstone|22815|6|Mentioned|p18|Silurian|Silurian|Reassigned Silurian in age from Ordovician.|||||
+24186|Black Mountain Sandstone|22857|4|Described|p134, p424 App.1 Tb.A1.5|Early Silurian|Early Silurian|Grey, thickly bedded, massive, medium-grained arenite with siltstone and shale interbeds. Max. thickness: >450m. |||||
+24186|Black Mountain Sandstone|22941|5|Briefly described|p291||Early Silurian||||||
+24186|Black Mountain Sandstone|23245|5|Briefly described|p134||Early Silurian||||||
+24186|Black Mountain Sandstone|23309|6|Mentioned|p390||||||||
+24186|Black Mountain Sandstone|23454|6|Mentioned|p33||||||||
+24186|Black Mountain Sandstone|29992|6|Mentioned|Map legend|Ordovician|Ordovician||||||
+24186|Black Mountain Sandstone|29994|6|Mentioned|Map legend|Ordovician|Ordovician||||||
+24186|Black Mountain Sandstone|30332|3|Fully described|p124||||||||
+24186|Black Mountain Sandstone|31019|6|Mentioned|Map legend|Early Silurian|Early Silurian||||||
+24186|Black Mountain Sandstone|31111|6|Mentioned|p66|||Also mention P68, 72, 26|||||
+24186|Black Mountain Sandstone|31161|5|Briefly described|PA6||||||||
+24186|Black Mountain Sandstone|31284|6|Mentioned|Map legend|Early Silurian|Early Silurian||||||
+24186|Black Mountain Sandstone|32671|6|Mentioned|Map legend|Silurian|Silurian||||||
+24186|Black Mountain Sandstone|32672|6|Mentioned|p672||||||||
+24186|Black Mountain Sandstone|32820|6|Mentioned|Table 1|||Refers Crook et al (1973)|||||
+24186|Black Mountain Sandstone|33125|6|Mentioned|p15|||Correlation chart|||||
+24186|Black Mountain Sandstone|33325|4|Described|p21|||Ord? or Camb. See also Table 1|||||
+24186|Black Mountain Sandstone|33328|4|Described|Table 1|||P10.|||||
+24186|Black Mountain Sandstone|34404|4|Described|p89||||||||
+24186|Black Mountain Sandstone|34405|6|Mentioned|p119||||||||
+24186|Black Mountain Sandstone|35110|6|Mentioned|p3||||||||
+24186|Black Mountain Sandstone|35614|5|Briefly described|p14||||||||
+24186|Black Mountain Sandstone|36413|6|Mentioned|Table 3||||||||
+24186|Black Mountain Sandstone|36633|6|Mentioned|Map legend|Early Silurian|Early Silurian||||||
+24186|Black Mountain Sandstone|37348|6|Mentioned|p97||||||||
+24186|Black Mountain Sandstone|37727|4|Described|p38|||See also P17 and P29.|||||
+24186|Black Mountain Sandstone|37728|4|Described|Table 2||||||||
+24186|Black Mountain Sandstone|37752|6|Mentioned|p106||||||||
+24186|Black Mountain Sandstone|38664|5|Briefly described|p5||||||||
+24186|Black Mountain Sandstone|39331|4|Described|p49||||||||
+24186|Black Mountain Sandstone|39800|6|Mentioned|Map legend|Cambrian|Cambrian|Pre Middle OrdovicianProb. Cambrian|||||
+24186|Black Mountain Sandstone|39947|6|Mentioned|Map legend|Early Silurian|Early Silurian||||||
+24186|Black Mountain Sandstone|40328|3|Fully described|p50||||||||
+24186|Black Mountain Sandstone|41356|3|Fully described|p10|||Described P32|||||
+24186|Black Mountain Sandstone|42497|5|Briefly described|Map legend|Llandoverian|Llandoverian||||||
+24186|Black Mountain Sandstone|42727|5|Briefly described|map legend|Early Silurian|Early Silurian|Sandstone, siltstone and minor shale (proximal quartz turbidites). Unconformably underlies Canberra Formation, including Camp Hill Sandstone Member. Overlies State Circle Shale. BMR map symbol: Slb. Geol. Prov: Canberra Block.|||||
+24186|Black Mountain Sandstone|42820|2|Defined|p12|Early Silurian|||||||
+24186|Black Mountain Sandstone|43159|5|Briefly described|Fig.2p4,p9.||Early Silurian||||||
+24186|Black Mountain Sandstone|43344|14|Not recorded|p3,4,109,110,112,113||Early Ordovician|p115,116|||||
+24186|Black Mountain Sandstone|43383|14|Not recorded|p7,8||Cambrian||||||
+24186|Black Mountain Sandstone|43384|14|Not recorded|Map Legend||Ordovician||||||
+24186|Black Mountain Sandstone|43385|14|Not recorded|p169-171|||Older than Middle Ordovician|||||
+24186|Black Mountain Sandstone|43479|14|Not recorded|p62,77,95f||Early Ordovician|pre M.Ord|||||
+24186|Black Mountain Sandstone|43481|6|Mentioned|3-8||Devonian||||||
+24186|Black Mountain Sandstone|43682|5|Briefly described|p291||Early Silurian||||||
+24186|Black Mountain Sandstone|44093|5|Briefly described|p197 App. 1|Early Silurian|Early Silurian|In the Bruce Block. Geological Province: Lachlan Fold Belt.|||||
+24186|Black Mountain Sandstone|44970|2|Defined|p5-12,18,20-2,63-5,||Early Ordovician|p69-71,74-5,78-80,84,87-8,91,map. See also Lexicon|||||
+24186|Black Mountain Sandstone|45147|6|Mentioned|M118||||||||
+24186|Black Mountain Sandstone|47033|5|Briefly described|p78||||||||
+24186|Black Mountain Sandstone|49043|5|Briefly described|p6||||||||
+24186|Black Mountain Sandstone|63290|6|Mentioned|p385|Llandovery|Llandovery|Underlain unconformably by Acton Shale.|||||
+24186|Black Mountain Sandstone|66197|6|Mentioned|p629|||Deep marine quartz and lithic turbidites.|||||
+24186|Black Mountain Sandstone|67322|6|Mentioned|p16|Silurian|Silurian|Lower Silurian age. Occurs in the Canberra region.||||Equivalent to the Tidbinbilla Quartzite.|
+2281|Booroo Ponds Group|22639|5|Briefly described|p280 Fig.2|Late Silurian|Late Silurian||||||
+2281|Booroo Ponds Group|22768|5|Briefly described|p176|Lochkovian|Ludlow||||||
+2281|Booroo Ponds Group|22857|5|Briefly described|p176, p458 App. Tb.A1.6|Ludlovian|Ludlovian|Strongly fossiliferous unit. Geological Province: Canberra-Yass Shelf.|||||
+2281|Booroo Ponds Group|30069|6|Mentioned|p5||||||||
+2281|Booroo Ponds Group|30731|6|Mentioned|Map legend|Early Devonian|Early Devonian||||||
+2281|Booroo Ponds Group|30734|6|Mentioned|p18||||||||
+2281|Booroo Ponds Group|31852|6|Mentioned|p711|||See also P718,720,721. U.Sil.|||||
+2281|Booroo Ponds Group|31918|6|Mentioned|Table 5||||||||
+2281|Booroo Ponds Group|32671|6|Mentioned|Map legend|Silurian|Silurian||||||
+2281|Booroo Ponds Group|32672|6|Mentioned|p672||||||||
+2281|Booroo Ponds Group|32675|6|Mentioned|p8|||Refers Link (1970, 1971)|||||
+2281|Booroo Ponds Group|32820|6|Mentioned|Table 1|||Refers Pogson & Baker (1974)|||||
+2281|Booroo Ponds Group|33325|5|Briefly described|Table 2|||See also Tables 3 & 4|||||
+2281|Booroo Ponds Group|34692|6|Mentioned|p187||||||||
+2281|Booroo Ponds Group|35384|6|Mentioned|Map legend|Late Silurian|Late Silurian||||||
+2281|Booroo Ponds Group|35386|3|Fully described|p34|||Age discussed P40|||||
+2281|Booroo Ponds Group|36411|6|Mentioned|p268|||Refers Cramsie et al 1978 for definition|||||
+2281|Booroo Ponds Group|36413|6|Mentioned|Table 3||||||||
+2281|Booroo Ponds Group|37727|5|Briefly described|p39||||||||
+2281|Booroo Ponds Group|38151|6|Mentioned|Table 1||||||||
+2281|Booroo Ponds Group|39331|6|Mentioned|Fig.5-5||||||||
+2281|Booroo Ponds Group|39975|6|Mentioned|Table 1||||||||
+2281|Booroo Ponds Group|40328|4|Described|p51||||||||
+2281|Booroo Ponds Group|42029|5|Briefly described|Fig.1 P96||||||||
+2281|Booroo Ponds Group|42994|6|Mentioned|p72||||||||
+2281|Booroo Ponds Group|43575|6|Mentioned|Fig.2,p267||Late Silurian||||||
+2281|Booroo Ponds Group|45075|4|Described|p7|||Fauna|||||
+2281|Booroo Ponds Group|45147|6|Mentioned|M154||||||||
+2286|Booroomba Leucogranite|32820|6|Mentioned|p3|||Part of Murrumbidgee Batholith|||||
+2286|Booroomba Leucogranite|32905|6|Mentioned|p228|||Age.|||||
+2286|Booroomba Leucogranite|32906|6|Mentioned|Fig.1||||||||
+2286|Booroomba Leucogranite|36413|2|Defined|p84|Silurian|Silurian||||||
+2286|Booroomba Leucogranite|36414|5|Briefly described|map legend|Pridolian|Ludlovian|Coarse-textured leucogranite. GSNSW map code: gmb.|||||
+2286|Booroomba Leucogranite|36441|5|Briefly described|map legend|Pridolian|Pridolian|Of Murrumbidgee Batholith. Intrusive. S-type. Leucogranite, aplite. BMR map code: Smb.|||||
+2286|Booroomba Leucogranite|36443|5|Briefly described|map legend|Late Silurian|Late Silurian|Of Murrumbidgee Batholith. Intrusive. Leucogranite, aplite. S-type. BMR map code: Smb.|||||
+2286|Booroomba Leucogranite|36633|6|Mentioned|Map legend|Early Devonian|Late Silurian|Late Silurian to Early Devonian|||||
+2286|Booroomba Leucogranite|37728|4|Described|Table 3||||||||
+2286|Booroomba Leucogranite|39626|6|Mentioned|p275||||||||
+2286|Booroomba Leucogranite|40328|4|Described|p203||||||||
+2286|Booroomba Leucogranite|42497|5|Briefly described|Map legend|Pridolian|Ludlovian||||||
+2286|Booroomba Leucogranite|42727|5|Briefly described|map legend|Pridoli|Pridoli|Of Murrumbidgee Batholith. Leucogranite, S-type. BMR map symbol: Sga. Geol. Prov: Canberra Block.|||||
+2286|Booroomba Leucogranite|42820|4|Described|p66||||||||
+2286|Booroomba Leucogranite|44092|5|Briefly described|map legend|Silurian|Silurian|glw1|||||
+2286|Booroomba Leucogranite|45147|2|Defined|M203|Silurian|Silurian||||||
+2286|Booroomba Leucogranite|60078|6|Mentioned|Map Legend|Late Silurian|Late Silurian||||||
+2885|Bullanamang Porphyry|22768|6|Mentioned|p178||||||||
+2885|Bullanamang Porphyry|22815|4|Described|p40-41|Late Silurian|Late Silurian|See also thn misspelt Bullamanang Porphyry (p39 Fig. 16).|||||
+2885|Bullanamang Porphyry|22857|5|Briefly described|p178, p464 App.1 Tb.A1.6|Silurian|Silurian|Of the Bredbo Group. Coarse rhyolite porphyry. Max. thickness: 500m. Geological Province: Canberra-Yass Shelf. See also p468 App.1 Tb.A1.6.|||||
+2885|Bullanamang Porphyry|32820|6|Mentioned|p6||||||||
+2885|Bullanamang Porphyry|36413|2|Defined|p86|Early Devonian|Early Devonian||||||
+2885|Bullanamang Porphyry|36414|5|Briefly described|map legend|Early Devonian|Early Devonian|Porphyry. GSNSW map code: S-Du.|||||
+2885|Bullanamang Porphyry|39626|6|Mentioned|p275||||||||
+2885|Bullanamang Porphyry|40328|4|Described|p203||||||||
+2885|Bullanamang Porphyry|43233|5|Briefly described|Map Legend|Early Devonian|Late Silurian|Of Bredbo Group.|||||
+2895|Bullenbalong Suite|22606|6|Mentioned|P829, P830||||||||
+2895|Bullenbalong Suite|22768|6|Mentioned|p176||||||||
+2895|Bullenbalong Suite|22778|4|Described|p 162||||||||
+2895|Bullenbalong Suite|22815|4|Described|p43,55, fig19|Silurian|Silurian|Contains at least 17 seperate units.|||||
+2895|Bullenbalong Suite|22857|5|Briefly described|p176|||Intrusive granite.|||||
+2895|Bullenbalong Suite|22876|5|Briefly described|p27||||||||
+2895|Bullenbalong Suite|22877|5|Briefly described|map|Silurian|Silurian||||||
+2895|Bullenbalong Suite|22968|6|Mentioned|Fig49 P92||||||||
+2895|Bullenbalong Suite|23020|5|Briefly described|Map legend|Wenlock|Wenlock||||||
+2895|Bullenbalong Suite|23021|5|Briefly described|Map legend|Wenlock|Wenlock|Nonconformable and angular unconformably overlain by the Enano Group|||||
+2895|Bullenbalong Suite|23028|5|Briefly described|Map legend|Wenlock|Wenlock||||||
+2895|Bullenbalong Suite|23029|5|Briefly described|Map legend|Wenlock|Wenlock|Angular unconformably and nonconformably underlies the Enano Group|||||
+2895|Bullenbalong Suite|23309|6|Mentioned|p338||||||||
+2895|Bullenbalong Suite|23439|6|Mentioned|p127||||||||
+2895|Bullenbalong Suite|23547|5|Briefly described|p553||||||||
+2895|Bullenbalong Suite|23549|5|Briefly described|p521|||Of Bullenbalong Supersuite. Includes the Jillamatong pluton. Mafic rocks crowded with biotite and cordierite-rich enclaves. Geological Province:  Lachlan Fold Belt.|||||
+2895|Bullenbalong Suite|23615|3|Fully described|p152|Early Devonian|Early Silurian|Composed of several large batholiths - Campbells Knob, Amboyne, Suggan Buggan, Chiplin, Nunniong and Mellick Munjie Granodiorites and Barrabilly Adamellite.  Geological Province: Lachlan Fold Belt.|||||
+2895|Bullenbalong Suite|24099|5|Briefly described|p47, p48 Fig. 3|||S-type granite in the Kosciusko Basement Terrane.|||||
+2895|Bullenbalong Suite|24222|5|Briefly described|p11|||Chemistry of samples reported. S-type. See also Bullenbalong Supersuite. Geological Province: Lachlan Fold Belt.|||||
+2895|Bullenbalong Suite|24514|6|Mentioned|p31|||S-type.|||||
+2895|Bullenbalong Suite|41563|6|Mentioned|p513||||||||
+2895|Bullenbalong Suite|41898|5|Briefly described|p1184||||||||
+2895|Bullenbalong Suite|41905|4|Described|p75||||||||
+2895|Bullenbalong Suite|41933|5|Briefly described|Map legend|Late Silurian|||||||
+2895|Bullenbalong Suite|42726|5|Briefly described|map legend||Silurian|Of the Bullenbalong Supersuite.  Contains 19 granitic units and one volcanics unit.|||||
+2895|Bullenbalong Suite|42827|5|Briefly described|p431||||||||
+2895|Bullenbalong Suite|43159|6|Mentioned|p3|||Intrusive equivalent of Hawkins Suite of volcanics.|||||
+2895|Bullenbalong Suite|43206|5|Briefly described|map legend||Wenlock||||||
+2895|Bullenbalong Suite|43233|5|Briefly described|Map Legend|Late Silurian||of Berridale Batholith.|||||
+2895|Bullenbalong Suite|44093|5|Briefly described|p188 App. 1|Early Devonian|Silurian|Geological Province: Lachlan Fold Belt.|||||
+2895|Bullenbalong Suite|62962|6|Mentioned|p2291|||Geological Province: Lachlan Fold Belt.|||||
+24208|Camp Hill Sandstone Member|22857|4|Described|p462 App.1 Tb.A1.6|Silurian|Silurian|Of the Canberra Formation. Well-bedded arenite and siltstone; thin shale partings; thin beds of coarse-grained quartz arenite at the base. Max. thickness: 100m.|||||
+24208|Camp Hill Sandstone Member|36633|6|Mentioned|Map legend|Middle Silurian|Middle Silurian||||||
+24208|Camp Hill Sandstone Member|37728|4|Described|Table 2||||||||
+24208|Camp Hill Sandstone Member|39947|6|Mentioned|Map legend|Middle Silurian|Middle Silurian||||||
+24208|Camp Hill Sandstone Member|41356|6|Mentioned|p32||||||||
+24208|Camp Hill Sandstone Member|42727|5|Briefly described|map legend|Wenlock|Wenlock|Of Canberra Formation. Sandstone and siltstone. Unconformably overlies Murrumbateman Creek and Black Mountain Sandstone BMR map symbol: Smc1. Geol. Prov: Canberra Block.|||||
+24208|Camp Hill Sandstone Member|42820|2|Defined|p19|Early Silurian||of Canberra Formation. Age not younger than late Wenlock.|||||
+24208|Camp Hill Sandstone Member|49043|5|Briefly described|p7||||||||
+3447|Canberra Formation|22768|5|Briefly described|p176||Llandovery||||||
+3447|Canberra Formation|22857|4|Described|p176, p462 App.1 Tb.A1.6|Silurian|Silurian|Mudstone and siltstone with minor arenite and limestone; dacitic welded tuffs. Overlain by Hawkins Suite. Includes Narrabundah Ashstone Member at top. Max. thickness: 1000m.|||||
+3447|Canberra Formation|24248|6|Mentioned|p67, p69|||See also p72 Tb.3|||||
+3447|Canberra Formation|36633|6|Mentioned|Map legend|Middle Silurian|Middle Silurian||||||
+3447|Canberra Formation|37728|4|Described|Table 2||||||||
+3447|Canberra Formation|38664|5|Briefly described|p5||||||||
+3447|Canberra Formation|39947|6|Mentioned|Map legend|Middle Silurian|Middle Silurian||||||
+3447|Canberra Formation|41356|4|Described|p5||||||||
+3447|Canberra Formation|42497|5|Briefly described|Map legend|Wenlockian|Wenlockian||||||
+3447|Canberra Formation|42727|5|Briefly described|map legend|Wenlock|Wenlock|Incl Narrabundah Ashstone, Camp Hill Sst Mbrs. Mudst, siltst, sandst, limest, hornfels, dacitic ignimbrite, volcaniclastic seds. Over Black Mountain Sst, State Circle Shale, Pittman Fm; under Mount Ainslie Volcanics. BMRmap: Smc. GeolProv: Canberra Block.|||||
+3447|Canberra Formation|42820|2|Defined|p15|Early Silurian|Early Silurian||||||
+3447|Canberra Formation|42994|6|Mentioned|p20||||||||
+3447|Canberra Formation|43158|5|Briefly described|3||Early Silurian||||||
+3447|Canberra Formation|43159|5|Briefly described|Fig.2p4,p3,p9.||Early Silurian||||||
+3447|Canberra Formation|43481|5|Briefly described|3-12||||||||
+3447|Canberra Formation|47037|6|Mentioned|p107||||||||
+3447|Canberra Formation|49043|4|Described|p7||||||||
+3447|Canberra Formation|66197|5|Briefly described|p631 Fig.3c||Wenlock|Canberra-Yass and Ngunawal Basins. Shallow marine mixed clastic and carbonate rocks. Overlain by Hawkins Volcanics in Tuggeranong area.|||||
+3554|Cappanana Formation|22768|5|Briefly described|p176|Ludlow|Late Wenlockian||||||
+3554|Cappanana Formation|22815|2|Defined|p38, fig10,16|Late Silurian|Late Silurian||||||
+3554|Cappanana Formation|22857|4|Described|p176, p464 App. 1 Tb.A1.6|Ludlovian|Wenlockian|Of the Bredbo Group. Shallow marine deposits. Overlain by Colinton Volcanics. Max. thickness: 700m. Geological Province: Canberra-Yass Shelf and Monaro Forearc Basin. See also p468 App.1 Tb.A1.6.|||||
+3554|Cappanana Formation|24128|5|Briefly described|p3|||Geological Province: Lachlan Fold Belt.|||||
+3554|Cappanana Formation|32820|6|Mentioned|Table 1|||Sil.|||||
+3554|Cappanana Formation|36413|2|Defined|p33|Late Silurian|Late Silurian|This is correct spelling of name.|||||
+3554|Cappanana Formation|36414|5|Briefly described|map legend|Ludlovian|Ludlovian|Includes unnamed limestone unit. Siltstone, shale, sandstone and minor tuff. Underlies Colinton Volcanics. Unconformably overlies Foxlow Beds. GSNSW map code: Sp.|||||
+3554|Cappanana Formation|37251|5|Briefly described|p239||||||||
+3554|Cappanana Formation|39626|6|Mentioned|p275||||||||
+3554|Cappanana Formation|40328|3|Fully described|p60||||||||
+3554|Cappanana Formation|40689|6|Mentioned|p4||||||||
+3554|Cappanana Formation|41356|5|Briefly described|p42||||||||
+3554|Cappanana Formation|42497|5|Briefly described|Map legend|Ludlovian|Ludlovian||||||
+3554|Cappanana Formation|42727|5|Briefly described|map legend|Ludlow|Ludlow|Shale, siltstone and minor quartzite and tuff. Unconformable over Pittman Formation; underlies Colinton Volcanics. BMR map symbol: Scp. Geol. Prov: Canberra Block.|||||
+3554|Cappanana Formation|42820|2|Defined|p39|early Ludlow|||||||
+3554|Cappanana Formation|43233|5|Briefly described|Map Legend||Late Silurian|of Bredbo Group|||||
+3554|Cappanana Formation|44093|5|Briefly described|p198 App. 1|Late Silurian|Late Silurian|In the Canberra Block. Geological Province: Lachlan Fold Belt.|||||
+3554|Cappanana Formation|61895|6|Mentioned|p134 Fig.1,||||||||
+3554|Cappanana Formation|66197|5|Briefly described|p631 Fig.3c|Ludlow||Canberra-Yass and Ngunawal Basins. Overlain by Colinton Volcanics.|||||
+3563|Captains Flat Formation|12185|5|Briefly described|map legend|Upper Silurian|Upper Silurian|Interbedded slate and lithic tuff, thin basalt and dacite, sandstone. Overlies Kohinoor Volcanics. BMR map symbol: Suf.|||||
+3563|Captains Flat Formation|22768|6|Mentioned|p177||||||||
+3563|Captains Flat Formation|22857|4|Described|p177, p474 App.1 Tb.A1.6|Late Silurian|Late Silurian|Of the Hoskinstown Group. Shale, siltstone sediments with volcaniclastic interbeds. Max. thickness: 1200m. Geological Province: Captains Flat-Goulburn Trough.|||||
+3563|Captains Flat Formation|23048|5|Briefly described|p3 fig5||Late Silurian||||||
+3563|Captains Flat Formation|24128|5|Briefly described|p35|||Geological Province: Lachlan Fold Belt.|||||
+3563|Captains Flat Formation|29992|6|Mentioned|Map legend|Silurian|Silurian||||||
+3563|Captains Flat Formation|29994|6|Mentioned|Map legend|Late Silurian|Late Silurian||||||
+3563|Captains Flat Formation|30433|5|Briefly described|p695||||||||
+3563|Captains Flat Formation|31017|6|Mentioned|p45||||||||
+3563|Captains Flat Formation|31019|6|Mentioned|Map legend|Silurian|Silurian||||||
+3563|Captains Flat Formation|31020|5|Briefly described|p12|||Also mention Fig. 5.|||||
+3563|Captains Flat Formation|31111|6|Mentioned|p112|||See also P114, 116, 120, 124, 126, 130, 134|||||
+3563|Captains Flat Formation|32671|6|Mentioned|Map legend|Silurian|Silurian||||||
+3563|Captains Flat Formation|32820|6|Mentioned|p3|||Hoskinstown Gp.|||||
+3563|Captains Flat Formation|33325|5|Briefly described|Table 2||||||||
+3563|Captains Flat Formation|36413|2|Defined|p65|Late Silurian|Late Silurian||||||
+3563|Captains Flat Formation|36414|5|Briefly described|map legend|Pridolian|Ludlovian|Of Hoskinstown Group. Includes Sinclair Conglomerate Member and Yandyguinula Member. Overlies Carwoola Formation and Kohinoor Volcanics. GSNSW map code: Sf.|||||
+3563|Captains Flat Formation|37727|4|Described|p44||||||||
+3563|Captains Flat Formation|39331|6|Mentioned|p52||||||||
+3563|Captains Flat Formation|40328|4|Described|p181||||||||
+3563|Captains Flat Formation|42497|5|Briefly described|Map Legend|Pridolian|Ludlovian||||||
+3563|Captains Flat Formation|42727|5|Briefly described|map legend|Pridoli|Ludlow|Of Hoskinstown Group. Includes Sinclair Conglomerate Member. Shale, siltstone, acid and basic volcanic flows and tuff. Over Kohinoor Volcanics and Copper Creek Shale; interfingers with Carwoola Fm. BMR map symbol: Suf. Geol. Prov: Captains Flat Block.|||||
+3563|Captains Flat Formation|42820|2|Defined|p50|Late Silurian|Late Silurian|of Hoskinstown Group|||||
+3563|Captains Flat Formation|43472|14|Not recorded|p420, fig.1||||||||
+3563|Captains Flat Formation|48878|2|Defined|p.8-11||Late Silurian|On many pages. p.7,5,15-17,19,20,22-24,26-28,39,44,45,Pl.3,4. 2500'- over 4000', O/lies Kohinoor Volcs & Carwoola Beds. U.Silurian. Fig.3.|||||
+3563|Captains Flat Formation|66197|5|Briefly described|p631 Fig.3c|||Canberra-Yass and Ngunawal Basins. Mixed mafic/silicic volcanics and clastics. In the Hoskinstown Group. Overlies the Carwoola and Kohinoor Formations.|||||
+3716|Carwoola Formation|22768|6|Mentioned|p177||||||||
+3716|Carwoola Formation|22857|4|Described|p177, p474 App.1 Tb.A1.6|Late Silurian|Late Silurian|Of the Hoskinstown Group. Deep water sediments. Max. thickness: 1200m. Geological Province: Captains Flat-Goulburn Trough.|||||
+3716|Carwoola Formation|23048|5|Briefly described|p3 fig5||Late Silurian||||||
+3716|Carwoola Formation|24128|5|Briefly described|p35|||Geological Province: Lachlan Fold Belt.|||||
+3716|Carwoola Formation|32820|6|Mentioned|p3|||Hoskinstown Gp.|||||
+3716|Carwoola Formation|36413|2|Defined|p64|Late Silurian|Late Silurian||||||
+3716|Carwoola Formation|36414|5|Briefly described|on cross-section only|Pridolian|Ludlovian|Of Hoskinstown Group. Underlies Captains Flat Formation; overlies Kohinoor Volcanics. Siltstone, shale, argillaceous sandstone. GSNSW map code: Sa.|||||
+3716|Carwoola Formation|39626|6|Mentioned|p275||||||||
+3716|Carwoola Formation|40328|5|Briefly described|p181||||||||
+3716|Carwoola Formation|42727|5|Briefly described|map legend|Pridoli|Ludlow|Of Hoskinstown Group. Sandstone, siltstone, shale (proximal quartz turbidites). Overlies Kohinoor Volcanics and Copper Creek Shale; interfingers with Captains Flat Formation. BMR map symbol: Sur. Geol. Prov: Captains Flat Block.|||||
+3716|Carwoola Formation|42820|2|Defined|p49|Late Silurian||of Hoskinstown Group|||||
+3716|Carwoola Formation|66197|5|Briefly described|p631 Fig.3c|||Canberra-Yass and Ngunawal Basins. Deep marine shale and sandstone. In the Hoskinstown Group. Underlies the Captains Flat Formation, overlies the Kohinoor Formation and Copper Creek Shale.|||||
+3824|Cavan Bluff Limestone|12185|5|Briefly described|map legend|Middle Devonian|Middle Devonian|Limestone, some shale and quartz sandstone. BMR map symbol: Dmc.|||||
+3824|Cavan Bluff Limestone|23898|4|Described|p269, p271 Fig.2|Early Devonian|Early Devonian|Of Murrumbidgee Group.  Geological Province: Lachlan Fold Belt.|||||
+3824|Cavan Bluff Limestone|24250|5|Briefly described|p109 Fig.5|Early Devonian|Early Devonian|Of the Murrumbidgee Group. Overlain by Majurgong Formation.|||||
+3824|Cavan Bluff Limestone|29989|6|Mentioned|Map legend|Early Devonian|Early Devonian||||||
+3824|Cavan Bluff Limestone|30069|5|Briefly described|p7||||||||
+3824|Cavan Bluff Limestone|30731|6|Mentioned|Map legend|Early Devonian|Early Devonian||||||
+3824|Cavan Bluff Limestone|31019|6|Mentioned|Map legend|Early Devonian|Early Devonian||||||
+3824|Cavan Bluff Limestone|31111|6|Mentioned|p222|||Also mention pP224.|||||
+3824|Cavan Bluff Limestone|31502|5|Briefly described|p94|||Devonian corals. See also p95 for age.|||||
+3824|Cavan Bluff Limestone|32483|4|Described|p31|||Lower Devonian. Table 1.|||||
+3824|Cavan Bluff Limestone|32585|6|Mentioned|p210|||Member|||||
+3824|Cavan Bluff Limestone|33327|5|Briefly described|p173|||Unit of Cavan Fm?|||||
+3824|Cavan Bluff Limestone|33481|6|Mentioned|p11|||Base Couvinian or top Coblenzian. See also p15.|||||
+3824|Cavan Bluff Limestone|34405|6|Mentioned|Fig.3.12||||||||
+3824|Cavan Bluff Limestone|34692|5|Briefly described|p186||||||||
+3824|Cavan Bluff Limestone|35384|6|Mentioned|Map legend|Early Devonian|Early Devonian||||||
+3824|Cavan Bluff Limestone|35386|3|Fully described|p48||||||||
+3824|Cavan Bluff Limestone|36411|6|Mentioned|p268|||Refers Cramsie et al 1978 for definition|||||
+3824|Cavan Bluff Limestone|42033|6|Mentioned|p654||||||||
+3824|Cavan Bluff Limestone|43344|14|Not recorded|p117|||Yass-Taemas area|||||
+3824|Cavan Bluff Limestone|43527|14|Not recorded|p535||||||||
+3824|Cavan Bluff Limestone|43532|14|Not recorded|p201,220||Devonian||||||
+3824|Cavan Bluff Limestone|45078|6|Mentioned|p2|||On locality map.|||||
+3824|Cavan Bluff Limestone|50230|5|Briefly described|Map legend|Pragian|Pragian|Of the Murrumbidgee Group.  Overlies the Fifeshire Shale; underlies the Majurgong Formation.  Limestone, shaly limestone, shale.|||||
+3824|Cavan Bluff Limestone|63594|6|Mentioned|p1032|||Contains conodonts in the Taemas-Wee Jasper area of NSW.|||||
+3824|Cavan Bluff Limestone|64238|5|Briefly described|Map legend|Devonian|Devonian|Of the Murrumbidgee Group. Limestone, shaly limestone, shale.|||||
+3824|Cavan Bluff Limestone|64296|6|Mentioned|p90||||||||
+3824|Cavan Bluff Limestone|64992|5|Briefly described|p60 Fig. 1, p59|Devonian|Devonian|Part of the Taemas-Wee Jasper succession. Contains Dipnorhynchus kiandrensis (lungfish) and Speonesydrion iani? Shale and bedded limestone, initiated as a series of banded carbonate algal beds (marine deposits).|||||
+4128|Clear Range Granodiorite|12185|5|Briefly described|map legend|Devonian|Silurian|Of Murrumbidgee Batholith. Foliated contaminated granodiorite. BMR map symbol: gma.|||||
+4128|Clear Range Granodiorite|22815|4|Described|p60,61||||||||
+4128|Clear Range Granodiorite|23866|5|Briefly described|p120, p121 Fig. 1|||Grades into a tonalitic variety to the south which is named Clear Range Tonalite. Geological Province: Murrumbidgee Batholith.  See also p122 Fig. 2.|||||
+4128|Clear Range Granodiorite|24222|5|Briefly described|p2|||Most mafic S-type granite in the Lachlan Fold Belt.  Mafic granodiorite to tonalite. Isotope data given.  Geological Province: Murrumbidgee Batholith in the Lachlan Fold Belt.|||||
+4128|Clear Range Granodiorite|31019|6|Mentioned|Map legend|Devonian|Silurian|Silurian - Devonian|||||
+4128|Clear Range Granodiorite|31580|6|Mentioned|p272|||See also Table 1-4 for analysis|||||
+4128|Clear Range Granodiorite|31581|3|Fully described|Table 1|||Xenolith content Table 111|||||
+4128|Clear Range Granodiorite|32820|6|Mentioned|p3|||Part of Murrumbidgee Batholith|||||
+4128|Clear Range Granodiorite|32905|6|Mentioned|p225|||See also P231|||||
+4128|Clear Range Granodiorite|32906|6|Mentioned|p239||||||||
+4128|Clear Range Granodiorite|34544|4|Described|p185||||||||
+4128|Clear Range Granodiorite|36413|2|Defined|p78|Silurian|Silurian||||||
+4128|Clear Range Granodiorite|36414|5|Briefly described|map legend|Ludlovian|Ludlovian|Biotite granodiorite. GSNSW map code: gma.|||||
+4128|Clear Range Granodiorite|36443|5|Briefly described|map legend|Late Silurian|Late Silurian|Of Murrumbidgee Batholith. Intrusive. Xenolith-rich granodiorite. S-type. BMR map code: Smr.|||||
+4128|Clear Range Granodiorite|36633|6|Mentioned|Map legend|Early Devonian|Late Silurian|Late Silurian to Early Devonian|||||
+4128|Clear Range Granodiorite|37728|4|Described|Table 3||||||||
+4128|Clear Range Granodiorite|39721|6|Mentioned|Table 2|||Sr isotopes|||||
+4128|Clear Range Granodiorite|40328|4|Described|p204||||||||
+4128|Clear Range Granodiorite|43233|5|Briefly described|Map Legend||Silurian|Possible Silurian age. Of Murrumbidgee Batholith.|||||
+4128|Clear Range Granodiorite|44092|5|Briefly described|map legend|Silurian|Silurian|ggb1.|||||
+4128|Clear Range Granodiorite|45003|14|Not recorded|p55||||||||
+4128|Clear Range Granodiorite|45147|3|Fully described|M194||||||||
+4128|Clear Range Granodiorite|46574|5|Briefly described|Map Legend|Silurian|Silurian|Of the Murrumbidgee Batholith. Geological Province: Lachlan Pre-Cratonic Province.|||||
+4128|Clear Range Granodiorite|49705|5|Briefly described|p29||||||||
+4128|Clear Range Granodiorite|60078|6|Mentioned|Map Legend|Late Silurian|Late Silurian||||||
+31567|Clear Range Suite|22815|6|Mentioned|p60||||||||
+31567|Clear Range Suite|42726|5|Briefly described|map legend||Silurian||||||
+31567|Clear Range Suite|43233|5|Briefly described|Map Legend||Silurian|Murrumbidgee Batholith.|||||
+31567|Clear Range Suite|44093|5|Briefly described|p190 App. 1|Early Devonian|Silurian|Geological Province: Lachlan Fold Belt.|||||
+4165|Cliftonwood Limestone Member|22857|4|Described|p460 App.1 Tb.A1.6|Late Silurian|Late Silurian|Of the Yass Formation. Argillaceous black limestone, mudstone. Richly fossiliferous, important corals, and conodonts. Max. thickness: 65m. Geological Province: Canberra-Yass Shelf.|||||
+4165|Cliftonwood Limestone Member|38035|6|Mentioned|p91||||||||
+4165|Cliftonwood Limestone Member|42820|5|Briefly described|p36|||Of the Yass Formation.|||||
+4165|Cliftonwood Limestone Member|42994|6|Mentioned|p73|||Of the Yass Formation.|||||
+4165|Cliftonwood Limestone Member|50230|4|Described|Map legend|Wenlock|Wenlock|Of the Yass Formation (Douro Group). Interbedded with the O'Briens Creek Sandstone Member within the Yass Formation. Grey limestone in mudstone breccia, clast-supported, pebbles of crystalline fossiliferous limestone.|||||
+4165|Cliftonwood Limestone Member|64238|5|Briefly described|Map legend|Silurian|Silurian|Of Yass Formation (Douro Gp). Grey to khaki laminated to very thinly-bedded chloritic siltst./ mudstone with thin fine-gr.sst beds, schistose massive to diffusely med.-gr. poorly-sorted chloritic feldspathic sandstone, and minor qtz-rich sandstone.|||||
+4334|Colinton Volcanics|12185|5|Briefly described|map legend|Middle Silurian|Middle Silurian|Tuff, crystal tuff, dacite, shale, sandstone, limestone lenses. BMR map symbol: Smo.|||||
+4334|Colinton Volcanics|22768|5|Briefly described|p176||||||||
+4334|Colinton Volcanics|22815|2|Defined|p40,41, fig10,16|Late Silurian|Late Silurian|Transitional over Cappanana Formation; conformably overlain by Rothlyn Formation.|||||
+4334|Colinton Volcanics|22857|4|Described|p176, p464 App. 1 Tb.A1.6|Late Silurian|Ludlovian|Of Bredbo Group. Correlates with Deakin and Laidlaw Volcanics. Includes part of former "Bransby Beds" (Richardson, 1979). Overlies Cappanana Fm. Max. thickness: 4km. Geol. Prov: Canberra-Yass Shelf and Monaro Forearc Basin. See also p468 App.1 Tb.A1.6.|||||
+4334|Colinton Volcanics|23048|6|Mentioned|p2||||||||
+4334|Colinton Volcanics|24128|5|Briefly described|p3|||Geological Province: Lachlan Fold Belt.|||||
+4334|Colinton Volcanics|24266|5|Briefly described|p1481|Late Silurian|Late Silurian|Geological Province: Lachlan Fold Belt. Age: 418 Ma.|||||
+4334|Colinton Volcanics|29992|6|Mentioned|Map legend|Silurian|Silurian||||||
+4334|Colinton Volcanics|29994|6|Mentioned|Map legend|Middle Silurian|Middle Silurian||||||
+4334|Colinton Volcanics|30332|6|Mentioned|p127|||Refers Packham(1969)|||||
+4334|Colinton Volcanics|31019|6|Mentioned|Map legend|Silurian|Silurian||||||
+4334|Colinton Volcanics|31111|6|Mentioned|p112|||Also mention P114, 116, 120, 124, 126, 130.|||||
+4334|Colinton Volcanics|31284|6|Mentioned|Map legend|Late Silurian|Middle Silurian|Middle to Upper Silurian M - U|||||
+4334|Colinton Volcanics|32671|6|Mentioned|Map legend|Silurian|Silurian||||||
+4334|Colinton Volcanics|32672|6|Mentioned|p672||||||||
+4334|Colinton Volcanics|32820|5|Briefly described|p5||||||||
+4334|Colinton Volcanics|33325|5|Briefly described|Table 2||||||||
+4334|Colinton Volcanics|33328|4|Described|Table 1|||P14|||||
+4334|Colinton Volcanics|34405|6|Mentioned|p121||||||||
+4334|Colinton Volcanics|34406|6|Mentioned|p220|||Overlies Silurian sediments|||||
+4334|Colinton Volcanics|36413|2|Defined|p38|Late Silurian|Late Silurian||||||
+4334|Colinton Volcanics|36414|5|Briefly described|map legend|Ludlovian|Ludlovian|Includes Tuggeranong Tuff Member. Rhyolitic to rhyodacitic crystal and lithic tuff, minor siltstone, sandstone, limestone. Underlies Bransby Beds; overlies Cappanana Formation; interfingers with Williamsdale Volcanics. GSNSW map code: Sv.|||||
+4334|Colinton Volcanics|36633|6|Mentioned|Map legend|Late Silurian|Middle Silurian|Middle to Late Silurian.|||||
+4334|Colinton Volcanics|37251|5|Briefly described|p240||||||||
+4334|Colinton Volcanics|37727|4|Described|p47|||See also P18.|||||
+4334|Colinton Volcanics|37728|4|Described|Table 2||||||||
+4334|Colinton Volcanics|39331|6|Mentioned|Fig.5-11||||||||
+4334|Colinton Volcanics|40328|3|Fully described|p61||||||||
+4334|Colinton Volcanics|42497|5|Briefly described|Map legend|Pridolian|Ludlovian||||||
+4334|Colinton Volcanics|42726|5|Briefly described|map legend|Silurian|||||||
+4334|Colinton Volcanics|42727|5|Briefly described|map legend|Ludlow|Ludlow|Dark green dacitic ignimbrite and minor volcaniclastic sediments. Overlies Cappanana Formation. BMR map symbol: Svc. Geol. Prov: Canberra Block.|||||
+4334|Colinton Volcanics|42820|2|Defined|Fig.16||early Ludlow|Age early Ludlow inferred.|||||
+4334|Colinton Volcanics|43233|5|Briefly described|Map Legend||Late Silurian|of Bredbo Group|||||
+4334|Colinton Volcanics|43472|14|Not recorded|p420-1,431-3,436|||fig.1|||||
+4334|Colinton Volcanics|43473|14|Not recorded|fig.1,opp.p1080,1088||Early Silurian|p1090,1098 (M.Sil)|||||
+4334|Colinton Volcanics|44093|5|Briefly described|p198 App. 1|Late Silurian|Late Silurian|Felsic volcanics. In the Canberra Block. Geological Province: Lachlan Fold Belt.|||||
+4334|Colinton Volcanics|46574|5|Briefly described|Map Legend||||||||
+4334|Colinton Volcanics|61895|6|Mentioned|p134 Fig.1,||||||||
+4334|Colinton Volcanics|66197|5|Briefly described|p631 Fig.3c|||Canberra-Yass and Ngunawal Basins. Silicic volcanics. Overlies Cappanana Formation.|||||
+4677|Copper Creek Shale|12185|5|Briefly described|map legend|Middle Silurian|Middle Silurian|Grouped with Rutledge Quartzite in legend. Siltstone, graphitic slate, tuff, limestone lenses, quartzite. Underlies Kohinoor Volcanics. BMR map symbol: Smc.|||||
+4677|Copper Creek Shale|22768|6|Mentioned|p177||||||||
+4677|Copper Creek Shale|22857|4|Described|p177, p474 App.1 Tb.A1.6|Late Silurian|Late Silurian|Basal sediments of Hoskinstown Group. Shale and siltstone, arenite beds near base; minor limestone; contains corals. Max. thickness: 150m. Geological Province: Captains Flat-Goulburn Trough. |||||
+4677|Copper Creek Shale|23048|5|Briefly described|p2 fig5||Silurian||||||
+4677|Copper Creek Shale|29992|6|Mentioned|Map legend|Silurian|Silurian||||||
+4677|Copper Creek Shale|29994|6|Mentioned|Map legend|Early Silurian|Early Silurian||||||
+4677|Copper Creek Shale|30433|5|Briefly described|p695||||||||
+4677|Copper Creek Shale|31017|6|Mentioned|p45||||||||
+4677|Copper Creek Shale|31019|6|Mentioned|Map legend|Silurian|Silurian||||||
+4677|Copper Creek Shale|31020|5|Briefly described|p12|||Also mention Fig. 5.|||||
+4677|Copper Creek Shale|31161|5|Briefly described|PA7||||||||
+4677|Copper Creek Shale|31411|5|Briefly described|p17|||See also p18.|||||
+4677|Copper Creek Shale|32671|6|Mentioned|Map legend|Silurian|Silurian||||||
+4677|Copper Creek Shale|32820|6|Mentioned|p3|||Mb. Hoskinstown Gp.|||||
+4677|Copper Creek Shale|33325|5|Briefly described|Table 2||||||||
+4677|Copper Creek Shale|36413|2|Defined|p56|Silurian|Silurian||||||
+4677|Copper Creek Shale|36414|5|Briefly described|map legend|Ludlovian|Ludlovian|Of Hoskinstown Group. Includes Rutledge Quartzite Member, and unnamed tuff (Sct) and limestone (Scl) units. Underlies Kohinoor Volcanics. Unconformably overlies Foxlow Beds. GSNSW map code: Sc.|||||
+4677|Copper Creek Shale|37727|4|Described|p48||||||||
+4677|Copper Creek Shale|40328|5|Briefly described|p181||||||||
+4677|Copper Creek Shale|42497|5|Briefly described|Map Legend|Ludlovian|Ludlovian||||||
+4677|Copper Creek Shale|42727|5|Briefly described|map legend|Ludlow|Ludlow|Of Hoskinstown Group. Includes Rutledge Quartzite Mbr. Shale, siltstone and minor limestone. Under Carwoola Fm and Captains Flat Fm; over Bullongong Shale, Birkenburn beds and Pittman Formation. BMR map symb: Suo. Geol Prov: Captains Flat Block.|||||
+4677|Copper Creek Shale|42820|2|Defined|p46|Ludlow||Of Hoskinstown Group.|||||
+4677|Copper Creek Shale|48873|14|Not recorded|p.9|||(I55-16/Michelago).|||||
+4677|Copper Creek Shale|48878|2|Defined|p.6-8||Wenlockian|On many pages. p.7,1,5,15-17,19,22-25,29,31,36-38,44-49,50-55,Pl.3-4. Contains Wenlockian corals. Wenlockian (I55-16).|||||
+4677|Copper Creek Shale|66197|5|Briefly described|p629, p631 Fig.3c|Siluran||Ngunawal Basin. Conglomerate base with basement-derived clasts, deep marine shale. Overlain by Kohinoor and Carwoola Formations. Probably Late Silurian.|||||
+4764|Cosgrove Porphyry|22768|6|Mentioned|p178||||||||
+4764|Cosgrove Porphyry|22857|6|Mentioned|p178|Early Devonian|Early Devonian||||||
+4764|Cosgrove Porphyry|32820|6|Mentioned|p6||||||||
+4764|Cosgrove Porphyry|36413|2|Defined|p88|Early Devonian|Late Silurian|Late Silurian-Early Devonian|||||
+4764|Cosgrove Porphyry|36414|5|Briefly described|map legend|Early Devonian|Early Devonian|Quartz-feldspar porphyry. GSNSW map code: S-Do.|||||
+4764|Cosgrove Porphyry|39626|6|Mentioned|p275||||||||
+4764|Cosgrove Porphyry|40328|4|Described|p204||||||||
+4764|Cosgrove Porphyry|68115|6|Mentioned|p10.||||||||
+4813|Cowridge Siltstone|22639|5|Briefly described|p267 Fig.2|Late Silurian|Late Silurian||||||
+4813|Cowridge Siltstone|22857|4|Described|p458 App.1, Tb.A1.6|Late Silurian|Late Silurian|Of the Barambogie Group. Siltstone, fine sandstone, mudstone; contains graptolites, brachiopods, trilobites. Max. thickness: >140m. Geological Province: Canberra-Yass Shelf.|||||
+4813|Cowridge Siltstone|23522|5|Briefly described|p248 Fig 4|Pridoli|Ludlow||||||
+4813|Cowridge Siltstone|24248|5|Briefly described|p50 Fig.1, p52|Pridoli|Pridoli|Conformably overlies the Rosebank Shale. Overlain by the Elmside Formation.|||||
+4813|Cowridge Siltstone|24249|5|Briefly described|p90 Fig.3, p91|Pridoli|Pridoli|Overlain by Elmside Formation. Underlain by Rosebank Shale.|||||
+4813|Cowridge Siltstone|30069|6|Mentioned|p5||||||||
+4813|Cowridge Siltstone|31852|6|Mentioned|p711|||Correlation on P712-714 & Figs. 1,2,4,5. Silurian|||||
+4813|Cowridge Siltstone|32675|6|Mentioned|p8|||Refers Link (1970, 1971). Nomenclature|||||
+4813|Cowridge Siltstone|32820|6|Mentioned|p5||||||||
+4813|Cowridge Siltstone|33116|6|Mentioned|Fig.11||||||||
+4813|Cowridge Siltstone|33325|5|Briefly described|Table 2|||See also Table 3.|||||
+4813|Cowridge Siltstone|33326|6|Mentioned|p441|||Fauna. Pridolian.|||||
+4813|Cowridge Siltstone|35384|6|Mentioned|Map legend|Paleozoic|Paleozoic||||||
+4813|Cowridge Siltstone|35386|3|Fully described|p38||||||||
+4813|Cowridge Siltstone|36411|6|Mentioned|p268|||Refers Cramsie et al 1978 for definition|||||
+4813|Cowridge Siltstone|36413|6|Mentioned|Table 3||||||||
+4813|Cowridge Siltstone|37727|5|Briefly described|p51|||See also P6 and P51.|||||
+4813|Cowridge Siltstone|38151|6|Mentioned|Table 1||||||||
+4813|Cowridge Siltstone|39331|6|Mentioned|Fig.5-3|||See Fig.5-5|||||
+4813|Cowridge Siltstone|40328|3|Fully described|p48||||||||
+4813|Cowridge Siltstone|42029|5|Briefly described|Fig.1 P96||||||||
+4813|Cowridge Siltstone|43575|6|Mentioned|Fig.2,p267||Late Silurian||||||
+4813|Cowridge Siltstone|45075|5|Briefly described|p8||||||||
+4813|Cowridge Siltstone|47037|6|Mentioned|p107||||||||
+4813|Cowridge Siltstone|50230|4|Described|Map legend|Pridoli|Pridoli|Of the Hattons Corner Group.  Interbedded siltstone, fine-grained sandstone, mudstone.|||||
+4813|Cowridge Siltstone|64238|5|Briefly described|Map legend|Silurian|Silurian|Of Hattons Corner Group. Interbedded siltstone, fine-grained sandstone, mudstone. Also includes an upper and lower mudstone subunit.|||||
+25874|Deakin Volcanics|12185|5|Briefly described|map legend|Upper Silurian|Upper Silurian|Of Red Hill Group. Rhyolite and tuff, tuffaceous and calcareous sandstone, tuffaceous shale, fossiliferous limestone. BMR map symbol: Sud.|||||
+25874|Deakin Volcanics|22768|6|Mentioned|p176||||||||
+25874|Deakin Volcanics|22842|6|Mentioned|p30||Late Silurian|Syncronous with Lookdown Limestone.|||||
+25874|Deakin Volcanics|22857|4|Described|p176, p462 App.1 Tb.A1.6|Late Silurian|Late Silurian|Overlies the Yass Formation and the shelfal Yarralumla Formation in the Canberra area. Max. thickness: 1.5km. |||||
+25874|Deakin Volcanics|29992|6|Mentioned|Map legend|Silurian|Silurian||||||
+25874|Deakin Volcanics|29994|6|Mentioned|Map legend|Late Silurian|Late Silurian||||||
+25874|Deakin Volcanics|31019|6|Mentioned|Map legend|Silurian|Silurian||||||
+25874|Deakin Volcanics|31111|6|Mentioned|p172|||Also mention on P174, 176, 178, 182, 186, 188.|||||
+25874|Deakin Volcanics|31284|6|Mentioned|Map legend|Late Silurian|Late Silurian||||||
+25874|Deakin Volcanics|31852|6|Mentioned|p719|||See also Fig.5. Ludlovian|||||
+25874|Deakin Volcanics|33325|5|Briefly described|Table 2|||See also Table 3.|||||
+25874|Deakin Volcanics|33328|4|Described|Table 1|||See also PP5 & 14.|||||
+25874|Deakin Volcanics|34405|6|Mentioned|p119|||Table 3.5. Upper Silurian.|||||
+25874|Deakin Volcanics|35110|6|Mentioned|Fig.3||||||||
+25874|Deakin Volcanics|35325|6|Mentioned|p483||||||||
+25874|Deakin Volcanics|35326|6|Mentioned|p485||||||||
+25874|Deakin Volcanics|35614|6|Mentioned|Fig.4||||||||
+25874|Deakin Volcanics|36633|6|Mentioned|Map legend|Late Silurian|Late Silurian||||||
+25874|Deakin Volcanics|37141|5|Briefly described|Plan 6||||||||
+25874|Deakin Volcanics|37348|6|Mentioned|p97|||See also P98.|||||
+25874|Deakin Volcanics|37727|6|Mentioned|p27||||||||
+25874|Deakin Volcanics|37728|4|Described|Table 2||||||||
+25874|Deakin Volcanics|37752|6|Mentioned|Fig.2||||||||
+25874|Deakin Volcanics|38035|6|Mentioned|p91||||||||
+25874|Deakin Volcanics|38664|5|Briefly described|p14||||||||
+25874|Deakin Volcanics|39331|4|Described|p50||||||||
+25874|Deakin Volcanics|39975|4|Described|p123||||||||
+25874|Deakin Volcanics|40328|3|Fully described|p117||||||||
+25874|Deakin Volcanics|41356|5|Briefly described|p74||||||||
+25874|Deakin Volcanics|42497|5|Briefly described|Map Legend|Ludlovian|Wenlockian||||||
+25874|Deakin Volcanics|42726|5|Briefly described|map legend|Silurian|||||||
+25874|Deakin Volcanics|42727|5|Briefly described|map legend|Ludlow|Ludlow|Of Laidlaw Volcanic Suite. Includes Mugga Mugga Porphyry Member. Rhyodacitic ignimbrite and minor volcaniclastic and argillaceous sediments. Under Laidlaw Volcanics; faulted against Shannons Flat Adamellite. BMR map symbol: Sud. Geol. Prov: Canberra Block|||||
+25874|Deakin Volcanics|42820|2|Defined|p31|early Ludlow||of Laidlaw Volcanic Suite. Age early Late Silurian (early Ludlow)|||||
+25874|Deakin Volcanics|43159|4|Described|Fig.2p4,p6,p10||Late Silurian|of Laidlaw Suite.|||||
+25874|Deakin Volcanics|43344|14|Not recorded|p110,113,115,116||Late Silurian||||||
+25874|Deakin Volcanics|43385|14|Not recorded|p172||Late Silurian||||||
+25874|Deakin Volcanics|43481|6|Mentioned|3,11||||||||
+25874|Deakin Volcanics|44852|14|Not recorded|p60||Silurian||||||
+25874|Deakin Volcanics|44970|2|Defined|p1,11,33-5,42-6,48-9||Late Silurian|p69,71,73,76,89,95,map. Unit of Red Hill Group. See also Lexicon|||||
+25874|Deakin Volcanics|45147|6|Mentioned|M149||||||||
+5668|Douro Group|22638|6|Mentioned|p32||||||||
+5668|Douro Group|22691|6|Mentioned|P321||Silurian||||||
+5668|Douro Group|23214|6|Mentioned|p168|||Intruded by the Young Granodiorite.|||||
+5668|Douro Group|24233|5|Briefly described|p256|Devonian|Silurian|Geological Province: Lachlan Orogen.|||||
+5668|Douro Group|24266|5|Briefly described|p1481|Silurian|Silurian|Geological Province: Lachlan Fold Belt.|||||
+5668|Douro Group|24317|5|Briefly described|p15 Fig.1|Early Silurian|Early Silurian|Shallow marine-subaerial volcanics.|||||
+5668|Douro Group|24417|4|Described|p44|Silurian|Silurian|Overlies Forbes Group.|||||
+5668|Douro Group|30731|6|Mentioned|Map legend|Silurian|Silurian||||||
+5668|Douro Group|30732|6|Mentioned|p184||||||||
+5668|Douro Group|30734|4|Described|p17||||||||
+5668|Douro Group|32675|5|Briefly described|p7|||Nomenclature. Refers Link (1971); Brunker & Offenberg (9170).|||||
+5668|Douro Group|32820|6|Mentioned|Table 1|||Refers Pogson & Baker (1974)|||||
+5668|Douro Group|32858|6|Mentioned|p32||||||||
+5668|Douro Group|33004|6|Mentioned|p175||||||||
+5668|Douro Group|35070|2|Defined|p77|Late Silurian|Middle Silurian|Middle to Late Silurian.|||||
+5668|Douro Group|35206|6|Mentioned|Map legend|Paleozoic|Paleozoic||||||
+5668|Douro Group|35384|6|Mentioned|Map legend|Late Silurian|Middle Silurian|Middle to Late Silurian|||||
+5668|Douro Group|35386|3|Fully described|p14|||Age discussed P40.|||||
+5668|Douro Group|35607|6|Mentioned|p168|||See also P169,170.|||||
+5668|Douro Group|35608|6|Mentioned|Map legend|Late Silurian|Late Silurian||||||
+5668|Douro Group|35609|4|Described|p7||||||||
+5668|Douro Group|36411|6|Mentioned|p268|||Refs Cramsie et al 1978 for redefinition.|||||
+5668|Douro Group|36413|6|Mentioned|Table 3||||||||
+5668|Douro Group|37529|6|Mentioned|p8||||||||
+5668|Douro Group|38151|6|Mentioned|Table 1||||||||
+5668|Douro Group|39221|6|Mentioned|p263||||||||
+5668|Douro Group|40328|3|Fully described|p88||||||||
+5668|Douro Group|40497|6|Mentioned|Map legend|Silurian|Silurian||||||
+5668|Douro Group|40498|6|Mentioned|p366||||||||
+5668|Douro Group|40882|6|Mentioned|p24||||||||
+5668|Douro Group|42313|6|Mentioned|p122||||||||
+5668|Douro Group|42994|6|Mentioned|p73||||||||
+5668|Douro Group|43795|5|Briefly described|p280||||||||
+5668|Douro Group|44093|5|Briefly described|p187 App. 1|Silurian|Silurian|Volcanics. Geological Province: Lachlan Fold Belt.|||||
+5668|Douro Group|45147|6|Mentioned|M128||||||||
+5668|Douro Group|50230|5|Briefly described|Map legend|Ludlow|Wenlock||||||
+5668|Douro Group|50231|5|Briefly described|Map Legend|Ludlow|Wenlock|Includes: Yass Formation, Hawkins Volcanics, Goobragandra Volcanics.|||||
+5668|Douro Group|50232|5|Briefly described|Map legend|Wenlock|Wenlock|Contains the Hawkins Volcanics.|||||
+5668|Douro Group|50628|5|Briefly described|Map Legend|Silurian|Silurian|Includes: Illunie Volcanics, Glenisla Volcanics.|||||
+5668|Douro Group|60008|5|Briefly described|Map Legend|Silurian|Silurian|Felsic volcanics.|||||
+5668|Douro Group|60009|5|Briefly described|Map Legend|Wenlock|Wenlock|Includes: Glenisla Volcanics, Illunie Volcanics.|||||
+5668|Douro Group|61910|5|Briefly described|p152|Silurian|Silurian|Includes Hawkins Volcanics. Geological Province: Lachlan Fold Belt.|||||
+5668|Douro Group|64295|5|Briefly described|p198 Fig. 1, p199|Early Silurian|Early Silurian||||||
+5668|Douro Group|66300|6|Mentioned|p92.|Middle Silurian|Middle Silurian||||Includes Hawkins Volcanics.||
+24274|Federal Golf Course Tonalite|24128|5|Briefly described|p122|||Geological Province: Lachlan Fold Belt.|||||
+24274|Federal Golf Course Tonalite|42727|5|Briefly described|map legend|Early Devonian|Late Silurian|Tonalite, I-type. Intrudes Walker Volcanics, Mount Painter Volcanics and Yarralumla Formation. BMR map symbol: Sgf. Geol. Prov: Canberra Block.|||||
+24274|Federal Golf Course Tonalite|42820|2|Defined|p68|Late Silurian|||||||
+31675|Federal Suite|42726|5|Briefly described|map legend||Early Devonian||||||
+31675|Federal Suite|44093|5|Briefly described|p198 App.1|Early Devonian|Late Silurian|In the Canberra Block. Geological Province: Lachlan Fold Belt.|||||
+6880|Foxlow beds|23550|5|Briefly described|p504||||||||
+6880|Foxlow beds|42294|5|Briefly described|p24||||||||
+6880|Foxlow beds|67322|6|Mentioned|p16|Late Ordovician|Late Ordovician|Now referred to as the Warbisco Shale (Glen, Dawson and Colquhoun 2007). They contain a diverse Late Ordovician graptolite fauna. |||||Weathered black shales.
+6942|Fyshwick Gravel|12185|5|Briefly described|map legend|||Quartz pebble gravel, coarse sandstone. Age: Permian ?. BMR map symbol: Pf.|||||
+6942|Fyshwick Gravel|29992|6|Mentioned|Map legend|Permian|Permian||||||
+6942|Fyshwick Gravel|29994|6|Mentioned|Map legend|Permian|Permian||||||
+6942|Fyshwick Gravel|31019|6|Mentioned|Map legend|Permian|Permian||||||
+6942|Fyshwick Gravel|31284|6|Mentioned|Map legend|Permian|Permian|Prob. Permian|||||
+6942|Fyshwick Gravel|31527|6|Mentioned|p376|||Permian ?|||||
+6942|Fyshwick Gravel|33328|4|Described|Table 1|||P15|||||
+6942|Fyshwick Gravel|34396|6|Mentioned|p179||||||||
+6942|Fyshwick Gravel|35110|6|Mentioned|p3||||||||
+6942|Fyshwick Gravel|37348|6|Mentioned|p97||||||||
+6942|Fyshwick Gravel|42820|6|Mentioned|p61|||refers to Opik (1958)|||||
+6942|Fyshwick Gravel|43344|14|Not recorded|p110,113,114||Permian||||||
+6942|Fyshwick Gravel|44970|2|Defined|p57-9,61,64-5,68,75||Permian|Fluvioglacial. map|||||
+6942|Fyshwick Gravel|48878|14|Not recorded|p.10,20||Permian|Compared to river gravels at the foot of Mt.Bollard.|||||
+7262|Ginninderra Porphyry|36441|5|Briefly described|map legend|Ludlovian|Ludlovian|Intrusive. ?I-type. Red porphyry with quartz, plagioclase and mafic phenocrysts, rare K-feldspar megacrysts. BMR map code: Spg.|||||
+7262|Ginninderra Porphyry|40328|6|Mentioned|Fig.12(H3)||||||||
+7262|Ginninderra Porphyry|42820|6|Mentioned|p71||||||||
+7262|Ginninderra Porphyry|45147|2|Defined|M255|Ludlovian|Ludlovian||||||
+7302|Gladefield Volcanics|12185|5|Briefly described|map legend|Middle Silurian|Middle Silurian|Acid lavas, tuff, ashstone, interbedded shale. BMR map symbol: Smg.|||||
+7302|Gladefield Volcanics|29992|6|Mentioned|Map legend|Silurian|Silurian||||||
+7302|Gladefield Volcanics|29994|6|Mentioned|Map legend|Middle Silurian|Middle Silurian||||||
+7302|Gladefield Volcanics|31019|6|Mentioned|Map legend|Silurian|Silurian||||||
+7302|Gladefield Volcanics|31111|6|Mentioned|p112|||See also P114, 116, 120, 124, 126, 130, 134|||||
+7302|Gladefield Volcanics|31284|6|Mentioned|Map legend|Late Silurian|Middle Silurian|Middle to Upper SilurianM - U|||||
+7302|Gladefield Volcanics|32671|6|Mentioned|Map legend|Silurian|Silurian||||||
+7302|Gladefield Volcanics|33325|5|Briefly described|Table 2|||See also Table 3.|||||
+7302|Gladefield Volcanics|33328|4|Described|Table 1|||P13|||||
+7302|Gladefield Volcanics|35110|6|Mentioned|p3||||||||
+7302|Gladefield Volcanics|36413|6|Mentioned|p38||||||||
+7302|Gladefield Volcanics|37348|6|Mentioned|p98||||||||
+7302|Gladefield Volcanics|37727|5|Briefly described|p60|||See also P18.|||||
+7302|Gladefield Volcanics|37728|6|Mentioned|Table 4||||||||
+7302|Gladefield Volcanics|40328|4|Described|p99||||||||
+7302|Gladefield Volcanics|47037|6|Mentioned|p107||||||||
+7324|Glebe Farm Adamellite|31284|6|Mentioned|Map legend|Devonian|Silurian|Silurian to Devonian|||||
+7324|Glebe Farm Adamellite|33328|6|Mentioned|p16||||||||
+7324|Glebe Farm Adamellite|36633|6|Mentioned|Map legend|Early Devonian|Late Silurian|Late Silurian to Early Devonian|||||
+7324|Glebe Farm Adamellite|37141|5|Briefly described|Plan 6||||||||
+7324|Glebe Farm Adamellite|37728|4|Described|Table 3||||||||
+7324|Glebe Farm Adamellite|38664|6|Mentioned|Map legend|Late Silurian|Late Silurian||||||
+7324|Glebe Farm Adamellite|40328|4|Described|p206||||||||
+7324|Glebe Farm Adamellite|42820|5|Briefly described|p70|||refers to Strusz & Henderson (1971)|||||
+7780|Greenwood Granite|12185|5|Briefly described|map legend|Devonian|Silurian|Biotite granite. BMR map symbol: gbd.|||||
+7780|Greenwood Granite|29992|6|Mentioned|Map legend|Devonian|Devonian||||||
+7780|Greenwood Granite|29994|6|Mentioned|Map legend|Devonian|Devonian||||||
+7780|Greenwood Granite|31019|6|Mentioned|Map legend|Devonian|Silurian|Silurian - Devonian|||||
+7780|Greenwood Granite|31284|6|Mentioned|Map legend|Devonian|Silurian|Silurian to Devonian|||||
+7780|Greenwood Granite|33325|6|Mentioned|p19|||Sutton Gp.|||||
+7780|Greenwood Granite|33328|5|Briefly described|p17||||||||
+7780|Greenwood Granite|36633|6|Mentioned|Map legend|Early Devonian|Late Silurian|Late Silurian to Early Devonian|||||
+7780|Greenwood Granite|37728|4|Described|Table 3||||||||
+7780|Greenwood Granite|39800|6|Mentioned|Map legend|Late Silurian|Late Silurian||||||
+7780|Greenwood Granite|40328|4|Described|p206||||||||
+7780|Greenwood Granite|44970|14|Not recorded|p22||||||||
+7908|Gungoandra Siltstone|22815|2|Defined|p26,27,124, fig10|Llandovery|Llandovery||||||
+7908|Gungoandra Siltstone|22857|4|Described|p420 App.1 Tb. A1.5|Llandovery|Llandovery|Of the Bendoc Group. Distinctive khaki mudrock with faint planar lamination; interbeds of thin siltstone and fine-grained arenite. Max. thickness: 100m.|||||
+7908|Gungoandra Siltstone|42294|5|Briefly described|p24|||Variation on Gungoandra Siltstone Member.|||||
+7908|Gungoandra Siltstone|42820|6|Mentioned|p12||||||||
+7908|Gungoandra Siltstone|43233|5|Briefly described|Map Legend||Llandovery|of Bendoc Group.|||||
+7908|Gungoandra Siltstone|61413|6|Mentioned|p82 Fig.103.|Early Silurian|Early Silurian|||||Is overlain by Ryrie Formation.|
+7908|Gungoandra Siltstone|63290|5|Briefly described|p403, p396 Fig. 3|Llandovery|Llandovery|Of Bendoc Group. Underlain by Warbisco Shale. Consists of poorly graptolitic Llandovery buff-coloured shale, northeast of Cooma.|||||
+7908|Gungoandra Siltstone|67322|5|Briefly described|p16|Silurian|Late Ordovician|Modified after Richardson 1975: Gungoandra Siltstone Member; raised to Formation status (Gungoandra Siltstone) by Glen et al. (1990), and defined by Glen (1994). Reported to gradationally overlie the Warbisco Shale and thus be a correlative of the Akuna Mudstone. Occurs in the Cooma region. Occurrence of late Llandovery monograptid graptolites in this unit suggests further investigation is necessary.||||Gradationally overlies the Warbisco Shale. Correlative of the Akuna Mudstone.|Khaki mudrock.
+8145|Hattons Corner Group|22768|5|Briefly described|p176|Lochkovian|Ludlow||||||
+8145|Hattons Corner Group|22857|5|Briefly described|p176, p460 App.1 Tb.A1.6|Late Silurian|Late Silurian|Strongly fossiliferous unit. Geological Province: Canberra-Yass Shelf.|||||
+8145|Hattons Corner Group|30069|5|Briefly described|p5||||||||
+8145|Hattons Corner Group|30332|6|Mentioned|Table 1|||Refers to Link(1971)|||||
+8145|Hattons Corner Group|31852|5|Briefly described|p711|||See also P715,718,719,720. Ludlovian|||||
+8145|Hattons Corner Group|31918|6|Mentioned|Table 5||||||||
+8145|Hattons Corner Group|32671|6|Mentioned|Map legend|Silurian|Silurian||||||
+8145|Hattons Corner Group|32672|6|Mentioned|p672||||||||
+8145|Hattons Corner Group|32675|6|Mentioned|p8|||Refers Link (1970, 1971). Strat. Nomenclature|||||
+8145|Hattons Corner Group|32820|6|Mentioned|Table 1|||Refers Pogson & Baker (1974)|||||
+8145|Hattons Corner Group|33325|5|Briefly described|Table 2|||See also Table 3.|||||
+8145|Hattons Corner Group|33606|6|Mentioned|p64||||||||
+8145|Hattons Corner Group|33611|6|Mentioned|p131||||||||
+8145|Hattons Corner Group|35384|6|Mentioned|Map legend|Late Silurian|Late Silurian||||||
+8145|Hattons Corner Group|35386|3|Fully described|p25|||Age discussed P40|||||
+8145|Hattons Corner Group|36411|6|Mentioned|p269|||Refs Cramsie et al 1978 for redefinition.|||||
+8145|Hattons Corner Group|36413|6|Mentioned|Table 3||||||||
+8145|Hattons Corner Group|37727|6|Mentioned|p62||||||||
+8145|Hattons Corner Group|38151|6|Mentioned|Table 1||||||||
+8145|Hattons Corner Group|39331|6|Mentioned|Fig.5-5||||||||
+8145|Hattons Corner Group|40328|4|Described|p108||||||||
+8145|Hattons Corner Group|45075|4|Described|p6|||Fauna|||||
+8145|Hattons Corner Group|45147|6|Mentioned|M150|||See also M152|||||
+8145|Hattons Corner Group|50230|5|Briefly described|Map legend|Late Silurian|Late Silurian||||||
+8145|Hattons Corner Group|64238|5|Briefly described|Map legend|Silurian|Silurian|Includes Silverdale Formation, Rosebank Shale, Elmside Formation, Cowridge Siltstone and Black Bog Shale.|||||
+8145|Hattons Corner Group|66197|5|Briefly described|p632, p631 Fig.3b|Lochkovian|Ludlow|Canberra-Yass Basin. Deep marine shale from the upper Ludlow upwards (shallow marine limestone below). Overlies the Silverdale Formation.|||||
+8179|Hawkins Suite|22768|4|Described|p176||||||||
+8179|Hawkins Suite|22857|5|Briefly described|p176|||In the Canberra area - composed of dacitic lava, ignimbrite and interbedded sediments at base (Mount Ainslie, Paddys River and Walker Volcanics) overlain by Wenlock strata followed by a large dacitic ignimbrite. Overlies Canberra Fm; underlies Yass Fm.|||||
+8179|Hawkins Suite|23439|6|Mentioned|p130||||||||
+8179|Hawkins Suite|23547|5|Briefly described|p553||||||||
+8179|Hawkins Suite|23549|5|Briefly described|p522|Devonian|Silurian|Geological Province: Lachlan Fold Belt.|||||
+8179|Hawkins Suite|24128|5|Briefly described|p3|||Geological Province: Lachlan Fold Belt.|||||
+8179|Hawkins Suite|41563|6|Mentioned|p512||||||||
+8179|Hawkins Suite|43158|4|Described|Fig1p2; p3,4,5,7,13||Early Silurian||||||
+8179|Hawkins Suite|43159|4|Described|Fig.2p4,p1,p3,p9.|Late Silurian|Early Silurian|Volcanics.Intrusive rocks of the suite known as Bullenballong Suite. Extend from Dubbo to Kiandra.|||||
+8179|Hawkins Suite|50606|6|Mentioned|p4.3|||Geological Province: Lachlan Fold Belt.|||||
+8184|Hawkins Volcanics|22691|6|Mentioned|Fig2 P316||Silurian||||||
+8184|Hawkins Volcanics|22768|5|Briefly described|p176||||||||
+8184|Hawkins Volcanics|22857|4|Described|p176, p460 App.1 Tb.A1.6|Middle Silurian|Middle Silurian|Dacitic crystal tuff and ignimbrite, fine tuff, andesitic and dacite lava with interbedded limestone, sandstone, shale. Contains graptolites, brachiopods, nautiloids. Max. thickness: ~1770m(Est.). Geological Province: Canberra-Yass Shelf.|||||
+8184|Hawkins Volcanics|23549|5|Briefly described|p522.|||Of the Hawkins Suite.  Closely related to the Bullenbalong Supersuite rocks.|||||
+8184|Hawkins Volcanics|24248|5|Briefly described|p50 Fig.1|Wenlock|Wenlock|Geological Province: Yass Syncline.|||||
+8184|Hawkins Volcanics|24317|5|Briefly described|p14, p15 Fig.1|Silurian|Silurian|Volcanics and volcaniclastics with minor sedimentary rocks and limestone, subaerial to shallow marine deposits.|||||
+8184|Hawkins Volcanics|24417|6|Mentioned|p45|Silurian|Silurian||||||
+8184|Hawkins Volcanics|30069|5|Briefly described|p5||||||||
+8184|Hawkins Volcanics|30731|6|Mentioned|Map legend|Silurian|Silurian||||||
+8184|Hawkins Volcanics|32675|6|Mentioned|p7|||Strat. Nomenclature|||||
+8184|Hawkins Volcanics|32820|6|Mentioned|Table 1|||Refers Pogson & Baker (1974)|||||
+8184|Hawkins Volcanics|32858|4|Described|p32|||Lithology|||||
+8184|Hawkins Volcanics|33325|5|Briefly described|Table 2|||See also Table 3.|||||
+8184|Hawkins Volcanics|35070|6|Mentioned|p78||||||||
+8184|Hawkins Volcanics|35384|6|Mentioned|Map legend|Middle Silurian|Middle Silurian||||||
+8184|Hawkins Volcanics|35386|3|Fully described|p14||||||||
+8184|Hawkins Volcanics|36411|6|Mentioned|p269|||Refs Cramsie et al 1978 for redefinition.|||||
+8184|Hawkins Volcanics|36413|6|Mentioned|Table 3||||||||
+8184|Hawkins Volcanics|36441|5|Briefly described|map legend|Wenlockian|Wenlockian|Extrusive. Grey green dacite ignimbrite. Underlies Glen Bower Formation. BMR map code: Svh.|||||
+8184|Hawkins Volcanics|36633|6|Mentioned|Map legend|Middle Silurian|Middle Silurian||||||
+8184|Hawkins Volcanics|37728|4|Described|Table 2||||||||
+8184|Hawkins Volcanics|37752|6|Mentioned|p105||||||||
+8184|Hawkins Volcanics|38035|6|Mentioned|p91||||||||
+8184|Hawkins Volcanics|38151|6|Mentioned|Table 1||||||||
+8184|Hawkins Volcanics|38202|5|Briefly described|p52|||Base metal sulfide mineralization.|||||
+8184|Hawkins Volcanics|40328|3|Fully described|p95||||||||
+8184|Hawkins Volcanics|40689|6|Mentioned|p4||||||||
+8184|Hawkins Volcanics|40738|5|Briefly described|p622||||||||
+8184|Hawkins Volcanics|41133|6|Mentioned|p1118||||||||
+8184|Hawkins Volcanics|42497|5|Briefly described|Map legend|Wenlockian|Wenlockian||||||
+8184|Hawkins Volcanics|42726|5|Briefly described|map legend|Silurian||V40.  Of the Bullenbalong Suite (Bullenbalong Supersuite).  Formal name not intended.|||||
+8184|Hawkins Volcanics|43147|5|Briefly described|p53|||Of Bullenbalong Supersuite.|||||
+8184|Hawkins Volcanics|43158|4|Described|3,13||||||||
+8184|Hawkins Volcanics|43834|6|Mentioned|p32||||||||
+8184|Hawkins Volcanics|44093|5|Briefly described|p196 App. 1|Devonian|Silurian|Geological Province: Lachlan Fold Belt.|||||
+8184|Hawkins Volcanics|45147|3|Fully described|M150|||See also M128.|||||
+8184|Hawkins Volcanics|49705|6|Mentioned|p29||||||||
+8184|Hawkins Volcanics|50230|5|Briefly described|Map legend|Wenlock|Wenlock|Of the Douro Group.  Ignimbrite; occasional quartz and dioritic xenoliths. Contains the Ledgeworth Facies and Vale View Facies. Overlain by the Yass Formation.|||||
+8184|Hawkins Volcanics|50231|5|Briefly described|Map Legend|Ludlow|Wenlock|Of the Douro Group.|||||
+8184|Hawkins Volcanics|61910|5|Briefly described|p152|Silurian|Silurian|Of the Douro Group. Geological Province: Lachlan Fold Belt.|||||
+8184|Hawkins Volcanics|64238|5|Briefly described|Map legend|Silurian|Silurian|Of Douro Gp. Blue-grey massive, med.- to coarse-gr., often welded porphyritic crystal vitric biotite-cordierite-garnet rhyolitic to dacitic ignimbrite. Occasional quartz and dioritic xenoliths. Flow-banded, vesicular rhyodacitic to dacitic lava, volc.sst.|||||
+8184|Hawkins Volcanics|64994|5|Briefly described|p7|Wenlock|Wenlock|Of Sherwin and Strusz (2002). Includes shales containing graptolites. Ewuivalent of the Canowindra Volcanics.|||||
+8184|Hawkins Volcanics|66197|5|Briefly described|p630, p631 Fig.3b, p632|Wenlock|Llandovery|Canberra-Yass Basin.| Shown as 428 +/- 5 Ma.||Includes Bango Limestone Member.|Underlies the Yass Formation and Yarralumla Formation. Overlies the Canberra Formation in places.|Massive S-type ignimbrites; locally contains late Wenlock shallow marine sedimentary rocks.
+8184|Hawkins Volcanics|66300|5|Briefly described|p92.||||433.7 +/- 3.0 Ma.|Unit in Douro Group.||Intruded by Rye Park Granite.|
+8184|Hawkins Volcanics|66713|5|Briefly described|p1, p3 Fig.2, p4 Fig.3, p6, p10|Wenlock|Llandovery|Early Silurian. Felsic volcanics, quartz-lithic sandstone and tuffaceous shale; characteristic abundant feldspar and quartz crystal fragments. Hosts the Western vein in the Phoenix W deposit. Is intruded by Rye Park Granite.|||||
+8512|Hoskinstown Group|22768|5|Briefly described|p177|Ludlow|Wenlock||||||
+8512|Hoskinstown Group|22857|5|Briefly described|p177, p474 App.1 Tb.A1.6|Ludlovian|Wenlockian|Geological Province: Captains Flat-Goulburn Trough.|||||
+8512|Hoskinstown Group|23048|6|Mentioned|p2||Late Silurian||||||
+8512|Hoskinstown Group|32820|6|Mentioned|p3|||Formation members.|||||
+8512|Hoskinstown Group|36413|2|Defined|p55|Silurian|Silurian||||||
+8512|Hoskinstown Group|36414|5|Briefly described|map legend|Pridolian|Ludlovian|Includes Captains Flat Formation, Carwoola Formation, Kohinoor Volcanics and Copper Creek Shale.|||||
+8512|Hoskinstown Group|37727|6|Mentioned|p63||||||||
+8512|Hoskinstown Group|40328|4|Described|p180||||||||
+8512|Hoskinstown Group|42727|5|Briefly described|map legend|Pridoli|Ludlow|Includes Captains Flat and Carwoola Formations, Kohinoor Volcanics and Copper Creek Shale. Geol. Prov: Captains Flat Block.|||||
+8512|Hoskinstown Group|42820|2|Defined|p45|Pridoli|Ludlow||||||
+8512|Hoskinstown Group|44093|5|Briefly described|p209 App. 1|Early Devonian|Late Silurian|Geological Province: Lachlan Fold Belt.|||||
+8512|Hoskinstown Group|48878|14|Not recorded|Fig.3,p.7||Silurian|(I55-16). Defn. on Tech.File I/55-16.|||||
+8512|Hoskinstown Group|66197|5|Briefly described|p631 Fig.3c|Late Silurian|Late Silurian|Includes Captains Flat, Carwoola and Kohinoor Formations and the Copper Creek Shale.|||||
+8945|Jervis Bay Sandstone|41356|6|Mentioned|p38||||||||
+8945|Jervis Bay Sandstone|63233|4|Described|p646, p647|Permian|Early Permian|Includes; sandstone, conglomerate, siltstone. Sandstone is horizontal to genlty dipping, thickly bedded and vertically jointed.|||||
+10024|Laidlaw Volcanics|22590|6|Mentioned|P761||Wenlock|Age of unit is 421+/-2 Ma|||||
+10024|Laidlaw Volcanics|22768|6|Mentioned|p176||||||||
+10024|Laidlaw Volcanics|22857|4|Described|p176, p460 App.1 Tb.A1.6|Late Silurian|Late Silurian|Overlies the Yass Formation in the Canberra area. Age: 420+/-2.2Ma (K/Ar and Rb.Sr on biotite) in Canberra-Yass Shelf region. Max. thickness: 1km. Geol. Prov: Canberra-Yass Shelf. See also p462 App.1 Tb.A1.6.|||||
+10024|Laidlaw Volcanics|24248|5|Briefly described|p51, p50, Fig.1|Gorstian|Gorstian|Overlying Unit: Silverdale Formation. Underlying unit: Yass Formation. Thick sequence of ignimbritic quartz-feldpar-biotite volcanics. Age: 421.1 +/- 3 Ma (Rb/Sr) and 419.6 +/- 5 Ma (SHRIMP U-Pb).|||||
+10024|Laidlaw Volcanics|24417|6|Mentioned|p164||||||||
+10024|Laidlaw Volcanics|32106|6|Mentioned|p305|||Palaeomagnetic data|||||
+10024|Laidlaw Volcanics|35325|4|Described|p483|||Chemical analysis p484.|||||
+10024|Laidlaw Volcanics|35326|6|Mentioned|p485||||||||
+10024|Laidlaw Volcanics|35412|6|Mentioned|p84||||||||
+10024|Laidlaw Volcanics|36441|5|Briefly described|map legend|Ludlovian|Ludlovian|Extrusive. ?I-type. Extrusive. Dark to light grey porphyritic rhyodacite ignimbrite. Overlies Yass Formation; unconformably overlies Glen Bower Formation; unconformably underlies Mountain Creek Volcanics. BMR map code: Svl.|||||
+10024|Laidlaw Volcanics|36633|6|Mentioned|Map legend|Late Silurian|Late Silurian||||||
+10024|Laidlaw Volcanics|37013|6|Mentioned|p13||||||||
+10024|Laidlaw Volcanics|37728|4|Described|Table 2||||||||
+10024|Laidlaw Volcanics|37752|6|Mentioned|p105||||||||
+10024|Laidlaw Volcanics|38035|4|Described|p90||||||||
+10024|Laidlaw Volcanics|38626|6|Mentioned|p297||||||||
+10024|Laidlaw Volcanics|39507|6|Mentioned|p171||||||||
+10024|Laidlaw Volcanics|39975|6|Mentioned|Fig.1||||||||
+10024|Laidlaw Volcanics|40689|6|Mentioned|p5||||||||
+10024|Laidlaw Volcanics|41356|5|Briefly described|p42||||||||
+10024|Laidlaw Volcanics|42497|5|Briefly described|Map legend|Ludlovian|Wenlockian||||||
+10024|Laidlaw Volcanics|42726|5|Briefly described|map legend|Silurian|||||||
+10024|Laidlaw Volcanics|42727|5|Briefly described|map legend|Ludlow|Ludlow|Of Laidlaw Volcanic Suite. Rhyodacitic ignimbrite, minor volcaniclastic and argillaceous sediments. Overlies Deakin Volcanics; faulted against Adaminaby beds and Shannons Flat Adamellite. BMR map symbol: Sul. Geol. Prov: Canberra Block.|||||
+10024|Laidlaw Volcanics|42820|2|Defined|p36|early Ludlow||Of Laidlaw Volcanic Suite. Age earliest Ludlow.|||||
+10024|Laidlaw Volcanics|43158|4|Described|4,13||Late Silurian|K-Ar & Rb-Sr biotite ages 420+-2.2Ma (early Ludlovian). Up to 500m thick.|||||
+10024|Laidlaw Volcanics|43159|4|Described|Fig.2 p4,P6,P8,p10.||Ludlovian|K-Ar and Rb-Sr dated at 420.7 +/-2.2 My. Of Laidlaw Suite.|||||
+10024|Laidlaw Volcanics|43481|6|Mentioned|3||||||||
+10024|Laidlaw Volcanics|44092|5|Briefly described|map legend|Late Silurian|Early Silurian|Sv4|||||
+10024|Laidlaw Volcanics|45147|2|Defined|M151|early Ludlovian|early Ludlovian||||||
+10024|Laidlaw Volcanics|50230|5|Briefly described|Map legend|Late Silurian|Early Silurian|Of the Douro Group.  Overlies the Yass Formation; overlain by the Yanawe Formation.  Porphyritic rhyodacitic ignimbrite.|||||
+10024|Laidlaw Volcanics|60078|6|Mentioned|Map Legend|Silurian|Silurian||||||
+10024|Laidlaw Volcanics|64238|5|Briefly described|Map legend|Silurian|Silurian|Of Douro Group. Dark to light grey, very coarse-grained, porphyritic, rhyodacitic ignimbrite. Sporadically grades to a coarse-grained equigranular ignimbrite. Rare columnar structure.|||||
+10024|Laidlaw Volcanics|64571|5|Briefly described|p828|Ludlow|Ludlow|Age: 420.7+/-2.2Ma (K/Ar and Rb/Sr). ACT.|||||
+10024|Laidlaw Volcanics|64994|5|Briefly described|p1, p4, p6|||Age of this unit is in dispute. Originally given as 420.7+/-2.2Ma (Wyborn et al (1982).|||||
+10024|Laidlaw Volcanics|66197|5|Briefly described|p631, p631 Fig.3b|||Canberra-Yass Basin. Underlies the Silverdale Formation. Overlies the Yass Formation.|||||
+10511|Livingstone Porphyry|22768|6|Mentioned|p178||||||||
+10511|Livingstone Porphyry|22857|6|Mentioned|p178|Early Devonian|Early Devonian||||||
+10511|Livingstone Porphyry|32820|6|Mentioned|p6||||||||
+10511|Livingstone Porphyry|36413|2|Defined|p85|Early Devonian|Early Devonian|Also mention P45.|||||
+10511|Livingstone Porphyry|36414|5|Briefly described|map legend|Early Devonian|Early Devonian|Dacitic porphyry, minor xenoliths. GSNSW map code: S-Dl.|||||
+10511|Livingstone Porphyry|39626|6|Mentioned|p276||||||||
+10511|Livingstone Porphyry|40328|4|Described|p208||||||||
+10511|Livingstone Porphyry|42820|6|Mentioned|p71||||||||
+10511|Livingstone Porphyry|61895|6|Mentioned|p134 Fig.1,||||||||
+10603|London Bridge Formation|12185|5|Briefly described|map legend|Middle Silurian|Middle Silurian|Grouped with Fairbairn Group, Mount Pleasant Porphyry, Saint Johns Beds in legend. Calcareous shale, limestone, sandstone, tuff, porphyry, altered acid lavas. BMR map symbol: Smf.|||||
+10603|London Bridge Formation|33325|5|Briefly described|Table 2|||Early Ludlovian. ?Same as Cappanana Beds P14.|||||
+10603|London Bridge Formation|37727|5|Briefly described|p68||||||||
+10603|London Bridge Formation|37728|6|Mentioned|Table 4||||||||
+10619|Long Flat Volcanics|12185|5|Briefly described|map legend|Silurian|Silurian|Quartz felsite, rhyolite, toscanite, porphyry, tuff. BMR map symbol: Svl.|||||
+10619|Long Flat Volcanics|22768|6|Mentioned|p176||||||||
+10619|Long Flat Volcanics|22857|4|Described|p176, p480 App.1 Tb.A1.6|Late Silurian|Late Silurian|Crystal-lithic and welded tuffs, rhyolite, minor sediments, arenite, siltstone and shale. Max. thickness: >1.5km. See also p480 App.1 Tb.A1.6.|||||
+10619|Long Flat Volcanics|23048|6|Mentioned|p2||||||||
+10619|Long Flat Volcanics|23309|6|Mentioned|p390||||||||
+10619|Long Flat Volcanics|24266|5|Briefly described|p1485|Silurian|Silurian|Geological Province: Lachlan Fold Belt.|||||
+10619|Long Flat Volcanics|24272|5|Briefly described|p1646, 1651|Late Silurian|Late Silurian|Age: 424-409 Ma.|||||
+10619|Long Flat Volcanics|29992|6|Mentioned|Map legend|Silurian|Silurian||||||
+10619|Long Flat Volcanics|29994|6|Mentioned|Map legend|Silurian|Silurian||||||
+10619|Long Flat Volcanics|30735|2|Defined|p33|Silurian|Silurian||||||
+10619|Long Flat Volcanics|30736|6|Mentioned|Map legend|Early Silurian|Early Silurian||||||
+10619|Long Flat Volcanics|31019|6|Mentioned|Map legend|Silurian|Silurian||||||
+10619|Long Flat Volcanics|31161|5|Briefly described|PA7||||||||
+10619|Long Flat Volcanics|31411|5|Briefly described|p16||||||||
+10619|Long Flat Volcanics|32671|6|Mentioned|Map legend|Silurian|Silurian||||||
+10619|Long Flat Volcanics|32672|6|Mentioned|p672||||||||
+10619|Long Flat Volcanics|32820|6|Mentioned|Table 1|||Refers Felton & Huleatt (in press)|||||
+10619|Long Flat Volcanics|33325|6|Mentioned|p14|||Sil.|||||
+10619|Long Flat Volcanics|34059|6|Mentioned|Map legend|Silurian|Silurian||||||
+10619|Long Flat Volcanics|34692|6|Mentioned|p183||||||||
+10619|Long Flat Volcanics|36413|6|Mentioned|Table 3||||||||
+10619|Long Flat Volcanics|37727|5|Briefly described|p68|||See also P18 and P21.|||||
+10619|Long Flat Volcanics|39028|6|Mentioned|Map legend|Pridolian|Ludlovian|Pridolian to Ludlovian|||||
+10619|Long Flat Volcanics|40276|2|Defined|p6|Late Silurian|Late Silurian||||||
+10619|Long Flat Volcanics|40328|4|Described|p185||||||||
+10619|Long Flat Volcanics|42497|5|Briefly described|Map legend|Pridolian|Ludlovian||||||
+10619|Long Flat Volcanics|42726|5|Briefly described|map legend|Early Devonian|Silurian||||||
+10619|Long Flat Volcanics|44093|5|Briefly described|p221 App. 1|Late Silurian|Late Silurian|Geological Province: Lachlan Fold Belt.|||||
+10619|Long Flat Volcanics|66300|5|Briefly described|p35, pp41-51. |Early Devonian|Early Devonian|The ages of all dated units in the LFV are indistinguishable from each other and the "northern phase" of the Braidwood Granodiorite.||Unit in Bindook Group.|Said in this study to include locally the Kadoona Dacite, Manar Ignimbrite, Toggannoggra Rhyolite, Croppies Gunyah Rhyolite and Kain Porphyry Members.|Intruded by Braidwood Granodiorite and Boro Granite.|
+10619|Long Flat Volcanics|69159|5|Briefly described|Map legend|Devonian|Devonian|||Unit in Bindook Group.|Includes Tooggannoggra Rhyolite, Ralpin Valley Sandstone, Kain Porphyry, Manar Ignimbrite, Kadoona Dacite, and Croppies Gunyah Ignimbrite, Members.|Overlies Jinglemoney Conglomerate.|Dacitic to rhyolitic, mainly crystal-rich welded ignimbrite; minor conglomerate, volcanic sandstone and rare siltstone; medium- to coarse-grained, crystal-rich, plagioclase-quartz-ferromagnesian-phyric dacite.
+32172|Lyons Ashstone|43159|5|Briefly described|Fig.2 p4, p6,p10||||||||
+22286|McDonald Granite Porphyry|36441|5|Briefly described|map legend|Pridolian|Pridolian|Of Murrumbidgee Batholith. Intrusive. S-type. Porphyritic and K-feldspar megacryst-bearing granite. BMR map code: Smm.|||||
+22286|McDonald Granite Porphyry|45147|2|Defined|M202|Late Silurian|Late Silurian|Probably Late Silurian|||||
+12438|Mount Ainslie Volcanics|22768|5|Briefly described|p176||||||||
+12438|Mount Ainslie Volcanics|22857|4|Described|p176, p462 App.1 Tb.A1.6|Wenlockian|Wenlockian|Of the Hawkins Suite. At base banded dacitic tuff, agglomerate and thin shale beds; at top medium-grained massive dacitic tuff; contains trilobites, brachiopods. Max. thickness: 700m. |||||
+12438|Mount Ainslie Volcanics|39975|6|Mentioned|Fig.1||||||||
+12438|Mount Ainslie Volcanics|41356|5|Briefly described|p46|||See also P78|||||
+12438|Mount Ainslie Volcanics|42497|5|Briefly described|Map legend|Wenlockian|Wenlockian|Actually spelt Mt Ainslie Volcanics.|||||
+12438|Mount Ainslie Volcanics|42727|5|Briefly described|map legend|Wenlock|Wenlock|Of Hawkins Volcanic Suite. Dacitic ingnimbrite, minor ashstone, agglomerate and shale. Overlies Canberra Formation; disconformably underlies Mount Painter Volcanics. BMR map symbol: Sma. Geol. Prov: Canberra Block.|||||
+12438|Mount Ainslie Volcanics|42820|2|Defined|p22|Early Silurian||of Hawkins Volcanic Suite|||||
+12438|Mount Ainslie Volcanics|43159|4|Described|Fig.2p4,p3,p8,p9.||Silurian||||||
+31120|Mount Majura Volcanics|43481|6|Mentioned|8||||||||
+24403|Mount Painter Volcanics|22768|6|Mentioned|p176||||||||
+24403|Mount Painter Volcanics|22857|4|Described|p176, p462 App.1 Tb.A1.6|Wenlockian|Wenlockian|Of the Hawkins Suite. Large dacitic ignimbrite. Max. thickness: >1km. Geological Province: Canberra-Yass Shelf. |||||
+24403|Mount Painter Volcanics|35325|4|Described|p483|||Chemical analysis P484|||||
+24403|Mount Painter Volcanics|35326|6|Mentioned|p485|||Geochemistry|||||
+24403|Mount Painter Volcanics|36633|6|Mentioned|Map legend|Middle Silurian|Middle Silurian||||||
+24403|Mount Painter Volcanics|37728|4|Described|Table 2||||||||
+24403|Mount Painter Volcanics|37752|6|Mentioned|Fig.2||||||||
+24403|Mount Painter Volcanics|38035|6|Mentioned|p92||||||||
+24403|Mount Painter Volcanics|38664|5|Briefly described|p11||||||||
+24403|Mount Painter Volcanics|39947|6|Mentioned|Map legend|Middle Silurian|Middle Silurian||||||
+24403|Mount Painter Volcanics|39975|6|Mentioned|Fig.1||||||||
+24403|Mount Painter Volcanics|41356|4|Described|p16|||See also P49|||||
+24403|Mount Painter Volcanics|42497|5|Briefly described|Map legend|Wenlockian|Wenlockian|Actually spelt Mt Painter Volcanics.|||||
+24403|Mount Painter Volcanics|42726|5|Briefly described|map legend|Silurian|||||||
+24403|Mount Painter Volcanics|42727|5|Briefly described|map legend|Wenlock|Wenlock|Of Hawkins Volcanic Suite. Dacitic ignimbrite with lithic xenoliths and dacitic autoliths, tuff and ashstone. Under Yarralumla Formation and over Walker Volcanics; intruded by Federal Golf Course Tonalite. BMR map symbol: Smp. Geol. Prov: Canberra Block.|||||
+24403|Mount Painter Volcanics|42820|2|Defined|p26|late Wenlock||of Hawkins Volcanic Suite. Age late Early Silurian (late Wenlock)|||||
+24403|Mount Painter Volcanics|43158|4|Described|3,13||||||||
+24403|Mount Painter Volcanics|43159|4|Described|Fig.2p4,p3,p9.|||of Hawkins Suite.|||||
+24403|Mount Painter Volcanics|43481|6|Mentioned|3||||||||
+24403|Mount Painter Volcanics|45147|6|Mentioned|M137||||||||
+24403|Mount Painter Volcanics|49043|5|Briefly described|p7|||Formerly Mount Painter Porphyry|||||
+31119|Mount Taylor Volcanics|43481|6|Mentioned|8||||||||
+31121|Mount Tuggeranong Volcanics|43481|6|Mentioned|8||||||||
+32033|Mountain Creek Suite|22768|5|Briefly described|p178||||||||
+32033|Mountain Creek Suite|22857|5|Briefly described|p178|Early Devonian|Early Devonian|Geological Province: Canberra-Yass Shelf. |||||
+32033|Mountain Creek Suite|43158|4|Described|Fig1p2; p4,13||||||||
+32033|Mountain Creek Suite|43159|4|Described|p1,6||||||||
+13264|Mountain Creek Volcanics|12185|5|Briefly described|map legend|Lower Devonian|Lower Devonian|Of Black Range Group. Mainly rhyolite, andesite, dacite, agglomerate, tuff. BMR map symbol: Dlm.|||||
+13264|Mountain Creek Volcanics|22590|5|Briefly described|P760||Early Devonian||||||
+13264|Mountain Creek Volcanics|22638|1|Redefined|p67|Pragian|Lochkovian|Part of the Boggy Plain Supersuite. Thickness: 5000 m.|||||
+13264|Mountain Creek Volcanics|22691|6|Mentioned|Fig7 P319||Devonian||||||
+13264|Mountain Creek Volcanics|22768|6|Mentioned|p178||||||||
+13264|Mountain Creek Volcanics|22778|6|Mentioned|p 163||||||||
+13264|Mountain Creek Volcanics|22857|4|Described|p178, p462 App.1 Tb.A1.6|Lochkovian|Lochkovian|Basal subaerial volcanics of the Black Range Group; overlain by Kirawin Formation, Sugarloaf Creek Formation. Age: 406+/-1Ma (Rb/Sr). Max. thickness: 5km. Geological Province: Canberra-Yass Shelf. See also p464 App.1 Tb.A1.6.|||||
+13264|Mountain Creek Volcanics|23309|6|Mentioned|p390||||||||
+13264|Mountain Creek Volcanics|24005|6|Mentioned|p293|||Of Black Range Group. Geological Province: Lachlan Fold Belt|||||
+13264|Mountain Creek Volcanics|24266|5|Briefly described|p1486|||Geological Province: Lachlan Fold Belt. Of the Boggy Plain Supersuite.|||||
+13264|Mountain Creek Volcanics|24317|5|Briefly described|p14|Early Devonian|Early Devonian||||||
+13264|Mountain Creek Volcanics|24417|5|Briefly described|p77|||Of Black Range Group.|||||
+13264|Mountain Creek Volcanics|24514|5|Briefly described|p31|||Of the Boggy Plain Supersuite. Rhyolitic lavas. Geological Province: Lachlan Fold Belt.|||||
+13264|Mountain Creek Volcanics|24580|6|Mentioned|p832|||Geological Province: Eastern Lachlan Fold Belt.|||||
+13264|Mountain Creek Volcanics|29456|5|Briefly described|p423||||||||
+13264|Mountain Creek Volcanics|29648|6|Mentioned|p20||||||||
+13264|Mountain Creek Volcanics|29989|6|Mentioned|Map legend|Early Devonian|Early Devonian||||||
+13264|Mountain Creek Volcanics|29992|6|Mentioned|Map legend|Devonian|Devonian||||||
+13264|Mountain Creek Volcanics|29993|6|Mentioned|Map legend|Devonian|Devonian||||||
+13264|Mountain Creek Volcanics|29994|6|Mentioned|Map legend|Early Devonian|Early Devonian||||||
+13264|Mountain Creek Volcanics|30069|5|Briefly described|p7||||||||
+13264|Mountain Creek Volcanics|30731|6|Mentioned|Map legend|Early Devonian|Early Devonian||||||
+13264|Mountain Creek Volcanics|30734|6|Mentioned|p18||||||||
+13264|Mountain Creek Volcanics|31013|6|Mentioned|p3|||Lower Devonian|||||
+13264|Mountain Creek Volcanics|31019|6|Mentioned|Map legend|Early Devonian|Early Devonian||||||
+13264|Mountain Creek Volcanics|31111|6|Mentioned|p204|||Also mention P206, 210, 212|||||
+13264|Mountain Creek Volcanics|32088|6|Mentioned|p10|||U.Sil.-L.Dev.|||||
+13264|Mountain Creek Volcanics|32483|4|Described|p29|||Lower Devonian. Strat. table 1|||||
+13264|Mountain Creek Volcanics|32675|6|Mentioned|p8|||Refers Brunker & Offenberg (1970). Strat. Nomenclature|||||
+13264|Mountain Creek Volcanics|33325|5|Briefly described|Table 4||||||||
+13264|Mountain Creek Volcanics|33326|6|Mentioned|p441|||Fauna.|||||
+13264|Mountain Creek Volcanics|33959|6|Mentioned|p233||||||||
+13264|Mountain Creek Volcanics|34403|6|Mentioned|p141||||||||
+13264|Mountain Creek Volcanics|34405|6|Mentioned|p120||||||||
+13264|Mountain Creek Volcanics|35384|6|Mentioned|Map legend|Early Devonian|Early Devonian||||||
+13264|Mountain Creek Volcanics|35386|3|Fully described|p42||||||||
+13264|Mountain Creek Volcanics|36411|6|Mentioned|p269|||Refers Cramsie et al 1978 for definition|||||
+13264|Mountain Creek Volcanics|36441|5|Briefly described|map legend|Lochkovian|Lochkovian|Extrusives. I-type. Rhyolite lava and ignimbrite, agglomerate, flow breccia, tuff, shale, sandstone and siltstone. Underlies Kirawin Formation; overlies Blue Waterhole Formation; unconformably overlies Uriarra Volcanics. BMR map code: Dlm1 to Dlm9.|||||
+13264|Mountain Creek Volcanics|36443|5|Briefly described|map legend|Pragian|Lochkovian|Of Boggy Plain I-type Suite. Extrusive. Rhyolite, minor tuff. BMR map code: Dlm7.|||||
+13264|Mountain Creek Volcanics|37727|6|Mentioned|Fig.1.||||||||
+13264|Mountain Creek Volcanics|38035|6|Mentioned|p93||||||||
+13264|Mountain Creek Volcanics|39409|6|Mentioned|Table XVII||||||||
+13264|Mountain Creek Volcanics|39800|6|Mentioned|Map legend|Early Devonian|Early Devonian||||||
+13264|Mountain Creek Volcanics|40328|6|Mentioned|p17|||See also P62|||||
+13264|Mountain Creek Volcanics|40738|4|Described|p624||||||||
+13264|Mountain Creek Volcanics|40882|6|Mentioned|p22||||||||
+13264|Mountain Creek Volcanics|41133|6|Mentioned|p1115||||||||
+13264|Mountain Creek Volcanics|42313|6|Mentioned|p122||||||||
+13264|Mountain Creek Volcanics|42497|5|Briefly described|Map legend|Lochkovian|Lochkovian||||||
+13264|Mountain Creek Volcanics|42726|5|Briefly described|map legend|Early Devonian||Is refered to as V32 and V42.  Of the Boggy Plain Suite (Boggy Plain Supersuite).|||||
+13264|Mountain Creek Volcanics|43158|4|Described|4,13||Early Devonian||||||
+13264|Mountain Creek Volcanics|43159|4|Described|Fig.2p4,p7,p10.||Early Devonian|Of Mountain Creek Suite.|||||
+13264|Mountain Creek Volcanics|43479|14|Not recorded|p125,151||Early Devonian||||||
+13264|Mountain Creek Volcanics|44092|5|Briefly described|map legend|Early Devonian|Early Devonian|Dlv3|||||
+13264|Mountain Creek Volcanics|44093|5|Briefly described|p189 App. 1|Early Devonian|Early Devonian|Geological Province: Lachlan Fold Belt.|||||
+13264|Mountain Creek Volcanics|44192|5|Briefly described|Map Legend||Lochkovian||||||
+13264|Mountain Creek Volcanics|44936|5|Briefly described|Map Legend||Early Devonian||||||
+13264|Mountain Creek Volcanics|45147|2|Defined|M179|early Pragian|Lochkovian|Lochkovian, possibly to Early Pragian.|||||
+13264|Mountain Creek Volcanics|50230|5|Briefly described|Map legend|Pragian|Lochkovian|Of the Black Range Group.|||||
+13264|Mountain Creek Volcanics|50231|5|Briefly described|Map Legend|Lochkovian|Lochkovian|Of the Black Range Group.|||||
+13264|Mountain Creek Volcanics|60078|6|Mentioned|Map Legend|Devonian|Devonian||||||
+13264|Mountain Creek Volcanics|64238|5|Briefly described|Map legend|Devonian|Devonian|Of Black Range Group. Contains 5 unnamed subunits. Dark purplish to dark grey, massive, occasionally flow banded porphyritic rhyodacitic to dacitic welded crystal-vitric ignimbrite and lava, minor volcaniclastic sandstone.|||||
+13264|Mountain Creek Volcanics|66197|5|Briefly described|p631 Fig.3b, p632|Early Devonian||Canberra-Yass Basin. Silicic volcanics. Underlies the Sugarloaf Creek Formation, the Kirawin Formation and, in places, the Murrumbidgee Group.|||||
+24407|Mugga Mugga Porphyry Member|22857|4|Described|p462 App.1 Tb.A1.6|Silurian|Silurian|Of Deakin Volcanics. Compact blue and mauve-grey porphyritic rhyodacite, volcaniclastic and waterlaid epiclastic tuff, tuffaceous shale. Age: 414+/-9Ma (Rb/Sr). Max. thickness: 300m. |||||
+24407|Mugga Mugga Porphyry Member|36633|6|Mentioned|Map legend|Late Silurian|Late Silurian||||||
+24407|Mugga Mugga Porphyry Member|37728|4|Described|Table 2||||||||
+24407|Mugga Mugga Porphyry Member|38664|5|Briefly described|p12||||||||
+24407|Mugga Mugga Porphyry Member|42727|5|Briefly described|map legend|Ludlow|Ludlow|Of Deakin Volcanics. Rhyodacite lava. BMR map symbol: Sum. Geol. Prov: Canberra Block.|||||
+24407|Mugga Mugga Porphyry Member|42820|2|Defined|p33|early Ludlow||of Deakin Volcanics. Age early Ludlovian|||||
+24407|Mugga Mugga Porphyry Member|43159|5|Briefly described|Fig.2p4,p6,p10||Late Silurian|of Deakin Volcanics, Laidlaw Suite.|||||
+13411|Mumbil Group|6969|5|Briefly described|p12|Middle Silurian|Middle Silurian|Geological Province: Lachlan Fold Belt.|||||
+13411|Mumbil Group|22472|5|Briefly described|p36||||||||
+13411|Mumbil Group|22529|6|Mentioned|1||||||||
+13411|Mumbil Group|22590|6|Mentioned|Fig3 P754||Wenlock||||||
+13411|Mumbil Group|22679|5|Briefly described|p 11||Silurian||||||
+13411|Mumbil Group|22768|5|Briefly described|p175,178,180||Late Silurian||||||
+13411|Mumbil Group|22798|6|Mentioned|p851 Fig.2||Silurian||||||
+13411|Mumbil Group|22857|5|Briefly described|p175, p178, p466 App.1 Tb.A1.6|Late Silurian|Silurian|Shelfal sequence of shale and limestone. Overlain by rocks of the Gregra Group; also overlain by Cuga Burga Volcanics. Geological Province: Hill End Trough and Capertee Rise. See also p454 and p478 App.1, Tb.A1.6.|||||
+13411|Mumbil Group|23043|5|Briefly described|Map Legend|Lochkovian|Wenlock||||||
+13411|Mumbil Group|23091|5|Briefly described|p636||Late Silurian||||||
+13411|Mumbil Group|23100|5|Briefly described|p575 (Fig 1)||Silurian||||||
+13411|Mumbil Group|23170|2|Defined|p77|Devonian|Early Silurian|Supersedes 'Mumbil Formation'.|||||
+13411|Mumbil Group|23202|6|Mentioned|Fig.1||Silurian||||||
+13411|Mumbil Group|23213|5|Briefly described|p20|Late Silurian|Early Silurian|Age: late Early Silurian to Late Silurian.|||||
+13411|Mumbil Group|23214|2|Defined|p123|Early Devonian|Early Silurian|Characterised by widespread shale, fine sandstone/siltstone and carbonate deposition, in many areas in conjunction with felsic volcanic eruptive centres of rhyolitic to dacitic composition. Max. thickness 3000m.|||||
+13411|Mumbil Group|23225|6|Mentioned|p12|||Of Lachlan Fold Belt.|||||
+13411|Mumbil Group|23309|6|Mentioned|p390||||||||
+13411|Mumbil Group|23334|6|Mentioned|7||||||||
+13411|Mumbil Group|24007|6|Mentioned|p342||||||||
+13411|Mumbil Group|24233|5|Briefly described|p256|Devonian|Silurian|Geological Province: Lachlan Orogen.|||||
+13411|Mumbil Group|24398|5|Briefly described|p259 Fig. 2|Ludlow|Wenlock|Geological Province: Lachlan Fold Belt.|||||
+13411|Mumbil Group|32154|6|Mentioned|p181|||Refers Vandyke (1970 unpubl.)|||||
+13411|Mumbil Group|33611|5|Briefly described|p129||||||||
+13411|Mumbil Group|40328|4|Described|p144||||||||
+13411|Mumbil Group|43127|4|Described|p3,Fig.2,Fig.3||Late Silurian||||||
+13411|Mumbil Group|43494|6|Mentioned|p24|Silurian|Silurian|Includes Bells Creek Volcanics and Chesleigh Formation.|||||
+13411|Mumbil Group|43640|5|Briefly described|Map Legend||Silurian||||||
+13411|Mumbil Group|43642|5|Briefly described|Map Legend|Silurian|Silurian|Includes Wallace Shale and Ulah Formation.|||||
+13411|Mumbil Group|43654|5|Briefly described|Map Legend|Silurian|Silurian|Includes; Anson Formation, Wombiana Formation, Campbells Formation, Kangaloolah Volcanics, Bells Creek Volcanics, Alton Limestone Member, Fosters Creek Conglomerate, Box Ridge Volcanics.|||||
+13411|Mumbil Group|43782|5|Briefly described|Map Legend|Lochkovian|Wenlock|Informally divided into Mumbil Group (Northwest) and Mumbil Group (East).|||||
+13411|Mumbil Group|44093|5|Briefly described|p201 App. 1|Early Devonian|Silurian|See also pp202, 206-208, 213, 215. Includes Kangaloolah Volcanics, Kildrummie Member, Box Ridge Volcanics, Mullions Range Volcanics, Bells Creek Volcanics, Chesleigh Formation, and Tanwarra Shale.|||||
+13411|Mumbil Group|50124|6|Mentioned|p125 Fig.2|Early Devonian|Late Silurian|Geological Province: eastern Lachlan Fold Belt.|||||
+13411|Mumbil Group|50233|6|Mentioned|Map strat. chart|||Underlies Campbells Group.|||||
+13411|Mumbil Group|50590|5|Briefly described|Map Legend|Silurian|Silurian|Includes: Barnby Hills Shale, Gleneski Formation, Narragal Limestone.|||||
+13411|Mumbil Group|60424|5|Briefly described|p350 Fig. 1, p351 Fig. 2|Silurian|Silurian|Includes: Anson Formation, Mullions Range Volcanics, Barnby Hills Shale. Geological Province: Hill End Trough.|||||
+13411|Mumbil Group|63287|5|Briefly described|p317 Fig. 2|Pridoli|Wenlock|Includes: Mirrabrooka Formation, Molong Limestone, Borenore Limestone. Geological Province: Molong Volcanic Belt.|||||
+13411|Mumbil Group|63290|6|Mentioned|p401 Fig. 5(d)|||Includes; Wallace Shale.|||||
+13411|Mumbil Group|64826|5|Briefly described|p1040 Tb. 1|Ludlow|Wenlock|Appears as the corrupted MuMembil Group in Table 1. Contains Mirrabooka and Nandillyan Formations.|||||
+13411|Mumbil Group|68003|5|Briefly described|p24 Fig.3-e, pp145-146. |Pridoli|Llandovery|Lachlan Fold Belt, Brigalow Belt South Bioregion.|||Includes Dripstone and Gleneski Formations, Narragal Limestone, Wylinga Member and Barnby Hills Shale.||Mainly limestone.
+13443|Mundoonen Sandstone|22857|5|Briefly described|p134, p424 App. 1 Tb. A1.5|Early Silurian|Early Silurian|Massive sandstone, siltstone, quartzite, argillite; contains lamellibranch fossils. Max. thickness: 2.8km (est.). Geological Province: Yass-Canberra Shelf. |||||
+13443|Mundoonen Sandstone|23245|5|Briefly described|p134||Early Silurian||||||
+13443|Mundoonen Sandstone|23454|6|Mentioned|p33||||||||
+13443|Mundoonen Sandstone|24317|5|Briefly described|p14, p15 Fig.1|Early Silurian|Ordovician|Overlies Bendoc Group.|||||
+13443|Mundoonen Sandstone|30069|5|Briefly described|p3||||||||
+13443|Mundoonen Sandstone|30332|3|Fully described|p124||||||||
+13443|Mundoonen Sandstone|30731|6|Mentioned|Map legend|Silurian|Silurian||||||
+13443|Mundoonen Sandstone|30734|6|Mentioned|p17||||||||
+13443|Mundoonen Sandstone|31019|6|Mentioned|Map legend|Silurian|Silurian||||||
+13443|Mundoonen Sandstone|32820|6|Mentioned|Table 1|||Refers Crook et al (1973)|||||
+13443|Mundoonen Sandstone|33125|6|Mentioned|p15|||Correlation chart|||||
+13443|Mundoonen Sandstone|34405|6|Mentioned|Fig.3.9||||||||
+13443|Mundoonen Sandstone|35384|6|Mentioned|Map legend|Early Silurian|Early Silurian||||||
+13443|Mundoonen Sandstone|35386|3|Fully described|p9||||||||
+13443|Mundoonen Sandstone|36411|6|Mentioned|p269|||Refers Cramsie et al 1978 for definition|||||
+13443|Mundoonen Sandstone|36413|6|Mentioned|p31|||See also Table 3|||||
+13443|Mundoonen Sandstone|37752|6|Mentioned|p106||||||||
+13443|Mundoonen Sandstone|38151|6|Mentioned|Table 1||||||||
+13443|Mundoonen Sandstone|38202|6|Mentioned|Fig.1||||||||
+13443|Mundoonen Sandstone|39331|3|Fully described|p49||||||||
+13443|Mundoonen Sandstone|40328|3|Fully described|p159||||||||
+13443|Mundoonen Sandstone|50230|5|Briefly described|Map legend|Early Silurian|Early Silurian|Quartzose to lithic-quartz sandstone.  Overlies the Bendoc Group.  The nature of the contact with Bango Limestone Member above is unknown.|||||
+13443|Mundoonen Sandstone|50231|5|Briefly described|Map Legend|Llandovery|Llandovery||||||
+13443|Mundoonen Sandstone|50232|4|Described|Map legend|Llandoverian|Llandoverian|Thickly bedded massive to graded medium-grained to granule quartzose to lithic-quartz sandstone.|||||
+13443|Mundoonen Sandstone|64238|5|Briefly described|Map legend|Ordovician|Ordovician|Of Margules Group. Thick-bedded massive to graded med-gr. granule quartzose to lithic-quartz sst.; thinly bedded, massive-fine- to med.gr.quartzose-lithic-qtz sst.interbedded with x-lam.sst; with 2 quartzose to lithic-quartz subunits...|||||
+13443|Mundoonen Sandstone|66197|5|Briefly described|p629, p631 Fig.3b|Llandovery|Eastonian|Canberra-Yass Basin. Deep marine shale and sandstone. Eastonian.|||||
+13443|Mundoonen Sandstone|67322|5|Briefly described|p17|Early Silurian|Late Ordovician|Modified by Sherwin, in Thomas et al.(in press), after Mundoonen Series of Sherrard (1939). Forms characteristic red, brown, and orange sandstone exposures. c.1200 m thick. Occurs in the Goulburn region.||||May correlate with the Poidevins Sandstone, and Cobbannah or Yalmy Groups.|Turbiditic sandstone.
+13443|Mundoonen Sandstone|69159|5|Briefly described|Map legend|Ordovician|Ordovician|||Unit in Margules Group.||Overlies Warbisco Shale.|Medium- to very thickly-bedded, fine- to coarse-grained quartzose sandstone, and interbedded grey, buff and khaki siltstone.
+13516|Muriarra Formation|33328|6|Mentioned|p9|||Refs Phillips 1956.|||||
+13516|Muriarra Formation|34404|4|Described|p90||||||||
+13516|Muriarra Formation|40136|6|Mentioned|p37||||||||
+13516|Muriarra Formation|43384|14|Not recorded|Map Legend||Ordovician||||||
+13516|Muriarra Formation|43385|14|Not recorded|p169,170||Llandeilian||||||
+13560|Murrumbateman Creek Formation|12185|5|Briefly described|map legend|Lower Silurian|Lower Silurian|Slate, interbeds of quartz sandstone. BMR map symbol: Slm.|||||
+13560|Murrumbateman Creek Formation|22857|5|Briefly described|p138, p424 App.1 Tb.A1.5|Early Silurian|Early Silurian|Max. thickness: 900m. Geological Province: Canberra Block. |||||
+13560|Murrumbateman Creek Formation|23245|6|Mentioned|p138||||||||
+13560|Murrumbateman Creek Formation|29992|6|Mentioned|Map legend|Silurian|Silurian||||||
+13560|Murrumbateman Creek Formation|29994|6|Mentioned|Map legend|Early Silurian|Early Silurian||||||
+13560|Murrumbateman Creek Formation|31019|6|Mentioned|Map legend|Silurian|Silurian||||||
+13560|Murrumbateman Creek Formation|31111|6|Mentioned|p66|||See also P68, 72, 76|||||
+13560|Murrumbateman Creek Formation|32671|6|Mentioned|Map legend|Silurian|Silurian||||||
+13560|Murrumbateman Creek Formation|33325|5|Briefly described|Table 2||||||||
+13560|Murrumbateman Creek Formation|37727|4|Described|p76||||||||
+13560|Murrumbateman Creek Formation|40328|3|Fully described|p115||||||||
+13560|Murrumbateman Creek Formation|42727|5|Briefly described|map legend|Wenlock|Llandovery|Interbedded sandstone, siltstone and shale (proximal quartz turbidites). Unconformably underlies Camp Hill Sandstone Member; unconformably overlies Pittman Formation. BMR map symbol: Slm. Geol. Prov: Canberra Block.|||||
+13560|Murrumbateman Creek Formation|42820|2|Defined|p13|Early Silurian|||||||
+13560|Murrumbateman Creek Formation|44093|5|Briefly described|p198 App. 1|Early Silurian|Ordovician|In the Canberra Block. Geological Province: Lachlan Fold Belt.|||||
+24420|Narrabundah Ashstone Member|22768|6|Mentioned|p176||||||||
+24420|Narrabundah Ashstone Member|22857|4|Described|p176, p462 App.1 Tb.A1.6|Silurian|Silurian|Strongly jointed massive tuffaceous arenite and fine to medium-grained tuff at top of Canberra Formation. Max. thickness: 70m. |||||
+24420|Narrabundah Ashstone Member|36633|6|Mentioned|Map legend|Middle Silurian|Middle Silurian||||||
+24420|Narrabundah Ashstone Member|37728|4|Described|Table 2||||||||
+24420|Narrabundah Ashstone Member|38664|6|Mentioned|Map legend|Middle Silurian|Middle Silurian||||||
+24420|Narrabundah Ashstone Member|39947|6|Mentioned|Map legend|Middle Silurian|Middle Silurian||||||
+24420|Narrabundah Ashstone Member|42727|5|Briefly described|map legend|Wenlock|Wenlock|Of Canberra Formation. Tuffaceous sandstone, tuff and ashstone. BMR map symbol: Smn. Geol. Prov: Canberra Block.|||||
+24420|Narrabundah Ashstone Member|42820|2|Defined|p21|Early Silurian||Of Canberra Formation.|||||
+24420|Narrabundah Ashstone Member|43158|6|Mentioned|3||Early Silurian|Member of Canberra Formation|||||
+24420|Narrabundah Ashstone Member|49043|5|Briefly described|p7||||||||
+14394|Nungar beds|22815|6|Mentioned|p18|Ordovician|Ordovician||||||
+14394|Nungar beds|24005|5|Briefly described|p293|Ordovician|Ordovician||||||
+14394|Nungar beds|42294|6|Mentioned|p15|||See also P24|||||
+14394|Nungar beds|44092|5|Briefly described|map legend|Ordovician|Ordovician|Of3|||||
+14394|Nungar beds|45147|3|Fully described|M52|||Darriwilian? - Early Eastonian|||||
+14394|Nungar beds|60078|6|Mentioned|Map Legend|Ordovician|Ordovician||||||
+26093|Paddys River Volcanics|12185|5|Briefly described|map legend|Middle Silurian|Middle Silurian|Dacite, acid tuff, lenses of limestone, calcaroues shale, phyllite. BMR map symbol: Smp.|||||
+26093|Paddys River Volcanics|22768|5|Briefly described|p176||||||||
+26093|Paddys River Volcanics|22857|4|Described|p176, p464 App. 1 Tb.A1.6|Wenlockian|Wenlockian|Of the Hawkins Suite. Dacitic ignimbrites and tuffs, dacitic lava.|||||
+26093|Paddys River Volcanics|23866|5|Briefly described|p120|||Intruded by Shannons Flat Granodiorite. Geological Province: Murrumbidgee Batholith.|||||
+26093|Paddys River Volcanics|24005|5|Briefly described|p293|Silurian|Silurian|Geological Province: Lachlan Fold Belt|||||
+26093|Paddys River Volcanics|29992|6|Mentioned|Map legend|Silurian|Silurian||||||
+26093|Paddys River Volcanics|29994|6|Mentioned|Map legend|Middle Silurian|Middle Silurian||||||
+26093|Paddys River Volcanics|31019|6|Mentioned|Map legend|Silurian|Silurian||||||
+26093|Paddys River Volcanics|31111|6|Mentioned|p172|||See also P174, 176, 178, 182, 186, 188.|||||
+26093|Paddys River Volcanics|33325|5|Briefly described|Table 2|||Unconformable on Ord. rocks P13.|||||
+26093|Paddys River Volcanics|34405|6|Mentioned|p114||||||||
+26093|Paddys River Volcanics|36441|5|Briefly described|map legend|Wenlockian|Wenlockian|Extrusive. Grey green dacite ignimbrite, limestone and shale lenses, minor rhyolite and andesite. Unconformably overlies Adaminaby Beds and Nungar Beds; intruded by Shannons Flat Adamellite. BMR map code: Smp.|||||
+26093|Paddys River Volcanics|36633|6|Mentioned|Map legend|Middle Silurian|Middle Silurian||||||
+26093|Paddys River Volcanics|37727|4|Described|p77||||||||
+26093|Paddys River Volcanics|37728|4|Described|Table 2||||||||
+26093|Paddys River Volcanics|38035|6|Mentioned|p93||||||||
+26093|Paddys River Volcanics|40328|4|Described|p116||||||||
+26093|Paddys River Volcanics|41356|4|Described|p22||||||||
+26093|Paddys River Volcanics|42726|5|Briefly described|map legend|Silurian|||||||
+26093|Paddys River Volcanics|42820|5|Briefly described|p7||||||||
+26093|Paddys River Volcanics|43159|6|Mentioned|Fig.2p4,p3.||||||||
+26093|Paddys River Volcanics|44092|5|Briefly described|map legend|Late Silurian|Early Silurian|Sv1|||||
+26093|Paddys River Volcanics|45147|2|Defined|M137|late Wenlockian|late Wenlockian||||||
+26093|Paddys River Volcanics|60078|6|Mentioned|Map Legend|Late Silurian|Late Silurian||||||
+15299|Pittman Formation|12185|5|Briefly described|map legend|Middle Ordovician|Middle Ordovician|Shale, sandstone, mudstone, radiolarite. BMR map symbol: Omp.|||||
+15299|Pittman Formation|22843|6|Mentioned|p23||Ordovician||||||
+15299|Pittman Formation|22857|4|Described|p134, p424 App.1 Tb.A1.5|Early Ordovician|Early Ordovician|Quartz-rich arenite, shale, siltstone, minor black shale, chert, impure calcareous arenite. Unconformably overlain by State Circle Shale. Max. thickness: 2km. |||||
+15299|Pittman Formation|23048|6|Mentioned|p2 fig5||Ordovician||||||
+15299|Pittman Formation|23213|5|Briefly described|Fig.10 p24|||Contains Darriwilian fossils. Of Monaro Trough.|||||
+15299|Pittman Formation|23245|6|Mentioned|p134||Early Ordovician||||||
+15299|Pittman Formation|24128|5|Briefly described|p3|Ordovician|Ordovician|Known as Foxlow Beds on MICHELAGO.  Geological Province: Lachlan Fold Belt.|||||
+15299|Pittman Formation|24215|5|Briefly described|p804|||Geological Province:  Lachlan Fold Belt|||||
+15299|Pittman Formation|29992|6|Mentioned|Map legend|Ordovician|Ordovician||||||
+15299|Pittman Formation|29994|6|Mentioned|Map legend|Middle Ordovician|Middle Ordovician||||||
+15299|Pittman Formation|30329|6|Mentioned|p30|||Table P30|||||
+15299|Pittman Formation|30332|4|Described|p122|||Ordovician age|||||
+15299|Pittman Formation|31019|6|Mentioned|Map legend|Ordovician|Ordovician||||||
+15299|Pittman Formation|31111|6|Mentioned|Map legend|Ordovician|Ordovician|Shown on attached map.|||||
+15299|Pittman Formation|31161|5|Briefly described|PA5||||||||
+15299|Pittman Formation|31284|6|Mentioned|Map legend|Late Ordovician|Middle Ordovician|Middle to Upper OrdovicianM - U|||||
+15299|Pittman Formation|32483|6|Mentioned|p9|||L.Ord.|||||
+15299|Pittman Formation|32671|6|Mentioned|Map legend|Ordovician|Ordovician||||||
+15299|Pittman Formation|32672|6|Mentioned|p672||||||||
+15299|Pittman Formation|32820|6|Mentioned|Table 1|||Refers Crook et al (1973)|||||
+15299|Pittman Formation|33004|6|Mentioned|Plate 16|||Shown photo 16|||||
+15299|Pittman Formation|33125|6|Mentioned|p15|||Correlation chart.|||||
+15299|Pittman Formation|33325|5|Briefly described|Table 1|||See also P22. Darriwilian - Gisbornian|||||
+15299|Pittman Formation|33328|4|Described|Table 1|||P8|||||
+15299|Pittman Formation|34287|6|Mentioned|p72||||||||
+15299|Pittman Formation|34404|4|Described|p89|||Mention P97|||||
+15299|Pittman Formation|34405|6|Mentioned|Fig.3.9||||||||
+15299|Pittman Formation|35110|6|Mentioned|p3||||||||
+15299|Pittman Formation|35118|6|Mentioned|Fig.5||||||||
+15299|Pittman Formation|35614|5|Briefly described|p6||||||||
+15299|Pittman Formation|36413|6|Mentioned|Table 3||||||||
+15299|Pittman Formation|36633|6|Mentioned|Map legend|Late Ordovician|Middle Ordovician|Middle to Late Ordovician|||||
+15299|Pittman Formation|37348|6|Mentioned|p97||||||||
+15299|Pittman Formation|37727|6|Mentioned|Fig.1||||||||
+15299|Pittman Formation|37728|4|Described|Table 2||||||||
+15299|Pittman Formation|38664|5|Briefly described|p5||||||||
+15299|Pittman Formation|39331|4|Described|p50|||See also P45, Fig.0-3|||||
+15299|Pittman Formation|39947|6|Mentioned|Map legend|Late Ordovician|Middle Ordovician|Middle to Late Ordovician|||||
+15299|Pittman Formation|40136|5|Briefly described|p37||||||||
+15299|Pittman Formation|40328|6|Mentioned|p55||||||||
+15299|Pittman Formation|41356|5|Briefly described|p34||||||||
+15299|Pittman Formation|42497|5|Briefly described|Map Legend|Bolindian|Darriwilian||||||
+15299|Pittman Formation|42727|5|Briefly described|map legend, map schematic section|Late Ordovician|Middle Ordovician|Includes Acton Shale Member. Distal quartz turbidites. Under Copper Creek Shale, Rutledge Quartzite Mbr, and Murrumbateman Creek, Canberra and Cappanana Fms. Underlies Gearys Gap Fm. Intruded by Sutton Granodiorite. BMR symbol: Op. Geol.Prov: Monaro Basin|||||
+15299|Pittman Formation|42820|2|Defined|p7||Middle Ordovician||||||
+15299|Pittman Formation|43344|14|Not recorded|p110,113||Late Ordovician||||||
+15299|Pittman Formation|43384|14|Not recorded|Map Legend||Ordovician||||||
+15299|Pittman Formation|43385|14|Not recorded|p169,170|Llandeilian|Llanvirnian||||||
+15299|Pittman Formation|43472|14|Not recorded|p420,431,fig.1||||||||
+15299|Pittman Formation|43473|14|Not recorded|fig.1,opp.p1080||Early Ordovician|(M.Ord)|||||
+15299|Pittman Formation|43479|14|Not recorded|p95f|Llandeilian|Arenigian||||||
+15299|Pittman Formation|43481|5|Briefly described|3,4||||||||
+15299|Pittman Formation|43795|5|Briefly described|p279||||||||
+15299|Pittman Formation|44093|5|Briefly described|p50|Ordovician|Ordovician|Includes Acton Shale Member. In the Bruce Block. Geological Province: Lachlan Fold Belt.|||||
+15299|Pittman Formation|44970|2|Defined|p7,11-18,22,23,31,|Late Ordovician|Early Ordovician|p42,69,70,75,78,80,85,87,88,91,map.(M.-U.-Ord). See also Lexicon|||||
+15299|Pittman Formation|45147|6|Mentioned|M9||||||||
+15299|Pittman Formation|46952|6|Mentioned|p150||||||||
+15299|Pittman Formation|47033|6|Mentioned|p79||||||||
+15299|Pittman Formation|47060|5|Briefly described|Fig.5 P166||||||||
+15299|Pittman Formation|49043|6|Mentioned|p6||||||||
+15299|Pittman Formation|50098|6|Mentioned|p10|Ordovician|Ordovician|Contains conodont moulds in silty shale.|||||
+15299|Pittman Formation|67125|5|Briefly described|Slides 26, 36.|Ordovician|Ordovician|Locally contains marine fossils. Mis-spelt as Pittmann Formation on Slide 26.|c.470 Ma.|||Is unconformably overlain by Gearys Gap Formation. Intruded by Ellenden Granite.|Turbidites: phyllite and quartzite.
+15299|Pittman Formation|67322|5|Briefly described|p16, p20 Fig.5|Sandbian|Darriwilian|Albury-Bega Terrane. Named and defined by Opik (1954, 1958). Graptolite faunas of two different ages occur in the Pittman Formation - one of probable late Darriwilian age and the other (about 30m below the overlying Acton Shale) with Gisbornian affinities (Opik 1958). Occurs in the Canberra-Queanbeyan region.||Of the Adaminaby Group||Overlain by the Acton Shale (Bendoc Group). Correlates with top of Adaminaby Group.|Sandstone, shale, and minor radiolarian chert beds up to 6m thick.
+16472|Rutledge Quartzite Member|22768|6|Mentioned|p177||||||||
+16472|Rutledge Quartzite Member|22857|4|Described|p177, p474 App.1 Tb.A1.6|Late Silurian|Late Silurian|At base of Copper Creek Shale (Hoskinstown Group). Max. thickness: 100m. Geological Province: Captains Flat-Goulburn Trough. |||||
+16472|Rutledge Quartzite Member|23048|5|Briefly described|p2 fig5||Silurian||||||
+16472|Rutledge Quartzite Member|32820|6|Mentioned|p3|||Hoskinstown Gp.|||||
+16472|Rutledge Quartzite Member|36413|2|Defined|p57|Silurian|Silurian||||||
+16472|Rutledge Quartzite Member|36414|5|Briefly described|map legend|Ludlovian|Ludlovian|Of Copper Creek Shale, Hoskinstown Group. Quartzite, conglomeratic quartzite. GSNSW map code: Scr.|||||
+16472|Rutledge Quartzite Member|40328|5|Briefly described|p182||||||||
+16472|Rutledge Quartzite Member|42727|5|Briefly described|map legend|Ludlow|Ludlow|Of Copper Creek Shale. Quartzite with conglomerate and minor shale and siltstone. Unconformable over Pittman Formation. BMR map symbol: Suo1. Geol. Prov: Captains Flat Block.|||||
+16472|Rutledge Quartzite Member|42820|2|Defined|p47|Late Silurian||Of Copper Creek Shale.|||||
+16491|Ryrie Formation|22815|1|Redefined|p33, fig10,16|Llandovery|Llandovery|Equivalent of Tombong Formation. Now excludes 'Gungoandra Siltstone Member'.|||||
+16491|Ryrie Formation|22857|4|Described|p134, p420 App. 1 Tb. A1.5|Late Silurian|Early Silurian|Of the Yalmy Group. Massive bedded arenite with siltstone interbeds. Max. thickness: >1.6km. Geological Province: Yalmy Basin. See also p468 App.1 Tb.A1.6.|||||
+16491|Ryrie Formation|22968|6|Mentioned|P108|||Parent is Yalmy Group.|||||
+16491|Ryrie Formation|23245|5|Briefly described|p134||Early Silurian||||||
+16491|Ryrie Formation|23454|5|Briefly described|p33|Llandovery|Llandovery||||||
+16491|Ryrie Formation|32820|5|Briefly described|p2||||||||
+16491|Ryrie Formation|32822|6|Mentioned|p17|||Graptolites.|||||
+16491|Ryrie Formation|36413|2|Defined|p30|Early Silurian|Early Silurian||||||
+16491|Ryrie Formation|36414|5|Briefly described|map legend|Llandoverian|Llandoverian|Includes Gungoandra Siltstone Member. Quartzite with minor interbedded siltstone and shale. GSNSW map code: Sr.|||||
+16491|Ryrie Formation|39626|6|Mentioned|p276||||||||
+16491|Ryrie Formation|40328|5|Briefly described|p140||||||||
+16491|Ryrie Formation|42820|5|Briefly described|p9||||||||
+16491|Ryrie Formation|43233|5|Briefly described|Map Legend||Llandovery|Of Yalmy Group.|||||
+16491|Ryrie Formation|44093|5|Briefly described|p192 App. 1|Early Silurian|Early Silurian|Geological Province: Lachlan Fold Belt.|||||
+16491|Ryrie Formation|61413|5|Briefly described|p82 Fig.103.|Early Silurian|Early Silurian|||||Overlies Gungoandra Siltstone. Is unconformably overlain by Bredbo Group.|Turbidites.
+16491|Ryrie Formation|61895|6|Mentioned|p134 Fig.1,||||||||
+16803|Shannons Flat Granodiorite|12185|5|Briefly described|map legend|Devonian|Silurian|Of Murrumbidgee Batholith. Foliated contaminated granodiorite. BMR map symbol: gmn.|||||
+16803|Shannons Flat Granodiorite|23551|5|Briefly described|p491|||Of Wyangala Supersuite|||||
+16803|Shannons Flat Granodiorite|23866|4|Described|p120|||Intrudes the Paddys River Volcanics.  Geological Province: Murrumbidgee Batholith.|||||
+16803|Shannons Flat Granodiorite|29953|5|Briefly described|p3||||||||
+16803|Shannons Flat Granodiorite|30332|6|Mentioned|p131|||Rb/Sr age 413+-6m.y.|||||
+16803|Shannons Flat Granodiorite|31019|6|Mentioned|Map legend|Devonian|Silurian|Silurian - Devonian|||||
+16803|Shannons Flat Granodiorite|32332|5|Briefly described|p491|||Source of detrital material.|||||
+16803|Shannons Flat Granodiorite|34544|4|Described|p185||||||||
+16803|Shannons Flat Granodiorite|36413|6|Mentioned|p82||||||||
+16803|Shannons Flat Granodiorite|37728|6|Mentioned|Table 4|||Now known as Shannons Flat Adamellite|||||
+16803|Shannons Flat Granodiorite|45003|14|Not recorded|p45,46||||||||
+16803|Shannons Flat Granodiorite|48894|6|Mentioned|p5|||Age|||||
+31633|Shannons Flat Suite|22815|6|Mentioned|p62||||||||
+31633|Shannons Flat Suite|42726|5|Briefly described|map legend||Silurian||||||
+31633|Shannons Flat Suite|43233|5|Briefly described|Map Legend||Silurian|Murrumbidgee Batholith.|||||
+31633|Shannons Flat Suite|44093|5|Briefly described|p190 App. 1|Early Devonian|Silurian|Geological Province: Lachlan Fold Belt.|||||
+16898|Silverdale Formation|22486|5|Briefly described|p 5, 6||||||||
+16898|Silverdale Formation|22857|5|Briefly described|p460 App.1 Tb.A1.6|Ludlovian|Ludlovian|Of the Hattons Corner Group. Contains rich fauna: important corals and conodonts. Max. thickness: 170.5m. Geological Province: Canberra-Yass Shelf. |||||
+16898|Silverdale Formation|24248|5|Briefly described|p52, p50 Fig.1|Gorstian|Gorstian|Overlain by Black Bog Shale. Underlain by Laidlaw Volcanics. Geological Province: Yass Syncline.|||||
+16898|Silverdale Formation|29791|6|Mentioned|p117||||||||
+16898|Silverdale Formation|30069|5|Briefly described|p5||||||||
+16898|Silverdale Formation|30332|6|Mentioned|p116|||See also Table 1.|||||
+16898|Silverdale Formation|30731|6|Mentioned|Map legend|Silurian|Silurian||||||
+16898|Silverdale Formation|30734|6|Mentioned|p18||||||||
+16898|Silverdale Formation|31852|6|Mentioned|p718|||See also p720 and Figs. 1,2,4,5. Upper Silurian.|||||
+16898|Silverdale Formation|32624|6|Mentioned|p715|||Refers Link (1970).|||||
+16898|Silverdale Formation|32675|6|Mentioned|p8|||Refers Link (1970, 1971). Strat. Nomenclature.|||||
+16898|Silverdale Formation|32820|6|Mentioned|Table 1|||Refers Pogson & Baker (1974)|||||
+16898|Silverdale Formation|33116|6|Mentioned|Fig.11|||Correlation.|||||
+16898|Silverdale Formation|33325|5|Briefly described|Table 2||||||||
+16898|Silverdale Formation|33328|6|Mentioned|p15||||||||
+16898|Silverdale Formation|33606|6|Mentioned|p67||||||||
+16898|Silverdale Formation|33611|6|Mentioned|p132||||||||
+16898|Silverdale Formation|34692|6|Mentioned|p186||||||||
+16898|Silverdale Formation|35244|6|Mentioned|p36||||||||
+16898|Silverdale Formation|35384|6|Mentioned|Map legend|Late Silurian|Late Silurian||||||
+16898|Silverdale Formation|35386|3|Fully described|p27||||||||
+16898|Silverdale Formation|35501|6|Mentioned|p156||||||||
+16898|Silverdale Formation|36411|6|Mentioned|p270|||Refers Cramsie et al 1978 for definition.|||||
+16898|Silverdale Formation|36413|6|Mentioned|Table 3||||||||
+16898|Silverdale Formation|37727|4|Described|p84|||See also p8 and p31.|||||
+16898|Silverdale Formation|37752|6|Mentioned|p105||||||||
+16898|Silverdale Formation|38035|6|Mentioned|p91||||||||
+16898|Silverdale Formation|38151|6|Mentioned|Table 1||||||||
+16898|Silverdale Formation|38230|5|Briefly described|p474|||Palaeontology|||||
+16898|Silverdale Formation|38691|5|Briefly described|Fig.1||||||||
+16898|Silverdale Formation|39331|6|Mentioned|Fig.5-5||||||||
+16898|Silverdale Formation|39975|6|Mentioned|Table 1||||||||
+16898|Silverdale Formation|40328|4|Described|p110||||||||
+16898|Silverdale Formation|41260|4|Described|p116||||||||
+16898|Silverdale Formation|42029|5|Briefly described|Fig.1 P96||||||||
+16898|Silverdale Formation|42820|6|Mentioned|p29||||||||
+16898|Silverdale Formation|42994|6|Mentioned|p61||||||||
+16898|Silverdale Formation|43575|6|Mentioned|Fig.14,p283||||||||
+16898|Silverdale Formation|45075|5|Briefly described|p6|||Fauna|||||
+16898|Silverdale Formation|45147|6|Mentioned|M152|||See also M153|||||
+16898|Silverdale Formation|47037|6|Mentioned|p107||||||||
+16898|Silverdale Formation|50230|4|Described|Map legend|Ludlow|Ludlow|Of the Hattons Corner Group.  Comprises 3 members: Bowspring, Barrandella and Hume Limestone Members.  Overlies Yanawe Formation.|||||
+16898|Silverdale Formation|64238|5|Briefly described|Map legend|Silurian|Silurian|Of Hattons Corner Group. Includes Barrandella Shale, Hume Limestone and Bowspring Limestone Members.|||||
+16898|Silverdale Formation|66197|5|Briefly described|p631, p631 Fig.3b|Ludlow||Canberra-Yass Basin. Shallow marine sedimentary rocks in the lower Ludlow and deeper marine in the upper Ludlow.||||Overlies the Laidlaw Volcanics. Underlies the Hattons Corner Group.|
+17298|State Circle Shale|12185|5|Briefly described|map legend|Lower Silurian|Lower Silurian|Grouped with Canberra Group and Camp Hill Sandstone in legend. Calcareous shale, sandstone, mudstone, limestone lenses, tuffaceous sediments, rhyolite. BMR map symbol: Slc.|||||
+17298|State Circle Shale|22857|4|Described|p134, p424 App.1 Tb.A1.5|Early Silurian|Early Silurian|Massive pale-grey siltstone; upper unit stringly laminated shale with silty bands up to 10mm. Unconformably overlies the Pittman Formation. Max. thickness: 113m. |||||
+17298|State Circle Shale|23245|5|Briefly described|p134-5||Early Silurian||||||
+17298|State Circle Shale|23309|6|Mentioned|p390||||||||
+17298|State Circle Shale|29857|4|Described|p433||||||||
+17298|State Circle Shale|29992|6|Mentioned|Map legend|Silurian|Silurian||||||
+17298|State Circle Shale|29994|6|Mentioned|Map legend|Early Silurian|Early Silurian||||||
+17298|State Circle Shale|30332|3|Fully described|p124||||||||
+17298|State Circle Shale|31111|6|Mentioned|p66|||See also P68, 72, 76|||||
+17298|State Circle Shale|31161|5|Briefly described|PA6||||||||
+17298|State Circle Shale|31197|6|Mentioned|p432||||||||
+17298|State Circle Shale|31284|6|Mentioned|Map legend|Early Silurian|Early Silurian||||||
+17298|State Circle Shale|32376|6|Mentioned|p1541||||||||
+17298|State Circle Shale|32671|6|Mentioned|Map legend|Silurian|Silurian||||||
+17298|State Circle Shale|32672|6|Mentioned|p672||||||||
+17298|State Circle Shale|32820|6|Mentioned|Table 1|||Refers Crook et al. (1973)|||||
+17298|State Circle Shale|33125|6|Mentioned|p15|||Correlation chart|||||
+17298|State Circle Shale|33325|5|Briefly described|Table 2|||See also Table 3 & PP 14,23.|||||
+17298|State Circle Shale|33328|4|Described|Table 1|||P9|||||
+17298|State Circle Shale|34405|5|Briefly described|p119|||Early Silurian. Table 3.5|||||
+17298|State Circle Shale|35110|6|Mentioned|p3||||||||
+17298|State Circle Shale|35614|5|Briefly described|p6||||||||
+17298|State Circle Shale|36413|6|Mentioned|p31|||See also Table 3|||||
+17298|State Circle Shale|36633|6|Mentioned|Map legend|Early Silurian|Early Silurian||||||
+17298|State Circle Shale|37270|6|Mentioned|Table 2||||||||
+17298|State Circle Shale|37348|6|Mentioned|p97||||||||
+17298|State Circle Shale|37727|5|Briefly described|p86|||See also P26.|||||
+17298|State Circle Shale|37728|4|Described|Table 2||||||||
+17298|State Circle Shale|37752|6|Mentioned|Fig.2||||||||
+17298|State Circle Shale|38664|5|Briefly described|p5||||||||
+17298|State Circle Shale|39331|4|Described|p50|||See also P52|||||
+17298|State Circle Shale|39947|6|Mentioned|Map legend|Early Silurian|Early Silurian||||||
+17298|State Circle Shale|40328|3|Fully described|p120||||||||
+17298|State Circle Shale|40646|6|Mentioned|p39||||||||
+17298|State Circle Shale|41356|5|Briefly described|p67||||||||
+17298|State Circle Shale|42497|5|Briefly described|Map Legend|Llandoverian|Llandoverian||||||
+17298|State Circle Shale|42727|5|Briefly described|map legend|Llandovery|Llandovery|Shale, mudstone, siltstone and minor sandstone (proximal quartz turbidites). Unconformably underlies Canberra Formation; unconformable over Pittman Formation; underlies Black Mountain Sandstone. BMR map symbol: Slc. Geol. Prov: Canberra Block.|||||
+17298|State Circle Shale|42820|2|Defined|p11|Llandovery||late Llandovery (middle Early Silurian).|||||
+17298|State Circle Shale|43344|14|Not recorded|p110,112,113,115|Early Silurian|||||||
+17298|State Circle Shale|43385|14|Not recorded|p172||Llandovery||||||
+17298|State Circle Shale|43479|14|Not recorded|p116||Llandoverian||||||
+17298|State Circle Shale|43481|5|Briefly described|3,5||Early Silurian||||||
+17298|State Circle Shale|44093|5|Briefly described|p197 App. 1|Early Silurian|Early Silurian|In the Bruce Block. Geological Province: Lachlan Fold Belt.|||||
+17298|State Circle Shale|44970|2|Defined|p4,11,23-4,31,74,77,||Silurian|p79,88,90,map. See also Lexicon. Overlies Camp Hill Sandstone. Contains Acton Limestone Member|||||
+17298|State Circle Shale|45147|6|Mentioned|M118||||||||
+17298|State Circle Shale|47033|5|Briefly described|p78||||||||
+17298|State Circle Shale|48894|6|Mentioned|p5|||Age|||||
+17298|State Circle Shale|49043|5|Briefly described|p6||||||||
+17298|State Circle Shale|63290|6|Mentioned|p385|Llandovery|Llandovery|Underlain unconformably by Acton Shale.|||||
+17298|State Circle Shale|66197|6|Mentioned|p629|||Canberra-Yass Basin. Deep marine quartz and lithic turbidites.|||||
+26154|Sutton Granodiorite|24128|5|Briefly described|p3|||Geological Province: Lachlan Fold Belt.|||||
+26154|Sutton Granodiorite|42727|5|Briefly described|map legend|Early Devonian|Pridoli|Granodiorite, adamellite and porphyry, I-type. Intrudes Pittman Formation with associated spotted and porphyroblastic hornfels (contact metamorphism).  BMR map symbol: Sgs. Geol. Prov: Cullarin Block.|||||
+26154|Sutton Granodiorite|42820|2|Defined|p66|Late Silurian||age of 410 +/- 4 Ma|||||
+31639|Sutton Suite|42726|5|Briefly described|map legend||Early Devonian||||||
+31639|Sutton Suite|44093|5|Briefly described|p203 App. 1|Devonian|Silurian|Geological Province: Lachlan Fold Belt.|||||
+17862|Tarpaulin Creek Ashstone Member|34405|6|Mentioned|p119|||Marker bed|||||
+17862|Tarpaulin Creek Ashstone Member|36441|5|Briefly described|map legend|Ludlovian|Ludlovian|Of Uriarra Volcanics. Extrusive. ?I-type. Fine-grained bedded ashstone. Overlies Walker Volcanics. BMR map code: Svt.|||||
+17862|Tarpaulin Creek Ashstone Member|37727|6|Mentioned|p91||||||||
+17862|Tarpaulin Creek Ashstone Member|40328|5|Briefly described|p133||||||||
+17862|Tarpaulin Creek Ashstone Member|43159|5|Briefly described|Fig.2 p4,P6,P9.|||Of Uriarra Volcanics|||||
+17862|Tarpaulin Creek Ashstone Member|45147|3|Fully described|M162|||Refers Malcolm(1954)|||||
+18032|Tharwa Adamellite|12185|5|Briefly described|map legend|Devonian|Silurian|Of Murrumbidgee Batholith. Adamellite. BMR map symbol: amt.|||||
+18032|Tharwa Adamellite|29953|6|Mentioned|p3||||||||
+18032|Tharwa Adamellite|31019|6|Mentioned|Map legend|Devonian|Silurian|Silurian - Devonian|||||
+18032|Tharwa Adamellite|31580|6|Mentioned|p272|||See also analysis table 1-4.|||||
+18032|Tharwa Adamellite|31581|3|Fully described|p182|||See also Fig. 1 & analysis Table 1|||||
+18032|Tharwa Adamellite|32820|6|Mentioned|p3|||Murrumbidgee Batholith|||||
+18032|Tharwa Adamellite|32905|4|Described|p230||||||||
+18032|Tharwa Adamellite|32906|6|Mentioned|p239||||||||
+18032|Tharwa Adamellite|34544|5|Briefly described|p185|||See also P186|||||
+18032|Tharwa Adamellite|36413|2|Defined|p82|Silurian|Silurian||||||
+18032|Tharwa Adamellite|36414|5|Briefly described|map legend|Ludlovian|Ludlovian|Biotite adamellite. GSNSW map code: gmr.|||||
+18032|Tharwa Adamellite|36633|6|Mentioned|Map legend|Early Devonian|Late Silurian|Late Silurian to Early Devonian|||||
+18032|Tharwa Adamellite|37501|6|Mentioned|p414||||||||
+18032|Tharwa Adamellite|37728|4|Described|Table 3||||||||
+18032|Tharwa Adamellite|39721|6|Mentioned|Table 2|||Sr isotopes|||||
+18032|Tharwa Adamellite|40328|4|Described|p211||||||||
+18032|Tharwa Adamellite|41356|5|Briefly described|p72|||Mention Fig.58|||||
+18032|Tharwa Adamellite|42820|5|Briefly described|p66||||||||
+18032|Tharwa Adamellite|45003|14|Not recorded|p45,46||||||||
+18134|Tidbinbilla Quartzite|12185|5|Briefly described|map legend|Silurian|Silurian|Sandstone, quartzite, thin limestone and shale, sedimentary breccia. BMR map symbol: St.|||||
+18134|Tidbinbilla Quartzite|22857|4|Described|p420 App. 1, Tb. A1.5|Wenlockian|Llandovery|Only locally developed. Quartz, minor shale, chert, conglomerate and quartzite pebbles. Max. thickness: 300m. |||||
+18134|Tidbinbilla Quartzite|24551|5|Briefly described|p103|||Large lens of clean quartzite with in the late Eastonian portion of the Warbisco Shale.|||||
+18134|Tidbinbilla Quartzite|29992|6|Mentioned|Map legend|Silurian|Silurian||||||
+18134|Tidbinbilla Quartzite|29994|6|Mentioned|Map legend|Early Silurian|Early Silurian||||||
+18134|Tidbinbilla Quartzite|30332|6|Mentioned|p127||||||||
+18134|Tidbinbilla Quartzite|31019|6|Mentioned|Map legend|Early Silurian|Early Silurian||||||
+18134|Tidbinbilla Quartzite|31581|6|Mentioned|Fig. 1||||||||
+18134|Tidbinbilla Quartzite|32671|6|Mentioned|Map legend|Silurian|Silurian||||||
+18134|Tidbinbilla Quartzite|32672|6|Mentioned|p672||||||||
+18134|Tidbinbilla Quartzite|33325|5|Briefly described|Table 2|||? late Wenlockian or ? early Ludlovian P13.|||||
+18134|Tidbinbilla Quartzite|34405|4|Described|p114||||||||
+18134|Tidbinbilla Quartzite|36441|5|Briefly described|map legend|Wenlockian|Llandoverian|Massive to thin-bedded quartz arenite and quartzite; minor shale. Intruded by Cow Flat Granite Porphyry; unconformably overlies Adaminaby Beds. Basal coarse gritstone. BMR map code: St.|||||
+18134|Tidbinbilla Quartzite|36443|5|Briefly described|map legend|Late Silurian|Early Silurian|Conglomerate, formed of chert and quartzite pebbles. BMR map code: St.|||||
+18134|Tidbinbilla Quartzite|37727|4|Described|p88|||See also P17.|||||
+18134|Tidbinbilla Quartzite|39800|6|Mentioned|Map legend|Early Silurian|Early Silurian||||||
+18134|Tidbinbilla Quartzite|40328|4|Described|p123||||||||
+18134|Tidbinbilla Quartzite|42497|5|Briefly described|Map Legend|Wenlockian|Llandoverian||||||
+18134|Tidbinbilla Quartzite|42820|5|Briefly described|p7||||||||
+18134|Tidbinbilla Quartzite|44092|5|Briefly described|map legend|Early Silurian|Early Silurian|St1|||||
+18134|Tidbinbilla Quartzite|44093|5|Briefly described|p190 App. 1|Early Silurian|Early Silurian|Geological Province: Lachlan Fold Belt.|||||
+18134|Tidbinbilla Quartzite|44970|14|Not recorded|p22|||See also Lexicon|||||
+18134|Tidbinbilla Quartzite|45147|2|Defined|M114|early Wenlockian|late Llandoverian|Late Llandoverian to Early Wenlockian|||||
+18134|Tidbinbilla Quartzite|60078|6|Mentioned|Map Legend|Late Silurian|Early Silurian||||||
+18134|Tidbinbilla Quartzite|67322|6|Mentioned|p16|Silurian|Silurian|300m thick lenticular unit. A Silurian age has been suggested based on lithological similarity to sandstones of the Yalmy Group. Occurs in the Canberra-Queanbeyan region.||||Equivalent to the Black Mountain Sandstone.|Very clean sandstone.
+18992|Uriarra Volcanics|12185|5|Briefly described|map legend|Upper Silurian|Upper Silurian|Includes Tarpaulin Creek Sandstone Member. Dacite lavas and tuff, shale lenses. BMR map symbol: Suu.|||||
+18992|Uriarra Volcanics|22768|6|Mentioned|p176||||||||
+18992|Uriarra Volcanics|22857|4|Described|p176, p464 App. 1 Tb.A1.6|Late Silurian|Late Silurian|Unconformably overlies the Hawkins Suite.|||||
+18992|Uriarra Volcanics|29992|6|Mentioned|Map legend|Silurian|Silurian||||||
+18992|Uriarra Volcanics|29994|6|Mentioned|Map legend|Late Silurian|Late Silurian||||||
+18992|Uriarra Volcanics|31019|6|Mentioned|Map legend|Silurian|Silurian||||||
+18992|Uriarra Volcanics|31111|6|Mentioned|p172|||See also P174, 176, 178, 182, 186, 188|||||
+18992|Uriarra Volcanics|33325|5|Briefly described|Table 2|||Mention P13.|||||
+18992|Uriarra Volcanics|34405|5|Briefly described|p119|||See also P120.|||||
+18992|Uriarra Volcanics|35109|6|Mentioned|p16||||||||
+18992|Uriarra Volcanics|36441|5|Briefly described|map legend|Ludlovian|Ludlovian|Includes Tarpaulin Creek Ashstone Member at (or near?) base. Extrusive. ?I-type. Dark grey to pink rhyodacite ignimbrite and air-fall tuff. Unconformably underlies Mountain Creek Volcanics. BMR map code: Svu.|||||
+18992|Uriarra Volcanics|37727|4|Described|p91|||See also P27.|||||
+18992|Uriarra Volcanics|37728|6|Mentioned|Table 4||||||||
+18992|Uriarra Volcanics|38251|6|Mentioned|p59||||||||
+18992|Uriarra Volcanics|40328|4|Described|p132||||||||
+18992|Uriarra Volcanics|42726|5|Briefly described|map legend|Silurian|||||||
+18992|Uriarra Volcanics|42820|6|Mentioned|p26||||||||
+18992|Uriarra Volcanics|43159|4|Described|Fig.2 p4,P6,P8,p10.||Ludlovian|Of Laidlaw Suite.|||||
+18992|Uriarra Volcanics|44092|5|Briefly described|map legend|Late Silurian|Early Silurian|Sv3|||||
+18992|Uriarra Volcanics|45147|2|Defined|M159|early Ludlovian|early Ludlovian|Prob.Early Ludlovian|||||
+18992|Uriarra Volcanics|60078|6|Mentioned|Map Legend|Silurian|Silurian||||||
+19240|Walker Volcanics|22768|5|Briefly described|p176||||||||
+19240|Walker Volcanics|22857|4|Described|p176, p462 App.1 Tb.A1.6|Wenlockian|Wenlockian|Of the Hawkins Suite. Massive and banded dacitic ignimbrite; minor interbedded lenses of fossiliferous limestone and shale. Max. thickness: 1.5km. See also p464 App.1,Tb.A1.6.|||||
+19240|Walker Volcanics|24248|6|Mentioned|p67, p72 Tb. 4||||||||
+19240|Walker Volcanics|36441|5|Briefly described|map legend|Wenlockian|Wenlockian|Extrusive. Green to purple dacite ignimbrite and bedded tuff, minor andesite, volcaniclastic sediment and limestone. Underlies Tarpaulin Creek Ashstone Member (Uriarra Volcanics). BMR map code: Svw.|||||
+19240|Walker Volcanics|36633|6|Mentioned|Map legend|Middle Silurian|Middle Silurian||||||
+19240|Walker Volcanics|37013|6|Mentioned|p13||||||||
+19240|Walker Volcanics|37728|4|Described|Table 2||||||||
+19240|Walker Volcanics|37752|6|Mentioned|p105||||||||
+19240|Walker Volcanics|38035|6|Mentioned|p92||||||||
+19240|Walker Volcanics|39975|6|Mentioned|p123||||||||
+19240|Walker Volcanics|41356|3|Fully described|p18||||||||
+19240|Walker Volcanics|42421|4|Described|p294|Wenlockian late|||||||
+19240|Walker Volcanics|42497|5|Briefly described|Map Legend|Wenlockian|Wenlockian||||||
+19240|Walker Volcanics|42726|5|Briefly described|map legend|Silurian|||||||
+19240|Walker Volcanics|42727|5|Briefly described|map legend|Wenlock|Wenlock|Of Hawkins Volcanic Suite. Purple and greenish-grey dacitic ignimbrite. Disconformably underlies Mount Painter Volcanics; intruded by Federal Golf Course Tonalite. BMR map symbol: Smw. Geol. Prov: Canberra Block.|||||
+19240|Walker Volcanics|42820|2|Defined|p26|Early Silurian||Of Hawkins Volcanic Suite.|||||
+19240|Walker Volcanics|42994|6|Mentioned|p5||||||||
+19240|Walker Volcanics|43159|4|Described|Fig.2p4,p9.||||||||
+19240|Walker Volcanics|43481|6|Mentioned|3||||||||
+19240|Walker Volcanics|44092|5|Briefly described|map legend|Late Silurian|Early Silurian|Sv2|||||
+19240|Walker Volcanics|45147|2|Defined|M144|late Wenlockian|late Wenlockian||||||
+19240|Walker Volcanics|47032|6|Mentioned|Fig.1||||||||
+19240|Walker Volcanics|47037|6|Mentioned|p107||||||||
+19240|Walker Volcanics|49013|5|Briefly described|p1||||||||
+19240|Walker Volcanics|60078|6|Mentioned|Map Legend|Silurian|Silurian||||||
+19240|Walker Volcanics|63083|6|Mentioned|p218|||In Canberra area. Includes a fossil fauna of scutellids, illaenids, harpetids, cheirurids and staurocephalids.|||||
+19257|Wallace Shale|22768|6|Mentioned|p178||||||||
+19257|Wallace Shale|22857|5|Briefly described|p178, p468 App.1 Tb.A1.6|Silurian|Silurian|Of the Mumbil Group. Overlain by Bulls Camp Volcanics in Molong Rise area. Red and green shale, rare arenite; allochthonous megaclasts. Max. thickness: 450m.|||||
+19257|Wallace Shale|23214|3|Fully described|p129|Early Devonian|Pridoli|Of Mumbil Group. Previously part of the Gamboola Formation. Max. thickness 300m.|||||
+19257|Wallace Shale|23217|6|Mentioned|p9|Silurian|Silurian|Contains the "Nyrang Sandstone Member".  In the Cheesemans Creek district.|||||
+19257|Wallace Shale|24126|6|Mentioned|p188||||||||
+19257|Wallace Shale|24249|4|Described|p87, p90 Fig.3|Pridoli|Pridoli|Contains graptolites. Overlying Unit: Nyrang Sandstone Member. Underlying Unit: Mirrabooka Formation.|||||
+19257|Wallace Shale|24417|5|Briefly described|p135|Silurian|Silurian|Contains the "Nyrang Sandstone Member".|||||
+19257|Wallace Shale|29362|6|Mentioned|p187||||||||
+19257|Wallace Shale|29791|6|Mentioned|Fig.4||||||||
+19257|Wallace Shale|29993|6|Mentioned|Map legend|Devonian|Silurian|Silurian - Devonian|||||
+19257|Wallace Shale|30073|6|Mentioned|p5|||Silurian - ? Devonian age. On map P54.|||||
+19257|Wallace Shale|31161|5|Briefly described|PA4||||||||
+19257|Wallace Shale|31852|6|Mentioned|p718|||U.Sil.-L.Dev. See also Fig.4|||||
+19257|Wallace Shale|32150|6|Mentioned|p2|||Refers Stevens & Packham (1953)|||||
+19257|Wallace Shale|32151|6|Mentioned|p210|||Refers Stevens & Packham (1953)|||||
+19257|Wallace Shale|32671|6|Mentioned|Map legend|Devonian|Silurian|Sil.-Dev.|||||
+19257|Wallace Shale|32672|6|Mentioned|p672||||||||
+19257|Wallace Shale|32999|6|Mentioned|p27|||Similar to Whipbird Ck. Fm.|||||
+19257|Wallace Shale|33006|6|Mentioned|Map legend|Late Silurian|Late Silurian||||||
+19257|Wallace Shale|33116|4|Described|p219|||See also P220. Graptolites Fig.9|||||
+19257|Wallace Shale|33121|6|Mentioned|p85|||Sil.-Dev. Correlation|||||
+19257|Wallace Shale|33282|6|Mentioned|Map legend|Late Silurian|Late Silurian||||||
+19257|Wallace Shale|33285|6|Mentioned|p18|||Late Sil.-Early Dev.|||||
+19257|Wallace Shale|33326|6|Mentioned|p444|||Fauna.|||||
+19257|Wallace Shale|33732|5|Briefly described|p115||||||||
+19257|Wallace Shale|33735|6|Mentioned|p206||||||||
+19257|Wallace Shale|34403|3|Fully described|p137||||||||
+19257|Wallace Shale|34404|6|Mentioned|Fig.3.3b||||||||
+19257|Wallace Shale|34405|6|Mentioned|p109||||||||
+19257|Wallace Shale|34406|6|Mentioned|p221||||||||
+19257|Wallace Shale|34491|6|Mentioned|p36|||Conularids|||||
+19257|Wallace Shale|35137|6|Mentioned|p89||||||||
+19257|Wallace Shale|35246|6|Mentioned|Fig.5||||||||
+19257|Wallace Shale|35258|6|Mentioned|Table 1||||||||
+19257|Wallace Shale|35501|6|Mentioned|Table 1||||||||
+19257|Wallace Shale|37727|4|Described|p92|||See also P6.|||||
+19257|Wallace Shale|38378|6|Mentioned|p134||||||||
+19257|Wallace Shale|39214|5|Briefly described|p19||||||||
+19257|Wallace Shale|39331|6|Mentioned|p64||||||||
+19257|Wallace Shale|40328|3|Fully described|p153||||||||
+19257|Wallace Shale|43344|14|Not recorded|p139|Early Devonian|Late Silurian||||||
+19257|Wallace Shale|43385|14|Not recorded|p171-173|||Late Silurian or Early Devonian|||||
+19257|Wallace Shale|43461|14|Not recorded|Table p621|Gedinnian|Ludlovian||||||
+19257|Wallace Shale|43479|14|Not recorded|p105,116||Ludlovian||||||
+19257|Wallace Shale|43515|14|Not recorded|Map Legend||Late Silurian|(Provisional Edition)|||||
+19257|Wallace Shale|43516|14|Not recorded|Map Legend||Late Silurian||||||
+19257|Wallace Shale|43517|14|Not recorded|p153|Gedinnian|Ludlovian||||||
+19257|Wallace Shale|43525|14|Not recorded|Table p127||||||||
+19257|Wallace Shale|43640|5|Briefly described|Map Legend||Silurian||||||
+19257|Wallace Shale|43642|5|Briefly described|Map Legend|Silurian|Silurian|Of Mumbil Group. Consists of red and green shale; rare sandstone; allochtonous megaclasts.|||||
+19257|Wallace Shale|43782|5|Briefly described|Map Legend|Lochkovian|Pridoli|of Mumbil Group.|||||
+19257|Wallace Shale|48926|6|Mentioned|p30|||P30 et seq.|||||
+19257|Wallace Shale|50095|5|Briefly described|p108 Fig.1, p121|Silurian|Silurian||||||
+19257|Wallace Shale|60332|6|Mentioned|p952|||Contains Belodella anomalis (conodont).|||||
+19257|Wallace Shale|63287|5|Briefly described|p317 Fig. 2, p321 Fig. 4|Lochkovian|Pridoli|Geological Province: Molong Volcanic Belt. Consists of shale.|||||
+19257|Wallace Shale|63290|6|Mentioned|p401 Fig. 5(d)|Late Silurian|Late Silurian|Of Mumbil Group.|||||
+19257|Wallace Shale|63292|6|Mentioned|p447|Early Silurian|Early Silurian||||||
+19431|War Memorial Agglomerate|41356|6|Mentioned|Fig.61||||||||
+20085|Williamsdale Dacite Member|42820|6|Mentioned|p40||||||||
+20085|Williamsdale Dacite Member|49690|3|Fully described|p7, p17-21, Appendix|Early Devonian|Late Silurian|Essentially a redefinition of Richardson's (1979) Williamsdale Volcanics. 2000-4000 m thick. Variation in ages may be due to chloritisation of the biotite analysed, and/or post-Silurian regional deformation.|418 +/- 3 Ma (K/Ar) to 403 +/- 4 Ma (Rb/Sr).|Colinton Volcanics|||Generally massive, pale to dark grey, dacitic crystal tuff; biotite in lower part; conspicuous inclusions of recrystallised pumice fragments.
+20116|Willow Bridge Tuff|24248|5|Briefly described|p51|||Volcanic unit of Laidlaw Formation, renamed by Link.|||||
+20116|Willow Bridge Tuff|32675|6|Mentioned|p8|||Strat. Nomenclature|||||
+20116|Willow Bridge Tuff|32820|6|Mentioned|Table 1|||Refers Pogson & Baker (1974)|||||
+20116|Willow Bridge Tuff|35070|6|Mentioned|p78||||||||
+20116|Willow Bridge Tuff|35384|6|Mentioned|Map legend|Late Silurian|Late Silurian||||||
+20116|Willow Bridge Tuff|35386|3|Fully described|p21||||||||
+20116|Willow Bridge Tuff|36411|6|Mentioned|p270|||Refs Cramsie et al 1978 for redefinition.|||||
+20116|Willow Bridge Tuff|36413|6|Mentioned|Table 3||||||||
+20116|Willow Bridge Tuff|37727|6|Mentioned|p68||||||||
+20116|Willow Bridge Tuff|37728|6|Mentioned|Table 4||||||||
+20116|Willow Bridge Tuff|39975|6|Mentioned|p128||||||||
+20116|Willow Bridge Tuff|40328|3|Fully described|p96||||||||
+20116|Willow Bridge Tuff|42820|6|Mentioned|p36|||Of Laidlaw Formation. This reference very confusing!|||||
+20116|Willow Bridge Tuff|45147|6|Mentioned|M152|||See also M154|||||
+20516|Woodlawn Volcanics|22768|5|Briefly described|p176||||||||
+20516|Woodlawn Volcanics|22857|4|Described|p176, p474 App.1 Tb.A1.6|Late Silurian|Late Silurian|Submarine felsic volcanics. Overlain by and interfingering with Currawang Basalt. Age: 413+/-6Ma (whole rock U/Pb). Max. thickness: <1km.|||||
+20516|Woodlawn Volcanics|23048|5|Briefly described|p7 fig9|Late Silurian|Silurian||||||
+20516|Woodlawn Volcanics|24116|5|Briefly described|p104||||||||
+20516|Woodlawn Volcanics|24128|6|Mentioned|p82|||Geological Province: Lachlan Fold Belt.|||||
+20516|Woodlawn Volcanics|30730|4|Described|p8|||Silurian age|||||
+20516|Woodlawn Volcanics|30735|3|Fully described|p22||||||||
+20516|Woodlawn Volcanics|30736|6|Mentioned|Map legend|Middle Silurian|Middle Silurian||||||
+20516|Woodlawn Volcanics|32820|6|Mentioned|Table 1|||Refers Felton & Huleatt (in press)|||||
+20516|Woodlawn Volcanics|35325|6|Mentioned|p483||||||||
+20516|Woodlawn Volcanics|35503|6|Mentioned|p202|||Defined in Felton and Huleatt (1977)|||||
+20516|Woodlawn Volcanics|35660|6|Mentioned|p155||||||||
+20516|Woodlawn Volcanics|35662|6|Mentioned|p139|||Geology of the Woodlawn district.|||||
+20516|Woodlawn Volcanics|36413|6|Mentioned|Table 3||||||||
+20516|Woodlawn Volcanics|39174|6|Mentioned|p1959||||||||
+20516|Woodlawn Volcanics|39331|6|Mentioned|p57||||||||
+20516|Woodlawn Volcanics|40276|6|Mentioned|p3||||||||
+20516|Woodlawn Volcanics|40328|5|Briefly described|p186||||||||
+20516|Woodlawn Volcanics|41140|6|Mentioned|p143||||||||
+20516|Woodlawn Volcanics|42177|6|Mentioned|p213||||||||
+20516|Woodlawn Volcanics|42726|5|Briefly described|map legend|Silurian|||||||
+20516|Woodlawn Volcanics|42727|5|Briefly described|map legend|Ludlow|Ludlow|Of Mount Fairy Group. Rhyodacitic ignimbrite, tuffaceous shale and minor ashstone. Underlies Currawang Basalt; unconformably overlies Birkenburn beds. BMR map symbol: Suw. Geol. Prov: Rocky Pic Block.|||||
+20516|Woodlawn Volcanics|42820|3|Fully described|p54|||Of Mount Fairy Group.|||||
+20516|Woodlawn Volcanics|50124|6|Mentioned|p132|Late Silurian|Late Silurian|Geological Province: eastern Lachlan Fold Belt.|||||
+20516|Woodlawn Volcanics|50232|4|Described|Map legend|Ludlow|Ludlow|Of the Mount Fairy Group. Overlies Campbells Group rocks; partly overlain by Covan Creek Formation;  underlies Currawang Basalt also.|||||
+20516|Woodlawn Volcanics|64238|5|Briefly described|Map legend|Silurian|Silurian|Of Mount Fairy Group. Dark grey to cream flow-banded quartz-feldspar-phyric rhyolite, volcaniclastics; +3 subunits of volc.sst/tuff.silst., porph.rhyolite+volc.breccia, sst.siltst,+shale, and  sm.unit chalcedony-haematite.|||||
+20516|Woodlawn Volcanics|66087|4|Described|p5-6, 11, 13, 16, Figs 2-3|Ludlow|Ludlow|Probably interfingers with overlying Currawang Basalt. Intruded by ?Early Devonian monzodiorites and dolerites. Age also constrained by palaeontology and stratigraphy. Hosts Woodlawn VHMS deposit.|423 Ma +/- 2.5 Ma U/Pb SHRIMP zircon (Black 2005).|Of the Mount Fairy Group.||Overlies De Drack Formation. Underlies Currawang Basalt.|Includes rhyolites, volcaniclastic sedimentary rocks, tuffaceous siltstones, carbonaceous shales and minor quartzose sandstone.
+20516|Woodlawn Volcanics|66300|5|Briefly described|p23, p27, pp29-34. |||Age is indistinguishable from Ellenden Granite and leucogranite phase of Lockhart Igneous Complex.|423.3 +/- 2.6 Ma to 419.2 +/- 3.2 Ma.|Unit in Mount Fairy Group.|||Lower part is predominantly volcaniclastic; includes porphyritic rhyolite.
+20516|Woodlawn Volcanics|69159|5|Briefly described|Map legend|Devonian|Silurian|||Unit in Mount Fairy Group.|||Dark grey to cream flow-banded quartz-feldspar-phyric rhyolite; volcanic breccia; volcanic sandstone; conglomerate; tuffaceous siltstone; and mudstone.
+20879|Yarralumla Formation|5252|6|Mentioned|p86||Ludlovian||||||
+20879|Yarralumla Formation|12185|5|Briefly described|map legend|Upper Silurian|Upper Silurian|Of Red Hill Group. Calcareous shale and sandstone, fossiliferous limestone. BMR map symbol: Suy.|||||
+20879|Yarralumla Formation|22768|6|Mentioned|p176||||||||
+20879|Yarralumla Formation|22857|4|Described|p176, p462 App.1 Tb.A1.6|Ludlovian|Ludlovian|Overlain by Deakin Volcanics. Calcareous tuffaceous mudstone and siltstone; minor beds of limestone, quartz arenite. Max. thickness: 300m.|||||
+20879|Yarralumla Formation|24248|6|Mentioned|p67||||||||
+20879|Yarralumla Formation|29992|6|Mentioned|Map legend|Silurian|Silurian||||||
+20879|Yarralumla Formation|29994|6|Mentioned|Map legend|Late Silurian|Late Silurian||||||
+20879|Yarralumla Formation|31019|6|Mentioned|Map legend|Silurian|Silurian||||||
+20879|Yarralumla Formation|31111|6|Mentioned|p138|||Also mention P140, 144, 146.|||||
+20879|Yarralumla Formation|31284|6|Mentioned|Map legend|Late Silurian|Late Silurian||||||
+20879|Yarralumla Formation|31852|6|Mentioned|Fig. 5|||Ludlovian|||||
+20879|Yarralumla Formation|33325|5|Briefly described|Table 2|||See also Table 3.|||||
+20879|Yarralumla Formation|33328|4|Described|Table 1|||See also P5 & 14.|||||
+20879|Yarralumla Formation|34405|5|Briefly described|Table 3.5||||||||
+20879|Yarralumla Formation|35110|6|Mentioned|Fig.3||||||||
+20879|Yarralumla Formation|35614|5|Briefly described|p6||||||||
+20879|Yarralumla Formation|36413|6|Mentioned|Table 2||||||||
+20879|Yarralumla Formation|36633|6|Mentioned|Map legend|Late Silurian|Late Silurian||||||
+20879|Yarralumla Formation|37013|6|Mentioned|p27||||||||
+20879|Yarralumla Formation|37141|5|Briefly described|Plan 6||||||||
+20879|Yarralumla Formation|37348|6|Mentioned|p97||||||||
+20879|Yarralumla Formation|37728|4|Described|Table 2||||||||
+20879|Yarralumla Formation|37752|6|Mentioned|p105||||||||
+20879|Yarralumla Formation|38035|6|Mentioned|p91||||||||
+20879|Yarralumla Formation|38664|5|Briefly described|p6|||See also P12|||||
+20879|Yarralumla Formation|39331|6|Mentioned|p50||||||||
+20879|Yarralumla Formation|39947|6|Mentioned|Map legend|Late Silurian|Late Silurian||||||
+20879|Yarralumla Formation|39975|4|Described|p123||||||||
+20879|Yarralumla Formation|40328|3|Fully described|p118||||||||
+20879|Yarralumla Formation|40689|6|Mentioned|p4||||||||
+20879|Yarralumla Formation|41356|5|Briefly described|p63|||See also P29 and P84|||||
+20879|Yarralumla Formation|42497|5|Briefly described|Map Legend|Wenlockian|Wenlockian||||||
+20879|Yarralumla Formation|42727|5|Briefly described|map legend|Ludlow|Ludlow|Calcareous and tuffaceous mudstone and siltstone; minor limestone, calc-silicate hornfels and quartz sst. Over Mount Painter Volcanics; intruded by Federal Golf Course Tonalite. BMR map symbol: Suy. Geol. Prov: Canberra Block.|||||
+20879|Yarralumla Formation|42820|2|Defined|p30|early Ludlow||of Laidlaw Volcanic Suite. Age early Late Silurian (early Ludlow)|||||
+20879|Yarralumla Formation|42994|6|Mentioned|p19||||||||
+20879|Yarralumla Formation|43158|6|Mentioned|3||||||||
+20879|Yarralumla Formation|43159|6|Mentioned|Fig.2p4,p6.||Late Silurian||||||
+20879|Yarralumla Formation|43344|14|Not recorded|p110,113,115,116||Late Silurian||||||
+20879|Yarralumla Formation|43385|14|Not recorded|p171,172|||L.Ludlow|||||
+20879|Yarralumla Formation|43481|6|Mentioned|3,5,11||||||||
+20879|Yarralumla Formation|44970|14|Not recorded|p1,34,38-9,42-46,48,||Late Silurian|p79,80,89,95,map. Unit of Red Hill Group|||||
+20879|Yarralumla Formation|45147|6|Mentioned|M164||||||||
+20879|Yarralumla Formation|47037|6|Mentioned|p107||||||||
+20879|Yarralumla Formation|48971|6|Mentioned|p9|||See also P17.|||||
+20879|Yarralumla Formation|49043|5|Briefly described|p7||||||||
+20902|Yarwood Siltstone Member|22857|5|Briefly described|p458 App.1, Tb.A1.6|Late Silurian|Late Silurian|Of the Booroo Ponds Group. Calcareous siltstone, shaly mudstone. Max. thickness: 33.5m. Geological Province: Canberra-Yass Shelf. |||||
+20902|Yarwood Siltstone Member|24019|6|Mentioned|p362|Ludlow|Ludlow||||||
+20902|Yarwood Siltstone Member|24248|5|Briefly described|p51, p67|Ludfordian|Ludfordian|Parent: Black Bog Shale. Geological Province: Yass Syncline.|||||
+20902|Yarwood Siltstone Member|30069|6|Mentioned|p5|||Also Table 5|||||
+20902|Yarwood Siltstone Member|31852|5|Briefly described|p711|||U.Sil. See also P714,715, Figs. 1,2,4,5.|||||
+20902|Yarwood Siltstone Member|32155|6|Mentioned|p186|||See also Fig. 1|||||
+20902|Yarwood Siltstone Member|33116|6|Mentioned|Fig.11|||Correlation. Mb. Bog Shale.|||||
+20902|Yarwood Siltstone Member|35244|6|Mentioned|p36||||||||
+20902|Yarwood Siltstone Member|35386|3|Fully described|p35||||||||
+20902|Yarwood Siltstone Member|36411|6|Mentioned|p270|||Refers Cramsie et al 1978 for definition|||||
+20902|Yarwood Siltstone Member|37013|6|Mentioned|p24||||||||
+20902|Yarwood Siltstone Member|37727|6|Mentioned|p8||||||||
+20902|Yarwood Siltstone Member|38378|6|Mentioned|p142||||||||
+20902|Yarwood Siltstone Member|39331|6|Mentioned|Fig.5-5||||||||
+20902|Yarwood Siltstone Member|39975|6|Mentioned|p128||||||||
+20902|Yarwood Siltstone Member|40328|4|Described|p52|||Also mentioned on P21|||||
+20902|Yarwood Siltstone Member|42994|6|Mentioned|p72|||of Black Bog Shale|||||
+20902|Yarwood Siltstone Member|45075|5|Briefly described|p7|||Fauna|||||
+20902|Yarwood Siltstone Member|50230|4|Described|Map legend|Ludlow|Ludlow|Of the Black Bog Shale (Hattons Corner Group).  Lies between upper and lower unnamed shale members of the Black Bog Formation.  Formerly known as the "Lower Trilobite bed".  Fossiliferous mudstone, shale, siltstone.|||||
+20902|Yarwood Siltstone Member|64238|5|Briefly described|Map legend|Silurian|Silurian|Of Black Bog Shale (Hattons Corner Group). Formerly the "Lower Trilobite bed".  Fossiliferous mudstone, shale and siltstone.|||||
+20908|Yass Formation|22486|5|Briefly described|p 5||Ludlovian||||||
+20908|Yass Formation|22768|6|Mentioned|p176||||||||
+20908|Yass Formation|22857|4|Described|p176, p460 App.1 Tb.A1.6|Late Silurian|Late Silurian|Sequence of shelfal sediments including limestone. Underlies Laidlaw and Deakin Volcanics. Overlies Hawkins Suite. Max. thickness: 320m. See also p462 App.1 Tb. A1.6.|||||
+20908|Yass Formation|24248|5|Briefly described|p51, p52, p50 Fig.1|Late Silurian|Late Silurian|Overlying Unit: Laidlaw Volcanics. Underlying Unit: Hawkins Volcanics. Geological Province: Yass Syncline.|||||
+20908|Yass Formation|36441|5|Briefly described|map legend|Ludlovian|Ludlovian|Interbedded shale and siltstone. Underlies Laidlaw Volcanics. BMR map code: Suy.|||||
+20908|Yass Formation|37728|6|Mentioned|Table 4||||||||
+20908|Yass Formation|37752|6|Mentioned|p105||||||||
+20908|Yass Formation|38035|6|Mentioned|p90||||||||
+20908|Yass Formation|39975|6|Mentioned|p124||||||||
+20908|Yass Formation|42727|5|Briefly described|map legend|Ludlow|Ludlow|Calcareous and tuffaceous shale, sandstone, ashstone and limestone. BMR map symbol: Sy. Geol. Prov: Canberra Block.|||||
+20908|Yass Formation|42820|2|Defined|p29|early Ludlow||Of Laidlaw Volcanic Suite. Age early Late Silurian (earliest Ludlow).|||||
+20908|Yass Formation|42994|6|Mentioned|p73|||Of Douro Group.|||||
+20908|Yass Formation|43479|14|Not recorded|p103||||||||
+20908|Yass Formation|44093|5|Briefly described|p196 App. 1|Devonian|Silurian|Geological Province: Lachlan Fold Belt.|||||
+20908|Yass Formation|45147|3|Fully described|M123||||||||
+20908|Yass Formation|47037|6|Mentioned|p107||||||||
+20908|Yass Formation|50230|5|Briefly described|Map legend|Wenlock|Wenlock|Of the Douro Group. Fine-grained tuffaceous sandstone and siltstone. Overlies the Hawkins Volcanics.|||||
+20908|Yass Formation|50231|5|Briefly described|Map Legend|Ludlow|Wenlock|Of the Douro Group.|||||
+20908|Yass Formation|64238|5|Briefly described|Map legend|Silurian|Silurian|Of Douro Gp. Includes O'Briens Creek Sandstone and Cliftonwood Limestone Members. Grey to olive laminated mudstone, siltstone and shale interbedded with quartzose to quartzofeldspathic sandstone; rare limestone.|||||
+20908|Yass Formation|66197|5|Briefly described|p631 Fig.3b|Wenlock||Canberra-Yass Basin. Shallow marine, subaerial clastics. Underlies the Laidlaw Volcanics, overlies the Hawkins Volcanics. Age: ?late Wenlock.|||||
