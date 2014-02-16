@@ -1,0 +1,1598 @@
+Stratno | Stratigraphic Name | Entity Number | Province Name 
+27099|Abrakurrie Limestone|20936|Eucla Basin
+72737|Acacia Sandstone Member|22114|Canning Basin
+31387|Ajana Formation|22097|Southern Carnarvon Basin
+31387|Ajana Formation|28319|Gascoyne Sub-basin
+213|Albany Granite|464813|Albany-Fraser Orogen
+24651|Albert Edward Group|467103|Halls Creek Orogen
+24651|Albert Edward Group|467204|Wolfe Basin
+39599|Alcurra Dolerite|467262|Musgrave Province
+271|Alinga Formation|28319|Gascoyne Sub-basin
+23326|Allanson Sandstone|20119|Collie Basin
+34450|Amhurst Metamorphics|429252|Lamboo Province
+25762|Anderson Formation|22114|Canning Basin
+25762|Anderson Formation|22196|Roebuck Basin
+31682|Andover Intrusion|39522|Andover Nickel Province
+31682|Andover Intrusion|464203|Pilbara Craton
+437|Angalarri Siltstone|569185|Victoria Basin
+23335|Angel Formation|20925|Northern Carnarvon Basin
+23335|Angel Formation|27718|Barrow Sub-basin
+23335|Angel Formation|27899|Dampier Sub-basin
+21138|Angelo Microgranite|40015|Mount Angelo Copper-Molybdenum Metallogenic Province
+21138|Angelo Microgranite|429252|Lamboo Province
+464|Anketell Formation|22114|Canning Basin
+23337|Anna Plains Sandstone|22114|Canning Basin
+36842|Annabelle Volcanics|35165|Ravensthorpe Nickel Metallogenic Province
+36842|Annabelle Volcanics|40126|Bounty Gold Metallogenic Province
+74813|Annean Supersuite|429729|Murchison Domain
+74813|Annean Supersuite|464632|Yilgarn Craton
+488|Antrim Plateau Volcanics|21914|Bonaparte Basin
+488|Antrim Plateau Volcanics|22075|Petrel Sub-basin
+488|Antrim Plateau Volcanics|22109|Wiso Basin
+488|Antrim Plateau Volcanics|467103|Halls Creek Orogen
+488|Antrim Plateau Volcanics|468269|Kalkarindji Igneous Province
+524|Aralka Formation|22078|Amadeus Basin
+74209|Arco Formation|22075|Petrel Sub-basin
+613|Armadale Shale|464168|Pinjarra Orogen
+21152|Arranoo Member|22020|Perth Basin
+679|Arunta Complex|22078|Amadeus Basin
+679|Arunta Complex|467256|Arunta Orogen
+693|Ascot Formation|22020|Perth Basin
+34563|Ashbrook Sandstone|22020|Perth Basin
+34563|Ashbrook Sandstone|27029|Vasse Shelf
+698|Ashburton Formation|464551|Ashburton Basin
+718|Ashmore Volcanics|28450|Ashmore Platform
+77087|Athena Basalt|464632|Yilgarn Craton
+735|Athol Formation|20925|Northern Carnarvon Basin
+735|Athol Formation|27718|Barrow Sub-basin
+735|Athol Formation|27899|Dampier Sub-basin
+735|Athol Formation|28451|Exmouth Sub-basin
+735|Athol Formation|33668|Beagle Sub-basin
+735|Athol Formation|33680|Rankin Platform
+74823|Atley Igneous Complex|429729|Murchison Domain
+74823|Atley Igneous Complex|464632|Yilgarn Craton
+74824|Austin Downs Supersuite|429729|Murchison Domain
+74824|Austin Downs Supersuite|464632|Yilgarn Craton
+787|Auvergne Group|569185|Victoria Basin
+39033|BB1|22102|Browse Basin
+39047|BB10|22102|Browse Basin
+39048|BB11|22102|Browse Basin
+39049|BB12a|22102|Browse Basin
+39050|BB12b|22102|Browse Basin
+39051|BB12c|22102|Browse Basin
+39052|BB13|22102|Browse Basin
+39053|BB14|22102|Browse Basin
+39054|BB15a|22102|Browse Basin
+39055|BB15b|22102|Browse Basin
+39056|BB15c|22102|Browse Basin
+39057|BB16|22102|Browse Basin
+39058|BB17|22102|Browse Basin
+39059|BB18|22102|Browse Basin
+39060|BB19|22102|Browse Basin
+39034|BB2|22102|Browse Basin
+39061|BB20|22102|Browse Basin
+39062|BB21|22102|Browse Basin
+39063|BB22|22102|Browse Basin
+39036|BB3|22102|Browse Basin
+39038|BB4|22102|Browse Basin
+39040|BB5|22102|Browse Basin
+39041|BB6|22102|Browse Basin
+39042|BB7|22102|Browse Basin
+39043|BB8a|22102|Browse Basin
+39044|BB8b|22102|Browse Basin
+39045|BB8c|22102|Browse Basin
+39046|BB9|22102|Browse Basin
+827|Babbagoola Formation|22115|Officer Basin
+837|Babrongan Formation|22114|Canning Basin
+24679|Backdoor Formation|464562|Collier Basin
+863|Badgeradda Group|464168|Pinjarra Orogen
+74836|Bald Rock Supersuite|429729|Murchison Domain
+74836|Bald Rock Supersuite|464632|Yilgarn Craton
+24169|Baleine Formation|22114|Canning Basin
+36845|Bandalup Ultramafics|35165|Ravensthorpe Nickel Metallogenic Province
+36845|Bandalup Ultramafics|40126|Bounty Gold Metallogenic Province
+34708|Bandicoot Range beds|467109|Carr Boyd Basin
+34951|Bangemall Supergroup|464560|Edmund Basin
+34951|Bangemall Supergroup|464562|Collier Basin
+23359|Bare Formation|20925|Northern Carnarvon Basin
+23359|Bare Formation|27899|Dampier Sub-basin
+23359|Bare Formation|33680|Rankin Platform
+74901|Barracouta Shoal Formation|21914|Bonaparte Basin
+74901|Barracouta Shoal Formation|26965|Malita Graben
+74901|Barracouta Shoal Formation|28315|Vulcan Sub-basin
+74901|Barracouta Shoal Formation|28450|Ashmore Platform
+74901|Barracouta Shoal Formation|28590|Sahul Platform
+74901|Barracouta Shoal Formation|33446|Londonderry High
+74901|Barracouta Shoal Formation|33676|Troubadour Terrace
+30675|Barramundi Conglomerate|22114|Canning Basin
+1176|Barren Sandstone|22023|Abrolhos Sub-basin
+1209|Barrow Group|20925|Northern Carnarvon Basin
+1209|Barrow Group|27718|Barrow Sub-basin
+1209|Barrow Group|27899|Dampier Sub-basin
+1209|Barrow Group|28451|Exmouth Sub-basin
+1209|Barrow Group|33680|Rankin Platform
+25776|Bassendean Sand|22020|Perth Basin
+1242|Bastion Group|467195|Bastion Basin
+1249|Bathurst Island Group|21914|Bonaparte Basin
+1249|Bathurst Island Group|22075|Petrel Sub-basin
+1249|Bathurst Island Group|22330|Money Shoal Basin
+1249|Bathurst Island Group|26965|Malita Graben
+1249|Bathurst Island Group|28315|Vulcan Sub-basin
+1249|Bathurst Island Group|28590|Sahul Platform
+1249|Bathurst Island Group|33446|Londonderry High
+1249|Bathurst Island Group|33676|Troubadour Terrace
+28358|Becher Sand|22020|Perth Basin
+1348|Beckett Member|22020|Perth Basin
+26376|Bedford Sandstone|467107|Speewah Basin
+31125|Bedout Formation|22114|Canning Basin
+31125|Bedout Formation|22196|Roebuck Basin
+29989|Bee Gorge Member|464200|Hamersley Basin
+1384|Beedagong Claystone|20925|Northern Carnarvon Basin
+1384|Beedagong Claystone|27718|Barrow Sub-basin
+30579|Beekeeper Formation|22020|Perth Basin
+30579|Beekeeper Formation|22023|Abrolhos Sub-basin
+30579|Beekeeper Formation|27019|Turtle Dove Ridge
+28360|Behn Conglomerate|22114|Canning Basin
+1401|Bejah Claystone|22114|Canning Basin
+1401|Bejah Claystone|22115|Officer Basin
+1401|Bejah Claystone|466902|Gunbarrel Basin
+29480|Bellevue Limestone Member|22020|Perth Basin
+23374|Benalla Formation|21914|Bonaparte Basin
+23374|Benalla Formation|28450|Ashmore Platform
+1491|Bentley Supergroup|22115|Officer Basin
+38576|Bertibubba Supersuite|464192|Gascoyne Province
+1575|Bickleys Porphyry|429253|Hooper Province
+74796|Biddenew Formation|464192|Gascoyne Province
+74825|Big Bell Suite|429729|Murchison Domain
+74825|Big Bell Suite|464632|Yilgarn Craton
+74174|Big Spring Formation|22114|Canning Basin
+23384|Biggada Formation|20925|Northern Carnarvon Basin
+23384|Biggada Formation|27718|Barrow Sub-basin
+23384|Biggada Formation|27899|Dampier Sub-basin
+42069|Billabong Complex|467226|Tanami Orogen
+1639|Billidee Formation|22097|Southern Carnarvon Basin
+1693|Bingy Bingy Basalt Member|22109|Wiso Basin
+1720|Birdrong Sandstone|20925|Northern Carnarvon Basin
+1720|Birdrong Sandstone|22020|Perth Basin
+1720|Birdrong Sandstone|22097|Southern Carnarvon Basin
+1720|Birdrong Sandstone|27718|Barrow Sub-basin
+1720|Birdrong Sandstone|28319|Gascoyne Sub-basin
+1720|Birdrong Sandstone|28451|Exmouth Sub-basin
+29906|Birksgate Complex|467262|Musgrave Province
+1735|Birrindudu Group|467208|Birrindudu Basin
+1758|Bitter Springs Formation|22078|Amadeus Basin
+1758|Bitter Springs Formation|40009|Arltunga Gold Metallogenic Province
+31068|Black Duck Tonalite|429252|Lamboo Province
+30673|Black Rock Granodiorite|429253|Hooper Province
+1854|Blackfella Rockhole Member|22109|Wiso Basin
+1854|Blackfella Rockhole Member|468269|Kalkarindji Igneous Province
+25793|Blina Shale|22102|Browse Basin
+25793|Blina Shale|22196|Roebuck Basin
+36765|Bloods Range Formation|22078|Amadeus Basin
+32054|Blue Billy Formation|464560|Edmund Basin
+1988|Blue Hills Sandstone|22115|Officer Basin
+2050|Bobbies Point Alkali Granite|464813|Albany-Fraser Orogen
+2055|Bobs Bore Conglomerate|22114|Canning Basin
+75576|Boee beds|467255|Murraba Basin
+2161|Bonaparte Formation|21914|Bonaparte Basin
+2161|Bonaparte Formation|22075|Petrel Sub-basin
+2161|Bonaparte Formation|22114|Canning Basin
+2161|Bonaparte Formation|22196|Roebuck Basin
+2161|Bonaparte Formation|28315|Vulcan Sub-basin
+23405|Bongabinni Formation|22114|Canning Basin
+74954|Boodanoo Suite|464632|Yilgarn Craton
+2196|Bookara Sandstone Member|22020|Perth Basin
+2227|Boolgeeda Iron Formation|464200|Hamersley Basin
+23409|Boondawari Formation|22115|Officer Basin
+2275|Boord Formation|22078|Amadeus Basin
+25804|Borda Sandstone|27899|Dampier Sub-basin
+2312|Borde Formation|21914|Bonaparte Basin
+2312|Borde Formation|33446|Londonderry High
+2314|Border Creek Formation|21914|Bonaparte Basin
+28391|Bossut Formation|27899|Dampier Sub-basin
+78619|Bow Hill Lamprophyre Suite|429252|Lamboo Province
+2394|Bow River Granite|429252|Lamboo Province
+2511|Brassey Range Formation|22115|Officer Basin
+27346|Bresnahan Group|466900|Bresnahan Basin
+2525|Breton Marl|22020|Perth Basin
+25810|Brigadier Formation|20925|Northern Carnarvon Basin
+25810|Brigadier Formation|27718|Barrow Sub-basin
+25810|Brigadier Formation|27899|Dampier Sub-basin
+25810|Brigadier Formation|28451|Exmouth Sub-basin
+25810|Brigadier Formation|33668|Beagle Sub-basin
+25810|Brigadier Formation|33680|Rankin Platform
+2572|Bringo Shale|22020|Perth Basin
+2592|Broadhurst Formation|466191|Paterson Orogen
+2592|Broadhurst Formation|466206|Yeneena Basin
+2602|Brockman Iron Formation|464200|Hamersley Basin
+25814|Brown Gannet Limestone|21914|Bonaparte Basin
+25814|Brown Gannet Limestone|28450|Ashmore Platform
+2683|Browne Formation|22115|Officer Basin
+23427|Brownrigg Sandstone|22115|Officer Basin
+30280|Browns Range Metamorphics|467226|Tanami Orogen
+30280|Browns Range Metamorphics|467254|Lucas Craton
+29869|Bryah Group|464708|Bryah Basin
+2770|Buck Formation|22078|Amadeus Basin
+25816|Budjan Creek Formation|464203|Pilbara Craton
+2833|Bugle Gap Limestone|22114|Canning Basin
+33826|Buldya Group|22115|Officer Basin
+26433|Bulka Hills Beds|467103|Halls Creek Orogen
+2887|Bullara Limestone|28451|Exmouth Sub-basin
+2914|Bullita Group|467208|Birrindudu Basin
+2950|Bunbury Basalt|22022|Vlaming Sub-basin
+24791|Bungle Bungle Dolomite|467202|Osmond Basin
+26440|Bunjinah Formation|571045|Fortescue Basin
+78652|Burnside Granite (WA)|556276|Nornalup Zone
+3168|Burt Range Formation|21914|Bonaparte Basin
+3187|Burvill Formation|21914|Bonaparte Basin
+21405|Butler Creek Formation|466191|Paterson Orogen
+21405|Butler Creek Formation|466205|Rudall Province
+27667|Buttons Formation|21914|Bonaparte Basin
+27667|Buttons Formation|22075|Petrel Sub-basin
+3230|Byro Group|22097|Southern Carnarvon Basin
+3230|Byro Group|27718|Barrow Sub-basin
+3230|Byro Group|27899|Dampier Sub-basin
+3266|Cadda Formation|22020|Perth Basin
+3266|Cadda Formation|22023|Abrolhos Sub-basin
+3266|Cadda Formation|27012|Houtman Sub-basin
+21411|Cadjebut Formation|22114|Canning Basin
+25827|Callawa Formation|20925|Northern Carnarvon Basin
+25827|Callawa Formation|22114|Canning Basin
+26448|Callytharra Formation|22097|Southern Carnarvon Basin
+26449|Calyie Formation|464562|Collier Basin
+23457|Calypso Formation|20925|Northern Carnarvon Basin
+23457|Calypso Formation|22102|Browse Basin
+23457|Calypso Formation|22196|Roebuck Basin
+23457|Calypso Formation|27899|Dampier Sub-basin
+23457|Calypso Formation|33668|Beagle Sub-basin
+33276|Camel Hills Metamorphics|464192|Gascoyne Province
+33276|Camel Hills Metamorphics|570453|Glenburgh Terrane
+74050|Cape Hay Formation|22075|Petrel Sub-basin
+3509|Cape Londonderry Formation|21914|Bonaparte Basin
+3509|Cape Londonderry Formation|22075|Petrel Sub-basin
+3509|Cape Londonderry Formation|26965|Malita Graben
+3509|Cape Londonderry Formation|28315|Vulcan Sub-basin
+3509|Cape Londonderry Formation|28590|Sahul Platform
+3509|Cape Londonderry Formation|33446|Londonderry High
+3521|Cape Range Group|20925|Northern Carnarvon Basin
+3521|Cape Range Group|27718|Barrow Sub-basin
+3521|Cape Range Group|27899|Dampier Sub-basin
+3521|Cape Range Group|33668|Beagle Sub-basin
+3558|Capricorn Group|466898|Blair Basin
+3589|Cardabia Calcarenite|20925|Northern Carnarvon Basin
+3589|Cardabia Calcarenite|22020|Perth Basin
+3589|Cardabia Calcarenite|22023|Abrolhos Sub-basin
+3589|Cardabia Calcarenite|22097|Southern Carnarvon Basin
+3589|Cardabia Calcarenite|27012|Houtman Sub-basin
+3589|Cardabia Calcarenite|27019|Turtle Dove Ridge
+3589|Cardabia Calcarenite|27718|Barrow Sub-basin
+3589|Cardabia Calcarenite|28319|Gascoyne Sub-basin
+3589|Cardabia Calcarenite|28451|Exmouth Sub-basin
+3601|Cardup Group|464168|Pinjarra Orogen
+38074|Carlindi Granitic Complex|464203|Pilbara Craton
+3629|Carlton Group|21914|Bonaparte Basin
+3629|Carlton Group|22075|Petrel Sub-basin
+3629|Carlton Group|28315|Vulcan Sub-basin
+40564|Carnac Formation|22020|Perth Basin
+40564|Carnac Formation|22022|Vlaming Sub-basin
+3647|Carnegie Formation|22078|Amadeus Basin
+24214|Carolyn Formation|22114|Canning Basin
+3663|Carr Boyd Group|467103|Halls Creek Orogen
+3663|Carr Boyd Group|467109|Carr Boyd Basin
+3666|Carr Boyd Rocks Complex|39536|Carr Boyd Nickel Metallogenic Province
+3677|Carranya Formation|22114|Canning Basin
+3686|Carribuddy Group|22114|Canning Basin
+41811|Carrington Suite|467256|Arunta Orogen
+3696|Carson Volcanics|467108|Kimberley Basin
+3707|Cartier Formation|21914|Bonaparte Basin
+3707|Cartier Formation|28450|Ashmore Platform
+3707|Cartier Formation|28590|Sahul Platform
+3723|Carynginia Formation|22020|Perth Basin
+3723|Carynginia Formation|22023|Abrolhos Sub-basin
+23475|Cascade Bay Monzogranite|429253|Hooper Province
+3764|Castlereagh Hill Porphyry|429252|Lamboo Province
+3806|Cattamarra Coal Measures|22020|Perth Basin
+3806|Cattamarra Coal Measures|22023|Abrolhos Sub-basin
+3806|Cattamarra Coal Measures|27012|Houtman Sub-basin
+3857|Celebration Dyke|464632|Yilgarn Craton
+23478|Challenger Formation|22020|Perth Basin
+3892|Challis Formation|21914|Bonaparte Basin
+3892|Challis Formation|26965|Malita Graben
+3892|Challis Formation|28315|Vulcan Sub-basin
+3892|Challis Formation|28590|Sahul Platform
+3892|Challis Formation|33446|Londonderry High
+3892|Challis Formation|33676|Troubadour Terrace
+27740|Chaneys Granite|429252|Lamboo Province
+27740|Chaneys Granite|429253|Hooper Province
+31473|Charlotte Sandstone|22020|Perth Basin
+31473|Charlotte Sandstone|22022|Vlaming Sub-basin
+73592|Cherratta Granitic Complex|464203|Pilbara Craton
+36846|Chester Formation|35165|Ravensthorpe Nickel Metallogenic Province
+36846|Chester Formation|35276|Forrestania Nickel Metallogenic Province
+36846|Chester Formation|40126|Bounty Gold Metallogenic Province
+23483|Cheyne Springs Formation|464560|Edmund Basin
+33196|Chiall Formation|464633|Earaheedy Basin
+3973|Chicken Creek Member|20119|Collie Basin
+23484|Chinty Formation|27718|Barrow Sub-basin
+23484|Chinty Formation|27899|Dampier Sub-basin
+26476|Choorun Formation|22115|Officer Basin
+74835|Chunderloo Monzogranite|429729|Murchison Domain
+28297|Clanmeyer Siltstone|22114|Canning Basin
+31467|Clianthus Formation|22114|Canning Basin
+29482|Clifton Downs Member|22020|Perth Basin
+67829|Coburn Formation|22097|Southern Carnarvon Basin
+4273|Cockatoo Group|21914|Bonaparte Basin
+4273|Cockatoo Group|22075|Petrel Sub-basin
+4273|Cockatoo Group|28315|Vulcan Sub-basin
+28210|Colalura Sandstone|22020|Perth Basin
+4345|Collie Group|20119|Collie Basin
+34907|Collier Group|464562|Collier Basin
+4380|Colville Sandstone|20936|Eucla Basin
+4428|Condren Sandstone|22114|Canning Basin
+4431|Cone Hill Granite|429253|Hooper Province
+4473|Coodardoo Formation|464560|Edmund Basin
+75540|Coodardy Pool Formation|429729|Murchison Domain
+26490|Coolbro Sandstone|466191|Paterson Orogen
+26490|Coolbro Sandstone|466206|Yeneena Basin
+4558|Cooloongup Sand|22020|Perth Basin
+4565|Coolyena Group|22020|Perth Basin
+4565|Coolyena Group|22022|Vlaming Sub-basin
+28471|Coondiner Member|464200|Hamersley Basin
+25677|Coondra Formation|22115|Officer Basin
+4662|Cooya Pooya Dolerite|571045|Fortescue Basin
+36951|Coppin Gap Granodiorite|40018|Coppin Gap Copper Molybdenum Metallogenic Province
+30536|Coramup Gneiss|464813|Albany-Fraser Orogen
+30536|Coramup Gneiss|556159|Biranup Zone
+30307|Corkwood Tonalite|429252|Lamboo Province
+4734|Cornelia Sandstone|466893|Ward-Oldham Province
+23512|Cossigny Member|22196|Roebuck Basin
+23512|Cossigny Member|33668|Beagle Sub-basin
+23512|Cossigny Member|33680|Rankin Platform
+4799|Cowerdup Sill|464813|Albany-Fraser Orogen
+74633|Crab Creek Calcilutite Member|22114|Canning Basin
+25865|Cronin Sandstone|22114|Canning Basin
+74828|Crossroads Granodiorite|429729|Murchison Domain
+74828|Crossroads Granodiorite|464632|Yilgarn Craton
+4951|Crowhurst Group|467197|Crowhurst Basin
+4964|Croydon Group|464203|Pilbara Craton
+39658|Cudalgarra Member|22114|Canning Basin
+74821|Cue Tonalite|429729|Murchison Domain
+74821|Cue Tonalite|464632|Yilgarn Craton
+74815|Cullculli Suite|429729|Murchison Domain
+74815|Cullculli Suite|464632|Yilgarn Craton
+74638|Cullens Diamictite""|22020|Perth Basin
+27136|Culvida Sandstone|22114|Canning Basin
+5139|Dales Gorge Member|464200|Hamersley Basin
+33444|Dalgaringa Supersuite|464192|Gascoyne Province
+33444|Dalgaringa Supersuite|570453|Glenburgh Terrane
+30537|Dalyup Gneiss|464813|Albany-Fraser Orogen
+30537|Dalyup Gneiss|556159|Biranup Zone
+5177|Dandaragan Sandstone|22020|Perth Basin
+5253|Darwin Formation|21914|Bonaparte Basin
+5253|Darwin Formation|22075|Petrel Sub-basin
+5253|Darwin Formation|22330|Money Shoal Basin
+5253|Darwin Formation|26965|Malita Graben
+5253|Darwin Formation|28315|Vulcan Sub-basin
+5253|Darwin Formation|28590|Sahul Platform
+5253|Darwin Formation|33446|Londonderry High
+5253|Darwin Formation|33676|Troubadour Terrace
+73607|Davey Well Granite|464192|Gascoyne Province
+78637|Day Rock Granodiorite|464632|Yilgarn Craton
+29793|Dead Finish Tonalite|429252|Lamboo Province
+5300|Dean Quartzite|22078|Amadeus Basin
+23541|Delambre Formation|20925|Northern Carnarvon Basin
+23541|Delambre Formation|27718|Barrow Sub-basin
+23541|Delambre Formation|27899|Dampier Sub-basin
+23541|Delambre Formation|33680|Rankin Platform
+75574|Denison beds|467255|Murraba Basin
+28501|Depuch Formation|22114|Canning Basin
+28501|Depuch Formation|22196|Roebuck Basin
+25878|Devil Creek Formation|464560|Edmund Basin
+24244|Diemals Formation|40126|Bounty Gold Metallogenic Province
+21659|Dillinger Monzogranite|429252|Lamboo Province
+25879|Ding Dong Downs Volcanics|429252|Lamboo Province
+5507|Dingo Claystone|20925|Northern Carnarvon Basin
+5507|Dingo Claystone|22196|Roebuck Basin
+5507|Dingo Claystone|27718|Barrow Sub-basin
+5507|Dingo Claystone|27899|Dampier Sub-basin
+5507|Dingo Claystone|28451|Exmouth Sub-basin
+5507|Dingo Claystone|33668|Beagle Sub-basin
+36000|Dingo Creek Granite|464192|Gascoyne Province
+37057|Dirk Hartog Group|22097|Southern Carnarvon Basin
+37057|Dirk Hartog Group|28319|Gascoyne Sub-basin
+33754|Disappointment Group|22115|Officer Basin
+34912|Discovery Formation|464560|Edmund Basin
+77448|Ditji Formation|21914|Bonaparte Basin
+29414|Dixon Range beds|22078|Amadeus Basin
+23548|Dockrell Formation|20925|Northern Carnarvon Basin
+23548|Dockrell Formation|27899|Dampier Sub-basin
+23548|Dockrell Formation|33680|Rankin Platform
+74053|Dombey Formation|22075|Petrel Sub-basin
+23552|Dominic Shale|22114|Canning Basin
+5600|Dongara Sandstone|22020|Perth Basin
+31881|Dougalls Tonalite|429252|Lamboo Province
+5760|Duerdin Group|467103|Halls Creek Orogen
+5760|Duerdin Group|467204|Wolfe Basin
+36887|Dumbie Granodiorite|464192|Gascoyne Province
+25888|Dupuy Formation|20925|Northern Carnarvon Basin
+25888|Dupuy Formation|27718|Barrow Sub-basin
+25888|Dupuy Formation|28451|Exmouth Sub-basin
+5872|Durba Sandstone|22115|Officer Basin
+37648|Durlacher Supersuite|464192|Gascoyne Province
+5885|Dyasons Granite|429253|Hooper Province
+27144|Earaheedy Group|464633|Earaheedy Basin
+27144|Earaheedy Group|464634|Yerrida Basin
+5914|Eastern Gneiss|464813|Albany-Fraser Orogen
+37105|Eastern Leucocratic Granitoid|429252|Lamboo Province
+27268|Eaton Sand|22020|Perth Basin
+5943|Echuca Shoals Formation|21914|Bonaparte Basin
+5943|Echuca Shoals Formation|22102|Browse Basin
+5943|Echuca Shoals Formation|26965|Malita Graben
+5943|Echuca Shoals Formation|28315|Vulcan Sub-basin
+5943|Echuca Shoals Formation|28450|Ashmore Platform
+5943|Echuca Shoals Formation|28590|Sahul Platform
+5943|Echuca Shoals Formation|33446|Londonderry High
+5943|Echuca Shoals Formation|33676|Troubadour Terrace
+75622|Eddy Suite|556159|Biranup Zone
+34906|Edmund Group|464560|Edmund Basin
+35377|Edna May Gneiss|40126|Bounty Gold Metallogenic Province
+23572|Eel Creek Formation|22115|Officer Basin
+34215|Elang Formation|21914|Bonaparte Basin
+34215|Elang Formation|26965|Malita Graben
+34215|Elang Formation|28590|Sahul Platform
+34215|Elang Formation|33676|Troubadour Terrace
+6057|Elgee Siltstone|467108|Kimberley Basin
+75545|Eliassen Formation|20925|Northern Carnarvon Basin
+75545|Eliassen Formation|27899|Dampier Sub-basin
+6108|Ellis Sandstone|22078|Amadeus Basin
+25894|Emanuel Formation|22114|Canning Basin
+76051|Emu Point Member|467108|Kimberley Basin
+68766|Emu Pool Supersuite|40018|Coppin Gap Copper Molybdenum Metallogenic Province
+6177|Enderby Formation|20925|Northern Carnarvon Basin
+29284|Eneabba Formation|22020|Perth Basin
+29284|Eneabba Formation|22023|Abrolhos Sub-basin
+29284|Eneabba Formation|27012|Houtman Sub-basin
+6185|Enga Sandstone|21914|Bonaparte Basin
+6208|Entia Gneiss|467256|Arunta Orogen
+6229|Erica Sandstone|467255|Murraba Basin
+31762|Errabiddy Formation|464168|Pinjarra Orogen
+21754|Esaw Monzogranite|429252|Lamboo Province
+77579|Esko Bed|22114|Canning Basin
+78596|Esperance Supersuite|464813|Albany-Fraser Orogen
+78596|Esperance Supersuite|556276|Nornalup Zone
+6345|Eucla Group|20936|Eucla Basin
+6368|Eundynie Group|20936|Eucla Basin
+27151|Euro Basalt|40016|Bamboo Creek Gold Metallogenic Province
+6435|Ewington Coal Measures|20119|Collie Basin
+6446|Exmouth Sandstone|20925|Northern Carnarvon Basin
+6446|Exmouth Sandstone|27718|Barrow Sub-basin
+6446|Exmouth Sandstone|28451|Exmouth Sub-basin
+25905|Fargoo Tillite|467204|Wolfe Basin
+31386|Faure Formation|22097|Southern Carnarvon Basin
+31386|Faure Formation|28319|Gascoyne Sub-basin
+6577|Fenelon Formation|21914|Bonaparte Basin
+6577|Fenelon Formation|22102|Browse Basin
+6577|Fenelon Formation|28315|Vulcan Sub-basin
+6577|Fenelon Formation|28590|Sahul Platform
+6577|Fenelon Formation|33446|Londonderry High
+21787|Fingoon Quartzite|466191|Paterson Orogen
+21787|Fingoon Quartzite|466205|Rudall Province
+27407|Flacourt Formation|27718|Barrow Sub-basin
+25909|Flag Sandstone|20925|Northern Carnarvon Basin
+25909|Flag Sandstone|27718|Barrow Sub-basin
+25909|Flag Sandstone|27899|Dampier Sub-basin
+6726|Flamingo Group|21914|Bonaparte Basin
+6726|Flamingo Group|22075|Petrel Sub-basin
+6726|Flamingo Group|22330|Money Shoal Basin
+6726|Flamingo Group|26965|Malita Graben
+6726|Flamingo Group|28315|Vulcan Sub-basin
+6726|Flamingo Group|28590|Sahul Platform
+6726|Flamingo Group|33446|Londonderry High
+6726|Flamingo Group|33676|Troubadour Terrace
+23599|Forestier Claystone|20925|Northern Carnarvon Basin
+23599|Forestier Claystone|22196|Roebuck Basin
+23599|Forestier Claystone|27718|Barrow Sub-basin
+23599|Forestier Claystone|27899|Dampier Sub-basin
+23599|Forestier Claystone|33668|Beagle Sub-basin
+23599|Forestier Claystone|33680|Rankin Platform
+6834|Fortescue Group|571045|Fortescue Basin
+6858|Fossil Head Formation|21914|Bonaparte Basin
+6858|Fossil Head Formation|22075|Petrel Sub-basin
+6858|Fossil Head Formation|22114|Canning Basin
+6858|Fossil Head Formation|22196|Roebuck Basin
+6858|Fossil Head Formation|28450|Ashmore Platform
+6858|Fossil Head Formation|28590|Sahul Platform
+6858|Fossil Head Formation|33446|Londonderry High
+78597|Fraser Range Metamorphics|464813|Albany-Fraser Orogen
+78597|Fraser Range Metamorphics|556159|Biranup Zone
+6902|Frere Formation|464633|Earaheedy Basin
+6911|Frezier Sandstone|20925|Northern Carnarvon Basin
+6911|Frezier Sandstone|22114|Canning Basin
+27270|Frigate Shale|21914|Bonaparte Basin
+27270|Frigate Shale|22075|Petrel Sub-basin
+27270|Frigate Shale|22330|Money Shoal Basin
+27270|Frigate Shale|26965|Malita Graben
+27270|Frigate Shale|28590|Sahul Platform
+27270|Frigate Shale|33446|Londonderry High
+27270|Frigate Shale|33676|Troubadour Terrace
+6954|Gage Sandstone|22020|Perth Basin
+6954|Gage Sandstone|22022|Vlaming Sub-basin
+24996|Gap Creek Formation|22114|Canning Basin
+74870|Garden Rock Monzogranite|429729|Murchison Domain
+25918|Garford Formation|20936|Eucla Basin
+7072|Gearle Siltstone|20925|Northern Carnarvon Basin
+7072|Gearle Siltstone|22020|Perth Basin
+7072|Gearle Siltstone|22097|Southern Carnarvon Basin
+7072|Gearle Siltstone|22196|Roebuck Basin
+7072|Gearle Siltstone|27718|Barrow Sub-basin
+7072|Gearle Siltstone|27899|Dampier Sub-basin
+7072|Gearle Siltstone|28319|Gascoyne Sub-basin
+7072|Gearle Siltstone|28451|Exmouth Sub-basin
+25921|Gibson Formation|21914|Bonaparte Basin
+25921|Gibson Formation|28315|Vulcan Sub-basin
+25921|Gibson Formation|28590|Sahul Platform
+25921|Gibson Formation|33446|Londonderry High
+7187|Gidley Granophyre|571045|Fortescue Basin
+7206|Giles Complex|39836|Nebo-Babel Nickel Metallogenic Province
+7206|Giles Complex|467262|Musgrave Province
+74611|Giles Suite|467262|Musgrave Province
+7259|Gingin Chalk|22020|Perth Basin
+7272|Giralia Calcarenite|20925|Northern Carnarvon Basin
+7272|Giralia Calcarenite|22097|Southern Carnarvon Basin
+7272|Giralia Calcarenite|27718|Barrow Sub-basin
+7272|Giralia Calcarenite|27899|Dampier Sub-basin
+7272|Giralia Calcarenite|28319|Gascoyne Sub-basin
+7272|Giralia Calcarenite|28451|Exmouth Sub-basin
+7320|Glass Spring Formation|22115|Officer Basin
+7321|Glasse Formation|35160|Maggie Hays Nickel Metallogenic Province
+74811|Glen Group|429729|Murchison Domain
+74811|Glen Group|464632|Yilgarn Craton
+25926|Glidden Group|467207|Glidden Basin
+7456|Glyde Formation|467262|Musgrave Province
+74830|Gnanagooragoo Igneous Complex|429729|Murchison Domain
+74830|Gnanagooragoo Igneous Complex|464632|Yilgarn Craton
+7463|Gneudna Formation|22097|Southern Carnarvon Basin
+7463|Gneudna Formation|28319|Gascoyne Sub-basin
+21872|Gnewing Granodiorite|429252|Lamboo Province
+21872|Gnewing Granodiorite|429253|Hooper Province
+25928|Goldwyer Formation|22114|Canning Basin
+7555|Googhenama Formation|22115|Officer Basin
+23629|Goose Hole Group|467103|Halls Creek Orogen
+23629|Goose Hole Group|467206|Ord Basin
+27160|Gorge Creek Group|464203|Pilbara Craton
+7646|Goyder Formation|22078|Amadeus Basin
+7696|Grant Group|22114|Canning Basin
+7742|Grebe Sandstone Member|21914|Bonaparte Basin
+7742|Grebe Sandstone Member|26965|Malita Graben
+7742|Grebe Sandstone Member|28315|Vulcan Sub-basin
+7742|Grebe Sandstone Member|28450|Ashmore Platform
+7742|Grebe Sandstone Member|28590|Sahul Platform
+7742|Grebe Sandstone Member|33446|Londonderry High
+7766|Greenough Sandstone|22020|Perth Basin
+74808|Greensleeves Formation|429729|Murchison Domain
+74808|Greensleeves Formation|464632|Yilgarn Craton
+31879|Greenvale Porphyry|429252|Lamboo Province
+21913|Grimpy Monzogranite|429252|Lamboo Province
+25034|Gumhole Formation|22114|Canning Basin
+21919|Gunanya Sandstone|22115|Officer Basin
+7922|Gurgadi Basalt|467262|Musgrave Province
+35287|Halfway Gneiss|464192|Gascoyne Province
+35287|Halfway Gneiss|570453|Glenburgh Terrane
+27793|Halls Creek Group|20392|Litchfield Block
+27793|Halls Creek Group|429252|Lamboo Province
+40171|Hamelin Granite|464168|Pinjarra Orogen
+8005|Hamersley Group|464200|Hamersley Basin
+25940|Hampton Sandstone|20936|Eucla Basin
+8075|Hardey Formation|571045|Fortescue Basin
+8091|Hargreaves Formation|21914|Bonaparte Basin
+8099|Harris Sandstone|22097|Southern Carnarvon Basin
+8108|Hart Dolerite|467103|Halls Creek Orogen
+8108|Hart Dolerite|467104|King Leopold Orogen
+8110|Hart Spring Sandstone|21914|Bonaparte Basin
+36843|Hatfield Formation|35165|Ravensthorpe Nickel Metallogenic Province
+36843|Hatfield Formation|35276|Forrestania Nickel Metallogenic Province
+36843|Hatfield Formation|40126|Bounty Gold Metallogenic Province
+31475|Hawley Member|22020|Perth Basin
+31475|Hawley Member|22022|Vlaming Sub-basin
+23645|Haycock Marl|20925|Northern Carnarvon Basin
+23645|Haycock Marl|22020|Perth Basin
+23645|Haycock Marl|22097|Southern Carnarvon Basin
+23645|Haycock Marl|27899|Dampier Sub-basin
+23645|Haycock Marl|28319|Gascoyne Sub-basin
+23645|Haycock Marl|33668|Beagle Sub-basin
+23645|Haycock Marl|33680|Rankin Platform
+8225|Heavitree Quartzite|22078|Amadeus Basin
+8225|Heavitree Quartzite|40009|Arltunga Gold Metallogenic Province
+8225|Heavitree Quartzite|467256|Arunta Orogen
+27432|Hibernia Formation|21914|Bonaparte Basin
+27432|Hibernia Formation|26965|Malita Graben
+27432|Hibernia Formation|28315|Vulcan Sub-basin
+27432|Hibernia Formation|28450|Ashmore Platform
+27432|Hibernia Formation|28590|Sahul Platform
+27432|Hibernia Formation|33446|Londonderry High
+27432|Hibernia Formation|33676|Troubadour Terrace
+75577|Hidden Basin beds|467255|Murraba Basin
+8332|High Cliff Sandstone|22020|Perth Basin
+8415|Hogarth Formation|467262|Musgrave Province
+8432|Holmwood Shale|22020|Perth Basin
+72356|Homeward Bound Granite|464203|Pilbara Craton
+8465|Honman Formation|35160|Maggie Hays Nickel Metallogenic Province
+8469|Hooper Complex|467103|Halls Creek Orogen
+8469|Hooper Complex|467104|King Leopold Orogen
+27801|Horseshoe Formation|464708|Bryah Basin
+31465|Hoya Formation|22114|Canning Basin
+8604|Hussar Formation|22115|Officer Basin
+77685|Hyland Bay Subgroup|21914|Bonaparte Basin
+77685|Hyland Bay Subgroup|22075|Petrel Sub-basin
+77685|Hyland Bay Subgroup|26965|Malita Graben
+77685|Hyland Bay Subgroup|28315|Vulcan Sub-basin
+77685|Hyland Bay Subgroup|28450|Ashmore Platform
+77685|Hyland Bay Subgroup|28590|Sahul Platform
+77685|Hyland Bay Subgroup|33446|Londonderry High
+77685|Hyland Bay Subgroup|33676|Troubadour Terrace
+25955|Ilgarari Formation|464562|Collier Basin
+8669|Ilma Formation|22115|Officer Basin
+8684|Indulkana Shale|22115|Officer Basin
+8786|Irregully Formation|464560|Edmund Basin
+27166|Irwin River Coal Measures|22020|Perth Basin
+27166|Irwin River Coal Measures|22023|Abrolhos Sub-basin
+27166|Irwin River Coal Measures|22097|Southern Carnarvon Basin
+8799|Isdell Formation|466191|Paterson Orogen
+8799|Isdell Formation|466206|Yeneena Basin
+8851|Jamieson Formation|21914|Bonaparte Basin
+8851|Jamieson Formation|22102|Browse Basin
+8851|Jamieson Formation|26965|Malita Graben
+8851|Jamieson Formation|28315|Vulcan Sub-basin
+8851|Jamieson Formation|28590|Sahul Platform
+8851|Jamieson Formation|33446|Londonderry High
+8851|Jamieson Formation|33676|Troubadour Terrace
+8863|Jandakot Member|22020|Perth Basin
+75710|Jansz Sandstone|20925|Northern Carnarvon Basin
+75710|Jansz Sandstone|30351|Exmouth Plateau
+25961|Jarlemai Siltstone|20925|Northern Carnarvon Basin
+8878|Jarrad Sandstone Member|467204|Wolfe Basin
+75575|Jawilga beds|467255|Murraba Basin
+27167|Jeeaila Sandstone Member|464562|Collier Basin
+8896|Jeerinah Formation|571045|Fortescue Basin
+31476|Jervoise Sandstone|22020|Perth Basin
+31476|Jervoise Sandstone|22022|Vlaming Sub-basin
+8955|Jilyili Formation|22115|Officer Basin
+25092|Johnson Formation|21914|Bonaparte Basin
+25092|Johnson Formation|22102|Browse Basin
+25092|Johnson Formation|26965|Malita Graben
+25092|Johnson Formation|28315|Vulcan Sub-basin
+25092|Johnson Formation|28450|Ashmore Platform
+25092|Johnson Formation|28590|Sahul Platform
+25092|Johnson Formation|33446|Londonderry High
+25092|Johnson Formation|33676|Troubadour Terrace
+9041|Jubilee Member|28451|Exmouth Sub-basin
+9070|Julie Formation|22078|Amadeus Basin
+74834|Jungar Suite|429729|Murchison Domain
+74834|Jungar Suite|464632|Yilgarn Craton
+31887|Juries Bore Granite|429252|Lamboo Province
+9103|Kai Ki Beds|467103|Halls Creek Orogen
+75724|Kalkarindji Suite|529556|Georgina Basin
+32534|Kalmanyi Member|22114|Canning Basin
+9165|Kambalda Komatiite|39721|Kambalda Nickel Metallogenic Province
+32223|Kangaroo Caves Formation|40021|Sulphur Springs Base Metal Metallogenic Province
+9250|Kanpa Formation|22115|Officer Basin
+77080|Kantie Murdana Volcanics Member|429729|Murchison Domain
+77080|Kantie Murdana Volcanics Member|464632|Yilgarn Craton
+24332|Karalundi Formation|464708|Bryah Basin
+9275|Karara Formation|22115|Officer Basin
+22066|Kardinya Shale Member|22020|Perth Basin
+40192|Keene Basalt|22115|Officer Basin
+9368|Keep Inlet Formation|22075|Petrel Sub-basin
+69691|Kelly Group|464203|Pilbara Craton
+9402|Kellys Knob Sandstone|21914|Bonaparte Basin
+9434|Kennedy Group|22097|Southern Carnarvon Basin
+9434|Kennedy Group|27899|Dampier Sub-basin
+9462|Keraudren Formation|22196|Roebuck Basin
+9462|Keraudren Formation|33668|Beagle Sub-basin
+9462|Keraudren Formation|33680|Rankin Platform
+9483|Keyling Formation|21914|Bonaparte Basin
+9483|Keyling Formation|22075|Petrel Sub-basin
+9483|Keyling Formation|22114|Canning Basin
+9483|Keyling Formation|22196|Roebuck Basin
+9483|Keyling Formation|28315|Vulcan Sub-basin
+9483|Keyling Formation|28450|Ashmore Platform
+9483|Keyling Formation|33446|Londonderry High
+27174|Kiangi Creek Formation|464560|Edmund Basin
+9572|Kimberley Group|467103|Halls Creek Orogen
+9572|Kimberley Group|467104|King Leopold Orogen
+9572|Kimberley Group|467108|Kimberley Basin
+9602|King Leopold Sandstone|467108|Kimberley Basin
+9612|Kings Park Formation|22020|Perth Basin
+9623|Kinmore Group|21914|Bonaparte Basin
+9623|Kinmore Group|22075|Petrel Sub-basin
+9623|Kinmore Group|26965|Malita Graben
+9623|Kinmore Group|28450|Ashmore Platform
+9623|Kinmore Group|28590|Sahul Platform
+9623|Kinmore Group|33446|Londonderry High
+9696|Kockatea Shale|22020|Perth Basin
+9696|Kockatea Shale|22023|Abrolhos Sub-basin
+9696|Kockatea Shale|22097|Southern Carnarvon Basin
+9696|Kockatea Shale|27019|Turtle Dove Ridge
+9696|Kockatea Shale|28319|Gascoyne Sub-basin
+25975|Kojarena Sandstone|22020|Perth Basin
+9793|Koongie Park Formation|429252|Lamboo Province
+23705|Kopke Sandstone|22097|Southern Carnarvon Basin
+23705|Kopke Sandstone|28319|Gascoyne Sub-basin
+9823|Korojon Calcarenite|20925|Northern Carnarvon Basin
+9823|Korojon Calcarenite|22020|Perth Basin
+9823|Korojon Calcarenite|22023|Abrolhos Sub-basin
+9823|Korojon Calcarenite|22097|Southern Carnarvon Basin
+9823|Korojon Calcarenite|27012|Houtman Sub-basin
+9823|Korojon Calcarenite|27019|Turtle Dove Ridge
+9823|Korojon Calcarenite|27718|Barrow Sub-basin
+9823|Korojon Calcarenite|27899|Dampier Sub-basin
+9823|Korojon Calcarenite|28319|Gascoyne Sub-basin
+9823|Korojon Calcarenite|28451|Exmouth Sub-basin
+22137|Kudata Dolomite|22114|Canning Basin
+25725|Kulele Limestone|464633|Earaheedy Basin
+73260|Kulkatharra Dolerite|466901|Warakurna Large Igneous Province
+74604|Kullal Dyke Suite|467262|Musgrave Province
+9896|Kulshill Group|21914|Bonaparte Basin
+9896|Kulshill Group|22075|Petrel Sub-basin
+9896|Kulshill Group|359040|Arafura Basin
+9907|Kundip Quartzite|464813|Albany-Fraser Orogen
+26271|Kungarra Formation|464200|Hamersley Basin
+22146|Kunian Sandstone|22114|Canning Basin
+25981|Kuniandi Group|467103|Halls Creek Orogen
+25981|Kuniandi Group|467194|Louisa Basin
+74752|Kunmarnara Group|467262|Musgrave Province
+9923|Kuriyippi Formation|21914|Bonaparte Basin
+9923|Kuriyippi Formation|22075|Petrel Sub-basin
+9923|Kuriyippi Formation|28450|Ashmore Platform
+9923|Kuriyippi Formation|28590|Sahul Platform
+9923|Kuriyippi Formation|33446|Londonderry High
+74725|Kurrana Granitic Complex|464203|Pilbara Craton
+25141|Kwinana Group|22020|Perth Basin
+9967|Kybulup Schist|464813|Albany-Fraser Orogen
+34040|Kylena Formation|464203|Pilbara Craton
+34040|Kylena Formation|571045|Fortescue Basin
+74873|Lady Alma Igneous Complex|429729|Murchison Domain
+74873|Lady Alma Igneous Complex|464632|Yilgarn Craton
+75544|Lake Mackay Quartzite|364771|Aileron Province
+77851|Lake Medcalf Igneous Complex|464632|Yilgarn Craton
+10070|Lake Shaster Monzonite|464813|Albany-Fraser Orogen
+26272|Lambert Formation|20925|Northern Carnarvon Basin
+26272|Lambert Formation|27899|Dampier Sub-basin
+26272|Lambert Formation|33668|Beagle Sub-basin
+26272|Lambert Formation|33680|Rankin Platform
+34448|Lamboo Ultramafics|39529|Panton PGE-Ni Metallogenic Province
+34448|Lamboo Ultramafics|39827|Lamboo Nickel Metallogenic Province
+34421|Lamil Group|466206|Yeneena Basin
+10126|Lampe Formation|22115|Officer Basin
+25151|Lancelin Formation|22020|Perth Basin
+69780|Lander Rock Formation|364771|Aileron Province
+69780|Lander Rock Formation|467256|Arunta Orogen
+27180|Landrigan Tillite|467103|Halls Creek Orogen
+10161|Langfield Group|21914|Bonaparte Basin
+10161|Langfield Group|22075|Petrel Sub-basin
+10161|Langfield Group|28315|Vulcan Sub-basin
+27460|Lansdowne Arkose|467107|Speewah Basin
+10184|Larapinta Group|22078|Amadeus Basin
+22169|Larry Formation|466191|Paterson Orogen
+22169|Larry Formation|466205|Rudall Province
+75111|Leake Spring Metamorphics|464192|Gascoyne Province
+10282|Learmonth Formation|28451|Exmouth Sub-basin
+10291|Leederville Formation|22022|Vlaming Sub-basin
+10296|Leeuwin Complex|464168|Pinjarra Orogen
+10298|Lefroy Formation|22115|Officer Basin
+10301|Legendre Formation|20925|Northern Carnarvon Basin
+10301|Legendre Formation|27899|Dampier Sub-basin
+10301|Legendre Formation|33668|Beagle Sub-basin
+10340|Lennard Granite|429253|Hooper Province
+10341|Lennard River Group|22114|Canning Basin
+10343|Lennis Sandstone|22115|Officer Basin
+39661|Leo Member|22114|Canning Basin
+10352|Lerida Granite|429252|Lamboo Province
+26273|Leschenault Formation|22020|Perth Basin
+25993|Lesueur Sandstone|22020|Perth Basin
+25993|Lesueur Sandstone|22023|Abrolhos Sub-basin
+25993|Lesueur Sandstone|27019|Turtle Dove Ridge
+25993|Lesueur Sandstone|27029|Vasse Shelf
+10365|Lewis Range Sandstone|467255|Murraba Basin
+25994|Lightjack Formation|22114|Canning Basin
+25994|Lightjack Formation|22196|Roebuck Basin
+10414|Limbunya Group|467208|Birrindudu Basin
+76057|Little Gap Suite|464632|Yilgarn Craton
+30671|Little Gold River Microgranodiorite|429252|Lamboo Province
+30671|Little Gold River Microgranodiorite|429253|Hooper Province
+25997|Liveringa Group|20925|Northern Carnarvon Basin
+25997|Liveringa Group|22114|Canning Basin
+25997|Liveringa Group|22196|Roebuck Basin
+22208|Loadstone Monzogranite|429252|Lamboo Province
+10561|Locker Shale|20925|Northern Carnarvon Basin
+10561|Locker Shale|22196|Roebuck Basin
+10561|Locker Shale|27718|Barrow Sub-basin
+10561|Locker Shale|27899|Dampier Sub-basin
+10561|Locker Shale|28451|Exmouth Sub-basin
+10561|Locker Shale|33668|Beagle Sub-basin
+10561|Locker Shale|33680|Rankin Platform
+10623|Long Hole Granite|429252|Lamboo Province
+10623|Long Hole Granite|429253|Hooper Province
+10656|Loongana Formation|22356|Bight Basin
+74806|Lordy Basalt Member|464632|Yilgarn Craton
+10676|Louisa Downs Group|467103|Halls Creek Orogen
+10676|Louisa Downs Group|467194|Louisa Basin
+30670|Louisa Monzogranite|429252|Lamboo Province
+30670|Louisa Monzogranite|429253|Hooper Province
+10686|Loves Creek Member|22078|Amadeus Basin
+35979|Lowendal Member|27718|Barrow Sub-basin
+10840|Lucas Formation|22114|Canning Basin
+28700|Luluigui Formation|22114|Canning Basin
+10863|Luman Siltstone|467107|Speewah Basin
+35680|Lungkarta Formation|22115|Officer Basin
+10871|Lupton Formation|22115|Officer Basin
+28702|Lyons Group|22097|Southern Carnarvon Basin
+28702|Lyons Group|27899|Dampier Sub-basin
+28702|Lyons Group|28319|Gascoyne Sub-basin
+75711|M. australis Member|20925|Northern Carnarvon Basin
+34608|M. australis Sandstone|20925|Northern Carnarvon Basin
+34608|M. australis Sandstone|27899|Dampier Sub-basin
+10925|MacLeod Member|464200|Hamersley Basin
+40311|Macedon Sandstone|20925|Northern Carnarvon Basin
+40311|Macedon Sandstone|28451|Exmouth Sub-basin
+35002|Maddina Formation|571045|Fortescue Basin
+10987|Madura Formation|20936|Eucla Basin
+10987|Madura Formation|22356|Bight Basin
+26006|Maggie Hays Formation|35160|Maggie Hays Nickel Metallogenic Province
+23749|Mahony Group|467103|Halls Creek Orogen
+23749|Mahony Group|467206|Ord Basin
+30535|Malcolm Gneiss|464813|Albany-Fraser Orogen
+30535|Malcolm Gneiss|556276|Nornalup Zone
+23751|Malita Formation|21914|Bonaparte Basin
+23751|Malita Formation|22075|Petrel Sub-basin
+23751|Malita Formation|26965|Malita Graben
+23751|Malita Formation|28315|Vulcan Sub-basin
+23751|Malita Formation|28590|Sahul Platform
+23751|Malita Formation|33446|Londonderry High
+23751|Malita Formation|33676|Troubadour Terrace
+29271|Mallina Formation|39702|Comstock Metallogenic Province
+23753|Mallowa Salt|22114|Canning Basin
+11129|Malouet Formation|20925|Northern Carnarvon Basin
+11129|Malouet Formation|27718|Barrow Sub-basin
+11129|Malouet Formation|27899|Dampier Sub-basin
+11133|Malu Formation|466191|Paterson Orogen
+11133|Malu Formation|466206|Yeneena Basin
+11165|Mandu Limestone|20925|Northern Carnarvon Basin
+11165|Mandu Limestone|27718|Barrow Sub-basin
+11165|Mandu Limestone|27899|Dampier Sub-basin
+11171|Manganese Group|464562|Collier Basin
+31474|Mangles Member|22020|Perth Basin
+31474|Mangles Member|22022|Vlaming Sub-basin
+36848|Manyutup Tonalite|35165|Ravensthorpe Nickel Metallogenic Province
+36848|Manyutup Tonalite|40126|Bounty Gold Metallogenic Province
+23763|Marboo Formation|429252|Lamboo Province
+23763|Marboo Formation|429253|Hooper Province
+11264|Marda Complex|40126|Bounty Gold Metallogenic Province
+11278|Mardie Greensand Member|20925|Northern Carnarvon Basin
+11278|Mardie Greensand Member|22020|Perth Basin
+11278|Mardie Greensand Member|27718|Barrow Sub-basin
+11278|Mardie Greensand Member|27899|Dampier Sub-basin
+11278|Mardie Greensand Member|28451|Exmouth Sub-basin
+28212|Marla Group|22115|Officer Basin
+74955|Marlomumbah Granite|464632|Yilgarn Craton
+11353|Marra Mamba Iron Formation|464200|Hamersley Basin
+67831|Marron Member|22097|Southern Carnarvon Basin
+67998|Mason Conglomerate|22115|Officer Basin
+31884|Maude Headley Member|429252|Lamboo Province
+11476|Maurice Formation|22078|Amadeus Basin
+36844|Maydon Basalt|35165|Ravensthorpe Nickel Metallogenic Province
+36844|Maydon Basalt|35276|Forrestania Nickel Metallogenic Province
+36844|Maydon Basalt|40126|Bounty Gold Metallogenic Province
+11539|McFadden Formation|22115|Officer Basin
+78624|McIntosh Suite|429252|Lamboo Province
+31794|McIntosh intrusion|429252|Lamboo Province
+26024|Meda Formation|22114|Canning Basin
+74805|Meekatharra Formation|429729|Murchison Domain
+74805|Meekatharra Formation|464632|Yilgarn Craton
+74822|Meeline Suite|429729|Murchison Domain
+74822|Meeline Suite|464632|Yilgarn Craton
+36836|Meentheena Member|464203|Pilbara Craton
+31100|Melita Rhyolite|252289|Darlot Gold Metallogenic Province
+11627|Melligo Sandstone|22114|Canning Basin
+11629|Mellinjerie Limestone|22114|Canning Basin
+11667|Mereenie Sandstone|22078|Amadeus Basin
+11694|Merlinleigh Sandstone|22097|Southern Carnarvon Basin
+31126|Mermaid Formation|22114|Canning Basin
+30319|Milba Formation|429252|Lamboo Province
+11862|Milligans Formation|21914|Bonaparte Basin
+11862|Milligans Formation|22075|Petrel Sub-basin
+39039|Milliwindi Dolerite|468269|Kalkarindji Igneous Province
+73397|Minara Group|464632|Yilgarn Craton
+73394|Minerie Formation|464632|Yilgarn Craton
+38088|Mingah Member|464200|Hamersley Basin
+38088|Mingah Member|464203|Pilbara Craton
+26032|Miningarra Subgroup|464633|Earaheedy Basin
+26276|Minjoo Salt|22114|Canning Basin
+31905|Minyari Granite|466191|Paterson Orogen
+31905|Minyari Granite|466206|Yeneena Basin
+11957|Miria Formation|20925|Northern Carnarvon Basin
+11957|Miria Formation|22020|Perth Basin
+11957|Miria Formation|22023|Abrolhos Sub-basin
+11957|Miria Formation|22097|Southern Carnarvon Basin
+11957|Miria Formation|22114|Canning Basin
+11957|Miria Formation|22196|Roebuck Basin
+11957|Miria Formation|27012|Houtman Sub-basin
+11957|Miria Formation|27718|Barrow Sub-basin
+11957|Miria Formation|27899|Dampier Sub-basin
+11957|Miria Formation|28319|Gascoyne Sub-basin
+11957|Miria Formation|28451|Exmouth Sub-basin
+11957|Miria Formation|33680|Rankin Platform
+74764|Mirturtu Suite|467262|Musgrave Province
+11971|Mission Group|22115|Officer Basin
+78641|Mission Intrusion|464632|Yilgarn Craton
+26035|Molecap Greensand|22020|Perth Basin
+12089|Mondooma Granite|429253|Hooper Province
+31885|Monkey Yard Tonalite|429252|Lamboo Province
+12126|Montara Formation|21914|Bonaparte Basin
+12126|Montara Formation|28315|Vulcan Sub-basin
+12130|Montejinni Limestone|22109|Wiso Basin
+73396|Monument Granite|464632|Yilgarn Craton
+36888|Moogie Metamorphics|464192|Gascoyne Province
+36888|Moogie Metamorphics|570453|Glenburgh Terrane
+12179|Moogooloo Sandstone|22097|Southern Carnarvon Basin
+12181|Moogooree Limestone|22097|Southern Carnarvon Basin
+12181|Moogooree Limestone|28319|Gascoyne Sub-basin
+12182|Moola Bulla Formation|429252|Lamboo Province
+12182|Moola Bulla Formation|467203|Moola Bulla Basin
+22371|Mooloogool Group|464634|Yerrida Basin
+25260|Moonlight Valley Tillite|467204|Wolfe Basin
+12271|Moora Group|464168|Pinjarra Orogen
+33440|Moorarie Supersuite|464192|Gascoyne Province
+12284|Moorhead Formation|20119|Collie Basin
+39514|Mopoke Member|464200|Hamersley Basin
+39514|Mopoke Member|464203|Pilbara Craton
+12315|Morawa Lavas|464168|Pinjarra Orogen
+12358|Morrissey Metamorphics|464192|Gascoyne Province
+34556|Mosswood Formation|22020|Perth Basin
+34556|Mosswood Formation|27029|Vasse Shelf
+12459|Mount Andrew Migmatite|464813|Albany-Fraser Orogen
+27840|Mount Barren Group|464813|Albany-Fraser Orogen
+35605|Mount Belches Formation|252289|Darlot Gold Metallogenic Province
+26047|Mount Bertram Sandstone|467103|Halls Creek Orogen
+12546|Mount Bruce Supergroup|464203|Pilbara Craton
+12576|Mount Chandler Sandstone|22115|Officer Basin
+12602|Mount Crofton Granite|466191|Paterson Orogen
+12602|Mount Crofton Granite|466206|Yeneena Basin
+27842|Mount Disaster Porphyry|429253|Hooper Province
+78642|Mount Ellis Intrusion|464632|Yilgarn Craton
+12760|Mount Goodwin Formation|21914|Bonaparte Basin
+12760|Mount Goodwin Formation|22075|Petrel Sub-basin
+12760|Mount Goodwin Formation|26965|Malita Graben
+12760|Mount Goodwin Formation|28315|Vulcan Sub-basin
+12760|Mount Goodwin Formation|28450|Ashmore Platform
+12760|Mount Goodwin Formation|28590|Sahul Platform
+12760|Mount Goodwin Formation|33446|Londonderry High
+75712|Mount James Subgroup|464192|Gascoyne Province
+23821|Mount Joseph Migmatite|467103|Halls Creek Orogen
+12926|Mount McRae Shale|464200|Hamersley Basin
+29294|Mount Minnie Group|466899|Mount Minnie Basin
+78643|Mount Monger Intrusion|464632|Yilgarn Craton
+23826|Mount Newman Member|464200|Hamersley Basin
+13010|Mount Parker Sandstone|467202|Osmond Basin
+36944|Mount Ragged Formation|464813|Albany-Fraser Orogen
+27847|Mount Roe Basalt|571045|Fortescue Basin
+72449|Mount Shea porphyry|39721|Kambalda Nickel Metallogenic Province
+27207|Mount Sylvia Formation|464200|Hamersley Basin
+23838|Mount Troy Formation|22114|Canning Basin
+13203|Mount Webb Granite|467256|Arunta Orogen
+31336|Mount Webb Suite|467256|Arunta Orogen
+13315|Muderong Shale|20925|Northern Carnarvon Basin
+13315|Muderong Shale|22020|Perth Basin
+13315|Muderong Shale|22097|Southern Carnarvon Basin
+13315|Muderong Shale|22196|Roebuck Basin
+13315|Muderong Shale|27718|Barrow Sub-basin
+13315|Muderong Shale|27899|Dampier Sub-basin
+13315|Muderong Shale|28319|Gascoyne Sub-basin
+13315|Muderong Shale|28451|Exmouth Sub-basin
+13315|Muderong Shale|33668|Beagle Sub-basin
+13315|Muderong Shale|33680|Rankin Platform
+13341|Muja Coal Measures|20119|Collie Basin
+13362|Mulgarra Sandstone|464633|Earaheedy Basin
+34081|Mullamullang Member|20936|Eucla Basin
+28111|Mullingarra Gneiss|464168|Pinjarra Orogen
+28111|Mullingarra Gneiss|464169|Mullingarra Province
+75924|Mumba Psammite|464192|Gascoyne Province
+75924|Mumba Psammite|570453|Glenburgh Terrane
+13414|Munabia Sandstone|22097|Southern Carnarvon Basin
+13414|Munabia Sandstone|28319|Gascoyne Sub-basin
+23849|Mundadjini Formation|22115|Officer Basin
+13466|Mungaroo Formation|20925|Northern Carnarvon Basin
+13466|Mungaroo Formation|27718|Barrow Sub-basin
+13466|Mungaroo Formation|27899|Dampier Sub-basin
+13466|Mungaroo Formation|28451|Exmouth Sub-basin
+13466|Mungaroo Formation|33668|Beagle Sub-basin
+13466|Mungaroo Formation|33680|Rankin Platform
+30538|Munglinup Gneiss|464813|Albany-Fraser Orogen
+30538|Munglinup Gneiss|556124|Northern Foreland
+37206|Munni Munni Intrusion|35269|Munni Munni PGE-Ni Metallogenic Province
+13494|Munyu Sandstone|467255|Murraba Basin
+27211|Murat Siltstone|20925|Northern Carnarvon Basin
+27211|Murat Siltstone|27718|Barrow Sub-basin
+27211|Murat Siltstone|27899|Dampier Sub-basin
+27211|Murat Siltstone|28451|Exmouth Sub-basin
+27211|Murat Siltstone|33680|Rankin Platform
+13501|Murchison Supergroup|429729|Murchison Domain
+13518|Muriel Range Sandstone|467255|Murraba Basin
+13529|Murraba Formation|467255|Murraba Basin
+73393|Murrin Murrin Formation|464632|Yilgarn Craton
+23855|Murrouli Basalt|429729|Murchison Domain
+23855|Murrouli Basalt|464632|Yilgarn Craton
+13596|Musgrave Complex|467262|Musgrave Province
+13681|Nadarra Formation|22097|Southern Carnarvon Basin
+13690|Nakina Formation|20119|Collie Basin
+13690|Nakina Formation|27544|Boyup Basin
+26070|Nambeet Formation|22114|Canning Basin
+13720|Nammuldi Member|464200|Hamersley Basin
+13755|Nanarup Limestone Member|20936|Eucla Basin
+13780|Nangetty Formation|22020|Perth Basin
+13791|Nannyarra Sandstone|22097|Southern Carnarvon Basin
+13791|Nannyarra Sandstone|28319|Gascoyne Sub-basin
+36972|Nanular Member|464560|Edmund Basin
+32581|Nardoo Granite|464192|Gascoyne Province
+32581|Nardoo Granite|570453|Glenburgh Terrane
+73261|Narimbunna Dolerite|464192|Gascoyne Province
+74876|Narndee Igneous Complex|464632|Yilgarn Craton
+13894|Narracoota Formation|464708|Bryah Basin
+26073|Neerigen Formation|464168|Pinjarra Orogen
+13975|Nellie Tonalite|429253|Hooper Province
+75828|Nelson Rocks Formation|22114|Canning Basin
+22528|Neville Granodiorite|429252|Lamboo Province
+22528|Neville Granodiorite|429253|Hooper Province
+23873|Nibil Formation|22114|Canning Basin
+14166|Ningbing Group|21914|Bonaparte Basin
+14166|Ningbing Group|22075|Petrel Sub-basin
+14193|Nita Formation|22114|Canning Basin
+25346|Nome Formation|21914|Bonaparte Basin
+25346|Nome Formation|26965|Malita Graben
+25346|Nome Formation|28315|Vulcan Sub-basin
+25346|Nome Formation|28590|Sahul Platform
+25346|Nome Formation|33446|Londonderry High
+34890|Nooloo Formation|22115|Officer Basin
+14218|Noondine Chert|22020|Perth Basin
+26080|Noonkanbah Formation|22114|Canning Basin
+26080|Noonkanbah Formation|22196|Roebuck Basin
+74802|Norie Group|429729|Murchison Domain
+38518|Norseman Formation|20936|Eucla Basin
+27215|North Rankin Formation|20925|Northern Carnarvon Basin
+27215|North Rankin Formation|27899|Dampier Sub-basin
+27215|North Rankin Formation|33668|Beagle Sub-basin
+27215|North Rankin Formation|33680|Rankin Platform
+37213|North Royal Formation|20936|Eucla Basin
+14286|Northampton Complex|464168|Pinjarra Orogen
+14360|Nullara Limestone|22114|Canning Basin
+25355|Nullarbor Limestone|20936|Eucla Basin
+14410|Nura Nura Member|22114|Canning Basin
+14410|Nura Nura Member|22196|Roebuck Basin
+31860|O'Callaghans Granite|466191|Paterson Orogen
+31860|O'Callaghans Granite|466206|Yeneena Basin
+14452|O'Donnell Formation|467107|Speewah Basin
+78630|Oak Hill Intrusion|464632|Yilgarn Craton
+40749|Oldham Sandstone|466893|Ward-Oldham Province
+14547|Olia Gneiss|467262|Musgrave Province
+14550|Oliver Formation|21914|Bonaparte Basin
+14550|Oliver Formation|26965|Malita Graben
+14550|Oliver Formation|28315|Vulcan Sub-basin
+14550|Oliver Formation|28450|Ashmore Platform
+14550|Oliver Formation|28590|Sahul Platform
+14550|Oliver Formation|33446|Londonderry High
+14550|Oliver Formation|33676|Troubadour Terrace
+37998|Oliver Sandstone Member|21914|Bonaparte Basin
+37998|Oliver Sandstone Member|28315|Vulcan Sub-basin
+37998|Oliver Sandstone Member|28450|Ashmore Platform
+37998|Oliver Sandstone Member|28590|Sahul Platform
+37998|Oliver Sandstone Member|33446|Londonderry High
+14567|Olympio Formation|429252|Lamboo Province
+37208|Opaline Well Intrusion|39702|Comstock Metallogenic Province
+78631|Ora Banda Intrusion|464632|Yilgarn Craton
+78632|Orinda Intrusion|464632|Yilgarn Craton
+14663|Osborne Formation|22020|Perth Basin
+14667|Oscar Range Group|467823|Oscar Range Province
+74640|Osmington Seam|27029|Vasse Shelf
+14669|Osprey Formation|21914|Bonaparte Basin
+14669|Osprey Formation|26965|Malita Graben
+14669|Osprey Formation|28315|Vulcan Sub-basin
+14669|Osprey Formation|28450|Ashmore Platform
+14669|Osprey Formation|28590|Sahul Platform
+14669|Osprey Formation|33446|Londonderry High
+14669|Osprey Formation|33676|Troubadour Terrace
+40565|Otorowiri Formation|22020|Perth Basin
+40565|Otorowiri Formation|22022|Vlaming Sub-basin
+27093|Padbury Group|464812|Padbury Basin
+14796|Pallinup Formation|20936|Eucla Basin
+31788|Paperbark Supersuite|429252|Lamboo Province
+31788|Paperbark Supersuite|429253|Hooper Province
+31788|Paperbark Supersuite|467103|Halls Creek Orogen
+29988|Paraburdoo Member|464200|Hamersley Basin
+26095|Parda Formation|20925|Northern Carnarvon Basin
+26095|Parda Formation|22114|Canning Basin
+14869|Pargee Sandstone|467226|Tanami Orogen
+40563|Parmelia Group|22020|Perth Basin
+40563|Parmelia Group|22022|Vlaming Sub-basin
+27874|Paterson Formation|22114|Canning Basin
+74047|Pearce Formation|22075|Petrel Sub-basin
+27535|Pedestal beds|22114|Canning Basin
+15043|Pentecost Sandstone|467108|Kimberley Basin
+69789|Perth Formation|22020|Perth Basin
+15099|Pertnjara Group|22078|Amadeus Basin
+33439|Petter Calc-silicate|464192|Gascoyne Province
+33439|Petter Calc-silicate|570453|Glenburgh Terrane
+15170|Pidinga Formation|20936|Eucla Basin
+15170|Pidinga Formation|22356|Bight Basin
+40078|Pierre Shale|20925|Northern Carnarvon Basin
+73392|Pig Well Formation|464632|Yilgarn Craton
+26102|Piker Hills Formation|22114|Canning Basin
+15198|Pilgramunna Formation|20925|Northern Carnarvon Basin
+15198|Pilgramunna Formation|27718|Barrow Sub-basin
+15198|Pilgramunna Formation|28451|Exmouth Sub-basin
+25744|Pillara Limestone|22114|Canning Basin
+15228|Pincombe Formation|467109|Carr Boyd Basin
+15231|Pindilya Formation|22097|Southern Carnarvon Basin
+15260|Pinjian Chert Breccia|464200|Hamersley Basin
+15279|Pinyinna beds|22078|Amadeus Basin
+39078|Pitjantjatjara Supersuite|467262|Musgrave Province
+15310|Plantagenet Group|20936|Eucla Basin
+15330|Plover Formation|21914|Bonaparte Basin
+15330|Plover Formation|22075|Petrel Sub-basin
+15330|Plover Formation|22102|Browse Basin
+15330|Plover Formation|22330|Money Shoal Basin
+15330|Plover Formation|26965|Malita Graben
+15330|Plover Formation|28315|Vulcan Sub-basin
+15330|Plover Formation|28590|Sahul Platform
+15330|Plover Formation|33446|Londonderry High
+15330|Plover Formation|33676|Troubadour Terrace
+26849|Point Spring Sandstone|21914|Bonaparte Basin
+26849|Point Spring Sandstone|22075|Petrel Sub-basin
+26849|Point Spring Sandstone|28315|Vulcan Sub-basin
+15386|Poison Hill Greensand|22020|Perth Basin
+15393|Polda Formation|22356|Bight Basin
+15393|Polda Formation|34853|Polda Basin
+74804|Polelle Group|464632|Yilgarn Craton
+23916|Pollard Formation|21914|Bonaparte Basin
+23916|Pollard Formation|26965|Malita Graben
+23916|Pollard Formation|28315|Vulcan Sub-basin
+23916|Pollard Formation|28450|Ashmore Platform
+23916|Pollard Formation|28590|Sahul Platform
+23916|Pollard Formation|33446|Londonderry High
+23916|Pollard Formation|33676|Troubadour Terrace
+15411|Pollock Hills Formation|467256|Arunta Orogen
+27680|Poole Sandstone|20925|Northern Carnarvon Basin
+27680|Poole Sandstone|22114|Canning Basin
+37649|Pooranoo Metamorphics|464192|Gascoyne Province
+33041|Porongurup Suite|464813|Albany-Fraser Orogen
+23918|Porpoise Bay Formation|22020|Perth Basin
+75580|Port Robinson Basalt|464203|Pilbara Craton
+33649|Pottoyu Granite Suite|467262|Musgrave Province
+78634|Powder Intrusion|464632|Yilgarn Craton
+22692|Poynton Formation|466191|Paterson Orogen
+22692|Poynton Formation|466205|Rudall Province
+26854|Premier Coal Measures|20119|Collie Basin
+73569|Preston Beach Coquina|22020|Perth Basin
+15573|Prices Creek Group|22114|Canning Basin
+38728|Princess Royal Member|20936|Eucla Basin
+15604|Prion Formation|21914|Bonaparte Basin
+15604|Prion Formation|26965|Malita Graben
+15604|Prion Formation|28315|Vulcan Sub-basin
+15604|Prion Formation|28450|Ashmore Platform
+15604|Prion Formation|28590|Sahul Platform
+15604|Prion Formation|33446|Londonderry High
+15604|Prion Formation|33676|Troubadour Terrace
+15632|Prudhoe Formation|21914|Bonaparte Basin
+15632|Prudhoe Formation|28315|Vulcan Sub-basin
+15632|Prudhoe Formation|33446|Londonderry High
+15646|Puffin Formation|21914|Bonaparte Basin
+15646|Puffin Formation|22330|Money Shoal Basin
+15646|Puffin Formation|26965|Malita Graben
+15646|Puffin Formation|28315|Vulcan Sub-basin
+15646|Puffin Formation|28450|Ashmore Platform
+15646|Puffin Formation|33446|Londonderry High
+15666|Punkerri Sandstone|22115|Officer Basin
+15671|Puntapunta Formation|466191|Paterson Orogen
+15671|Puntapunta Formation|466206|Yeneena Basin
+15689|Pussy Cat Group|467262|Musgrave Province
+15703|Pyradie Formation|571045|Fortescue Basin
+33755|Quadrio Formation|466893|Ward-Oldham Province
+15714|Quail Formation|22097|Southern Carnarvon Basin
+15714|Quail Formation|28319|Gascoyne Sub-basin
+33438|Quartpot Pelite|464192|Gascoyne Province
+33438|Quartpot Pelite|570453|Glenburgh Terrane
+73388|Quindalup Dunes|22020|Perth Basin
+31687|Radio Hill Intrusion|35267|Radio Hill Nickel Metallogenic Province
+28948|Ragged Range Conglomerate|21914|Bonaparte Basin
+15830|Ranford Formation|467204|Wolfe Basin
+72411|Rapide Granite|467256|Arunta Orogen
+22731|Ravelstone Formation|464708|Bryah Basin
+74139|Razorback Chert|464203|Pilbara Craton
+78595|Recherche Supersuite|464813|Albany-Fraser Orogen
+31894|Red Rock Formation|467199|Red Rock Basin
+15983|Redcliff Pound Group|467255|Murraba Basin
+34564|Redgate Coal Measures|22020|Perth Basin
+34564|Redgate Coal Measures|27029|Vasse Shelf
+32171|Reeves Formation|22114|Canning Basin
+32171|Reeves Formation|22196|Roebuck Basin
+16050|Revolver Creek Formation|467201|Revolver Creek Basin
+16104|Ringwood Member|22078|Amadeus Basin
+25446|Robert Formation|22115|Officer Basin
+16251|Roe Calcarenite|20936|Eucla Basin
+25449|Roebourne Group|464203|Pilbara Craton
+34565|Rosabrook Coal Measures|22020|Perth Basin
+34565|Rosabrook Coal Measures|27029|Vasse Shelf
+22781|Rose Bore Granite|467103|Halls Creek Orogen
+74910|Rubberoid Granite|464192|Gascoyne Province
+30278|Ruby Plains Group|467204|Wolfe Basin
+26880|Rudall Complex|39806|Rudall PGE (prospective) Metallogenic Province
+23949|Ruins Dolerite|429253|Hooper Province
+41851|Russell Charnockite|467256|Arunta Orogen
+33889|Ruth Well Formation|39717|Ruth Well Nickel Metallogenic Province
+26883|Ryansville Formation|429729|Murchison Domain
+26883|Ryansville Formation|464632|Yilgarn Craton
+16492|Sabina Sandstone|22020|Perth Basin
+16492|Sabina Sandstone|27029|Vasse Shelf
+16497|Saddleback Group|40122|Boddington Gold Metallogenic Province
+27229|Sadler Limestone|22114|Canning Basin
+23950|Sahara Formation|22114|Canning Basin
+16515|Sahul Group|21914|Bonaparte Basin
+16515|Sahul Group|22075|Petrel Sub-basin
+16515|Sahul Group|22102|Browse Basin
+16515|Sahul Group|28315|Vulcan Sub-basin
+16515|Sahul Group|28450|Ashmore Platform
+16515|Sahul Group|28590|Sahul Platform
+16515|Sahul Group|33446|Londonderry High
+68076|Salisbury Gneiss|464813|Albany-Fraser Orogen
+31785|Sally Downs Supersuite|429252|Lamboo Province
+31785|Sally Downs Supersuite|467103|Halls Creek Orogen
+35575|Salvation Group|466896|Salvation Basin
+16579|Samuel Formation|22114|Canning Basin
+16579|Samuel Formation|22115|Officer Basin
+16579|Samuel Formation|466902|Gunbarrel Basin
+22810|San Sou Monzogranite|429252|Lamboo Province
+23956|Sandpiper Sandstone|21914|Bonaparte Basin
+23956|Sandpiper Sandstone|22075|Petrel Sub-basin
+23956|Sandpiper Sandstone|28590|Sahul Platform
+42367|Sandy Blight Quartzite|364772|Warumpi Province
+42367|Sandy Blight Quartzite|467256|Arunta Orogen
+26135|Saunders Creek Formation|429252|Lamboo Province
+77237|Scamp Group|467262|Musgrave Province
+16679|Scorpion Group|466894|Scorpion Basin
+32582|Scrubber Granite|464192|Gascoyne Province
+78628|Seabrook Intrusion|464632|Yilgarn Craton
+16723|Secure Bay Monzogranite|429253|Hooper Province
+16758|Septimus Limestone|21914|Bonaparte Basin
+16806|Sharks Formation|22020|Perth Basin
+38617|Sherlock Bay Complex|39526|Sherlock Bay Nickel Metallogenic Province
+37207|Sherlock Intrusion|39526|Sherlock Bay Nickel Metallogenic Province
+23966|Shotts Formation|20119|Collie Basin
+16942|Sir Frederick Conglomerate|22078|Amadeus Basin
+28155|Skates Hills Formation|22115|Officer Basin
+76870|Skirmish Hill Formation|467262|Musgrave Province
+70124|Soanesville Group|464203|Pilbara Craton
+17118|South Maslin Sand|20406|St Vincent Basin
+17128|South Perth Shale|22020|Perth Basin
+17128|South Perth Shale|22022|Vlaming Sub-basin
+26904|Spearhole Formation|22115|Officer Basin
+17146|Spearwood Sands|22020|Perth Basin
+17150|Speewah Group|467103|Halls Creek Orogen
+17150|Speewah Group|467104|King Leopold Orogen
+17150|Speewah Group|467107|Speewah Basin
+74795|Spring Camp Formation|464192|Gascoyne Province
+37894|Spring Well Complex|40104|Teutonic Bore Base Metal Metallogenic Province
+73570|Springhill Limestone Member|22020|Perth Basin
+78622|Springvale Suite|429252|Lamboo Province
+17230|Square Top Microgranite|429253|Hooper Province
+23992|Steere Formation|464813|Albany-Fraser Orogen
+26149|Stein Formation|467103|Halls Creek Orogen
+17325|Steptoe Formation|22115|Officer Basin
+17337|Stirling Range Formation|464813|Albany-Fraser Orogen
+26911|Stockton Group|20119|Collie Basin
+26911|Stockton Group|22020|Perth Basin
+26911|Stockton Group|27029|Vasse Shelf
+74807|Stockyard Basalt Member|464632|Yilgarn Craton
+17363|Stokes Siltstone|22078|Amadeus Basin
+17367|Stonewall Sandstone|467109|Carr Boyd Basin
+25494|Stoney Creek Conglomerate|22114|Canning Basin
+40566|Stragglers Member|22020|Perth Basin
+40566|Stragglers Member|22022|Vlaming Sub-basin
+69696|Strelley Monzogranite|40021|Sulphur Springs Base Metal Metallogenic Province
+74062|Strelley Pool Formation|464203|Pilbara Craton
+17454|Stubb Formation|467208|Birrindudu Basin
+74592|Stubbins Formation|467226|Tanami Orogen
+34554|Sue Group|22020|Perth Basin
+34554|Sue Group|27029|Vasse Shelf
+32237|Sulphur Springs Group|40021|Sulphur Springs Base Metal Metallogenic Province
+32237|Sulphur Springs Group|464203|Pilbara Craton
+33753|Sunbeam Group|22115|Officer Basin
+33753|Sunbeam Group|466206|Yeneena Basin
+17572|Swan Formation|21914|Bonaparte Basin
+17572|Swan Formation|22075|Petrel Sub-basin
+17572|Swan Formation|28315|Vulcan Sub-basin
+24004|Sweeney Mia Formation|22097|Southern Carnarvon Basin
+24004|Sweeney Mia Formation|28319|Gascoyne Sub-basin
+32536|Sweetwaters Well Member|464633|Earaheedy Basin
+34041|Sylvania Dyke Swarm|464380|Sylvania Dome
+17624|Table Hill Volcanics|22115|Officer Basin
+17624|Table Hill Volcanics|468269|Kalkarindji Igneous Province
+17680|Talga Talga Subgroup|39795|Talga Talga Nickel (prospective) Metallogenic Province
+17696|Talisman Member|27899|Dampier Sub-basin
+17719|Tamala Limestone|22020|Perth Basin
+17719|Tamala Limestone|22097|Southern Carnarvon Basin
+17719|Tamala Limestone|28319|Gascoyne Sub-basin
+17763|Tanami Group|467226|Tanami Orogen
+17763|Tanami Group|467256|Arunta Orogen
+17769|Tandalgoo Formation|22114|Canning Basin
+17793|Tanmurra Formation|21914|Bonaparte Basin
+17793|Tanmurra Formation|22075|Petrel Sub-basin
+31872|Tarcunyah Group|22115|Officer Basin
+17865|Tarraji Microgranite|429253|Hooper Province
+17910|Tchukardine Formation|22115|Officer Basin
+74838|Telegootherra Monzogranite|429729|Murchison Domain
+67988|Tern Formation|22075|Petrel Sub-basin
+74145|Tetlow Granite|464192|Gascoyne Province
+30609|Texas Downs Formation|467200|Texas Downs Basin
+70719|Throssell Range Group|466191|Paterson Orogen
+70719|Throssell Range Group|466206|Yeneena Basin
+18130|Tickalara Metamorphics|429252|Lamboo Province
+74505|Tickalara Metamorphics - migmatitic pelitic gneiss|429252|Lamboo Province
+78536|Tinganoo Bay beds|22330|Money Shoal Basin
+18269|Tollu Group|467262|Musgrave Province
+18275|Tolmer Group|467208|Birrindudu Basin
+18275|Tolmer Group|512263|Pine Creek Orogen
+18394|Toolonga Calcilutite|20925|Northern Carnarvon Basin
+18394|Toolonga Calcilutite|22020|Perth Basin
+18394|Toolonga Calcilutite|22023|Abrolhos Sub-basin
+18394|Toolonga Calcilutite|22097|Southern Carnarvon Basin
+18394|Toolonga Calcilutite|22114|Canning Basin
+18394|Toolonga Calcilutite|22196|Roebuck Basin
+18394|Toolonga Calcilutite|27012|Houtman Sub-basin
+18394|Toolonga Calcilutite|27718|Barrow Sub-basin
+18394|Toolonga Calcilutite|27899|Dampier Sub-basin
+18394|Toolonga Calcilutite|28319|Gascoyne Sub-basin
+18394|Toolonga Calcilutite|28451|Exmouth Sub-basin
+18394|Toolonga Calcilutite|33668|Beagle Sub-basin
+18394|Toolonga Calcilutite|33680|Rankin Platform
+18399|Tooloo Subgroup|464633|Earaheedy Basin
+18515|Townsend Quartzite|22115|Officer Basin
+18532|Trainor Hill Sandstone|22115|Officer Basin
+35919|Treachery Formation|21914|Bonaparte Basin
+35919|Treachery Formation|22075|Petrel Sub-basin
+35919|Treachery Formation|22114|Canning Basin
+35919|Treachery Formation|22196|Roebuck Basin
+35919|Treachery Formation|28315|Vulcan Sub-basin
+35919|Treachery Formation|28450|Ashmore Platform
+35919|Treachery Formation|33446|Londonderry High
+18563|Trealla Limestone|20925|Northern Carnarvon Basin
+18563|Trealla Limestone|22020|Perth Basin
+18563|Trealla Limestone|22097|Southern Carnarvon Basin
+18563|Trealla Limestone|27718|Barrow Sub-basin
+18563|Trealla Limestone|27899|Dampier Sub-basin
+18563|Trealla Limestone|28319|Gascoyne Sub-basin
+18563|Trealla Limestone|28451|Exmouth Sub-basin
+18608|Troughton Group|21914|Bonaparte Basin
+18608|Troughton Group|22075|Petrel Sub-basin
+18608|Troughton Group|28590|Sahul Platform
+18608|Troughton Group|33446|Londonderry High
+74831|Tuckanarra Suite|429729|Murchison Domain
+27594|Tulki Limestone|20925|Northern Carnarvon Basin
+27594|Tulki Limestone|27718|Barrow Sub-basin
+27594|Tulki Limestone|28451|Exmouth Sub-basin
+18668|Tumbiana Formation|571045|Fortescue Basin
+18674|Tumblagooda Sandstone|22020|Perth Basin
+18674|Tumblagooda Sandstone|22023|Abrolhos Sub-basin
+18674|Tumblagooda Sandstone|22097|Southern Carnarvon Basin
+18674|Tumblagooda Sandstone|28319|Gascoyne Sub-basin
+18692|Tunganary Formation|467107|Speewah Basin
+18696|Tunney Member|20925|Northern Carnarvon Basin
+18702|Turee Creek Group|464200|Hamersley Basin
+18707|Turkey Hill Formation|22115|Officer Basin
+18718|Turnstone Formation|21914|Bonaparte Basin
+18718|Turnstone Formation|22102|Browse Basin
+18718|Turnstone Formation|28315|Vulcan Sub-basin
+18718|Turnstone Formation|28590|Sahul Platform
+18718|Turnstone Formation|33446|Londonderry High
+18718|Turnstone Formation|33676|Troubadour Terrace
+18795|Ullawarra Formation|464560|Edmund Basin
+76098|Umutju Granite|467262|Musgrave Province
+77035|Ungani Dolomite|22114|Canning Basin
+19036|Valentine Siltstone|467107|Speewah Basin
+19044|Van Diemen Sandstone|22330|Money Shoal Basin
+19070|Vee Formation|21914|Bonaparte Basin
+19070|Vee Formation|28315|Vulcan Sub-basin
+19070|Vee Formation|28450|Ashmore Platform
+19070|Vee Formation|33446|Londonderry High
+35793|Vines Formation|22115|Officer Basin
+19132|Violet Valley Tonalite|429252|Lamboo Province
+19148|Vulcan Formation|21914|Bonaparte Basin
+19148|Vulcan Formation|28315|Vulcan Sub-basin
+19148|Vulcan Formation|33446|Londonderry High
+33982|Wade Creek Formation|569185|Victoria Basin
+24067|Wadjemup Formation|22020|Perth Basin
+26193|Wagina Sandstone|22020|Perth Basin
+35794|Wahlgu Formation|22115|Officer Basin
+75709|Waladah Gabbro|464632|Yilgarn Craton
+26286|Walcott Formation|20925|Northern Carnarvon Basin
+26286|Walcott Formation|27899|Dampier Sub-basin
+26286|Walcott Formation|33680|Rankin Platform
+74845|Walganna Suite|429729|Murchison Domain
+74845|Walganna Suite|464632|Yilgarn Craton
+27250|Wallal Sandstone|20925|Northern Carnarvon Basin
+27250|Wallal Sandstone|22114|Canning Basin
+19339|Waltha Woora Formation|22115|Officer Basin
+41856|Waluwiya Suite|467256|Arunta Orogen
+19355|Wandagee Formation|22097|Southern Carnarvon Basin
+19392|Wangarlu Formation|21914|Bonaparte Basin
+19392|Wangarlu Formation|22075|Petrel Sub-basin
+19392|Wangarlu Formation|22330|Money Shoal Basin
+19392|Wangarlu Formation|26965|Malita Graben
+19392|Wangarlu Formation|28315|Vulcan Sub-basin
+19392|Wangarlu Formation|28450|Ashmore Platform
+19392|Wangarlu Formation|33446|Londonderry High
+19392|Wangarlu Formation|33676|Troubadour Terrace
+73256|Wankanki Supersuite|467262|Musgrave Province
+73257|Warakurna Supersuite|466901|Warakurna Large Igneous Province
+73257|Warakurna Supersuite|467262|Musgrave Province
+19470|Warnbro Group|22020|Perth Basin
+19470|Warnbro Group|22022|Vlaming Sub-basin
+24079|Waroongunyah Formation|22115|Officer Basin
+19508|Warrawoona Group|39795|Talga Talga Nickel (prospective) Metallogenic Province
+19508|Warrawoona Group|40016|Bamboo Creek Gold Metallogenic Province
+19508|Warrawoona Group|464203|Pilbara Craton
+74254|Warrawoona Group - basalt|464203|Pilbara Craton
+19549|Warton Sandstone|467108|Kimberley Basin
+24081|Watch Point Formation|22115|Officer Basin
+31876|Waters Formation|22115|Officer Basin
+74812|Wattagee Formation|429729|Murchison Domain
+74812|Wattagee Formation|464632|Yilgarn Craton
+19609|Wattie Group|467208|Birrindudu Basin
+19643|Weaber Group|21914|Bonaparte Basin
+19643|Weaber Group|22075|Petrel Sub-basin
+19643|Weaber Group|22114|Canning Basin
+19643|Weaber Group|22196|Roebuck Basin
+70699|Weedy Basalt|22115|Officer Basin
+19674|Weeli Wolli Formation|464200|Hamersley Basin
+73395|Welcome Well Formation|464632|Yilgarn Craton
+34479|Weldon Creek Lava member|429252|Lamboo Province
+27611|Werillup Formation|20936|Eucla Basin
+29987|West Angela Member|464200|Hamersley Basin
+24096|Westralia Sandstone|20119|Collie Basin
+27096|Whaleback Shale Member|464200|Hamersley Basin
+26211|Whim Creek Group|39702|Comstock Metallogenic Province
+19881|Whitby Sandstone|464168|Pinjarra Orogen
+19898|White Mountain Formation|22109|Wiso Basin
+19928|Whitewater Volcanics|429252|Lamboo Province
+19928|Whitewater Volcanics|429253|Hooper Province
+31020|Whundo Group|464203|Pilbara Craton
+31795|Wilagee intrusion|429252|Lamboo Province
+29216|Wilcox Formation|20925|Northern Carnarvon Basin
+29216|Wilcox Formation|27899|Dampier Sub-basin
+29216|Wilcox Formation|33668|Beagle Sub-basin
+29216|Wilcox Formation|33680|Rankin Platform
+74872|Wilgie Mia Formation|464632|Yilgarn Craton
+37330|Wilki Formation|466191|Paterson Orogen
+37330|Wilki Formation|466206|Yeneena Basin
+20070|Willara Formation|22078|Amadeus Basin
+20070|Willara Formation|22114|Canning Basin
+20073|Willaraddie Formation|22097|Southern Carnarvon Basin
+34562|Willespie Formation|22020|Perth Basin
+34562|Willespie Formation|27029|Vasse Shelf
+20081|Williambury Formation|22097|Southern Carnarvon Basin
+20155|Wilson Bluff Limestone|20936|Eucla Basin
+27616|Wilson Cliffs Sandstone|22114|Canning Basin
+20198|Windalia Radiolarite|20925|Northern Carnarvon Basin
+20198|Windalia Radiolarite|22020|Perth Basin
+20198|Windalia Radiolarite|22097|Southern Carnarvon Basin
+20198|Windalia Radiolarite|27718|Barrow Sub-basin
+20198|Windalia Radiolarite|27899|Dampier Sub-basin
+20198|Windalia Radiolarite|28319|Gascoyne Sub-basin
+20198|Windalia Radiolarite|28451|Exmouth Sub-basin
+20198|Windalia Radiolarite|33680|Rankin Platform
+20202|Windalia Sand Member|20925|Northern Carnarvon Basin
+20202|Windalia Sand Member|27718|Barrow Sub-basin
+20202|Windalia Sand Member|27899|Dampier Sub-basin
+74875|Windimurra Igneous Complex|429729|Murchison Domain
+74875|Windimurra Igneous Complex|464632|Yilgarn Craton
+40890|Windplain Group|464634|Yerrida Basin
+27255|Winifred Formation|22114|Canning Basin
+20259|Winning Group|22020|Perth Basin
+20259|Winning Group|22023|Abrolhos Sub-basin
+20259|Winning Group|22097|Southern Carnarvon Basin
+20259|Winning Group|27012|Houtman Sub-basin
+20259|Winning Group|28319|Gascoyne Sub-basin
+20259|Winning Group|28451|Exmouth Sub-basin
+20285|Wirara Formation|467103|Halls Creek Orogen
+74660|Wirku Metamorphics|467262|Musgrave Province
+20307|Wirrildar beds|22115|Officer Basin
+24115|Withnell Formation|20925|Northern Carnarvon Basin
+24115|Withnell Formation|22196|Roebuck Basin
+24115|Withnell Formation|27899|Dampier Sub-basin
+24115|Withnell Formation|33668|Beagle Sub-basin
+24115|Withnell Formation|33680|Rankin Platform
+20324|Wittecarra Sandstone|22020|Perth Basin
+20324|Wittecarra Sandstone|22023|Abrolhos Sub-basin
+20324|Wittecarra Sandstone|22097|Southern Carnarvon Basin
+20324|Wittecarra Sandstone|28319|Gascoyne Sub-basin
+20327|Wittenoom Formation|464200|Hamersley Basin
+74839|Wogala Suite|429729|Murchison Domain
+74839|Wogala Suite|464632|Yilgarn Craton
+20348|Wogatti Sandstone|28451|Exmouth Sub-basin
+20428|Wondoan Hill Formation|467208|Birrindudu Basin
+34888|Wongarlong Formation|22115|Officer Basin
+26231|Wongawol Formation|464633|Earaheedy Basin
+40569|Wonnerup Member|22020|Perth Basin
+26232|Woodada Formation|22020|Perth Basin
+26232|Woodada Formation|22023|Abrolhos Sub-basin
+20481|Woodbine Group|21914|Bonaparte Basin
+20481|Woodbine Group|22075|Petrel Sub-basin
+20481|Woodbine Group|26965|Malita Graben
+20481|Woodbine Group|28315|Vulcan Sub-basin
+20481|Woodbine Group|28590|Sahul Platform
+20481|Woodbine Group|33676|Troubadour Terrace
+76752|Woodlands Member (WA)|464560|Edmund Basin
+20522|Woodleigh Formation|22097|Southern Carnarvon Basin
+20522|Woodleigh Formation|28319|Gascoyne Sub-basin
+68661|Woodline Formation|464813|Albany-Fraser Orogen
+27939|Woodward Dolerite|429252|Lamboo Province
+27939|Woodward Dolerite|467103|Halls Creek Orogen
+34583|Woodynook Sandstone|22020|Perth Basin
+34583|Woodynook Sandstone|27029|Vasse Shelf
+20549|Woolaston Formation|21914|Bonaparte Basin
+20549|Woolaston Formation|22102|Browse Basin
+20549|Woolaston Formation|28315|Vulcan Sub-basin
+20549|Woolaston Formation|28590|Sahul Platform
+20549|Woolaston Formation|33446|Londonderry High
+20549|Woolaston Formation|33676|Troubadour Terrace
+74952|Woolgra Andesite Member|464632|Yilgarn Craton
+29565|Woongarra Rhyolite|464200|Hamersley Basin
+20612|Woora Woora Formation|22115|Officer Basin
+25651|Wooramel Group|22097|Southern Carnarvon Basin
+24124|Worral Formation|22114|Canning Basin
+20650|Wright Hill Formation|22115|Officer Basin
+27020|Wururu Rhyolite|467262|Musgrave Province
+20715|Wyloo Group|464551|Ashburton Basin
+77689|Yalgorup Member|22020|Perth Basin
+74829|Yalgowra Suite|429729|Murchison Domain
+74829|Yalgowra Suite|464632|Yilgarn Craton
+74803|Yaloginda Formation|429729|Murchison Domain
+30815|Yamagee Granite|464192|Gascoyne Province
+24134|Yandagooge Formation|466191|Paterson Orogen
+24134|Yandagooge Formation|466205|Rudall Province
+26240|Yandanooka Group|464168|Pinjarra Orogen
+26240|Yandanooka Group|464169|Mullingarra Province
+24135|Yandanunyah Formation|22115|Officer Basin
+20814|Yandicoogina Shale Member|464200|Hamersley Basin
+20847|Yardie Group|27718|Barrow Sub-basin
+67833|Yaringa Formation|22097|Southern Carnarvon Basin
+20871|Yarragadee Formation|22020|Perth Basin
+20871|Yarragadee Formation|22022|Vlaming Sub-basin
+20871|Yarragadee Formation|22023|Abrolhos Sub-basin
+20871|Yarragadee Formation|27012|Houtman Sub-basin
+20890|Yarrawolya Formation|464168|Pinjarra Orogen
+20942|Yelma Formation|464633|Earaheedy Basin
+37193|Yilgatherra Formation|464560|Edmund Basin
+20999|Yindagindy Formation|22097|Southern Carnarvon Basin
+74842|Youanmi Igneous Complex|464632|Yilgarn Craton
+74678|Yule Granitic Complex|464203|Pilbara Craton
+75513|Ziggy Monzogranite|464632|Yilgarn Craton
+21089|Zimmermann Sandstone|21914|Bonaparte Basin
+74324|amphibolite 74324|464813|Albany-Fraser Orogen
+74347|banded iron formation 74347|464813|Albany-Fraser Orogen
+74357|breccia 74357|464813|Albany-Fraser Orogen
+74261|dolerite, metagabbro 74261|464380|Sylvania Dome
+74330|feldspar porphyry 74330|22078|Amadeus Basin
+74330|feldspar porphyry 74330|464813|Albany-Fraser Orogen
+74396|felsic intrusives 74396|464813|Albany-Fraser Orogen
+74404|granite, gneiss, migmatite 74404|464813|Albany-Fraser Orogen
+74405|granite, pegmatite 74405|464813|Albany-Fraser Orogen
+74405|granite, pegmatite 74405|467256|Arunta Orogen
+74341|high grade metamorphic rocks 74341|464813|Albany-Fraser Orogen
+74426|limestone and sandstone 74426|22078|Amadeus Basin
+74430|mafic to ultramafic rock 74430|464813|Albany-Fraser Orogen
+74246|metamorphosed mafic igneous rocks 74246|464380|Sylvania Dome
+74438|metamorphosed ultramafic rocks 74438|464813|Albany-Fraser Orogen
+74525|metasedimentary and metavolcanic rocks 74525|464813|Albany-Fraser Orogen
+74468|quartz vein 74468|464813|Albany-Fraser Orogen
+74474|ultramafic rocks 74474|464380|Sylvania Dome
+74474|ultramafic rocks 74474|464813|Albany-Fraser Orogen
+74517|undetermined rocks 74517|464813|Albany-Fraser Orogen

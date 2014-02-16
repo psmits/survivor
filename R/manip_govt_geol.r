@@ -1,26 +1,27 @@
 library(plyr)
-#source('../R/mung.r')
 
 info <- read.csv('../data/psmits-occs.csv', stringsAsFactors = FALSE)
 
 string <- 'Stratigraphic\ names\ Current.txt'
-
 geo <- list.files(path = '../data/', pattern = string)
-
 states <- list()
-
 for(ii in seq(length(geo))) {
   states[[ii]] <- read.delim(paste('../data/', geo[ii], sep = ''), sep = '|',
                              stringsAsFactors = FALSE)
 }
-
 geology <- Reduce(rbind, states)
 geology <- geology[geology$Primary.Lithology.Group != '', ]
 
 # match the stratigraphic names
-forms <- unique(info$formation)
+forms <- unique(c(info$formation, info$geological_group, info$member))
 # exclude ""
 forms <- forms[forms != '']
+# exclude single letter
+forms <- forms[!(forms %in% LETTERS)]
+forms <- forms[forms != 'Lower']
+forms <- gsub(pattern = '[^[:alnum:] ]', '', forms, perl = TRUE)
+
+geology[, 1] <- gsub(pattern = '[^[:alnum:] ,]', '', geology[, 1], perl = TRUE)
 
 mat <- list()
 for(ii in seq(length(forms))) {

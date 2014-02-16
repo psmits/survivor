@@ -1,0 +1,768 @@
+Stratno | Stratigraphic Name | Entity Number | Province Name 
+27073|ABC Range Quartzite|20306|Mount Painter Block
+35877|Abminga Subsuite|20331|Curnamona Province
+35877|Abminga Subsuite|408445|Olary Domain
+27099|Abrakurrie Limestone|20936|Eucla Basin
+198|Ajax Limestone|20306|Mount Painter Block
+68089|Alconie Formation|408445|Olary Domain
+39599|Alcurra Dolerite|467262|Musgrave Province
+27074|Aldinga Member|20406|St Vincent Basin
+262|Algebuckina Sandstone|529302|Eromanga Basin
+33891|Alinya Formation|22115|Officer Basin
+23328|Allendale Metasediments|408445|Olary Domain
+69205|Alpha Mudstone|464193|Callabonna Sub-basin
+353|Amberoona Formation|20306|Mount Painter Block
+35893|Ameroo Subsuite|408445|Olary Domain
+381|Amphitheatre Group|535919|Cobar Basin
+381|Amphitheatre Group|549130|Rast Trough
+381|Amphitheatre Group|556736|Lachlan Orogen
+26344|Anabama Granite|20331|Curnamona Province
+28203|Angepena Formation|20306|Mount Painter Block
+28203|Angepena Formation|20331|Curnamona Province
+41897|Anthony Member|20936|Eucla Basin
+34536|Apamurra Formation|22115|Officer Basin
+24164|Arcoeillinna Sandstone|22115|Officer Basin
+552|Arcoona Quartzite Member|42518|Gawler Craton
+571|Areyonga Formation|22078|Amadeus Basin
+24165|Arkaba Hill Beds|20331|Curnamona Province
+29894|Armchair Granite|42518|Gawler Craton
+23342|Arrabury Formation|529302|Eromanga Basin
+637|Arrowie Formation|20306|Mount Painter Block
+29921|Arthurton Granite|513114|Olympic Domain
+668|Arumbera Sandstone|22078|Amadeus Basin
+803|Avondale Clay|20306|Mount Painter Block
+41670|Babbage Supersuite|20331|Curnamona Province
+41670|Babbage Supersuite|42518|Gawler Craton
+854|Backstairs Passage Formation|22352|Stansbury Basin
+926|Balcanoona Formation|20306|Mount Painter Block
+935|Balcoracana Formation|20306|Mount Painter Block
+964|Balhannah Shale Member|20306|Mount Painter Block
+1009|Balparana Sandstone|20306|Mount Painter Block
+25773|Balquhidder Formation|22352|Stansbury Basin
+1011|Balta Granite|42782|Mount Woods Domain
+69926|Balta Suite|42518|Gawler Craton
+41896|Barton Sand|20936|Eucla Basin
+35879|Basso Suite|408445|Olary Domain
+1353|Beda Volcanics|42518|Gawler Craton
+21228|Benagerie Volcanics|408445|Olary Domain
+69206|Beverley Clay|464193|Callabonna Sub-basin
+75404|Bill's Lookout gabbro|513114|Olympic Domain
+1645|Billy Creek Formation|20306|Mount Painter Block
+1645|Billy Creek Formation|529788|Arrowie Basin
+1653|Billy Springs Formation|20306|Mount Painter Block
+1653|Billy Springs Formation|42518|Gawler Craton
+29887|Bimba Formation|20331|Curnamona Province
+29887|Bimba Formation|408445|Olary Domain
+69582|Bimbowrie Suite|408445|Olary Domain
+1729|Birkhead Formation|27354|Surat Basin
+1729|Birkhead Formation|529511|Cooper Basin
+29906|Birksgate Complex|467262|Musgrave Province
+1758|Bitter Springs Formation|22078|Amadeus Basin
+1758|Bitter Springs Formation|40009|Arltunga Gold Metallogenic Province
+75079|Black Maria Formation|408445|Olary Domain
+1901|Blanche Point Formation|20406|St Vincent Basin
+1918|Blanchetown Clay|536552|Murray Basin
+26403|Blowhole Creek Siltstone Member|22352|Stansbury Basin
+1988|Blue Hills Sandstone|22115|Officer Basin
+25795|Blue Mine Conglomerate|20306|Mount Painter Block
+24737|Blue Range beds|42518|Gawler Craton
+24737|Blue Range beds|407482|Coulta Domain
+2034|Blythesdale Group|27354|Surat Basin
+39570|Bollaparudda Subgroup|556736|Lachlan Orogen
+2203|Bookpurnong Formation|536552|Murray Basin
+67915|Boongar beds|22115|Officer Basin
+27311|Boorloo Siltstone|20331|Curnamona Province
+2291|Boorthanna Formation|40671|Arckaringa Basin
+2311|Borda Formation|27358|Duntroon Sub-basin
+23414|Box Bore Granite|20331|Curnamona Province
+23414|Box Bore Granite|42518|Gawler Craton
+2453|Boxing Bay Formation|22352|Stansbury Basin
+28396|Brachina Formation|20306|Mount Painter Block
+28396|Brachina Formation|42518|Gawler Craton
+2543|Bridgewater Formation|20406|St Vincent Basin
+2543|Bridgewater Formation|20936|Eucla Basin
+2543|Bridgewater Formation|536552|Murray Basin
+2557|Brighton Limestone|42518|Gawler Craton
+76217|Brillig Catch Member|20306|Mount Painter Block
+25811|Brindana Schist|20306|Mount Painter Block
+25811|Brindana Schist|20331|Curnamona Province
+23420|Bring Member|20936|Eucla Basin
+2585|British Empire Granite|20306|Mount Painter Block
+27039|Broadview Schist|42773|Spencer Domain
+2617|Broken Hill Group|20331|Curnamona Province
+2672|Brown Hill Subgroup|556736|Lachlan Orogen
+30504|Buccleuch Formation|536552|Murray Basin
+2796|Buckleboo Granite|42518|Gawler Craton
+2796|Buckleboo Granite|407482|Coulta Domain
+2891|Bulldog Shale|464193|Callabonna Sub-basin
+2891|Bulldog Shale|529302|Eromanga Basin
+25819|Bungaree Quartzite|42518|Gawler Craton
+28299|Bunyeroo Formation|42518|Gawler Craton
+3075|Burkitt Granite|42773|Spencer Domain
+27124|Burnham Limestone|20406|St Vincent Basin
+30306|Burr Well Member|20306|Mount Painter Block
+3106|Burra Group|20306|Mount Painter Block
+21395|Burrawing Amphibolite|42518|Gawler Craton
+34805|Byilkaoora Member|22115|Officer Basin
+31517|Cadell Formation|536552|Murray Basin
+26296|Cadlareena Volcanics|22115|Officer Basin
+3284|Cadna-owie Formation|464193|Callabonna Sub-basin
+3284|Cadna-owie Formation|529302|Eromanga Basin
+34977|Cadney Park Member|22115|Officer Basin
+3312|Calca Granite|407482|Coulta Domain
+3322|Calivil Formation|556736|Lachlan Orogen
+31781|Callamurra Member|529302|Eromanga Basin
+75787|Camel Flat Shale Member|20306|Mount Painter Block
+75787|Camel Flat Shale Member|42518|Gawler Craton
+29893|Camel Pad Granite|20331|Curnamona Province
+29893|Camel Pad Granite|42518|Gawler Craton
+3572|Carappee Granite|42518|Gawler Craton
+3619|Carisbrooke Sand|20406|St Vincent Basin
+28206|Carnot Gneiss|407482|Coulta Domain
+25836|Carrickalinga Head Formation|22352|Stansbury Basin
+29922|Cartu beds|22115|Officer Basin
+72577|Cathedral Rock Formation|408445|Olary Domain
+3856|Ceduna Formation|27358|Duntroon Sub-basin
+40378|Challenger Gneiss|42518|Gawler Craton
+3895|Chambers Bluff Tillite|22115|Officer Basin
+25843|Chinaman Gully Formation|20406|St Vincent Basin
+24842|Christie Gneiss|407427|Christie Domain
+4144|Clevedale Migmatite|408445|Olary Domain
+4173|Clinton Formation|20406|St Vincent Basin
+4380|Colville Sandstone|20936|Eucla Basin
+23499|Con Bore Granite|20331|Curnamona Province
+23499|Con Bore Granite|42518|Gawler Craton
+4468|Coobowie Limestone|22352|Stansbury Basin
+23505|Coolanie Gneiss|42518|Gawler Craton
+24225|Coolardie Formation|34853|Polda Basin
+26491|Coomb Spring Formation|464193|Callabonna Sub-basin
+24226|Coominaree Dolomite|22115|Officer Basin
+4602|Coonarbine Formation|529801|Lake Eyre Basin
+4616|Coonigan Formation|20417|Bancannia Trough
+24227|Cooranna Formation|20331|Curnamona Province
+26493|Coorikiana Sandstone|529302|Eromanga Basin
+4658|Cootanoorina Formation|22115|Officer Basin
+28474|Cooyerdoo Granite|42518|Gawler Craton
+28474|Cooyerdoo Granite|42773|Spencer Domain
+4673|Copley Quartzite|20306|Mount Painter Block
+4721|Coreena Member|27354|Surat Basin
+4752|Corrodgery Formation|22352|Stansbury Basin
+4759|Corundum Creek Schist Member|20306|Mount Painter Block
+27751|Corunna Conglomerate|42773|Spencer Domain
+27751|Corunna Conglomerate|513114|Olympic Domain
+23514|Coulta Granodiorite|407482|Coulta Domain
+23516|Cowleds Member|42518|Gawler Craton
+29204|Cox Sandstone Member|20331|Curnamona Province
+73284|Crayfish Supersequence|436513|Otway Basin
+69827|Crocker Well Suite|20331|Curnamona Province
+26505|Crown Point Formation|22078|Amadeus Basin
+26505|Crown Point Formation|529549|Pedirka Basin
+74010|Cultana Subsuite|42518|Gawler Craton
+24236|Curdimurka Subgroup|20331|Curnamona Province
+35326|Curnamona Group|408445|Olary Domain
+39162|Curramulka Gabbronorite|513114|Olympic Domain
+21626|Dawson Hill Member|20306|Mount Painter Block
+72576|Dayana Formation|408445|Olary Domain
+5300|Dean Quartzite|22078|Amadeus Basin
+39171|Delken Member|513114|Olympic Domain
+74794|Devils Playground Volcanics|407427|Christie Domain
+34532|Dey-Dey Mudstone|22115|Officer Basin
+33818|Diamond Bog Dolomite|529551|Warburton Basin
+24247|Dome Sandstone|20331|Curnamona Province
+5593|Doncaster Member|27354|Surat Basin
+5603|Donington Suite|42773|Spencer Domain
+5603|Donington Suite|513114|Olympic Domain
+5622|Doonbara Formation|529801|Lake Eyre Basin
+39166|Doora Member|513114|Olympic Domain
+5716|Dry Creek Sand|20406|St Vincent Basin
+5765|Duff Creek beds|20331|Curnamona Province
+24255|Dullingari Group|529551|Warburton Basin
+25887|Dunns Mine Limestone|20331|Curnamona Province
+5878|Dutton Suite|407482|Coulta Domain
+34326|Eba Formation|42771|Wilgena Domain
+5941|Echidna Formation|27358|Duntroon Sub-basin
+6029|Elatina Formation|20306|Mount Painter Block
+6118|Elyuah Formation|22113|Ngalia Basin
+25895|Emeroo Subgroup|42518|Gawler Craton
+6152|Emu Bay Shale|22352|Stansbury Basin
+6187|Engenina Adamellite|42782|Mount Woods Domain
+27399|Enorama Shale|20306|Mount Painter Block
+27149|Eregunda Sandstone Member|20306|Mount Painter Block
+23582|Erudina Siltstone Member|20306|Mount Painter Block
+6287|Etadunna Formation|464193|Callabonna Sub-basin
+6287|Etadunna Formation|529801|Lake Eyre Basin
+35883|Ethiudna Subgroup|408445|Olary Domain
+6345|Eucla Group|20936|Eucla Basin
+73285|Eumeralla Supersequence|436513|Otway Basin
+36791|Euralia kimberlite|42518|Gawler Craton
+25901|Eurinilla Formation|464193|Callabonna Sub-basin
+25901|Eurinilla Formation|529801|Lake Eyre Basin
+6416|Evergreen Formation|27354|Surat Basin
+6416|Evergreen Formation|27546|Mulgildie Basin
+6416|Evergreen Formation|529302|Eromanga Basin
+69764|Ewarara Pyroxenite|467262|Musgrave Province
+6451|Eyre Formation|464193|Callabonna Sub-basin
+6451|Eyre Formation|529801|Lake Eyre Basin
+6661|Finke Group|22078|Amadeus Basin
+31518|Finniss Formation|536552|Murray Basin
+6695|Fitton Formation|20306|Mount Painter Block
+6695|Fitton Formation|20331|Curnamona Province
+6822|Fork Tree Limestone|22352|Stansbury Basin
+6841|Fortress Hill Formation|20306|Mount Painter Block
+25915|Freeling Heights Quartzite|20306|Mount Painter Block
+25915|Freeling Heights Quartzite|20331|Curnamona Province
+74199|Freeling Heights Quartzite, Mount Adams Quartzite, Yagdlin Phyllite|20306|Mount Painter Block
+24637|Fulham Sand|20406|St Vincent Basin
+72709|Gairdner Dolerite|467262|Musgrave Province
+25918|Garford Formation|20936|Eucla Basin
+7059|Gawler Range Volcanics|39712|Olympic Copper Gold Metallogenic Province
+7059|Gawler Range Volcanics|513114|Olympic Domain
+7072|Gearle Siltstone|20925|Northern Carnarvon Basin
+7072|Gearle Siltstone|22020|Perth Basin
+7072|Gearle Siltstone|22097|Southern Carnarvon Basin
+7072|Gearle Siltstone|22196|Roebuck Basin
+7072|Gearle Siltstone|27718|Barrow Sub-basin
+7072|Gearle Siltstone|27899|Dampier Sub-basin
+7072|Gearle Siltstone|28319|Gascoyne Sub-basin
+7072|Gearle Siltstone|28451|Exmouth Sub-basin
+7090|Geera Clay|536552|Murray Basin
+29840|George Mine Formation|408445|Olary Domain
+7182|Gidgealpa Group|529511|Cooper Basin
+7206|Giles Complex|39836|Nebo-Babel Nickel Metallogenic Province
+7206|Giles Complex|467262|Musgrave Province
+27416|Gillen Member|22078|Amadeus Basin
+7315|Glanville Formation|20936|Eucla Basin
+7456|Glyde Formation|467262|Musgrave Province
+23623|Golden Pole Granite|20331|Curnamona Province
+23623|Golden Pole Granite|42518|Gawler Craton
+7596|Gordon Springs Granodiorite|20306|Mount Painter Block
+7646|Goyder Formation|22078|Amadeus Basin
+7672|Grampians Group|20367|Stawell Zone
+7672|Grampians Group|556736|Lachlan Orogen
+7675|Grampus Quartzite|20331|Curnamona Province
+23637|Greenfield Formation|42518|Gawler Craton
+7767|Greenpatch Metajaspilite|42518|Gawler Craton
+7831|Grindstone Range Sandstone|20306|Mount Painter Block
+7831|Grindstone Range Sandstone|529788|Arrowie Basin
+7848|Gubberamunda Sandstone|27354|Surat Basin
+7848|Gubberamunda Sandstone|529302|Eromanga Basin
+7861|Gull Rock Member|20406|St Vincent Basin
+7874|Gumbowie Arkose|20331|Curnamona Province
+36996|Hall Bay Volcanics|42518|Gawler Craton
+36996|Hall Bay Volcanics|407482|Coulta Domain
+7982|Hallett Cove Sandstone|20406|St Vincent Basin
+27794|Hamilton Creek Member|20306|Mount Painter Block
+27794|Hamilton Creek Member|20331|Curnamona Province
+25940|Hampton Sandstone|20936|Eucla Basin
+8159|Hawker Group|529788|Arrowie Basin
+8214|Heatherdale Shale|22352|Stansbury Basin
+8225|Heavitree Quartzite|22078|Amadeus Basin
+8225|Heavitree Quartzite|40009|Arltunga Gold Metallogenic Province
+8225|Heavitree Quartzite|467256|Arunta Orogen
+73300|Heytesbury Supersequence|436513|Otway Basin
+27273|Hideaway Well Member|20306|Mount Painter Block
+8370|Hiltaba Granite|513114|Olympic Domain
+26613|Hiltaba Suite|20331|Curnamona Province
+26613|Hiltaba Suite|42782|Mount Woods Domain
+26613|Hiltaba Suite|513114|Olympic Domain
+30605|Hiltaba Supersuite|39712|Olympic Copper Gold Metallogenic Province
+8373|Himalaya Formation|408445|Olary Domain
+8381|Hindmarsh Clay|20406|St Vincent Basin
+75706|Hodgkinson Granodiorite|20306|Mount Painter Block
+26307|Hogan Dolomite|20331|Curnamona Province
+8476|Hooray Sandstone|529302|Eromanga Basin
+8504|Horseshoe Bend Shale|22078|Amadeus Basin
+8561|Humanity Seat Formation|20306|Mount Painter Block
+25953|Hutchison Group|42518|Gawler Craton
+25953|Hutchison Group|42773|Spencer Domain
+25953|Hutchison Group|42782|Mount Woods Domain
+25953|Hutchison Group|407482|Coulta Domain
+8610|Hutton Sandstone|27354|Surat Basin
+8610|Hutton Sandstone|27546|Mulgildie Basin
+8610|Hutton Sandstone|529302|Eromanga Basin
+8610|Hutton Sandstone|550572|Carpentaria Basin
+8643|Idracowra Sandstone|22078|Amadeus Basin
+39945|Ifould Granite|42518|Gawler Craton
+27045|Ilkina Formation|20936|Eucla Basin
+23661|Immarna Group|20936|Eucla Basin
+23661|Immarna Group|22115|Officer Basin
+8684|Indulkana Shale|22115|Officer Basin
+8710|Injune Creek Group|27354|Surat Basin
+8710|Injune Creek Group|529302|Eromanga Basin
+33817|Innamincka Formation|529551|Warburton Basin
+38132|Investigator Granite Gneiss|42518|Gawler Craton
+30532|Jena Basalt|529551|Warburton Basin
+9070|Julie Formation|22078|Amadeus Basin
+75724|Kalkarindji Suite|529556|Georgina Basin
+24329|Kalladeina Formation|529551|Warburton Basin
+76223|Kandramooka Member|20306|Mount Painter Block
+9221|Kangaroo Island Group|22352|Stansbury Basin
+28634|Kanmantoo Group|22352|Stansbury Basin
+28634|Kanmantoo Group|556736|Lachlan Orogen
+34370|Karinya Shale|22352|Stansbury Basin
+22070|Karlaya Limestone|22115|Officer Basin
+23695|Ketchowla Siltstone|20331|Curnamona Province
+22091|Keynes Subgroup|556736|Lachlan Orogen
+37212|Khasta Formation|20936|Eucla Basin
+23697|Kiana Granite|407482|Coulta Domain
+9569|Kilroo Formation|34853|Polda Basin
+37493|Kingoonya Member|20936|Eucla Basin
+24336|Kingscote Limestone|20406|St Vincent Basin
+27065|Kirwan Siltstone|20331|Curnamona Province
+9783|Koolunga Gravel|20406|St Vincent Basin
+9785|Koolywurtie Limestone Member|22352|Stansbury Basin
+39833|Korumburra Subgroup|27009|Gippsland Basin
+9889|Kulpara Formation|22352|Stansbury Basin
+9889|Kulpara Formation|42518|Gawler Craton
+9947|Kutjitara Formation|529801|Lake Eyre Basin
+23710|Labyrinth Formation|42771|Wilgena Domain
+35889|Lady Louise Suite|408445|Olary Domain
+10045|Lake Frome Group|529788|Arrowie Basin
+34762|Lake Maurice Group|22115|Officer Basin
+34762|Lake Maurice Group|42518|Gawler Craton
+10081|Lakes Entrance Formation|27009|Gippsland Basin
+10170|Langra Formation|22078|Amadeus Basin
+10184|Larapinta Group|22078|Amadeus Basin
+75081|Larry Macs Subgroup|408445|Olary Domain
+10273|Le Hunte Formation|20936|Eucla Basin
+10317|Leigh Creek Coal Measures|20306|Mount Painter Block
+10343|Lennis Sandstone|22115|Officer Basin
+72904|Little Pinbong granite|407482|Coulta Domain
+10631|Longford Limestone|27009|Gippsland Basin
+41687|Lookout Granodiorite|42518|Gawler Craton
+10656|Loongana Formation|22356|Bight Basin
+10684|Loveday Soil|20306|Mount Painter Block
+10686|Loves Creek Member|22078|Amadeus Basin
+10825|Loxton Sand|536552|Murray Basin
+10890|Lyndhurst Formation|20306|Mount Painter Block
+38533|Mabel Creek Ridge paragneisses|42518|Gawler Craton
+10952|Mackunda Formation|529302|Eromanga Basin
+10952|Mackunda Formation|550572|Carpentaria Basin
+10987|Madura Formation|20936|Eucla Basin
+10987|Madura Formation|22356|Bight Basin
+11147|Mampuwordu Sand|529801|Lake Eyre Basin
+11187|Mannum Formation|536552|Murray Basin
+41895|Maralinga Member|20936|Eucla Basin
+28212|Marla Group|22115|Officer Basin
+11374|Marree Subgroup|529302|Eromanga Basin
+38347|Massena Bay Gneiss|42518|Gawler Craton
+23777|McGregor Volcanics|42773|Spencer Domain
+28742|Melton Limestone|20406|St Vincent Basin
+28742|Melton Limestone|42518|Gawler Craton
+34771|Mena Mudstone Member|22115|Officer Basin
+34530|Meramangye Formation|22115|Officer Basin
+11667|Mereenie Sandstone|22078|Amadeus Basin
+34792|Mernmerna Formation|529788|Arrowie Basin
+11821|Middleback Subgroup|42518|Gawler Craton
+11821|Middleback Subgroup|42773|Spencer Domain
+11821|Middleback Subgroup|407482|Coulta Domain
+11826|Middleton Sandstone|22352|Stansbury Basin
+28125|Midwerta Shale|20306|Mount Painter Block
+11872|Millyera Formation|464193|Callabonna Sub-basin
+11872|Millyera Formation|529801|Lake Eyre Basin
+34768|Mimili Formation|22115|Officer Basin
+41690|Minbrie Suite|42518|Gawler Craton
+28756|Minlaton Formation|22352|Stansbury Basin
+28756|Minlaton Formation|42518|Gawler Craton
+11923|Minmi Member|27354|Surat Basin
+11940|Mintabie beds|22115|Officer Basin
+40401|Mirage Granite|42518|Gawler Craton
+11961|Mirikata Formation|547728|Billa Kalina Basin
+29823|Mobella Tonalite|407427|Christie Domain
+39176|Mona Volcanics Member|513114|Olympic Domain
+26036|Monash Formation|550808|Berri Basin
+75186|Montstephen Metabasalt Member|408445|Olary Domain
+28766|Moodlatana Formation|20306|Mount Painter Block
+28766|Moodlatana Formation|529788|Arrowie Basin
+27839|Moody Suite|407482|Coulta Domain
+12170|Mooga Sandstone|27354|Surat Basin
+12170|Mooga Sandstone|529302|Eromanga Basin
+24617|Moolawatana Suite|20306|Mount Painter Block
+24617|Moolawatana Suite|20331|Curnamona Province
+68091|Mooleulooloo Formation|408445|Olary Domain
+12217|Moonabie Formation|42518|Gawler Craton
+12217|Moonabie Formation|42773|Spencer Domain
+12225|Moonan Formation|22352|Stansbury Basin
+34325|Moondrah Gneiss|42729|Nawa Domain
+39174|Moonta Porphyry Member|42518|Gawler Craton
+39174|Moonta Porphyry Member|513114|Olympic Domain
+27294|Mooracoochie Volcanics|529551|Warburton Basin
+12287|Moorillah Siltstone Member|20306|Mount Painter Block
+12287|Moorillah Siltstone Member|42518|Gawler Craton
+23808|Moorillana Member|20936|Eucla Basin
+26042|Moornaba Sand|20936|Eucla Basin
+26042|Moornaba Sand|42518|Gawler Craton
+12300|Moorowie Formation|20306|Mount Painter Block
+12300|Moorowie Formation|529788|Arrowie Basin
+26314|Moralana Supergroup|20533|Delamerian Orogen
+29837|Morialpa Migmatite|408445|Olary Domain
+12437|Mount Adams Quartzite|20306|Mount Painter Block
+12481|Mount Barker Quartzite|20306|Mount Painter Block
+12481|Mount Barker Quartzite|42518|Gawler Craton
+12576|Mount Chandler Sandstone|22115|Officer Basin
+12609|Mount Currie Conglomerate|22078|Amadeus Basin
+27500|Mount Curtis Tillite|20306|Mount Painter Block
+27205|Mount Gee Sinter|20306|Mount Painter Block
+35886|Mount Howden Subgroup|408445|Olary Domain
+34769|Mount Johns Conglomerate Member|22115|Officer Basin
+23824|Mount Mantell Member|20306|Mount Painter Block
+25287|Mount McDonnell Formation|22352|Stansbury Basin
+12971|Mount Neill Granite|20306|Mount Painter Block
+12971|Mount Neill Granite|20331|Curnamona Province
+12971|Mount Neill Granite|42518|Gawler Craton
+12992|Mount Painter Complex|20331|Curnamona Province
+13088|Mount Sarah Sandstone|529801|Lake Eyre Basin
+13133|Mount Terrible Formation|22352|Stansbury Basin
+13151|Mount Toondina Formation|40671|Arckaringa Basin
+27208|Mount Willoughby Limestone|547723|Hamilton Basin
+13289|Moyles Chert Marker Bed|22115|Officer Basin
+13301|Mud Tank Carbonatite|467256|Arunta Orogen
+72790|Mudrangie Sandstone|529551|Warburton Basin
+28826|Mulgathing Complex|42518|Gawler Craton
+28826|Mulgathing Complex|42771|Wilgena Domain
+34081|Mullamullang Member|20936|Eucla Basin
+13402|Muloowurtie Formation|20406|St Vincent Basin
+34767|Munda Group|22115|Officer Basin
+13430|Mundi Mundi Granite|20331|Curnamona Province
+33688|Munjeela Suite|42518|Gawler Craton
+23851|Munjena Formation|20936|Eucla Basin
+34807|Munta Limestone Member|22115|Officer Basin
+22479|Munyarai Formation|22115|Officer Basin
+13524|Murnaroo Sandstone|22115|Officer Basin
+24411|Murrana Beds|42518|Gawler Craton
+13544|Murray Group|536552|Murray Basin
+13577|Murta Formation|529302|Eromanga Basin
+70229|Mutooroo Gneiss|20331|Curnamona Province
+23856|Myola Volcanics|42773|Spencer Domain
+28841|Myrtle Springs Formation|20306|Mount Painter Block
+13707|Namba Formation|464193|Callabonna Sub-basin
+13707|Namba Formation|529801|Lake Eyre Basin
+13738|Namur Sandstone|529302|Eromanga Basin
+13823|Nappamerri Group|529511|Cooper Basin
+22509|Narana Formation|22115|Officer Basin
+22509|Narana Formation|42518|Gawler Craton
+13858|Narina Greywacke|20306|Mount Painter Block
+23865|Narlaby Formation|20936|Eucla Basin
+13978|Nelson Bay Formation|436513|Otway Basin
+14004|Nepabunna Siltstone|20306|Mount Painter Block
+25336|Neptune Formation|22356|Bight Basin
+25336|Neptune Formation|27358|Duntroon Sub-basin
+38291|Newer Volcanic Group|20367|Stawell Zone
+38291|Newer Volcanic Group|20512|Bendigo Zone
+38291|Newer Volcanic Group|536552|Murray Basin
+38291|Newer Volcanic Group|556736|Lachlan Orogen
+14133|Niggly Gap beds|20331|Curnamona Province
+28251|Nildottie Siltstone Member|20306|Mount Painter Block
+27650|Nilgenee Member|42518|Gawler Craton
+14143|Nilpena Limestone|20306|Mount Painter Block
+27296|Nilpinna Beds|20331|Curnamona Province
+69798|Ninnerie Supersuite|20331|Curnamona Province
+69798|Ninnerie Supersuite|408445|Olary Domain
+73299|Nirranda Supersequence|436513|Otway Basin
+23877|Nooldoonooldoona Trondhjemite|20331|Curnamona Province
+23877|Nooldoonooldoona Trondhjemite|42518|Gawler Craton
+14255|Normanville Group|22352|Stansbury Basin
+26810|North Maslin Sand|20406|St Vincent Basin
+14306|Norwest Bend Formation|536552|Murray Basin
+14329|Nuccaleena Formation|20306|Mount Painter Block
+25355|Nullarbor Limestone|20936|Eucla Basin
+14485|Observatory Hill Formation|22115|Officer Basin
+14485|Observatory Hill Formation|42518|Gawler Craton
+14490|Ochre Cove Formation|20406|St Vincent Basin
+29892|Old Camp Granite|20331|Curnamona Province
+29892|Old Camp Granite|42518|Gawler Craton
+75789|Old Mount North West Member|20306|Mount Painter Block
+75789|Old Mount North West Member|42518|Gawler Craton
+14547|Olia Gneiss|467262|Musgrave Province
+14553|Olney Formation|536552|Murray Basin
+29898|Olympic Dam Breccia Complex|42518|Gawler Craton
+39898|Oodla Wirra Volcanics|20331|Curnamona Province
+14592|Oodnadatta Formation|529302|Eromanga Basin
+24441|Oolarinna Member|22115|Officer Basin
+14596|Ooldea Sand|20936|Eucla Basin
+75077|Oonartra Creek Formation|20331|Curnamona Province
+75077|Oonartra Creek Formation|408445|Olary Domain
+26090|Opaminda Formation|20306|Mount Painter Block
+14640|Oraparinna Shale|20306|Mount Painter Block
+14685|Otway Group|20367|Stawell Zone
+14685|Otway Group|22295|Bass Basin
+14685|Otway Group|34874|Cape Wickham Sub-basin
+26319|Ouldburra Formation|22115|Officer Basin
+76222|Pack Creek Member|20306|Mount Painter Block
+14744|Pacoota Sandstone|22078|Amadeus Basin
+38564|Paling Formation|20936|Eucla Basin
+22621|Pando Formation|529551|Warburton Basin
+14818|Pandurra Formation|39712|Olympic Copper Gold Metallogenic Province
+14818|Pandurra Formation|513114|Olympic Domain
+14818|Pandurra Formation|559177|Cariewerloo Basin
+23892|Paning Member|529511|Cooper Basin
+25378|Pantapinna Sandstone|20306|Mount Painter Block
+25378|Pantapinna Sandstone|529788|Arrowie Basin
+14844|Pantoulbie Formation|34853|Polda Basin
+14854|Parabarana Sandstone|20306|Mount Painter Block
+14854|Parabarana Sandstone|529302|Eromanga Basin
+14855|Parachilna Formation|20306|Mount Painter Block
+25694|Parakeelya Alkali Member|22115|Officer Basin
+14862|Paralana Quartzite|20306|Mount Painter Block
+14866|Parara Limestone|20306|Mount Painter Block
+14866|Parara Limestone|22352|Stansbury Basin
+14866|Parara Limestone|42518|Gawler Craton
+14973|Peake Metamorphics|42518|Gawler Craton
+14973|Peake Metamorphics|42778|Peake and Denison Domain
+24453|Pedirka Formation|547723|Hamilton Basin
+24619|Peera Peera Formation|529549|Pedirka Basin
+15021|Pekina Formation|20306|Mount Painter Block
+15021|Pekina Formation|42518|Gawler Craton
+15047|Pepegoona Porphyry|20306|Mount Painter Block
+15047|Pepegoona Porphyry|20331|Curnamona Province
+15047|Pepegoona Porphyry|42518|Gawler Craton
+27876|Pepuarta Tillite|20331|Curnamona Province
+23898|Perkana Member|20406|St Vincent Basin
+15091|Pertaoorrta Group|22078|Amadeus Basin
+15094|Pertatataka Formation|22078|Amadeus Basin
+15099|Pertnjara Group|22078|Amadeus Basin
+29842|Peryhumuck Formation|408445|Olary Domain
+24620|Petermorra Volcanics|20331|Curnamona Province
+24620|Petermorra Volcanics|42518|Gawler Craton
+15122|Petrel Cove Formation|22352|Stansbury Basin
+15170|Pidinga Formation|20936|Eucla Basin
+15170|Pidinga Formation|22356|Bight Basin
+26843|Pindyin Sandstone|22115|Officer Basin
+26843|Pindyin Sandstone|42518|Gawler Craton
+76225|Pinyatta Member|20306|Mount Painter Block
+15279|Pinyinna beds|22078|Amadeus Basin
+33993|Pirramimma Sandstone|20406|St Vincent Basin
+39078|Pitjantjatjara Supersuite|467262|Musgrave Province
+15317|Platypus Formation|22356|Bight Basin
+15317|Platypus Formation|27358|Duntroon Sub-basin
+37091|Plumbago Formation|20331|Curnamona Province
+37091|Plumbago Formation|408445|Olary Domain
+24460|Point Ellen Formation|20406|St Vincent Basin
+77225|Point James Granite|42518|Gawler Craton
+77226|Point Sinclair Granite|42518|Gawler Craton
+15383|Point Turton Limestone|20406|St Vincent Basin
+15393|Polda Formation|22356|Bight Basin
+15393|Polda Formation|34853|Polda Basin
+27881|Polly Conglomerate|22078|Amadeus Basin
+72282|Poodla Granite|408445|Olary Domain
+15442|Poolowanna Formation|529302|Eromanga Basin
+15442|Poolowanna Formation|529511|Cooper Basin
+15448|Pooraka Formation|20406|St Vincent Basin
+15448|Pooraka Formation|464193|Callabonna Sub-basin
+15472|Port Julia Greensand|20406|St Vincent Basin
+28936|Port Vincent Limestone|20406|St Vincent Basin
+26109|Port Willunga Formation|20406|St Vincent Basin
+27541|Potoroo Formation|22356|Bight Basin
+27541|Potoroo Formation|27358|Duntroon Sub-basin
+33395|Price Metasediments|407482|Coulta Domain
+24622|Prospect Hill Granite|20331|Curnamona Province
+27223|Pualco Tillite|20331|Curnamona Province
+15666|Punkerri Sandstone|22115|Officer Basin
+15684|Purni Formation|529549|Pedirka Basin
+15734|Quartoo Sand Member|20406|St Vincent Basin
+75704|Radium Creek Group|20331|Curnamona Province
+15792|Radium Ridge Breccia|20306|Mount Painter Block
+27885|Ramsay Limestone|22352|Stansbury Basin
+15851|Rathjen Gneiss|20533|Delamerian Orogen
+72575|Raven Hill Subgroup|408445|Olary Domain
+25432|Rawnsley Quartzite|529788|Arrowie Basin
+24469|Recovery Formation|20331|Curnamona Province
+75818|Red Banks charnockite|42518|Gawler Craton
+26322|Relief Sandstone|22115|Officer Basin
+16036|Renmark Group|536552|Murray Basin
+16059|Reynella Siltstone Member|42518|Gawler Craton
+16110|Ripon Calcrete|42518|Gawler Craton
+16248|Rodda beds|22115|Officer Basin
+16251|Roe Calcarenite|20936|Eucla Basin
+26125|Rogue Formation|20406|St Vincent Basin
+16267|Rolling Downs Group|22401|Laura-Lakefield Basin
+16267|Rolling Downs Group|27354|Surat Basin
+16267|Rolling Downs Group|529302|Eromanga Basin
+16267|Rolling Downs Group|550572|Carpentaria Basin
+27299|Rook Tuff|20331|Curnamona Province
+29936|Rowland Flat Sand|40673|Barossa Basin
+28003|Roxby Downs Granite|42518|Gawler Craton
+28003|Roxby Downs Granite|513114|Olympic Domain
+16480|Ruwarung Member|20406|St Vincent Basin
+16542|Saint Kilda Formation|20406|St Vincent Basin
+72574|Saltbush Group|408445|Olary Domain
+16579|Samuel Formation|22114|Canning Basin
+16579|Samuel Formation|22115|Officer Basin
+16579|Samuel Formation|466902|Gunbarrel Basin
+25748|Seacliff Sandstone|42518|Gawler Craton
+24491|Second Plain Creek Member|20306|Mount Painter Block
+16735|Sellick Hill Formation|22352|Stansbury Basin
+16761|Serle Conglomerate|20306|Mount Painter Block
+16795|Shanahan Conglomerate Member|20306|Mount Painter Block
+16797|Shannon Formation|22078|Amadeus Basin
+73297|Sherbrook Supersequence|436513|Otway Basin
+73296|Shipwreck Supersequence|436513|Otway Basin
+25481|Skillogalee Dolomite|20306|Mount Painter Block
+25481|Skillogalee Dolomite|42518|Gawler Craton
+17007|Smith Bay Shale|22352|Stansbury Basin
+17047|Snowtown Sands|20406|St Vincent Basin
+29819|South Lake Gabbro|407427|Christie Domain
+17118|South Maslin Sand|20406|St Vincent Basin
+76960|Sprigg|20306|Mount Painter Block
+24502|St Peter Suite|42518|Gawler Craton
+26147|Stairway Sandstone|22078|Amadeus Basin
+17270|Stansbury Limestone|22352|Stansbury Basin
+17357|Stokes Bay Sandstone|22352|Stansbury Basin
+35325|Strathearn Group|408445|Olary Domain
+17451|Stuart Range Formation|22115|Officer Basin
+17451|Stuart Range Formation|40671|Arckaringa Basin
+17451|Stuart Range Formation|547728|Billa Kalina Basin
+35722|Suite 6|20306|Mount Painter Block
+17531|Sundown Group|20331|Curnamona Province
+17624|Table Hill Volcanics|22115|Officer Basin
+17624|Table Hill Volcanics|468269|Kalkarindji Igneous Province
+17694|Talisker Formation|22352|Stansbury Basin
+22945|Tanana Formation|22115|Officer Basin
+26161|Tandanya Sand Member|20406|St Vincent Basin
+17814|Tapley Hill Formation|20306|Mount Painter Block
+17814|Tapley Hill Formation|42518|Gawler Craton
+17845|Tarcoola Formation|42771|Wilgena Domain
+22952|Tarella Silt|20406|St Vincent Basin
+22953|Tarlina Sandstone|22115|Officer Basin
+22961|Teizi Anorthosite|467262|Musgrave Province
+17933|Telford Gravel|20306|Mount Painter Block
+17933|Telford Gravel|42518|Gawler Craton
+17959|Tent Hill Formation|42518|Gawler Craton
+17992|Terrapinna Granite|20306|Mount Painter Block
+17992|Terrapinna Granite|20331|Curnamona Province
+18082|Thorndale Composite Gneiss|408445|Olary Domain
+40872|Thorndale Composite Gneiss, Clevedale Migmatite, Mulculca Formation, Ednas Gneiss, Redan Gneiss|20331|Curnamona Province
+67983|Throoka Silt|20406|St Vincent Basin
+26941|Tickera Granite|513114|Olympic Domain
+24522|Tidnamurkuna Volcanics|42518|Gawler Craton
+18197|Tindelpina Shale Member|20306|Mount Painter Block
+18197|Tindelpina Shale Member|20331|Curnamona Province
+18227|Tirari Formation|529801|Lake Eyre Basin
+29838|Tommie Wattie Formation|408445|Olary Domain
+75082|Toraminga Formation|408445|Olary Domain
+18473|Tortachilla Limestone|20406|St Vincent Basin
+18515|Townsend Quartzite|22115|Officer Basin
+18532|Trainor Hill Sandstone|22115|Officer Basin
+27591|Tregolana Shale Member|42518|Gawler Craton
+18582|Trezona Formation|20306|Mount Painter Block
+26184|Truro Volcanics|20533|Delamerian Orogen
+26184|Truro Volcanics|22352|Stansbury Basin
+26284|Tuit Member|20406|St Vincent Basin
+25681|Tuketja Member|20406|St Vincent Basin
+18694|Tunkalilla Formation|22352|Stansbury Basin
+35382|Tunkillia Suite|407427|Christie Domain
+75788|Twenty Mile Hill Member|20306|Mount Painter Block
+75788|Twenty Mile Hill Member|42518|Gawler Craton
+28298|Uley Formation|20936|Eucla Basin
+28298|Uley Formation|34853|Polda Basin
+27596|Ulupa Siltstone|20306|Mount Painter Block
+27596|Ulupa Siltstone|20331|Curnamona Province
+18806|Umberatana Group|20306|Mount Painter Block
+18806|Umberatana Group|42518|Gawler Craton
+23088|Ungoolya Group|22115|Officer Basin
+23088|Ungoolya Group|42518|Gawler Craton
+35723|Unit 3|20306|Mount Painter Block
+18976|Urana Formation|550809|Ivanhoe Trough
+18976|Urana Formation|556736|Lachlan Orogen
+18981|Uranno Microgranite|42518|Gawler Craton
+18983|Uratanna Formation|20306|Mount Painter Block
+19120|Village Well Formation|20306|Mount Painter Block
+29929|Waitoona beds|22115|Officer Basin
+24069|Walkandi Formation|529549|Pedirka Basin
+23126|Wallaroo Group|39712|Olympic Copper Gold Metallogenic Province
+23126|Wallaroo Group|513114|Olympic Domain
+34770|Wallatinna Member|22115|Officer Basin
+19323|Wallumbilla Formation|27354|Surat Basin
+68095|Walparuta Formation|408445|Olary Domain
+39163|Wandearah Formation|513114|Olympic Domain
+24076|Wangary Gneiss|407482|Coulta Domain
+73298|Wangerrip Supersequence|436513|Otway Basin
+19410|Wangkonda Formation|22352|Stansbury Basin
+19426|Wantapella Volcanics|22115|Officer Basin
+19430|War Loan beds|20331|Curnamona Province
+24560|Waraco Limestone|20331|Curnamona Province
+39175|Wardang Volcanics Member|513114|Olympic Domain
+19462|Warina Sand|536552|Murray Basin
+29118|Warragee Member|20306|Mount Painter Block
+23149|Warrindi Silt|20406|St Vincent Basin
+25753|Warrow Quartzite|407482|Coulta Domain
+19560|Watchie Sandstone|547728|Billa Kalina Basin
+29126|Wattleowie Granite|20306|Mount Painter Block
+29126|Wattleowie Granite|20331|Curnamona Province
+75083|Waukaloo Formation|408445|Olary Domain
+19649|Wearing Dolomite Member|20306|Mount Painter Block
+39164|Weetulta Formation|513114|Olympic Domain
+24094|Wertigo Granite|42773|Spencer Domain
+19796|Westbourne Formation|27354|Surat Basin
+73301|Whalers Bluff Supersequence|436513|Otway Basin
+75084|Whey Whey Formation|408445|Olary Domain
+19868|Whidbey Granite|407482|Coulta Domain
+19901|White Point Conglomerate|22352|Stansbury Basin
+24632|White Well Granite|20331|Curnamona Province
+24632|White Well Granite|42518|Gawler Craton
+19958|Wiabuna Formation|20936|Eucla Basin
+19958|Wiabuna Formation|42518|Gawler Craton
+26214|Wigunda Formation|22356|Bight Basin
+26214|Wigunda Formation|27358|Duntroon Sub-basin
+35691|Wilari Dolomite Member|22115|Officer Basin
+68798|Wilcolo Sandstone Member|42518|Gawler Craton
+20023|Wilgena Hill Jaspilite|42771|Wilgena Domain
+20045|Wilkawillina Limestone|20306|Mount Painter Block
+20045|Wilkawillina Limestone|529788|Arrowie Basin
+25626|Willalinchina Sandstone|547728|Billa Kalina Basin
+39177|Willamulka Volcanics Member|513114|Olympic Domain
+26216|Willawortina Formation|464193|Callabonna Sub-basin
+26216|Willawortina Formation|529801|Lake Eyre Basin
+75703|Willouran Creek Member|20306|Mount Painter Block
+20135|Willyama Supergroup|20331|Curnamona Province
+20148|Wilpena Group|20306|Mount Painter Block
+20148|Wilpena Group|42518|Gawler Craton
+20155|Wilson Bluff Limestone|20936|Eucla Basin
+24109|Wimma Sandstone Member|529302|Eromanga Basin
+24109|Wimma Sandstone Member|529511|Cooper Basin
+20250|Winnambool Formation|536552|Murray Basin
+24633|Winnitinny Creek Member|20306|Mount Painter Block
+20268|Winton Formation|529302|Eromanga Basin
+20268|Winton Formation|550572|Carpentaria Basin
+20277|Winulta Formation|22352|Stansbury Basin
+20277|Winulta Formation|42518|Gawler Craton
+27617|Wipajiri Formation|529801|Lake Eyre Basin
+35880|Wiperaminga Subgroup|408445|Olary Domain
+24579|Wirrawilka Beds|20331|Curnamona Province
+20300|Wirrealpa Limestone|20331|Curnamona Province
+20300|Wirrealpa Limestone|529788|Arrowie Basin
+26332|Wirriecurrie Granite|42518|Gawler Craton
+26332|Wirriecurrie Granite|42778|Peake and Denison Domain
+20307|Wirrildar beds|22115|Officer Basin
+24581|Wisanger Basalt|20406|St Vincent Basin
+39170|Wokurna Member|513114|Olympic Domain
+68099|Woman-in-White Amphibolite|408445|Olary Domain
+20402|Wombat Sandstone Member|27358|Duntroon Sub-basin
+25645|Wonoka Formation|20306|Mount Painter Block
+20524|Woodnamoka Phyllite|20306|Mount Painter Block
+76224|Wookata Shale Member|20306|Mount Painter Block
+20550|Woolcalla Dolomite Member|42518|Gawler Craton
+27940|Woolshed Flat Shale|20306|Mount Painter Block
+20586|Wooltana Volcanics|20306|Mount Painter Block
+27258|Wortupa Quartzite|20306|Mount Painter Block
+24585|Worumba Dolomite Beds|20331|Curnamona Province
+20650|Wright Hill Formation|22115|Officer Basin
+20670|Wunghnu Group|536552|Murray Basin
+20670|Wunghnu Group|556736|Lachlan Orogen
+74643|Wynbring Granite|407427|Christie Domain
+20730|Wywyana Formation|20306|Mount Painter Block
+20745|Yagdlin Phyllite|20306|Mount Painter Block
+26243|Yarle Sandstone|20936|Eucla Basin
+20893|Yarrawurta Shale|529788|Arrowie Basin
+20962|Yerelina Subgroup|20331|Curnamona Province
+20964|Yerila Granite|20306|Mount Painter Block
+20964|Yerila Granite|20331|Curnamona Province
+36882|Younger Granite Suite|20306|Mount Painter Block
+30608|Younger Lincoln Supersuite|42518|Gawler Craton
+24146|Yunta Well Leucogranite|42518|Gawler Craton
+21070|Yuruga Formation|22352|Stansbury Basin
+73060|altered gneissic granulite 73060|467262|Musgrave Province
+73059|felsic granulite 73059|467262|Musgrave Province
+73058|intermediate granulite 73058|467262|Musgrave Province
+73057|mafic granulite 73057|467262|Musgrave Province
+73061|quartzite, conglomerate 73061|467262|Musgrave Province

@@ -1,0 +1,863 @@
+Stratno | Stratigraphic Name | Category | Contents | Last update 
+24150|Airport Creek Formation|Name source|Airport Creek; mouth of creek grid reference 121817, Derby 1:250 000 sheet.|
+24150|Airport Creek Formation|Type section locality|3 metres of partly indurated laminated sediment is exposed along banks and at the mouth of Airport Creek.  The top is in sharp contact with a grey soil unit called Double Nob Formation;  the base is not exposed.|
+24150|Airport Creek Formation|Extent|The unit is exposed along banks of Airport Creek, Doctors Creek and low tide zones near Derby.  Total outcrop and subsurface distribution is in excess of 200 km2. |
+24150|Airport Creek Formation|Thickness range|8 metres plus;  determined by coring under Derby Jetty;  base not reached.|
+24150|Airport Creek Formation|Lithology|Interlayered grey to buff calcareous and siliciclastic laminates, sandstone and sponge spicules in the sandstones.|
+24150|Airport Creek Formation|Relationships and boundaries|Basal relationships not accurately known; on shore the unit overlies Mowanjum Sands, as determined by augering at grid reference 123822, Derby Sheet area 1:250 000.  The unit is overlain by Double Nob Formation (soil) with gradational contact and locally by Doctors Creek Formation with sharp contact.|
+24150|Airport Creek Formation|Age reasons|Criteria of unconformity, weathering features and overlying soil unit place the unit in the Pleistocene (or ?Pliocene).|
+24169|Baleine Formation|Name source|Baleine Bank; grid reference 515885, Pender 1:250 000 Sheet area.|
+24169|Baleine Formation|Type section locality|2966-4175 ft (904-1273 m) in Lacepede 1A (17o5'8"S, 121o26'41"E).|
+24169|Baleine Formation|Extent|The unit is present only in the subsurface of the offshore Canning Basin and southern Browse Basin.  Its limit to the east is uncertain, but its absence in either coastal wells or outcrop suggests it is west of the present shoreline.  No western limit is known due to lack of deep sea drilling.|
+24169|Baleine Formation|Thickness range|Drilled thickness ranges from 94 m to 504 m. Isopach contours suggest it thickens to approximately 1000 m in the Rowley Shoals area.|
+24169|Baleine Formation|Lithology|Chiefly claystone, grey, silty to arenaceous, common traces of glauconite as high as 10% and traces of mica and pyrite.  Towards the east the upper part is interbedded sandstone and siltstone.  The sandstone is grey; very fine to coarse grained, grain size decreases downhole to a very fine-grained argillaceous sandstone of siltstone; poor to well sorted with the degree of sorting increasing downhole; clay matrix; traces of glauconite carbonate cement up to 10% in the lower sandstone, and rock fragments.  Siltstone, grey, sandy and argillaceous.|
+24169|Baleine Formation|Relationships and boundaries|Overlies an unnamed Middle-Upper Jurassic sandstone.  Detailed palynological dating has established the disconformity at the base.  The base is easily picked on well logs by the change in lithology from the underlying sandstone to claystone.  The upper contact is less well defined.  Overlain by unnamed Neocomian sandstone or claystone.  Palynological dating indicates the upper contact is disconformable in the east and conformable in the west.|
+24169|Baleine Formation|Age reasons|Late Tithonian to early Neocomian.  The unit is diachronous from east to west.  Dating is based predominately on palynology from wells in the Canning Basin and fauna lists are contained in the offshore well completion reports for Keraudren 1, Bedout 1, Lacepede 1, Wamac 1, East Mermaid 1, Lynhner 1, and Leveque 1.|
+24169|Baleine Formation|Comments|The unit has no onshore correlatives. Previously it has been included in or correlated with the Jarlemai and Jowlaenga Formations. Although the unit has lithological similarities to both formations, it is younger than either formation.|
+24169|Baleine Formation|References|AMAX Petroleum (Australia) Inc, 1973 - Wamac 1, well completion report.  Bur. Miner. Resour. Aust. File 73/246. BOC of Australia, 1970 - Lacepede 1A, well completion report.  Bur. Miner. Resour. Aust. File 70/426 BOC of Australia, 1970 - Leveque 1, well completion report.  Bur. Miner. Resour. Aust. File 70/670. BOC of Australia, 1970 - Lyhner 1, well completion report. Bur. Miner. Resour. Aust. File 70/948 BOC of Australia, 1971 - Bedout 1, well completion report. Bur. Miner. Resour. Aust. File 71/435 Hematite Petroleum Pty Ltd, 1973 - Keraudren 1, well completion report. Bur. Miner. Resour. Aust. File 73/240 Lister T.R., 1972 - An applied scheme of palynomorph units for use in the stratigraphic rationalization of Jurassic-Cretaceous prospects located in the northwest shelf of Australia. Part 1 dinophyte cysts. BOC of Aust. Ltd. (Unpubl. Co. rep.) Powell D.E. 1976 - The geological evolution of the continental margin off northwest Australia. APEA J., 16(1), 13-23. Shell Development Pty Ltd, 1973 - East Mermaid 1, well completion report. Bur. Miner. Resour. Aust. File 73/1002.|
+30078|Ballythanna Sandstone Member|Name source|Ballythanna Hill, 1 km west of well location.|
+30078|Ballythanna Sandstone Member|Type section locality|Ballythanna 1, 65-298 m.  26o03'42"S, 115o40'11"E.|
+30078|Ballythanna Sandstone Member|Lithology|Fine- to medium-grained sandstone, minor carbonaceous siltstone, locally bioturbated.|
+33645|Bardsley Formation|Name source|Bardsley Well, RHODES (MGA 310200E, 7182850N; Fig. 1).|
+33645|Bardsley Formation|Type section locality|The type area for the Bardsley Formation is the area north from the track that crosses Troy Creek (around MGA 319500E, 71893000N). No type section has been measured or is appropriate, due to the type of outcrop.|07/FEB/11
+33645|Bardsley Formation|Extent|The Bardsley Formation has only been recognized in and adjacent to the headwaters of Troy Creek (Fig. 1), in the southern-central part of RHODES. Troy Creek cuts through a prominent range just south of the area of outcrop. This range may have served as a barrier that localized deposition.|07/FEB/11
+33645|Bardsley Formation|Thickness range|The thickness of the Bardsley Formation is assumed to be only a few metres.|
+33645|Bardsley Formation|Lithology|The formation consists of poorly sorted, variably ferruginized lithic sandstone and granule conglomerate infilling an irregular topography on the underlying Earaheedy Group, and is massive to poorly bedded. Commonly, only 20 to 50 cm of section can be seen because the unit is exposed as rubbly flats adjacent to the creek. There are common solution pits infilled by pisolitic ferricrete and clay-cemented gravel reworked from the Earaheedy Group.|
+33645|Bardsley Formation|Relationships and boundaries|The Bardsley Formation clearly infills an irregular topography on the Earaheedy Group, and has not been folded or tilted like the Sydney Heads Pass Conglomerate, another unit of uncertain age on EARAHEEDY. The formation pre-dates the development of ferricrete, which probably occurred in the Oligocene or Eocene, but could have occurred in the Mesozoic (Hocking and Cockbain, 1990;  ockbain and Hocking, 1990). The lack of folding or tilting suggests that it post-dates the Collier  Group, which is moderately folded and faulted a few kilometres to the north and west. The distribution suggests southward-directed palaeocurrents, down Troy Creek.|
+33645|Bardsley Formation|Age reasons|The formation pre-dates the development of ferricrete, which probably occurred in the Oligocene or Eocene, but could have occurred in the Mesozoic (Hocking and Cockbain, 1990;  Cockbain and Hocking, 1990). The lack of folding or tilting suggests that it post-dates the Collier  Group, which is moderately folded and faulted a few kilometres to the north and west. The Bardsley Formation thus has a possible age range of early Cainozoic to late Mesoproterozoic;  however, its probable age is post-Proterozoic, as palaeocurrent measurements from the Collier Group indicate northward flow, and those from the lower Sunbeam Group are westward. Deposition over the West Australian Craton (used broadly) was most extensive during the Early Permian Gondwana glaciation, but there are no polymictic boulder lags nearby to support a Permian age.|07/FEB/11
+33645|Bardsley Formation|Comments|During mapping on RHODES, an isolated area of consolidated grit was recognized at the headwaters of Troy Creek, infilling the creek depression and adjacent areas. Exposures are discontinuous because of topography developed on deformed rocks of the Earaheedy Group beneath. The unit resembles the Wiluna Hardpan of Bettenay and Churchward (1974), but is somewhat older as it is penetrated by solution pits infilled with pisolitic ferricrete and reworked Earaheedy Group rocks.  For this reason it is named the Bardsley Formation.|07/FEB/11
+33645|Bardsley Formation|Defn Reference|SOURCE DOCUMENT:   HOCKING, R. M., JONES, J. A., PIRAJNO, F., and GREY, K., 2000, Revised lithostratigraphy for Proterozoic rocks in the Earheedy Basin and nearby areas: Western Australia Geological Survey, Record 2000/16, 22p.|07/FEB/11
+2189|Boobina Porphyry|Name source|Boobina Creek, Lat. 21o41'35"S, Long. 119o56'55"E, Marble Bar 1:250 000 Sheet area.|
+2189|Boobina Porphyry|Unit history|The "coarse-grained feldspar porphyry -- to fine-grained black feldspar porphyry" of Noldart and Wyatt (1962).|
+2189|Boobina Porphyry|Type section locality|2-3 km northwest from Copper Hills|
+2189|Boobina Porphyry|Extent|Approx. 50 km2, in two ovoid masses north and south of Copper Hills, Lat. 21o39'S, Long. 119o58'E.|
+2189|Boobina Porphyry|Lithology|Dacite porphyry.  Euhedral to subhedral plagioclase and quartz phenocrysts up to 5 mm long set in a dark aphanitic groundmass.  Plagioclase (An30) laths commonly form glomeroporphyritic groups.|
+2189|Boobina Porphyry|Relationships and boundaries|Intrudes Warrawoona Group (Lipple, 1975) and intruded by the Mondana Adamellite (Hickman and Lipple 1974).|
+2189|Boobina Porphyry|Age reasons|Archaean|
+30280|Browns Range Metamorphics|Name source|Browns Range, in Gordon Downs, Billiluna, Tanami, and Birrindudu 1:250 000 Sheet areas, WA and NT.|
+30280|Browns Range Metamorphics|Unit history|Unit previously mapped as undivided Halls Creek Group (e.g., Gemuts & Smith 1968) and undivided Tanami Complex (e.g., Blake et al 1979).|
+30280|Browns Range Metamorphics|Geomorphic expression|low hills and ridges.|
+30280|Browns Range Metamorphics|Type section locality|Low hills within 1 km of GR DE900040, Gordon Downs 1:100 000 Sheet area, in southeast Gordon Downs 1:250 000 Sheet area. Here the formation is represented by meta-arkose containing sparse to abundant pebbles and cobbles of vein quartz and quartzite. No clear bedding planes evident in field, but tight folding apparent on air photographs. Unconformity with scarp-forming Gardiner Sandstone of the Mesoproterozoic Birrindudu Group is exposed on SW side of type locality.|
+30280|Browns Range Metamorphics|Extent|Browns Range Dome, in SE Gordon Downs and adjoining parts of Billiluna (WA) and Tanami (NT) 1:250 000 Sheet areas|
+30280|Browns Range Metamorphics|Thickness range|>1000 m.|
+30280|Browns Range Metamorphics|Lithology|Pebbly arkose metamorphosed (upper amphibolite/granulite facies) to quartzofeldspathic granofels (granulitic texture) - primary feldspar altered to white mica and clay minerals; minor banded ironstone and metaconglomerate (at GR DE966125).|
+30280|Browns Range Metamorphics|Relationships and boundaries|base not exposed. Overlain unconformably by gently dipping Gardiner Sandstone, which is not metamorphosed. Intruded in the Tanami Sheet area by unnamed granite, dated at 1882 Ma, which postdates main metamorphism|
+30280|Browns Range Metamorphics|Age reasons|possibly late Archaean (Page et al. 1995b). Metasediments contain several age-groupings of detrital zircon, the youngest of which, dated at 2507 +/- 5 Ma, gives a maximum age for sedimentation. High-grade metamorphism predates 1880 Ma granite.|
+30280|Browns Range Metamorphics|Correlations|Late Archaean Rum Jungle and Waterhouse Complexes of Pine Creek province.|
+30280|Browns Range Metamorphics|Proposed publication|Gordon Downs , WA, 2nd edition Explanatory Notes.|
+30280|Browns Range Metamorphics|References|*BLAKE, D.H., Hodgson, I.M. & Muhling, P.C., 1979. Geology of The Granites-Tanami region, Northern Territory and Western Australia. Bureau of Mineral Resources, Australia, Bulletin 197    *GEMUTS, I. & Smith, J.W., 1968. Gordon Downs, Western Australia, 1:250 000 Geological Series. Bureau of Mineral Resources, Australia, Explanatory Notes SE/52-10.    *PAGE, R.W., Sun, S-S., Blake, D.H., Edgecombe, D. & Pearcey, D., 1995. Geochronology of an exposed late Archaean basement terrane in The Granites-Tanami region. AGSO Research Newsletter, 22, 19-20.|10/FEB/11
+25816|Budjan Creek Formation|Name source|Budjan Creek (Military Grid 272 273), Marble Bar 1:250 000 Sheet area.|
+25816|Budjan Creek Formation|Type section locality|The unit is well exposed in gorges cut by the upper reaches of Budjan Creek (272 273).|
+25816|Budjan Creek Formation|Extent|The Budjan Creek Formation occurs in the Kelly Belt, from north of Coolbanacoula Pool (264 274) northeastwards to south of Copper Hills (283 283) as a strip 35 km long and up to 2.5 km wide.  The fault-displaced extension also crops out on the Nullagine 1:250 000 Sheet area.|
+25816|Budjan Creek Formation|Thickness range|Exposed thickness is between 1-1.5 km|
+25816|Budjan Creek Formation|Lithology|Basal conglomerate containing chert, vein quartz and dacite clasts overlain by shale, siltstone and sandstone units and capped by a thick conglomerate containing angular chert clasts.|
+25816|Budjan Creek Formation|Relationships and boundaries|Unconformably overlies Wyman Formation and Salgash Subgroup.  Upper margin partly concealed by unconformable cover of Proterozoic Fortescue Group, and partly faulted against divisions of Warrawoona Group.  Equivalent to Lalla Rookh Sandstone.|
+25816|Budjan Creek Formation|Age reasons|Archaean because overlain unconformably by Lower Proterozoic Fortescue Group.|
+23447|Butchers Gully Member|Name source|Butchers Gully, a tributary of Black Elvire River, confluence at GR CE793678, Halls Creek 1:100 000 Sheet area, Gordon Downs 1:250 000 Sheet area, WA.|
+23447|Butchers Gully Member|Unit history|Brockman Volcanics (e.g., Ramsden et al. 1993, Taylor et al. 1995); Butchers Gully Volcanic Member (Warren 1997).|
+23447|Butchers Gully Member|Geomorphic expression|Strike ridges and valleys; local relief less than 100m|
+23447|Butchers Gully Member|Type section locality|Alkaline lavas, pyroclastics and volcaniclastic rocks intruded by subvolcanic sheets and interlayered with greywacke, siltstone and mudstone in low ridges, hills and creek beds around the Brockman REE prospect (at GR CE717740),    Halls Creek 1:100 000 Sheet area, Gordon Downs 1:250 000 Sheet area.|
+23447|Butchers Gully Member|Extent|Halls Creek and Ruby Plains 1:100 000 Sheet areas in Gordon Downs 1:250 000 Sheet area and Dockrell 1:100 000 Sheet area in Mount Ramsay 1:250 000 Sheet area, WA.|
+23447|Butchers Gully Member|Thickness range|>1000 m.|
+23447|Butchers Gully Member|Lithology|Trachyandesite, trachyte, quartz trachyte and rhyolite lavas, including pillow lavas; subvolcanic syenite sheets; volcanic breccia; pyroclastic and volcaniclastic rocks (including niobium tuff of Chalmers, 1990); some interlayered turbiditic greywacke, siltstone and mudstone. Metamorphosed to mainly greenschist facies; commonly cleaved.|
+23447|Butchers Gully Member|Depositional environment|Submarine.|
+23447|Butchers Gully Member|Relationships and boundaries|Of the Olympio Formation of Halls Creek Group. Overlain and underlain conformably by turbidites of the Olympio Formation. Overlain unconformably by Moola Bulla Formation (Palaeoproterozoic).|
+23447|Butchers Gully Member|Age reasons|Palaeoproterozoic (Orosirian). Zircon from pillow lava in member is dated at 1848 +/- 3 Ma (AGSO's OZCHRON database). Zircon dated at 1870 +/- 4 Ma from niobium tuff (Taylor et al. 1995) at base of member is now thought to be detrital.|
+23447|Butchers Gully Member|Correlations|None, appears to be measurably younger (about 10 million years) than the Maude Headley Member of the Olympio Formation.|
+23447|Butchers Gully Member|References|*BLAKE, D.H., Tyler, I.M. & Sheppard, S., 1997. Geology of the Ruby Plains 1:100 000 Sheet area (4460), Western Australia,. Australian Geological Survey 	Organisation, Canberra.    *BLAKE, D.H., Tyler, I.M., Griffin, T.J., Sheppard, S., Thorne, A.M. & Warren, R.G., 1998. Geology of the Halls Creek 1:100 000 Sheet area (4461), Western Australia. Australian Geological Survey Organisation, Canberra.     *TAYLOR, W.R., Page, R.W., Esslemont, G., Rock, N.H.S. & Chalmers, D.I., 1995. 	Geology of the volcanic-hosted Brockman rare-metals deposit, Halls Creek Mobile Zone, northwest Australia, Part I - Volcanic environment, geochronology and petrography of the Brockman volcanics. Mineralogy and Petrology, 52, 209-230.    *TYLER, I.M. & Griffin, T.J., 1994. Dockrell, Western Australia, 1:100 000 geological map sheet (4360). Geological Survey of Western Australia, Perth.    *RAMSDEN, A.R., French, D.H. & Chalmers, D.I., 1993. The volcanic-hosted rare-metals deposit at Brockman, Western Australia: mineralogy and geochemistry of the Niobium Tuff. Mineralium Deposita, 28, 1-12.    *PAGE, R.W., Blake, D.H., Sun, S-S., Tyler, I.M., Griffin, T.J. & Thorne, A.M., 1994. New geological and geochronological constraints on volcanogenic massive sulphide prospectivity near Halls Creek (WA).  AGSO Research Newsletter, 20, 5-7.    *CHALMERS, D.I., 1990. Brockman multi-metal and rare earth deposit. In: Hughes, F.E. (editor), Geology of the Mineral Deposits of Australia and Papua New Guinea. The Australasian Institute of Mining and Metallurgy, Monograph, 14, 707-709.    *WARREN, R.G., 1997. Reconnaissance geological mapping in Dixon, SE McIntosh and northernmost Halls Creek 1:100 000 Sheet areas, East Kimberley, W.A. 1992-3. Australian Geological Survey Organisation, Record 1997/26.|10/FEB/11
+24214|Carolyn Formation|Name source|Carolyn Valley in the western St George Range (18o41'S, 124o55'E).|
+24214|Carolyn Formation|Unit history|Forms the upper part of the Grant Formation (Guppy et al, 1952) now termed Grant Group.  Referred to as the Binda Member in unpublished company reports and as "The upper sandstone unit" by Crowe & Turner (1976b).|
+24214|Carolyn Formation|Type section locality|Composite section of sequences at 18o44'20"S, 124o55'52"E and 18o41'53"S, 124o54'30"E.|
+24214|Carolyn Formation|Extent|Exposed in northern, eastern and southern parts of Canning Basin.  Distributed throughout the basin in the subsurface except where removed by erosion after deposition of the Grant Group.  Includes Wye Worry and Millajiddee Members defined in the Fitzroy Trough (Crowe & Towner, 1976a).|
+24214|Carolyn Formation|Thickness range|Thickest in the northwestern part of the Fitzroy Trough (364 m in Sisters No. 1).|
+24214|Carolyn Formation|Lithology|Mainly consists of massive or poorly bedded, moderate to poorly sorted, medium grained quartz arenite with some lithic and feldspathic wacke.  Details are given by Crowe & Towner (1976b).|
+24214|Carolyn Formation|Relationships and boundaries|Conformably overlies Winifred Formation and is overlain unconformably (in Fitzroy Trough) and conformably (elsewhere) by the Poole Sandstone.  In the southern Canning Basin the unit probably interfingers laterally with the Paterson Formation.|
+24214|Carolyn Formation|Age reasons|Contains pelecypods Eurydesma? Sp. Ind., Deltopecten lyonensis, Etheripecten cf. Tenuicollis, Streblopteria sp. In Wye Worry Member which Dickins et al (in press) believe indicate a late Sakmarian sensu lato age.|
+24214|Carolyn Formation|Proposed publication|Annual Report Geological Survey of Western Australia for 1976|
+3926|Charteris Basalt|Name source|Charteris Creek'; grid reference 301312 to 305321 Nullagine 1:250 000 Sheet area.|
+3926|Charteris Basalt|Type section locality|6 km northeast of Spinaway Well (29353015) in the headwaters of Sandy Creek.|
+3926|Charteris Basalt|Extent|The formation is exposed over 50 km2 in the headwaters of Yandicoogina Creek.|
+3926|Charteris Basalt|Thickness range|Primary thickness 1 000 m.  Range after deformation 500-2 000 m.|
+3926|Charteris Basalt|Lithology|Pillow basalt with very subordinate chert and felsic lava.|
+3926|Charteris Basalt|Relationships and boundaries|Conformably overlies Corboy Formation (References a and b).  Conformably underlies Paddy Market Formation (References a and b).  Forms part of the Gorge Creek Group (References a and b).  Locally underlies Lalla Rookh Sandstone (References a and b) as a result of structural modification 10 km South of Yandicoogina Mining Centre (3070 3250).|
+3926|Charteris Basalt|Age reasons|Archaean, since forms part of Gorge Creek Group.|
+3926|Charteris Basalt|Comments|The formation is a local wedge-shaped volcanic unit within the Gorge Creek Group.  In this sense it is similar to the Honeyeater Basalt (References a and b) but the latter overlies the Paddy Market Formation.|
+3941|Cheela Springs Basalt|Unit history|The Cheela Springs Basalt is part of the Precambrian Wyloo Group (redefined, Trendall, 1979), south of the Hamersley Ranges.  The Cheela Springs Basalt (de la Hunty, 1965) is here raised from a member to a formation and excluded from the Mount McGrath Formation because it is overlain disconformably by clastics which are retained in the latter. (Map ref. Geological 1:250 000 Sheets Wyloo, Mount Bruce and Turee Creek). |
+3941|Cheela Springs Basalt|Extent| [?] Map ref. Geological 1:250 000 Sheets Wyloo, Mount Bruce and Turee Creek.|
+3941|Cheela Springs Basalt|Lithology|In the Cheela Springs area it is composed, at long. About 117degrees 58', of 900m of dominantly vesicular basalt with basal tuffaceous-looking shales which rest conformably on clastic rocks of the Beasley River Quartzite.|
+3941|Cheela Springs Basalt|Correlations|The correlation by Daniels (1968) of the Cheela Springs Basalt with formations composed largely of basic lavas in the Turee Creek Syncline and the Mount McGuire district are accepted. In the Mount McGuire area however, the Formation is thicker and contains shale bands with red chert nodules at other levels than the base. These units might well have been eroded prior to deposition of the overlying clastics in the Cheela Springs district.|
+3941|Cheela Springs Basalt|Proposed publication|Aust. CSIRO Inst. Earth Res. Rept No. FP. 22|
+3941|Cheela Springs Basalt|Comments|It was not re-examined in the Turee Creek Syncline area.|
+3941|Cheela Springs Basalt|References|02/32050, 79/04924, 99/29801, 81/21674, 80/20705|
+24220|Christine Point Clay|Name source|Christine Point grid reference 123834 Derby 1:250 000 Sheet area.|
+24220|Christine Point Clay|Type section locality|6 metres are exposed in cliff 1.5 km south of Derby Jetty.|
+24220|Christine Point Clay|Extent|Exposed along banks of tidal creeks and foreshores between high and low tides between Christine Point and Airport Creek (grid references 123834 and 121817, Derby 1:250 000 Sheet).  Occurs in subsurface between Airport Creek and Point Torment (grid reference 119854, Derby 1:250 000 Sheet).  Over 100 km2 distributed in outcrop and subsurface.|
+24220|Christine Point Clay|Thickness range|Maximum recorded thickness 7.5 m, general thickness is 4-6 m.|
+24220|Christine Point Clay|Lithology|Homogenous to mottled slate grey clay; abundant mangrove stumps (up to 1.2 m diameter) and root fibers; scattered carbonate nodules; fauna includes Uca spp, Scylla serrata and Teredo spp and Thalassina anomala.  Fossil flora include Avicennia sp and Ceriops sp as in situ tree stumps.|
+24220|Christine Point Clay|Relationships and boundaries|Overlies Double Nob Formation (soil) with gradational contact or locally sharp contact.  Overlies Mowanjum Sands with gradational contact; transitional zone is mottled, mud, muddy sand, and sand, varigated colouration ranging from grey to orange to red.  Top is sharply overlain by Doctors Creek Formation contact is steeply inclined to irregular and may be marked by mud block breccia, mud ball conglomerate or fossil wool debris.|
+24220|Christine Point Clay|Age reasons|The unconformity, regional stratigraphic relationships and the fossil flora suggest a late Pleistocene age for the unit.|
+4046|Christmas Creek Member|Name source|Christmas Creek, tributary of the Fitzroy River which flows across the eastern part of the Noonkanbah Sheet area.|
+4046|Christmas Creek Member|Type section locality|Mt Piper in the Poole Range, Lat 18o54'00"S, Long 125o47'30"E.|
+4046|Christmas Creek Member|Extent|Crops out in the highest part of the Poole Range and at Mt Thorlan.  Discontinuously exposed on the plains between the Poole Range and the St George Range and along the northern flank of the St George Range.|
+4046|Christmas Creek Member|Thickness range|15 m at type section.  Maximum thickness is probably less than 25 m.|
+4046|Christmas Creek Member|Lithology|Consists of large-scale, cross-bedded, poorly sorted granule conglomerate and fine to coarse-grained sandstone.  Thin to medium-bedded, and in places some graded bedding.  Asymmetrical ripple-marks occur on bedding planes.|
+4046|Christmas Creek Member|Age reasons|No fossils found in the member which is dated as Artiniskian based on the ages of the overlying and underlying units.|
+4460|Constantine Sandstone|Name source|Mount Constantine; grid reference Long. 117o50', Lat. 21o03' on the Pyramid 1:250 000 Sheet.|
+4460|Constantine Sandstone|Type section locality|A sequence of arkosic grits, conglomerates and dominantly sandstone exposed in the Croydon Anticline between Croydon Station and Toweranna.|
+4460|Constantine Sandstone|Extent|The unit is well exposed in an area some 12 km west of Croydon Station and extends east through Croydon and some 30 km east of it.|
+4460|Constantine Sandstone|Thickness range|Up to 5 km in the type area.|
+4460|Constantine Sandstone|Lithology|Mainly quartz sandstone with basal arkosic grits and conglomerates.  There are minor intercalated greywackes.|
+4460|Constantine Sandstone|Relationships and boundaries|The unit is underlain by rocks of the Teichmans Group and overlain by the Mallina Formation.|
+4460|Constantine Sandstone|Age reasons|The unit is thought to be the equivalent of the Mons Cupri Volcanics and therefore to have an age approximately in the range between 2,500 and 2,300 m.y. (P.A. Arriens, pers. Com. 1975).|
+26299|Coorong Creek Adamellite|Name source|Coorong Creek, Marble Bar 1:250 000 Sheet area (M.G.R. 165 299).|
+26299|Coorong Creek Adamellite|Type section locality|The Coorong Creek Adamellite is well exposed near the lower reaches of Coorong Creek and along the Yule River above its junction with the creek.|
+26299|Coorong Creek Adamellite|Extent|The Coorong Creek Adamellite occurs in the Yule Batholith (see Fig. 1) as an irregular elongate mass (which resembles the outline of Italy), extending northwest and southwest across the lower reaches of Coorong Creek, west of Woodstock homestead, between latitudes 21o32'S and 21o45'S and longitudes 118o48'E and 119o00'E.  The pluton has an area of about 110 km2.|
+26299|Coorong Creek Adamellite|Lithology|The rock is a medium to coarse, even-grained biotite adamellite.  There are rare phenocrysts.  It is poorly to moderately foliated by alignment of feldspar, biotite, quartz and some biotite wisps and schlieren.  Medium, even-grained biotite granodiorite xenoliths and rare amphibolite xenoliths occur scattered throughout the pluton.  Pegmatites occur in most outcrops but are generally a minor feature.  The northwestern portion of the pluton has a more prominent foliation and contains more abundant xenoliths.  The adamellite contains microcline, oligoclase with myrmekite; biotite; accessory opaques, apatite, sphene, zircon and secondary chlorite, epidote, sericite and minor carbonate.|
+26299|Coorong Creek Adamellite|Relationships and boundaries|Contacts with the adjacent migmatite complex are diffuse but clearly intrusive.  The abundance of migmatite remnants within the pluton suggests remobilization of the complex and emplacement at higher structural levels.  Its relationship with the Abydos Adamellite is uncertain.  Possibly the Coorong Creek Adamellite intrudes the Abydos Adamellite.  The Coorong Creek Adamellite is intruded by quartz veins occurring along faults and by Lower Proterozoic dolerite dykes including the Round Hammock suite and contaminated, xenolith-bearing Mundine Well suite.  Much of the pluton is obscured by thin Quaternary sand and gravel deposits.|
+26299|Coorong Creek Adamellite|Age reasons|Archaean|
+28476|Corboy Formation|Name source|Corboy mining centre (military grid 248 285), Marble Bar 1:250 000 Sheet area.|
+28476|Corboy Formation|Type section locality|The type area for the Corboy Formation is around the Corboy mining centre in the Coongan Syncline.|
+28476|Corboy Formation|Extent|The Corboy Formation occurs in the centre of the Coongan Syncline.|
+28476|Corboy Formation|Thickness range|1-2 km|
+28476|Corboy Formation|Lithology|The unit consists mostly of quartzite, sandstone and psammopelitic sedimentary rocks.  There are minor felsic volcanics and ultramafic rocks in the southern portion of the formation and basalt, usually pillowed lavas, in the northern portion.|
+28476|Corboy Formation|Relationships and boundaries|The relationships of the Corboy Formation to the surrounding units is obscured by regional slides.  However, it probably overlies conformably the Wyman Formation and conformably underlies the Paddy Market Formation.  It is stratigraphically equivalent to rocks of the Soanesville Subgroup in the Soanesville Belt.|
+28476|Corboy Formation|Age reasons|Archaean|
+24244|Diemals Formation|Name source|"Diemals" homestead, lat 37o39'S, long 119o18'E, BARLEE 1:250 000 Sheet area.|
+24244|Diemals Formation|Type section locality|17 km south-southwest of "Diemals" homestead.|
+24244|Diemals Formation|Extent|Poorly exposed in a roughly longitudinally trending belt 35 km long and up to 14 km wide, from 5 km west of Pigeon Rocks to 20 km west-northwest of "Diemals" homestead.|
+24244|Diemals Formation|Thickness range|Maximum thickness of 5 km (measured from airphotos)|
+24244|Diemals Formation|Lithology|The lowermost unit of the formation is a silty argillite with interbedded, lensoid oligomictic conglomerate containing rounded clasts up to15 cm long of quartz-albite porphyry and jaspilite.  Overlying this argillite is a metamorphosed coarse-grained argillaceous quartz arenite with narrow intraformational pebble conglomerate layers.  Interbedded with the meta-arenite are lenticular beds of quartzite.  The formation has been metamorphosed to low amphibolite facies.|
+24244|Diemals Formation|Relationships and boundaries|Unconformably overlies metavolcanics and graphitic phyllite of a greenstone belt and is intruded by biotite adamellite.  The base of the formation is poorly exposed while the top is unconformably overlain by Tertiary sediments.|
+24244|Diemals Formation|Age reasons|The intruding biotite adamellite is about 2.6-2.7 b.y. (H Chapman pers. comm. 1979) and the underlying greenstones are considered to have developed about 2.7 b.y. (Gee 1979).  The age is therefore about 2.6-2.7 b.y.|
+24244|Diemals Formation|Proposed publication|Western Australia Geological Survey Record|
+24244|Diemals Formation|Proposer|Walker I.W., Blight D.F.|
+24244|Diemals Formation|Resdate|22-MAR-1980|
+24244|Diemals Formation|Reserved? Yes/No|Y|
+36000|Dingo Creek Granite|Name source|Dingo Creek (409500E 7363500N MGA 94) on the Edmund 100K sheet area|
+36000|Dingo Creek Granite|Unit history|Named as the Dingo Granite by Pearson (1996) and Pearson et al (1996). The unit was renamed as the Dingo Creek Granite by Martin et al. (2002).|
+36000|Dingo Creek Granite|Geomorphic expression|Typically, low rounded hills covered in tors and boulders. Whalebacks present locally.|
+36000|Dingo Creek Granite|Type section locality|About 5.5 km WSW of Red Hill Bore on the Edmund 100k map sheet centred at 714300E 7367500N (MGA94, Zone 50). The type locality can be accessed via a station track from Red Hill Bore and then by travelling off road. The main rock type here, as elsewhere in the unit, is a medium-grained biotite-muscovite syenogranite with a trachytic texture defined by thin tabular phenocrysts of K-feldspar.|
+36000|Dingo Creek Granite|Extent|The unit comprises several elongate plutons aligned in an eastsoutheasterly direction, along with some small plugs and numerous dykes and veins. The unit outcrops in two belts less than 10 km wide and up to 30-40 km long within the Mangaroon Terrane in the northern Gascoyne Complex.|
+36000|Dingo Creek Granite|Lithology|Mainly consists of medium- to fine-grained porphyritic biotite-muscovite syenogranite or syenogranite. K-feldspar phenocrysts comprise 40% or more of the rocks, and define a trachytic texture. Contacts between syenogranite and monzogranite phases with slightly different composition, grainsizes or phenocryst abundances are common within the plutons.|
+36000|Dingo Creek Granite|Relationships and boundaries|The Dingo Creek Granite intruded rocks of the <c. 1680 ? 13 Ma Pooranoo Metamorphics, as well as the c. 1675 Ma Pimbyana Granite. The Dingo Creek Granite is extensively intruded by veins and dykes of muscovite-biotite-tourmaline granite and pegmatite also belonging to the Durlacher Supersuite. The Dingo Creek Granite is unconformably overlain by sedimentary rocks of the Edmund Group (Bangemall Supergroup) on the Mangaroon and Edmund 100K sheets.|
+36000|Dingo Creek Granite|Age reasons|The Dingo Creek Granite has been dated by Pearson (1996) on the Mount Phillips 250k sheet at 1674 +/- 6 Ma, and by Nelson (GSWA 169062; Nelson, 2002) [, 2002 #870/ GSWA 169062] on Edmund at 1674 +/- 8 Ma. In addition, a sample from nearly 50km to the west-northwest on Mangaroon (GSWA 178028; Nelson, in prep.) gave an identical age of 1674 +/- 8 Ma.|
+36000|Dingo Creek Granite|References|Nelson D. R. 2002. Compilation of geochronology data 2001. Western Australia Geological Survey, Record 2002/2.                                                                                                                                   Nelson D. R. in prep. Compilation of geochronology data, 2003. Western Australia Geological Survey, Record 2004/2                                                                                                                                  Pearson J. M. 1996. Alkaline rocks of the Gifford Creek Complex, Gascoyne Province, Western Australia - their petrogenetic and tectonic significance. PhD thesis (unpublished), University of Western Australia.         Pearson J. M. Taylor W. R. & Barley M. E. 1996. Geology of the alkaline Gifford Creek Complex, Gascoyne Complex, Western Australia. Australian Journal of Earth Sciences 43, 299-309.                                    Martin D. M. Thorne A. M. & Occhipinti S. A. 2002. Edmund, W.A. Sheet 2150. Western Australia Geological Survey,1:100 000 Geological Series.|
+24245|Doctors Creek Formation|Name source|Doctors Creek 2-10 km immediately north of Derby 1:250 000 Sheet area.|
+24245|Doctors Creek Formation|Type section locality|Banks of Doctors Creek|
+24245|Doctors Creek Formation|Extent|Well exposed along banks of Doctors Creek, Airport Creek and Alligator Creek; also along cliff foreshores of Mary Islands and south of Airport Creek.|
+24245|Doctors Creek Formation|Thickness range|Average thickness 9-12 m.|
+24245|Doctors Creek Formation|Lithology|4 main lithologies present typically in a fining-upward sequence.  Base composed of quartzose skeletal sand, laminated and cross-laminated up to 3 m(+) thick; upper part contains clay seams and flaser units; overlain by interlayered sand silt and clay laminates (2-3 m thick); sand and silt layers are quartzose and skeletal flaser bedding locally present; overlain by homogeneous-burrowed clay and silty clay 3-4 m thick with abundant roots and stumps of mangroves; locally shelly; overlain by laminated silt and clay alternating with vesicular clay (totalling c/m thick); abundant desiccation cracks and locally occurrence of mud chip conglomerates.  Limestone pebble mud-pebble and wood-debris conglomerates locally are developed at the unconformity and at erosional hiatuses within the formation.|
+24245|Doctors Creek Formation|Relationships and boundaries|Overlies Christine Point Clay with sharp erosional contact that is steeply inclined to irregular; contact may be marked by breccia, mud ball conglomerates and fossil wood debris.  Top of unit either is a contemporary depositional surface of the tidal flats neary Derby or is an eroded surface cut by contemporary erosional tidal processes.|
+24245|Doctors Creek Formation|Age reasons|The relationship of the unit and its facies to the contemporary tidal flat surface, the freshness of the fauna (shells), the composition of the floral community and stratigraphic relationships suggest this unit is Holocene-Recent in age.|
+24245|Doctors Creek Formation|Defn approved by|Western Australia Sub-Committee|
+24245|Doctors Creek Formation|Reserved? Yes/No|Yes|
+24254|Double Nob Formation|Name source|Double Nob Hillock; grid reference 821121, Derby 1:250 000 Sheet area.|
+24254|Double Nob Formation|Type section locality|0.3 m-1.0 m of grey, gravelly, muddy sand exposed at low tide along small cliff line between |
+24254|Double Nob Formation|Extent|The unit is exposed best at mouth of Airport Creek and in low tide zones between Airport Creek and Derby.  Elsewhere (e.g. Doctors Creek banks) the unit is patchily distributed.|
+24254|Double Nob Formation|Thickness range|0.3 m - 1.0 m.|
+24254|Double Nob Formation|Lithology|Grey muddy sand (quartzose) with scattered granules of pedogenic carbonate|
+24254|Double Nob Formation|Relationships and boundaries|Overlies the Airport Creek Formation with gradational contact.  Underlies Christine Point Clay; contact is sharp or locally gradational with transition zone (few decimeters thick) of burrow mottles, biogenic mixing and root casts.|
+24254|Double Nob Formation|Age reasons|Criteria of unconformity, soil features, and regional stratigraphic relationships place this unit in the Pleistocene.|
+24254|Double Nob Formation|Defn approved by|Western Australia Sub-Committee|
+24254|Double Nob Formation|Reserved? Yes/No|Yes|
+31270|Douri Sandstone|Name source|Douri dam, at GR CE832509, Ruby Plains 1:100 000 Sheet area, Gordon Downs 1:250 000 Sheet area, WA.|
+31270|Douri Sandstone|Unit history|previously mapped mainly as Mount Forster Sandstone (Gemuts & Smith 1968)|
+31270|Douri Sandstone|Geomorphic expression| low hills and ridges.|
+31270|Douri Sandstone|Type section locality|6 km north of Beaudesert Bore, Ruby Plains 1:100 000 Sheet area, across northern limb of east-west trending syncline. Here the Douri Sandstone, dipping about 50? south, lies conformably on Boonall Dolomite (at GR CE657145) and is inferred to be overlain conformably by concealed Timperley Shale (at GR CE657142).|
+31270|Douri Sandstone|Extent|Southern and central Ruby Plains 1:100 000 Sheet area, Gordon Downs 1:250 000m Sheet area, WA; extends south into, but not mapped in, Billiluna 1:250 000 Sheet area..|
+31270|Douri Sandstone|Thickness range|maximum about 150 m, in type section.|
+31270|Douri Sandstone|Lithology|feldspathic/lithic to quartz-rich sandstone, minor micaceous siltstone, shale, and calcareous beds. Many beds contain pellet casts and quartz pebbles and granules. Ripple marks are common, and cross-bedding and desiccation cracks occur in places|
+31270|Douri Sandstone|Depositional environment|supratidal flats?|
+31270|Douri Sandstone|Relationships and boundaries|Of  Albert Edward Group. Appears to be conformable between Boonall Dolomite (below) and Timperley Shale (above).|
+31270|Douri Sandstone|Age reasons|Neoproterozoic. Part of the Albert Edward Group, which correlates with Supersequence 3 of the Centralian basin of Walter et al. (1995).|
+31270|Douri Sandstone|Correlations|sandstone band at base of Timperley Shale to north|
+31270|Douri Sandstone|References|*BLAKE, D.H., Tyler, I.M. & Sheppard, S., 1997. Geology of the Ruby Plains 1:100 000 Sheet area (4460), Western Australia,. Australian Geological Survey 	Organisation, Canberra.    *GEMUTS, I. & Smith, J.W., 1968. Gordon Downs, Western Australia, 1:250 000 Geological Series. Bureau of Mineral Resources, Australia, Explanatory Notes SE/52-10.    *WALTER, M.J., Veevers, J.J., Calver, C.R. & Grey, K., 1995. Late Proterozoic stratigraphy of the Centralian Superbasin, Australia. Precambrian Research, 73, 173-195.|10/FEB/11
+37648|Durlacher Supersuite|Name source|Durlacher Creek (407500E 7347400N MGA 94) on the Edmund 100K sheet area|
+37648|Durlacher Supersuite|Constituents|Pimbyana Granite, Dingo Creek Granite, Yangibana Granite and several other un-named units|
+37648|Durlacher Supersuite|Geomorphic expression|Typically, low rounded hills covered in tors and boulders. Whalebacks are common in some units.|
+37648|Durlacher Supersuite|Extent|Forms plutons, plugs and dykes mainly in a southeasterly trending terrane about 50 km wide in the northern Gascoyne Complex. However, large plutons belonging to the supersuite are also present on the central part of the Maroonah 100K sheet farther north (Martin et al., 2004), and on the Mount Phillips and Daurie Creek 100K sheets farther to the south (Culver, 2001; Nelson, 2001, GSWA 169848). On the Marquis 100K sheet, large plutons of the c. 1620 Ma Discretion Granite intrude reworked granitic gneisses in the Yarlarweelor Gneiss Complex to the southeast of the Gascoyne Complex (Sheppard and Swager, 1999).|
+37648|Durlacher Supersuite|Lithology|Mainly consists of monzogranite and granodiorite, with lesser syenogranite, and minor amounts of tonalite and rare gabbro. The granodiorite, monzogranite and syenogranite are medium to coarse grained and porphyritic (mainly tabular phenocrysts ? megacrysts of K-feldspar). They contain biotite only, biotite and muscovite, or muscovite, biotite and tourmaline. Mesocratic granodiorite and tonalite phases are mostly equigranular. Gabbro intrusions contain xenocrysts of K-feldspar and quartz and contain mingling textures with the granites.|
+37648|Durlacher Supersuite|Relationships and boundaries|Granites (and gabbro) of the supersuite extensively intruded rocks of the <c. 1680 ? 13 Ma Pooranoo Metamorphics, in contrast to older granites of the Moorarie Supersuite. However, where granites of the two supersuites intrude older rocks, they cannot reliably be distinguished unless dated. Granites of the Durlacher Supersuite are unconformably overlain by sedimentary rocks of the Edmund Group (Bangemall Supergroup) on the Maroonah and Mangaroon 100K sheets.|
+37648|Durlacher Supersuite|Age reasons|Several phases of the supersuite have been dated, including the Pimbyana, Yangibana and Dingo Creek Granites. Most granites that intruded the Pooranoo Metamorphics have igneous crystallization ages between 1685 and 1660 Ma (Sheppard and Occhipinti, in prep.). However, granites with crystallization ages between c. 1650 and c. 1620 Ma are known from elsewhere in the Gascoyne Complex (Sheppard and Swager, 1999; Culver, 2001; Nelson, 2001, GSWA 169848).|
+37648|Durlacher Supersuite|References|*NELSON D. R. 1998. Compilation of SHRIMP U-Pb zircon geochronology data, 1997. Western Australia Geological Survey, Record 1998/2.    *NELSON D. R. 2001. Compilation of geochronology data, 2000. Western Australia Geological Survey, Record 2001/2.    *CULVER K. E. 2001. Structure, metamorphism and geochronology of the northern margin of the Gurun Gutta granite, Central Gascoyne Complex, Western Australia. B.Sc (Hons) thesis, Curtin University of Technology    *SHEPPARD S. & Swager C. P. 1999. Geology of the Marquis 1:100 000 sheet. Western Australia Geological Survey, 1:100 000 Geological Series Explanatory Notes, 21p.    *MARTIN D. M. Sheppard S. Thorne A. M. & Copp I. A. 2004. Maroonah, W.A. Sheet 2051. Western Australia Geological Survey, 1:100 000 Geological Series.|10/FEB/11
+30279|Eliot Range Dolomite|Name source|Eliot Range, western central Antrim 1:100 000 Sheet area, Gordon Downs 1:250 000 Sheet area, WA.|
+30279|Eliot Range Dolomite|Unit history|Previously mapped as part of the Bungle Bungle Dolomite (e.g., Gemuts & Smith, 1968), but now known, on stromatolite evidence, to be Neoproterozoic rather than Mesoproterozoic (Grey & Blake, in prep.)|
+30279|Eliot Range Dolomite|Geomorphic expression|hills, ridges and cuestas.|
+30279|Eliot Range Dolomite|Type section locality|Albert Edward Range, Halls Creek 1:100 000 Sheet area, from concordant contact with underlying Mount Kinahan Sandstone at GR CE730616 to concordant contact with overlying Illjarra Sandstone, at GR CE732614. Here the Eliot Range Dolomite is about 150 m thick and dips about 40? to the southeast.|
+30279|Eliot Range Dolomite|Extent|Ruby Plains, Halls Creek and Antrim 1:100 000 Sheet area in Gordon Downs 1:250 000 Sheet area, and Dixon 1:100 000 Sheet area in Dixon Range 1:250 000 Sheet area, WA.|
+30279|Eliot Range Dolomite|Thickness range|maximum probably less than 500 m; about 150 m in type section.|
+30279|Eliot Range Dolomite|Lithology|thickly to thinly bedded dolomitic mudstone, siltstone, and sandstone; dolomitic breccia; minor thin bands and lenses of chert; commonly stromatolitic - Linella avis identified by K. Grey (Grey & Blake, in prep.); ripple marks and cross-bedding evident in places.|
+30279|Eliot Range Dolomite|Depositional environment|shallow marine (Grey & Blake, in prep.).|
+30279|Eliot Range Dolomite|Relationships and boundaries|Of Ruby Plains Group. Overlies Mount Kinahan Sandstone conformably or disconformably; overlain conformably or disconformably by Illjarra Sandstone and unconformably by Moonlight Valley Tillite of Duerdin Group.|
+30279|Eliot Range Dolomite|Age reasons|Neoproterozoic - Tonian or Cryogenian. The Ruby Plains Group correlates with Supersequence 1 of the Centralian basin of Walter et al. (1995)|
+30279|Eliot Range Dolomite|Correlations|Bitter Springs Formation of Amadeus Basin, etc|
+30279|Eliot Range Dolomite|References|Blake, D.H., Tyler, I.M. & Sheppard, S., 1997. Geology of the Ruby Plains 1:100 000 Sheet area (4460), Western Australia,. Australian Geological Survey 	Organisation, Canberra.
+Blake, D.H., Tyler, I.M., Griffin, T.J., Sheppard, S., Thorne, A.M. & Warren, R.G., 1998. Geology of the Halls Creek 1:100 000 Sheet area (4461), Western Australia. Australian Geological Survey Organisation, Canberra.
+Gemuts, I. & Smith, J.W., 1968. Gordon Downs, Western Australia ? 1:250 000 Geological Series. Bureau of Mineral Resources, Australia, Explanatory Notes SE/52-10.
+Grey, K. & Blake, D.H., in press.
+Walter, M.J., Veevers, J.J., Calver, C.R. & Grey, K., 1995. Late Proterozoic stratigraphy of the Centralian Superbasin, Australia. Precambrian Research, 73, 173?195.|
+6229|Erica Sandstone|Name source|Erica Range, Stansmore 1:250 000 Sheet area 21o05S, 129o30'E.|
+6229|Erica Sandstone|Unit history|Mapped as partly Gardiner Beds and partly Phillipson Beds by Casey and Wells (1964; Wells, 1962).  Is youngest unit of the Redcliff Pound Group, which unconformably overlies Gardiner Sandstone north of the Lucas 1:250 000 Sheet.|
+6229|Erica Sandstone|Type section locality|North-facing scarp slope in the Erica Range, from 21o05'50"S 128o30'00"E to 21o07'00"S 128o29'00"E, where a sequence about 400 m thick of sublithic arenite is exposed.|
+6229|Erica Sandstone|Extent|Eastern part of Stansmore and southeast part of Lucas 1:250 000 Sheet areas, WA.|
+6229|Erica Sandstone|Thickness range|Maximum thickness exposed is about 700 m, in the southeast part of Stansmore 1:250 000 Sheet area.|
+6229|Erica Sandstone|Lithology|Sandstone.  Mainly medium-bedded, current bedded, well-sorted medium to fine grained, sublithic arenite with a clay matrix; minor quartz arenite.  Also flaggy micaceous sandstone and siltstone and rare conglomeratic sandstone.|
+6229|Erica Sandstone|Relationships and boundaries|Conformable on Murraba Formation.  Overlain, possibly unconformably, by Hidden Basin Beds, but contact concealed.|
+6229|Erica Sandstone|Age reasons|Probably Adelaidean|
+6229|Erica Sandstone|Defn author|Blake D.H., Hodgson I.M., 1975|
+6229|Erica Sandstone|Defn approved by|Western Australia. Taken from xerox copy of approved def. sent by Sub-Committee|
+6229|Erica Sandstone|Defn Reference|79/00465|
+6229|Erica Sandstone|First Reference|79/00474 Stansmore|
+6229|Erica Sandstone|Name first published by|Blake D.H., Yeates A.N., Walton D.C., 1976|
+6229|Erica Sandstone|Reserved? Yes/No|Y|
+6483|Fairfield Group|Name source|Fairfield' property, 125o04'E, 17o33'30"S, Lennard River 1:250 000 Sheet area.|
+6483|Fairfield Group|Constituents|Comprises the Gumhole Formation, Yellow Drum Sandstone, and Laurel Formation (Druce & Radke, in prep).|
+6483|Fairfield Group|Extent|Along the northerly margin of the Canning Basin for about 300 km.|
+6483|Fairfield Group|Thickness range|Range 370 m - 900+ m|
+6483|Fairfield Group|Lithology|Comprises limestone, sandstone, shale, siltstone and dolomite.|
+6483|Fairfield Group|Relationships and boundaries|The group conformably overlies sediments of the Upper Devonian Reef Complex (unnamed Famennian Birdseye limestone) and the Luluigui Formation.  It is overlain conformably by the Anderson Formation and unconformably by the Grant Formation.|
+6483|Fairfield Group|Age reasons|The Group straddles the Devonian-Carboniferous boundary.  It has yielded abundant brachiopods, conodonts, corals, nautiloids ostracods and microflora which indicate an age range from latest Late Devonian (?do V-do V) to Early Carboniferous (Tournaisian). |
+6483|Fairfield Group|Defn Reference|B200   ?[79/20374] |
+6483|Fairfield Group|Reserved? Yes/No|N|
+6483|Fairfield Group|Status|1|
+25916|Friendly Creek Formation|Name source|Friendly Creek, tributary of Yule River.  Approximate coordinates 21o15'S, 118o22'E, Pyramid 1:250 000 Sheet area.|
+25916|Friendly Creek Formation|Unit history|Mafic part of formation equated with Talga-Talga Subgroup of Marble Bar and Nullagine 1:250 000 Sheets, felsic portion equated with Duffer Formation of same sheets (Hickman & Lipple, in press).|
+25916|Friendly Creek Formation|Type section locality|1020 metres of mafic and felsic volcanics and banded chert.  Lower 600 m sheared chloritic meta-basalts and gabbro, then 20 m banded chert followed by 600 m of felsic tuffs.  Metamorphosed to greenschist and locally amphibolite facies.|
+25916|Friendly Creek Formation|Extent|The formation is exposed over a strike length of 40-50 km in the NE of the Pyramid 1:250 000 Sheet area in the vicinity of the Yule River.|
+25916|Friendly Creek Formation|Thickness range|Range 300-1020 metres|
+25916|Friendly Creek Formation|Relationships and boundaries|Lowest formation of Teichmans Group. Base of formation intruded by granite.  Overlain by Hong Kong Chert.|
+25916|Friendly Creek Formation|Age reasons|Lower Archaean >3000 m.y.|
+25916|Friendly Creek Formation|Comments|Equivalent rocks in East Pilbara (Marble Bar-Nullagine area) attain much greater thicknesses than in type area in West Pilbara.|
+25916|Friendly Creek Formation|Reserved? Yes/No|Y|
+27160|Gorge Creek Group|Name source|Gorge Creek (Military Grid Reference 2315 3925) which crosses the Great Northern Highway, about 1 km west of Farrell Well, Port Hedland 1:250 000 Sheet area.|
+27160|Gorge Creek Group|Unit history|The term Gorge Creek Group, supersedes "Gorge Creek Formation" of Low (1965, p.8), Kriewaldt and Ryan (1967, Table 2), Noldart and Wyatt (1962, p.105-106), and Ryan 1964 and 1965).|
+27160|Gorge Creek Group|Constituents|The Gorge Creek Group consists of the Lalla Rookh Sandstone (youngest) Budjan Creek Formation, Honeyeater Formation and the Soanesville Subgroup.|
+27160|Gorge Creek Group|Extent|Pilbara region generally|
+27160|Gorge Creek Group|Thickness range|Maximum 5-8 km|
+27160|Gorge Creek Group|Lithology|It consists mainly of sandstone, grit, conglomerate, argillaceous sedimentary rocks, banded iron formations and minor basalt|
+27160|Gorge Creek Group|Relationships and boundaries|Conformably (locally unconformable) overlies the Warrawoona Group.  Unconformably overlain by the Fortescue Group. Intruded by Archaean granitic rocks (Low, pers. comm.).|
+27160|Gorge Creek Group|Age reasons|Archaean because of tectonic style and intruded by Archaean granitic rocks.  Unconformably overlain by Lower Proterozoic Fortescue Group succession.|
+27160|Gorge Creek Group|Proposed publication|West. Australia Geol. Survey 1:250 000 Geol. Series Explan. Notes|
+25034|Gumhole Formation|Name source|Gumhole Bore; 125o28'E, 18o07'S, Noonkanbah 1:250 000 Sheet area.|
+25034|Gumhole Formation|Unit history|Equals the Fairfield Beds of Thomas (1957) and is included in Fairfield Formation of Playford & Lowry (1966).|
+25034|Gumhole Formation|Type section locality|(WCB 001 plus WCB 202) 70 metres of limestone, siltstone, and shale exposed along the Great Northern Highway 19 km west-northwest of Fitzroy Crossing.|
+25034|Gumhole Formation|Extent|The unit crops out in a linear pattern for a distance of 280 km on the northerly margin of the Canning Basin from Red Bluffs in the southeast to the Napier Range in the northwest.|
+25034|Gumhole Formation|Thickness range|About 70 metres.|
+25034|Gumhole Formation|Lithology|Limestone, siltstone and shale with minor dolomite and sandstone.  The limestone is commonly light brown, pink to red and light green grey bioclastic, intraclastic and oolitic sandy grainstones.|
+25034|Gumhole Formation|Relationships and boundaries|Overlies "birdseye" limestone of Famennian age, the Luluigui Formation and possible equivalents of the Napier Formation. Base of unit marked by first occurrence of bioclastic limestones.  Conformably overlain by and interfingers with Yellow Drum Sandstone.|
+25034|Gumhole Formation|Age reasons|Faunas are dominated by brachiopods together with pelecypods, corals, bryozoans, nautiloids, fish, conodonts, ostracods, algae and a microflora.  The flora and fauna indicates latest Late Devonian (do V. VI Zones of the German standard).|
+25034|Gumhole Formation|Proposed publication|Bureau of Mineral Resources|
+25034|Gumhole Formation|Defn Reference|B200 - 1979|
+25034|Gumhole Formation|Name first published by|Radke B.M., 1976|
+8463|Hong Kong Chert|Name source|Hong Kong Gold Mine (abandoned); grid reference 21o10'S, 118o20'E, Pyramid 1:250 000 Sheet area.|
+8463|Hong Kong Chert|Unit history|Equated with Marble Bar Chert on Marble Bar 1:250 000 sheet (Hickman & Lipple, in press).|
+8463|Hong Kong Chert|Type section locality|150 metres of bluish-black, brown and white banded chert.|
+8463|Hong Kong Chert|Extent|The unit outcrops as two parallel ridges in the region between Teichmans Gold Mine and Annie Gap and is repeated by folding to the north of Pilbara Mining Centre.|
+8463|Hong Kong Chert|Thickness range|Range 50-150 m|
+8463|Hong Kong Chert|Relationships and boundaries|Overlies Friendly Creek Formation and conformably overlain by Empress Formation.  Second oldest formation of Teichmans Group.|
+8463|Hong Kong Chert|Age reasons|Lower Archaean >3000 m.y.|
+8463|Hong Kong Chert|Defn author|Fitton M.J., Horwitz R.C., Sylvester G., 1975|
+8463|Hong Kong Chert|Proposed publication|CSIRO, Minerals Research Laboratories, Report No. FP 11.|
+8463|Hong Kong Chert|Category|2, 1|
+27801|Horseshoe Formation|Name source|Horseshoe Range, Peak Hill 1:250 000 Sheet.|14/SEP/12
+27801|Horseshoe Formation|Unit history|Formerly Horseshoe Beds (MacLeod 1970)|14/SEP/12
+27801|Horseshoe Formation|Type section locality|Three km section extending west from Horseshoe Gold Mine across the Horseshoe Range|14/SEP/12
+27801|Horseshoe Formation|Extent|Horseshoe Range |14/SEP/12
+27801|Horseshoe Formation|Thickness range|1000 m|14/SEP/12
+27801|Horseshoe Formation|Lithology|Quartz-mica-feldspar, carbonate-cemented greywacke and shale, and iron formation|14/SEP/12
+27801|Horseshoe Formation|Relationships and boundaries|Conformable above, and gradational with Thaduna Greywacke.|14/SEP/12
+27801|Horseshoe Formation|Age reasons|Proterozoic, probably 2.0-1.8 b.y.|14/SEP/12
+27801|Horseshoe Formation|Proposed publication|Western Australia Geological Survey Annual Report for 1978 (Pub. 1979)|14/SEP/12
+27801|Horseshoe Formation|Defn approved by|Western Australia Stratigraphic Nomenclature Subcommission|14/SEP/12
+27801|Horseshoe Formation|Name first published by|Gee R.D., 1979|14/SEP/12
+27801|Horseshoe Formation|Status|1|
+30206|Illjarra Sandstone|Name source|Illjarra Bore, at GR CE512362, Ruby Plains 1:100 000 Sheet area, Gordon Downs 1:250 000 Sheet area, WA.|
+30206|Illjarra Sandstone|Unit history|previously mapped as part of the Mount Parker Sandstone (e.g., Gemuts & Smith, 1968) and Wade Creek Sandstone (Blake et al. 1979), but now known to be Neoproterozoic rather than Mesoproterozoic.|
+30206|Illjarra Sandstone|Geomorphic expression|strike ridges, cuestas and intervening valleys and depressions.|
+30206|Illjarra Sandstone|Type section locality|Ruby Plains 1:100 000 Sheet area - from base at GR CE693456, where the Illjarra Sandstone concordantly overlies Eliot Range Dolomite, to top at GR CE677440, where the Illjarra Sandstone is overlain disconformably by Moonlight Valley Tillite. Lithic sandstone of the Illjarra Sandstone here, about 360 m thick, dips at around 10? southwest, forming a series of cuestas.|
+30206|Illjarra Sandstone|Extent|Ruby Plains and Halls Creek 1:100 000 Sheet areas, Gordon Downs 1:250 000 Sheet area, WA.|
+30206|Illjarra Sandstone|Thickness range|more than 1000 m in south; thinner to north.|
+30206|Illjarra Sandstone|Lithology|ridge-forming lithic (and feldspathic?) sandstone; minor quartz sandstone (locally at base), dolomitic beds (locally near base), and recessive bands of shale, mudstone, siltstone and sandstone in south. Lithic sandstone has abundant to sparse clayey matrix and is well bedded, but rarely cross-bedded.|
+30206|Illjarra Sandstone|Depositional environment|marine shelf?|
+30206|Illjarra Sandstone|Relationships and boundaries|Of Ruby Plains Group. Unconformable on Olympio Formation in south; concordant (conformable?) on Eliot Range Dolomite to north. Overlain disconformably by Duerdin Group (Redbank Yard Formation in south, Moonlight Valley Tillite to north).|
+30206|Illjarra Sandstone|Age reasons|Neoproterozoic - Tonian or Cryogenian. The Ruby Plains Group correlates with Supersequence 1 of the Centralian Superbasin of Walter et al. (1995).|
+30206|Illjarra Sandstone|Correlations|basal quartz sandstone and overlying dolomitic beds locally present in south may be correlatives of Mount Kinahan Sandstone and Eliot Range Dolomite, respectively, exposed to north.|
+30206|Illjarra Sandstone|References|Blake, D.H., Hodgson, I.M. & Muhling, P.C., 1979. Geology of The Granites?Tanami region, Northern Territory and Western Australia. Bureau of Mineral 	Resources, Australia, Bulletin 197.
+Blake, D.H., Tyler, I.M. & Sheppard, S., 1997. Geology of the Ruby Plains 1:100 000 Sheet area (4460), Western Australia,. Australian Geological Survey 	Organisation, Canberra.
+Blake, D.H., Tyler, I.M., Griffin, T.J., Sheppard, S., Thorne, A.M. & Warren, R.G., 1998. Geology of the Halls Creek 1:100 000 	Sheet area (4461), Western 	Australia. Australian Geological Survey Organisation, Canberra.
+Gemuts, I. & Smith, J.W., 1968. Gordon Downs, Western Australia ? 1:250 000 Geological Series. Bureau of Mineral Resources, Australia, Explanatory Notes SE/52-10.
+Walter, M.J., Veevers, J.J., Calver, C.R. & Grey, K., 1995. Late Proterozoic stratigraphy of the Centralian Superbasin, Australia. Precambrian Research, 73, 173?195.|
+24332|Karalundi Formation|Name source|Karalundi Road House, Glengarry 1:250 000 Sheet.|14/SEP/12
+24332|Karalundi Formation|Type section locality|Along E-W fence, 11 km NW of Karalundi.|14/SEP/12
+24332|Karalundi Formation|Extent|Karalundi-Ruby Well-Doolgunna area.|14/SEP/12
+24332|Karalundi Formation|Thickness range|About 1000 m|14/SEP/12
+24332|Karalundi Formation|Lithology|Ferruginous cemented snadstone, shale, chert, basaltic tuff and dolomite.|14/SEP/12
+24332|Karalundi Formation|Relationships and boundaries|Conformable between Doolgunna Arkose and Narracoota Volcanics|14/SEP/12
+24332|Karalundi Formation|Age reasons|Proterozoic - probably 2.0 - 1.8. b.y.|14/SEP/12
+24332|Karalundi Formation|Proposed publication|Western Australia Geological Survey Annual Report for 1978 (Pub. 1979)|14/SEP/12
+24332|Karalundi Formation|Defn Reference|80/20704|14/SEP/12
+9793|Koongie Park Formation|Name source|Koongie Park Homestead, at GR CE451713, Halls Creek 1:100 000 Sheet area, Gordon Downs 1:250 000 Sheet area, WA.|
+9793|Koongie Park Formation|Unit history|Previously mapped as part of the Biscay and Olympio Formations of the Halls Creek Group (e.g., Gemuts & Smith, 1968), but is younger than this group. Hosts several volcanogenic massive sulphide deposits which are currently subeconomic.|
+9793|Koongie Park Formation|Geomorphic expression|low hills and ridges.|
+9793|Koongie Park Formation|Type section locality|across southern limb of an anticline, from GR CE468749 to GR CE469746, Halls Creek 1:100 000 Sheet area. Aphyric rhyolite at base is overlain by about 200 m of mudstone with minor laminated chert, about 50 m of Onedin Member (ironstone, shale, chert), and, at top, sandstone, shale and aphyric rhyolite (Orth 1997).|
+9793|Koongie Park Formation|Extent|Angelo and Dockrell 1:100 000 Sheet areas of Mount Ramsay 1:250 000 Sheet area, Halls Creek 1:100 000 Sheet area of Gordon Downs 1:250 000 Sheet area, McIntosh 1:100 000 Sheet area of Dixon Range 1:250 000 Sheet area, WA.|
+9793|Koongie Park Formation|Thickness range|probably at least 1000 m.|
+9793|Koongie Park Formation|Lithology|rhyolitic and dacitic lavas, pyroclastics and subvolcanic intrusions; basaltic lavas and volcaniclastics; shale, mudstone, turbiditic quartz greywacke, pebbly sandstone, arkose, conglomerate, chert, ironstone and carbonate rocks. Regionally metamorphosed to mainly greenschist facies and contact metamorphosed to higher grades.|
+9793|Koongie Park Formation|Depositional environment|marine?|
+9793|Koongie Park Formation|Relationships and boundaries|base not exposed; overlain concordantly by Moola Bulla Formation in southwest; intruded and contact metamorphosed by plutons of Sally Downs Supersuite of Bow River Batholith (e.g., Loadstone Monzogranite, Shepherds Bore Plutonic Complex, unnamed granite and gabbro bodies) and by Armanda layered mafic intrusion; overlain unconformably by King Leopold Sandstone of Kimberley Group.|
+9793|Koongie Park Formation|Age reasons|Palaeoproterozoic - Orosirian. Isotopically dated (U-Pb zircon) at 1843 +/- Ma (Page et al. 1994).|
+9793|Koongie Park Formation|Correlations|probably part of Tickalara Metamorphics in central zone of Halls Creek Orogen to north.|
+9793|Koongie Park Formation|Comments|Synonomy: Koongie Park Member of Tickalara Metamorphics (Griffin & Tyler 1992).|
+9793|Koongie Park Formation|References|Blake, D.H., Tyler, I.M., Griffin, T.J., Sheppard, S., Thorne, A.M. & Warren, R.G., 1998. Geology of the Halls Creek 1:100 000 Sheet area (4461), Western Australia. Australian Geological Survey Organisation, Canberra.
+Gemuts, I. & Smith, J.W., 1968. Gordon Downs, Western Australia ? 1:250 000 Geological Series. Bureau of Mineral Resources, Australia, Explanatory Notes SE/52-10
+Griffin, T.J. & Tyler, I.M., 1992. Geology of the southern Halls Creek Orogen?a summary of field work in 1992. Geological Survey of Western Australia, Record 1992/17. 
+Griffin, T.J. & Tyler, I.M., 1994. Angelo, Western Australia, 1:100 000 geological map (sheet 4361). Geological Survey of Western Australia, Perth.
+Orth, K.,1997. Notes on the geology of the Koongie Park Formation southwest of Halls Creek, Western Australia. Australian Geological Survey Organisation, Record 1997/25.
+Page, R.W., Blake, D.H., Sun, S-S., Tyler, I.M., Griffin, T.J. & Thorne, A.M., 1994. New geological and geochronological constraints on volcanogenic massive 	sulphide prospectivity near Halls Creek (WA).  AGSO Research Newsletter, 	20, 5?7.
+Tyler, I.M. & Griffin, T.J., 1994. Dockrell, Western Australia, 1:100 000 geological map sheet (4360). Geological Survey of Western Australia, Perth.|
+25983|Labouchere Formation|Name source|Mt Labouchere, Robinson Range 1:250 000 Sheet.|
+25983|Labouchere Formation|Unit history|Variation of definition of Barnett (1975) to remove Labouchere Formation from Padbury Group, and to remove coarse conglomerate (now Wilthorpe Conglomerate) from top of Labouchere Formation.|
+25983|Labouchere Formation|Type section locality|Mt Labouchere, Robinson Range 1:250 000 Sheet.|
+25983|Labouchere Formation|Extent|From Horseshoe Range (Peak Hill 1:250 000) to Mt Labouchere|
+25983|Labouchere Formation|Thickness range|Approx. 7 km|
+25983|Labouchere Formation|Lithology|Sandstone, shale|
+25983|Labouchere Formation|Relationships and boundaries|Conformable above Horeshoe Formation, base defined by prominent orthoquartzite bed about 100 metres thick.|
+25983|Labouchere Formation|Proposed publication|Western Australia Geological Survey Annual Report for 1978 (Pub. 1979)|
+28108|Lalla Rookh Sandstone|Name source|Lalla Rookh mining centre (Military Grid Reference 204 368), Marble Bar 1:250 000 Sheet area|
+28108|Lalla Rookh Sandstone|Type section locality|In the Lalla Rookh Syncline, southeastwards from near the Lalla Rookh mining centre.|
+28108|Lalla Rookh Sandstone|Extent|The Lalla Rookh Sandstone occurs in the centre of the Lalla Rookh Syncline, the Pilgangoora Syncline and at Shaw Gorge.|
+28108|Lalla Rookh Sandstone|Thickness range|Maximum 2-3 km|
+28108|Lalla Rookh Sandstone|Lithology|Sandstone and conglomerate, usually well bedded and locally showing cross-stratification and ripple marks.|
+28108|Lalla Rookh Sandstone|Relationships and boundaries|The Lalla Rookh Snadstone forms the upper part of the Gorge Creek Group. It conformably overlies the Honeyeater Formation and is unconformably overlain by Lower Proterozoic Fortescue Group rocks. Relationships with adjacent rocks of the Warrawoona Group are often obscured by regional slides, however, some local unconformities have been recognised. Equivalent to the Budjan Creek Formation.|
+28108|Lalla Rookh Sandstone|Age reasons|Archaean|
+28108|Lalla Rookh Sandstone|Proposed publication|West. Australia Geol. Survey 1:250 000 Geol. Series Explan. Note|
+73328|Larranganni Formation|Name source|Named after Larranganni Bluff in Western Australia.|
+73328|Larranganni Formation|Unit history|Larranganni Beds|
+73328|Larranganni Formation|Geomorphic expression|Commonly forms silicified and ferruginized caps on Proterozoic rocks.|
+73328|Larranganni Formation|Type section locality|Type locality- around 4.5km ESE of Larranganni Bluff (128o59'45"E, 19o34'S). Reference locality - around 7km ENE of Supplejack Downs homestead.|17/JUN/10
+73328|Larranganni Formation|Description at type locality|South of the Late Palaeoproterozoic Gardiner Sandstone, the Larranganni Formation forms a cap on an outcrop of the Late Palaeoproterozoic Pargee Sandstone.|
+73328|Larranganni Formation|Extent|On the BILLILUNA, BIRRINDUDU and TANAMI 1:250 000 sheet areas.|
+73328|Larranganni Formation|Thickness range|Around 8m thick.|
+73328|Larranganni Formation|Lithology|Sandstone: poorly sorted, medium-bedded, medium- to coarse-grained, locally ripple-marked, locally minor cross-bedded, conglomeratic; commonly dsilicified resembling silcrete. Minor siltstone. Minor conglomerate: with matrix-supported, rounded to angular pebbles and cobbles of locally derived rocks.|
+73328|Larranganni Formation|Depositional environment|Fluvial.|
+73328|Larranganni Formation|Relationships and boundaries|Unconformable on the Pargee Sandstone and silicified and ferruginized during the Cainozoic (Blake et al, 1975).|
+73328|Larranganni Formation|Age reasons|Mesozoic (Cretaceous) age indirectly inferred by Blake et al (1975) from: they are flat-lying and unconformably overlie Late Palaeoproterozoic rocks, and contain pebbles derived from the Cambrian Antrim Plateau Basalt; the formation is less indurated than lithologically similar Palaeozoic units in the region, and are commonly capped by Cainozoic ferricrete, silicified and ferruginized during the Cainozoic (Blake et al 1975).|
+73328|Larranganni Formation|References|Blake, D.H., Hodgson, I.M., Smith, P.A. 1975.  Geology of the Birrindudu and Tanami 1:250,000 sheet areas, Northern Territory. Bureau of Mineral Resources Report 174.|
+25727|Laurel Formation|Name source|Laurel Downs' research station; Noonkanbah 1:250 000 Sheet area.|
+25727|Laurel Formation|Unit history|Included by Playford & Lowry (1966) in their Fairfield Formation|
+25727|Laurel Formation|Type section locality|Defined by Thomas (1959) who nominated two complementary type sections in the area of Twelve Mile Bore (125o16'E, 17o55'S); thickness about 334 m.|
+25727|Laurel Formation|Extent|The unit is exposed as a 2-10 km belt along the southerly side of the Oscar and Napier Ranges for about 150 km.|
+25727|Laurel Formation|Thickness range|Range 357-800 m|
+25727|Laurel Formation|Lithology|Interbedded limestone, shale, siltstone and sandstone. The limestone is mainly white to yellow brown skeletal grainstones; the shales are grey and calcareous.|
+25727|Laurel Formation|Relationships and boundaries|Overlies the Yellow Drum Sandstone and is conformably overlain by the Anderson Formation in the subsurface and unconformably overlain by Grant Formation near the northerly basin margin.|
+25727|Laurel Formation|Age reasons|Contains a rich and varied biota including algae, brachiopods, bryozoans, conodonts, corals, fish, pelecypods, nautiloids, ammonoids, ostracods and a microflora.  The age is Early Carboniferous (Tournaisian).|
+25727|Laurel Formation|First Reference|98/29007|
+25727|Laurel Formation|Name first published by|BMR 1960 Rep. 41 & 41a|
+10365|Lewis Range Sandstone|Name source|Lewis Range, northeast part of Lucas 1:250 000 Sheet area, WA|
+10365|Lewis Range Sandstone|Unit history|Previously mapped as part of the Phillipson Beds (Casey & Wells, 1964)|
+10365|Lewis Range Sandstone|Type section locality|1.5 km southwest of Point Nelligan, Lewis Range, at 20o13'00"S, 128o38'00"E, where a sequence about 20 m thick is exposed up the side of a cuesta. At the base about 3 m of poorly sorted pebbly quartz arenite with grit and conglomerate lenses lies unconformably on Lewis Granite. It is overlain by about 17 m of flaggy, medium-grained, mostly well sorted quartz arenite showing low angle cross bedding.|
+10365|Lewis Range Sandstone|Extent|Northeast part of Lucas and central part of Billiluna 1:250 000 Sheet area, WA|
+10365|Lewis Range Sandstone|Thickness range|Maximum exposed is about 400 m|
+10365|Lewis Range Sandstone|Lithology|Predominantly sandstone-medium bedded, medium to fine-grained quartz arenite, minor sublithic arenite. Conglomerate commonly present at base. Cross-bedding very common, pellety bedding planes uncommon (cf. Murial Range Sandstone).|
+10365|Lewis Range Sandstone|Relationships and boundaries|Unconformably on probably Lower Proterozoic Lewis Granite and unnamed granite, on Archaean or Lower Proterozoic Killi Killi Beds of the Tanami complex, and Gardiner Sandstone of the Carpentarian Birrindudu Group. Inferred to be overlain conformably by Murraba Formation, but the contact between these two units is concealed beneath Quaternary sand.|
+10365|Lewis Range Sandstone|Age reasons|Probably Adelaidean|
+10365|Lewis Range Sandstone|Defn approved by|Taken from xerox copy of approved def. sent by Western Australian Sub-Committee|
+22208|Loadstone Monzogranite|Name source|Loadstone Hill, at GR CE231554, Angelo 1:100 000 Sheet areas, Mount Ramsay 1:250 000 Sheet area.|
+22208|Loadstone Monzogranite|Unit history|previously mapped as Bow River Granite (e.g., Gemuts & Smith 1968).|
+22208|Loadstone Monzogranite|Geomorphic expression|flat-topped low hills with scattered piles of granite boulders; some laterite cappings.|
+22208|Loadstone Monzogranite|Type section locality|GSWA|
+22208|Loadstone Monzogranite|Extent|Angelo and Dockrell 1:100 000 Sheet areas, Mount Ramsay 1:250 000 Sheet area, and Halls Creek 1:100 000 Sheet area, Gordon Downs 1:250 000 Sheet area, WA.|
+22208|Loadstone Monzogranite|Lithology|homogeneous medium to coarse-grained monzogranite consisting of slightly strained quartz, perthitic microcline, subhedral oligoclase/andesine, subordinate biotite, and minor apatite, allanite, chlorite, epidote, muscovite and zircon; feldspars commonly slightly megacrystic; also syenogranite.|
+22208|Loadstone Monzogranite|Relationships and boundaries|Part of Sally Downs supersuite of Bow River Batholith (Sheppard et al. 1997). Intrudes Koongie Park Formation.|
+22208|Loadstone Monzogranite|Age reasons|Isotopically dated (U-Pb zircon) by R.W. Page at 1827 ? Ma (AGSO?s OZCHRON database).|
+22208|Loadstone Monzogranite|Correlations|some other intrusions of Sally Downs Supersuite (e.g., McHale Granodiorite).|
+22208|Loadstone Monzogranite|Comments|postdates main deformation of Koongie Park Formation|
+22208|Loadstone Monzogranite|References|Blake, D.H., Tyler, I.M., Griffin, T.J., Sheppard, S., Thorne, A.M. & Warren, R.G., 1998. Geology of the Halls Creek 1:100 000 Sheet area (4461), Western Australia. Australian Geological Survey Organisation, Canberra.
+Gemuts, I. & Smith, J.W., 1968. Gordon Downs, Western Australia ? 1:250 000 Geological Series. Bureau of Mineral Resources, Australia, Explanatory Notes SE/52-10.
+Sheppard, S., Tyler, I.M. & Hoatson, D.M., 1997. Geology of the Mount Remarkable 	1:100 000 sheet. Geological Survey of Western Australia, 1:100 000 	Geological Series Explanatory Notes.
+Griffin, T.J. & Tyler, I.M., 1994. Angelo, Western Australia, 1:100 000 geological map (sheet 4361). Geological Survey of Western Australia, Perth.
+Tyler, I.M. & Griffin, T.J., 1994. Dockrell, Western Australia, 1:100 000 geological map sheet (4360). Geological Survey of Western Australia, Perth.|
+29271|Mallina Formation|Name source|Mallina Homestead, grid reference 20o52'S 118o02'E on the Roebourne 1:250 000 Sheet.|
+29271|Mallina Formation|Type section locality|South-west of Mallina Homestead, between Egina and Kangan.|
+29271|Mallina Formation|Extent|Widely distributed between Whim Creek on the Roebourne 1:250 000 Sheet and Kangan on the Pyramid 1:250 000 Sheet.|
+29271|Mallina Formation|Thickness range|Up to 2.5 km|
+29271|Mallina Formation|Lithology|A sequence of argillites and greyhwackes which, in the Mons Cupri area, have intercalted tuffaceous units, some felsic flows and cherts.|
+29271|Mallina Formation|Relationships and boundaries|The unit is conformably underlain by Constantine sandstone or Mons Cupri volcanics.|
+29271|Mallina Formation|Age reasons|Upper Archaean|
+29271|Mallina Formation|Proposed publication|CSIRO, Minerals Research Laboratories, Report No. FP 11|
+29271|Mallina Formation|Name first published by|Fitton, M.J., Horwitz R.C., Sylvester G., 1975|
+37720|Marillana Formation|Name source|Local Aboriginal name for the creek and nearby homestead|
+37720|Marillana Formation|Unit history|Marillana Pisolite, Robe Pisolite|
+37720|Marillana Formation|Constituents|Munjina (base), Barimunya and Eastern (top) Members|
+37720|Marillana Formation|Geomorphic expression|The Formation crops out as low, sinuous mesas, usually alongside the present day creek line. Typically a diagnostic dark brown-purple in colour in natural outcrop.|
+37720|Marillana Formation|Type section locality|The type locality is in BHP Billiton's (BHPB) Eastern 2 (mined-out) final pit wall (AMG 7 17000E/74 83000N), where the Eastern and Barimunya Members are exposed. This will remain intact. A reference core for the Barimunya Member is Western Calibration Hole (AMG 7 06350E/74 85200N) between 0 - 79.1m - it is stored at the BHPB Yandi coreshed. A suitable section of the Munjina Member is in drillhole WD41 (AMG 7 05800E/ 74 84400N) between 74.2 - 100.9m (stored at the same coreshed). Note that other cored intersections of the Munjina Member are available from numerous holes throughout the BHPB lease.|
+37720|Marillana Formation|Extent|Primarily in the Marillana Creek valley, but also in adjoining catchments (Yandicoogina and Weeli Wolli creeks) within the eastern Hamersley Ranges, Pilbara, WA.|
+37720|Marillana Formation|Thickness range|some 90  - 120m in the centre of the 500-650m wide palaeochannel.|
+37720|Marillana Formation|Lithology|Munjina Member - conglomerates and clays. Barimunya Member - channel iron deposit (CID) ore. Eastern Member - clay and CID|
+37720|Marillana Formation|Depositional environment|Fluvial deposits within a palaeovalley environment.|
+37720|Marillana Formation|Relationships and boundaries|Unconformably overlies the Proterozoic Hamersley Group and is disconformably overlain by the Oakover Formation and various alluvium/colluvium materials.|
+37720|Marillana Formation|Age reasons|Data from fossil pollen and spores in the basal Munjina Member indicate a preferred early Oligocene age (McPhail and Stone, in prep)|
+37720|Marillana Formation|Correlations|Similar in age and general nature to the Robe Formation of the lowland/plain Robe River valley at the western end of the Hamersley Ranges, Pilbara, WA. Also correlated to the Poondano Formation of the Pilbara craton.|
+37720|Marillana Formation|Proposed publication|Australian Journal of Earth Sciences|
+37720|Marillana Formation|References|Hall G. C. and Kneeshaw M., 1990. Yandicoogina-Marillana Pisolitic Iron Deposits in Mongraph 14, Geology of the Mineral Deposits of Australia and Papua New Guinea, pp 1581 - 1586 (AusIMM, Melbourne).
+
+Harms, J.E. and Morgan, B.D., 1964. Pisolitic limonite deposits in Northwest Australia : Australasian Institute of Mining and Metallurgy, Proceedings no 212, pp 91-124.
+
+00/30544 - Hocking, R.M. and Preston, W.A., 1998, Western Australia: Phanerozoic geology and mineral resources. AGSO Journal of Australian Geology and Geophysics, v17 (3), 245-260.
+
+Kneeshaw, M., Kepert, D.A., Tehnas, I.J. and Pudovskis, M.A., 2002. From Mt Goldsworthy to Mining Area C - reflections on forty years of iron ore exploration in the Pilbara. Iron Ore 2002, AusIMM Conference, Perth, September 2002.
+
+MacLeod, W.N., 1966. The geology and iron deposits of the Hamersley Range area, Western Australia, Geol. Surv.West.  Aust. Bull 117.
+
+McPhail, M.K. and Stone, M.S., 2002  in prep. Age and palaeoenvironmental constraints on the formation of the Marillana Formation channel iron deposits, Pilbara region, North-West Australia. 
+
+Morris, R.C., Ramanaidou, E.R. and Horwitz, R.C., 1993. Channel Iron Deposits of the Hamersley Province. AMIRA-CSIRO Iron Ores of the Hamersley Province Project P75G, report 399R. CSIRO Division of Exploration and Mining, Perth 1993.
+
+Stone, M.S., George, A.D., Kneeshaw, M. and Barley, M.E., 2002. New insights into the Tertiary Yandi Channel Iron Deposits, Hamersley Province, Western Australia. Iron Ore 2002, AusIMM Conference, Perth, September 2002.|
+31884|Maude Headley Member|Name source|Maude Headley gold prospect, at GR CF895136, McIntosh 1:100 000 Sheet area, Dixon Range 1:250 000 Sheet area.|
+31884|Maude Headley Member|Unit history|Maude Headley Volcanic Member (e.g., Warren 1997).|
+31884|Maude Headley Member|Geomorphic expression|strike ridges and valleys.|
+31884|Maude Headley Member|Type section locality|Gorge along Panton River, from GR CF945201, Dixon 1:100 000 Sheet area, where member is overlain to east by Olympio Formation turbidites, to GR CF930200, McIntosh 1:100 000 Sheet area, where the member is in fault contact with Olympio Formation turbidite to west; Dixon Range 1:250 000 Sheet area. The characteristic rock types of the member are well exposed along this section: thick to thin bedded and laminated, variably calcareous, fine to coarse-grained volcaniclastic rocks; mafic to felsic alkaline lava flows and fragmental volcanics, massive debris flow deposits containing fragments of amygdaloidal lava, and minor interbanded turbiditic greywacke and siltstone. They show a weak to strong, subvertical north-south cleavage and are metamorphosed to greenschist facies. The thinly bedded rocks show tight to isoclinal minor folds and irregular contortions.|
+31884|Maude Headley Member|Extent|northern part of Halls Creek 1:100 000 Sheet area, Gordon Downs  1:250 000 Sheet area, and southern parts of McIntosh and Dixon 1:100 000 Sheet areas, Dixon Range 1:250 000 Sheet area, WA|
+31884|Maude Headley Member|Thickness range|probably exceeds 1000 m in places.|
+31884|Maude Headley Member|Lithology|variably calcareous, fine to coarse-grained volcaniclastic rocks ranging from thickly bedded to laminated; mafic to felsic alkaline lavas, thin sills and fragmental volcanics; debris flow deposits containing fragments of amygdaloidal lava; minor bands of chert, marble, and turbiditic greywacke and siltstone. Rocks range from weakly to strongly cleaved, and have been metamorphosed to mainly greenschist facies.|
+31884|Maude Headley Member|Depositional environment|marine.|
+31884|Maude Headley Member|Relationships and boundaries|Olympio Formation of Halls Creek Group. Overlain and underlain by turbiditic greywacke, siltstone and mudstone of Olympio Formation.|
+31884|Maude Headley Member|Age reasons|Palaeoproterozoic - Orosirian. Volcanic rocks from member have been isotopically dated (U-Pb zircon) at 1857 ? 2 Ma  and 1857 ? 5 Ma (see Blake et al. 1998).|
+31884|Maude Headley Member|Correlations|none known.|
+31884|Maude Headley Member|Comments|Separated from underlying Biscay Formation by up to 100 m of Olympio Formation turbidites. Thinly bedded rocks commonly show tight to isoclinal minor folds. Apparently mylonitic rocks present in places.|
+31884|Maude Headley Member|References|Blake, D.H., Tyler, I.M., Griffin, T.J., Sheppard, S., Thorne, A.M. & Warren, R.G., 1998. Geology of the Halls Creek 1:100 000 Sheet area (4461), Western Australia. Australian Geological Survey Organisation, Canberra.
+Tyler, I.M., Sheppard, S., Hoatson, D.M. & Blake, D.H., 1997a.  McIntosh, Western Australia, 1:100 000 geological map (sheet 4462). Geological Survey of 	Western Australia.
+Warren, R.G., 1997. Reconnaissance geological mapping in Dixon, SE McIntosh and 	northernmost Halls Creek 1:100 000 Sheet areas, East Kimberley, W.A. 1992-3. Australian Geological Survey Organisation, Record 1997/26.|
+30319|Milba Formation|Name source|Milba aboriginal settlement at GR CE679895, Halls Creek 1:100 000 Sheet area, Gordon Downs 1:250 000 Sheet area, WA|
+30319|Milba Formation|Unit history|previously mapped as Olympio Formation of Halls Creek Group (Gemuts & Smith 1968)|
+30319|Milba Formation|Geomorphic expression|low hills and ridges.|
+30319|Milba Formation|Type section locality|between major NNE-trending faults at GR CF765090 and GR CF784078, in the north of Halls Creek 1:100 000 Sheet area. Here the formation is in fault contact with Koongie Park Formation to west and King Leopold Sandstone to east. From west to east it consists of a prominent ridge-forming band 200 m wide of contorted carbonates, a band 500 m wide of interlayered calcareous and noncalcareous metasediments, and a synform about 1500 m across of mainly metamorphosed greywacke, siltstone, and mudstone.|
+30319|Milba Formation|Extent|Halls Creek Fault Zone in Halls Creek and McIntosh 1:100 000 Sheet areas, in Gordon Downs and Dixon Range 1:250 000 Sheet areas, respectively, WA|
+30319|Milba Formation|Thickness range|more than 1000 m.|
+30319|Milba Formation|Lithology|turbiditic greywacke, siltstone and mudstone; lithic, feldspathic and quartz sandstone; calcareous rocks; chert; and minor mafic lavas and sills. Regionally metamorphosed to mainly greenschist facies; commonly strongly foliated|
+30319|Milba Formation|Depositional environment|presumed to be marine.|
+30319|Milba Formation|Relationships and boundaries|fault-bounded; no stratigraphic relationships seen.|
+30319|Milba Formation|Age reasons|Palaeoproterozoic - Orosirian. Inferred to predate major deformation event at ~1835 Ma (Blake et al. 1998)|
+30319|Milba Formation|Correlations|possibilities include parts of Halls Creek Group, Koongie Park Formation and Tickalara Metamorphics.|
+30319|Milba Formation|Comments|proportions of turbidites, carbonates and volcanics different from those of Koongie Park Formation, Olympio Formation, and Biscay Formation.|
+30319|Milba Formation|References|Blake, D.H., Tyler, I.M., Griffin, T.J., Sheppard, S., Thorne, A.M. & Warren, R.G., 1998. Geology of the Halls Creek 1:100 000 Sheet area (4461), Western Australia. Australian Geological Survey Organisation, Canberra.
+Tyler, I.M., Sheppard, S., Hoatson, D.M. & Blake, D.H., 1997a.  McIntosh, Western Australia, 1:100 000 geological map (sheet 4462). Geological Survey of Western Australia.|
+26030|Millajiddee Member|Name source|Millajiddee Homestead (Lat. 18o49'00"S, long. 124o55'25"E) at the southwestern edge of St George Range.|
+26030|Millajiddee Member|Type section locality|Lat. 18o45'00"S, long 124o55'25"E in the western St George Range.|
+26030|Millajiddee Member|Extent|Crops out in the St George Range, in the Poole Range, in the Lauris Range and other isolated exposures on the Noonkanbah Sheet area. At Mt Thorlan and in the southwestern St George Range the member is cut out by the unconformity at the base of the Poole Sandstone.  It occurs on the Mt Ramsay Sheet area to the east.|
+26030|Millajiddee Member|Thickness range|70 m in the type section and estimated to be over 100 m in the southeastern St George Range.|
+26030|Millajiddee Member|Lithology|Mainly sandstone and minor siltstone and conglomerate. Grain size mainly fine though a medium to coarse-grained middle part is present. Large and small-scale cross-bedding is common and the upper part is slumped in many areas.|
+26030|Millajiddee Member|Relationships and boundaries|Conformably overlies the Wye Worry Member in the St George Range and Poole Range; disconformably in the Lauris Range. Conformably overlain by the Nura Nura Member of the Poole Sandstone though in some places, the contact is an unconformity|
+26030|Millajiddee Member|Age reasons|Fauna consists of trace fossils and indeterminate wood fragments. The underlying Wye Worry Member is dated as Sakmarian (Dickins, 1963), and the overlying Nura Nura Member has been dated as Sakmarian (Glenister and Furnish, 1961) so the Millajiddee Member is also of Sakmarian age.|
+24380|Mininer Turbidite Member|Name source|The name is derived from Mininer Station, north of the Ashburton Range, south region of Paraburdoo.|
+24380|Mininer Turbidite Member|Extent|The Mininer Turbidite is a new member of the Ashburton Formation (de la Hunty, 1965) of the redefined Wyloo Group (Trendall, 1979), south of the Hamersley Ranges of the Turee Creek Geological Sheet area (Daniels, 1968). It is thus a facies which, on the Turee Creek Sheet area, occurs north of the Capricorn Ranges and the Ashburton River and south of the foothills of the Hamersley Ranges.|
+24380|Mininer Turbidite Member|Thickness range|At its thickest, the Member is at least 6000 m.|
+24380|Mininer Turbidite Member|Lithology|It is largely composed of turbidites with a well developed cyclicity. Some very coarse members (pebbles up to 10 cm) and some shale intervals are present as well as rare foreign rafts which all three bridge the facies to the Capricorn Member. It contains rare, thin white flinty, tuffaceous bands (e.g. longitude 117o28.5'; latitude 23o21') which occur rarely in all members of the Ashburton Formation in the Sheet area.|
+24380|Mininer Turbidite Member|Relationships and boundaries|The Mininer Turbidite Member is in a synclinorium and overlies, to the north, the Duck Creek Dolomite with which it interfingers in places. To the south, it overlies and interfingers extensively with the Capricorn Member (redefined).|
+24380|Mininer Turbidite Member|Proposed publication|Aust. CSIRO Inst. Earth Res. Rept No. FP 22|
+24380|Mininer Turbidite Member|Defn approved by|Western Australia Sub-Committee|
+24380|Mininer Turbidite Member|Proposer|Horwitz R.C.|
+22396|Mount Aloysius Complex|Name source|Mount Aloysius, lat. 26.00076oS, long. 128.59631oE, Cooper 1:250 000 Sheet area, WA.|
+22396|Mount Aloysius Complex|Constituents|The following units have been mapped: fns - sillimanite-garnet granulite; crops out only in centre of massif.  fg - felsic garnet granulite; in central region of massif, and as thin bands in north and south.  fna - intermediate and felsic granites, weakly interlayered to massive; in east, and two bands in central region.  fn/m - thin to thick layered felsic granulite with numerous mafic granulite interlayers and rare calc-silicate and quartzite; the most distinctly layered unit, and forms the bulk of the massif.  fn - felsic granulite as a prominent disrupted layer in south, and another in the north.  mn - mafic granulite; mainly in northwest, but also as isolated layers in centre and east.  fnk - leucofelsic granulite as discrete bodies around margins of massif; weakly layered to massive.  No stratigraphic facing is preserved in the granulites, and so stratigraphic order is unknown.|
+22396|Mount Aloysius Complex|Type section locality|The range of hills around and including Mount Aloysius (982 m ASL) is the type area. A reference section from GR 570210 (lat. 26.02922o, long. 128.57023o) to 590225 (lat. 26.01573o, long. 128.59027o) is representative of much of the complex, and exposes (from southwest to northeast) leucofelsic granulite (unit fnk), interlayered felsic and mafic granulites (fn/m) and felsic granulite (fn), felsic garnet granulite (fg), and sillimanite-garnet granulite (fns); a second reference section from GR 628237 (lat. 26.005o, long. 128.62828o) to 610230 (lat. 26.01127o, long. 128.61027o) exposes weakly layered to massive intermediate granulite (fna), and a third reference section from GR 557258 (lat. 25.98583o, long. 1285574o) to 559250 (lat. 25.99306o, long. 128.55937o) exposes mafic granulite (mn).|
+22396|Mount Aloysius Complex|Extent|Revised (enlarged) Extent: Exposed over about 4000 km2 in the Tomkinson ranges of Western Australia and South Australia; extends from Mount Aloysius in the Bell Rock 1:100 000 Sheet (4645) in the west to Teizi Hill in the Davies 1:100 000 Sheet (4745) in the east, and south to Latitude Hill in the Bell Rock 1:100 000 Sheet; also extends into southwest of Bates 1:100 000 Sheet (4646).  Original Extent: Exposed over about 75 km2 in the northwest corner of Bell Rock (4645) and southeast corner of Bates (4646) 1:100 000 Sheet areas; forms a range of hills of which Mount Aloysius is the highest point (982 m ASL).|
+22396|Mount Aloysius Complex|Lithology|Felsic, intermediate, and mafic granulites interlayered on scales ranging from centimetres to hundreds of metres.|
+22396|Mount Aloysius Complex|Relationships and boundaries|No older rocks known. Intruded by small bodies of granite, syenite, granite pegmatite, and by innumerable mafic dykes.|
+22396|Mount Aloysius Complex|Age reasons|A pooled age of 1578 +/- 20 Ma (Gray 1978, Gray & Compston 1978) by Rb-Sr whole-rock isochron method on felsic granulites is interpreted as protolith age because individual isochrons: (1) describe large bodies of rock or entire lithological units; (2) possess a large spread in Rb/Sr ratio; and (3) most are precise. In addition, initial ratios of felsic granulite layers are quite distinct from those of interlayered mafic granulite units. Confirmed by SHRIMP U-Pb zircon date of about 1530 Ma on banded felsic granulite (Sun & Sheraton 1992). Time of granulite metamorphism 1222 +/- 39 Ma (Gray 1978, Gray & Compston 1978) by Rb-Sr whole-rock isochron method, confirmed by SHRIMP U-Pb zircon date of about 1200 Ma (Sun & Sheraton 1992).|
+22396|Mount Aloysius Complex|Proposed publication|AGSO Record: Glikson A.Y. et al (in prep), Geology of the Giles Complex Special 1:100 000 map, western Musgrave Block.|
+12767|Mount Gratwick Granodiorite|Name source|Mount Gratwick, Marble Bar 1:250 000 Sheet area (MGR 1293 2903).|
+12767|Mount Gratwick Granodiorite|Type section locality|The Granodiorite is exposed along the Yandeearra homestead - outcamp road, about 3-5 km northwest of the outcamp (at about MGR 119 302).|
+12767|Mount Gratwick Granodiorite|Extent|The Mount Gratwick Granodiorite occurs in the Yule Batholith and forms an ovoid mass on the western margin of the Marble Bar 1:250 000 Sheet area, northwest of Mount Gratwick. The limits of the pluton on the adjacent Pyramid 1:250 000 Sheet area have not been determined. The mass crops out over an area of about 110 km2 between latitudes 21o35'S and 21o41'S, and longitudes 118o30'E and 118o35'E (see Fig. 1). The mass is poorly exposed and is obscured by superficial Quaternary sand and gravel deposits.|
+12767|Mount Gratwick Granodiorite|Lithology|The Mount Gratwick Granodiorite is a medium, equigranular, allotriomorphic granular textured, poorly foliated granodiorite. In outcrop, the rock is cream-coloured and leucocratic and has an appearance resembling that of anorthosite. The rock contains some coarse pegmatite veins. Although poorly foliated, the rock contains some biotite schlieren and amphibolite xenoliths and there are local cataclastic zones with abundant epidote. The mineralogy consists of calcic oligoclase (An25) and minor quartz, accessory microcline, opaques and apatite, and secondary chlorite, epidote and muscovite. According to mineral proportions, the rock has a composition close to a leuco-diorite. (Type specimen GSWA 28488).|
+12767|Mount Gratwick Granodiorite|Relationships and boundaries|The relationship of the Mount Gratwick Granodiorite to the surrounding Archaean migmatites is uncertain because of poor outcrop. However, regional foliations of the migmatite conform to the margins of the granodiorite and possibly the latter is an associated phase which has undergone more complete assimilation of biotite schlieren and amphibolite and ultramafic xenoliths which are abundant in the enclosing migmatite. The southern part of the Granodiorite is unconformably overlain by Lower Proterozoic Kylena Basalt.|
+12767|Mount Gratwick Granodiorite|Age reasons|Archaean.|
+12767|Mount Gratwick Granodiorite|Proposed publication|Explan. Notes on Marble Bar 1:250 000 Sheet area, WA: West. Australia Geol. Survey Rec. 1974/20 West. Australia Geol. Survey Ann. Rept 1974|
+12767|Mount Gratwick Granodiorite|Name first published by|79/20350|
+12864|Mount Keith Granodiorite|Name source|After "Mt Keith" homestead, grid ref. 347615, Sir Samuel 1:250 000 Sheet SG51-13, which overlies the northern extension of the body. (Not named after the topographical feataure Mount Keith 7 km to the north).|
+12864|Mount Keith Granodiorite|Unit history|'Western granite' (D.W. Durney, 1972, J. Geol. Soc. Austr. 19, p251-259); 'Mt Keith granite' (Metals Exploration N.L.).|
+12864|Mount Keith Granodiorite|Type section locality|6 km foothill traverse from grid ref. 348597 to grid ref. 353595, at southern extremity of the outcrop, corresponding to 3 1/2 km across strike.|
+12864|Mount Keith Granodiorite|Extent|Continuous NNW trending outcrop along a prominent escarpment from 2 km north of Jones Creek crossing (352594) to "Mt Keith" homestead. Possible further extension (unexplored) along same escarpment northwestwards from Mail Box Well (346607).|
+12864|Mount Keith Granodiorite|Lithology|Prekinematic granodiorite. Generally medium grained and massive textured though grain size locally variable, not uncommonly with approximately 1 cm sized stubby K-felspar. Contains rare 'basic' xenoliths and various acid dykes. Post-emplacement recrystallization and metamorphic textures visible in thin sections.|
+12864|Mount Keith Granodiorite|Relationships and boundaries|Faces east along its eastern margin where it is unconformably overlain by Jones Creek Conglomerate (D.W. Durney, op. cit.). Base unknown.|
+12864|Mount Keith Granodiorite|Age reasons|Age of emplacement 2689 m.y.+/-17 m.y. (Rb/Sr biotite age); age of post-metamorphic pegmatite 2535 m.y. +/- 18 m.y.  (Rb/Sr whole rock). Analysts J.C. Roddick and W. Compston.|
+12864|Mount Keith Granodiorite|Proposed publication|Journal of Precambrian Research|
+12864|Mount Keith Granodiorite|Name first published by|Roddick J.C., Compston W., Durney D.W., 1976|
+30208|Mount Kinahan Sandstone|Name source|Mount Kinahan, at GR DE008928, Antrim 1:100 000 Sheet area, Gordon Downs 1:250 000 sheet. The formation forms Mount Kinahan.|
+30208|Mount Kinahan Sandstone|Unit history|previously assigned to the Mount Parker Sandstone (Gemuts & Smith 1968) of the Mesoproterozoic Osmand Basin of Tyler et al. (1997b).|
+30208|Mount Kinahan Sandstone|Geomorphic expression|prominent cuestas, ridges and plateaus|
+30208|Mount Kinahan Sandstone|Type section locality|south side of gorge along Elvire River, at GR CE908771, Halls Creek 1:100 000 Sheet area. Here the formation consists of quartz sandstone about 100m thick dipping between 20? and 40? to the east, unconformably overlying folded Olympio Formation and overlain concordantly by Eliot Range Dolomite.|
+30208|Mount Kinahan Sandstone|Extent|Ruby Plains, Halls Creek and Antrim 1:100 000 Sheet areas, Gordon Downs 1:250 000 Sheet area, and Dixon 1:100 000 Sheet area, Dixon Range 1:250 000 Sheet area, WA.|
+30208|Mount Kinahan Sandstone|Thickness range|maximum about 150 m.|
+30208|Mount Kinahan Sandstone|Lithology|quartz sandstone: silicified to friable, poorly to well sorted; medium to coarse-grained, with grit on some bedding planes; thin to thick-bedded; commonly cross-bedded; ripple marks present in places; pebbles of vein quartz and quartzite present locally at base.|
+30208|Mount Kinahan Sandstone|Depositional environment|shallow marine shelf.|
+30208|Mount Kinahan Sandstone|Relationships and boundaries|Of Ruby Plains Group.  Unconformably on folded and cleaved metasediments of Olympio Formation (Halls Creek Group) and unnamed granite; overlain conformably or disconformably by Eliot Range Dolomite.|
+30208|Mount Kinahan Sandstone|Age reasons|Neoproterozoic - Tonian or Cryogenian. The Ruby Plains Group is correlated by Grey & Blake (in prep.) with Supersequence 1 of the Centralian basin of Walter et al. (1995).|
+30208|Mount Kinahan Sandstone|Correlations|Lewis Range Sandstone of Birrindudu Basin, Heavitree Quartzite of Amadeus Basin, Vaughan Springs Quartzite of Ngalia Basin, Townsend Quartzite of Officer Basin (Blake et al. 1979; Walter et al. 1995).|
+30208|Mount Kinahan Sandstone|References|Blake, D.H., Hodgson, I.M. & Muhling, P.C., 1979. Geology of The Granites?Tanami region, Northern Territory and Western Australia. Bureau of Mineral 	Resources, Australia, Bulletin 197.
+Blake, D.H., Tyler, I.M. & Sheppard, S., 1997. Geology of the Ruby Plains 1:100 000 Sheet area (4460), Western Australia,. Australian Geological Survey 	Organisation, Canberra.
+Blake, D.H., Tyler, I.M., Griffin, T.J., Sheppard, S., Thorne, A.M. & Warren, R.G., 1998. Geology of the Halls Creek 1:100 000 Sheet area (4461), Western Australia. Australian Geological Survey Organisation, Canberra.
+Grey, K. & Blake, D.H., in press.
+Tyler, I.M., Thorne, A.M., Hoatson, D.M. & Blake, D.H., 1997b.  Turkey Creek, Western Australia, 1:100 000 geological map (sheet 4563). Geological Survey of Western Australia.
+Walter, M.J., Veevers, J.J., Calver, C.R. & Grey, K., 1995. Late Proterozoic stratigraphy of the Centralian Superbasin, Australia. Precambrian Research, 73, 173?195.|
+12923|Mount McGrath Formation|Name source|The Mount McGrath Formation is part of the Precambrian Wyloo Group (redefined, Trendall, 1979), south of the Hamersley Ranges (map ref. Geological 1:250 000 Sheets Wyloo, Mount Bruce and Turee Creek).|
+12923|Mount McGrath Formation|Extent|The Formation (de la Hunty, 1965) is here restricted in usage to the essentially clastic rocks that overlie, disconformably the Cheela Springs Basalt and overlap unconformably onto older formations. It is overlain, conformably by the Duck Creek Dolomite which, itself, overlaps onto older units. In the southwest corner of the Mount Bruce Sheet area (de la Hunty, 1965) this redefined Formation was subdivided into the Coolbye Shale Member (which contains basal conglomerates at about long. 117o03') and the overlying Karlathundra Conglomerate. At the foot of Mt McGrath (Horwitz, 1978) the basal clastic units of the Formation contain massive carbonate bands and it abuts at low angle onto Hamersley Group rocks; 100 m are exposed and it is estimated that a top 200 m are covered by alluvium. The name Mount McGrath Formation is here applied to all the predominantly arenaceous rocks that extend from around the Wyloo Dome, south of the Duck Creek to the Angelo River and which are overlain conformably by the Duck Creek Dolomite. The Formation contains defined shale bands and, locally, massive carbonate lenses. Coarse, mature conglomerates are conspicuous and, south of Paraburdoo, where the formation rests on Hamersley Group BIF, Morris (1980) has observed in these conglomerates some pebbles derived from hematite ore.|
+12923|Mount McGrath Formation|Proposed publication|Aust. CSIRO Inst. Earth Res. Rept No. FP 22|
+12923|Mount McGrath Formation|Resdate|2-FEB-1980|
+27510|Mulgine Granite|Name source|Mulgine Hill, BA 8, Perenjori 1:250 000 Sheet area, Lat. 29o11'S, Long. 116o59'E. In some reports known at Mt Mulgine.|
+27510|Mulgine Granite|Type section locality|The type locality for the Granite is in the vicinity of Mulgine Hill, where exposure is fair.|
+27510|Mulgine Granite|Extent|The Mulgine Granite is a roughly circular complex pluton approximately 2 km in diameter in the vicinity of the trig station.|
+27510|Mulgine Granite|Lithology|The Mulgine Granite is a complex pluton consisting of separate lithofacies of medium-fine even grained granite with foliated and porphyritic variants. The medium even grained granite is a leuco-granite composed of quartz, microcline, sericitized plagioclase and muscovite with lesser amounts of fluorite and pyrite. It contains numerous quartz veins with scheelite and molybdenite mineralisation. The granite encloses old molybdenite mines which produced a small amount of ore in 1915.|
+27510|Mulgine Granite|Age reasons|Archaean|
+27510|Mulgine Granite|Proposed publication|West. Australia Geol. Survey Min. Res. Bull.|
+27510|Mulgine Granite|Status|1|
+13529|Murraba Formation|Name source|Murraba Ranges, 21o15'S, 128o45'E, Stansmore 1:250 000 Sheet area.|
+13529|Murraba Formation|Unit history|Mapped as Gardiner Beds and Phillipson Beds by Casey & Wells (1964).|
+13529|Murraba Formation|Type section locality|East side of Redcliff Pound, Stansmore Sheet area, at 21o36'30"S, 128o45'30"E. Here a succession 350 m thick dips 20-30oW, beneath conformably overlying Erica Sandstone. The section consists of 160 m flaggy, thin bedded to laminated sublithic arenite overlain successively by 110 m thin bedded, pellety, sublithic arenite, 10 m medium bedded quartz arenite and 70 m of thinly interbedded sublithic arenite and chert granule conglomerate.|
+13529|Murraba Formation|Extent|Eastern parts of Lucas and Stansmore 1:250 000 Sheet areas, WA.|
+13529|Murraba Formation|Thickness range|Maximum exposed about 800 m, at Redcliff Pound.|
+13529|Murraba Formation|Lithology|Sandstone-sublithic and quartz arenite and thin interbeds of chert granule to pebble conglomerate; minor siltstone, shale and dolomite.|
+13529|Murraba Formation|Relationships and boundaries|Part of Redcliff Pound Group. Conformably overlain by Erica Sandstone and inferred to be conformably on Lewis Range Sandstone, though this contact is concealed by Quaternary sand. Overlain unconformably by Palaeozoic and Cretaceous beds.|
+13529|Murraba Formation|Age reasons|Probably Adelaidean.|
+13529|Murraba Formation|Defn approved by|taken from xerox copy of approved def. Sent by WA Sub-Committee|
+13529|Murraba Formation|Name first published by|Blake D.H., Yeates A.N., Walton D,G,m 1976|
+36770|Nandingarra Granodiorite|Name source|Nandingarra Pool in the northern part of the Split Rock 1:100 000 sheet, in the eastern part of the Pilbara Craton, W.A.|
+36770|Nandingarra Granodiorite|Constituents|Archaean granodiorite to tonalite, and minor monzogranite|
+36770|Nandingarra Granodiorite|Geomorphic expression|forms low rocky relief|
+36770|Nandingarra Granodiorite|Type section locality|7 km north of Nandingarra Pool around MGA 785000E 7618000N|
+36770|Nandingarra Granodiorite|Extent|northwestern part of the Corunna Downs Granitoid Complex|
+36770|Nandingarra Granodiorite|Lithology|Fine- to coarse-grained biotite, hornblende granodiorite to tonalite; minor monzogranite|
+36770|Nandingarra Granodiorite|Relationships and boundaries|Part of the Corunna Downs Granitoid Complex.  Igneous rock intruding the c. 3433 Ma Panorama Formation (Nelson, 2000) in the Warrawoona Group and is intruded by the c. 3317+/-2 Ma (Barley and Pickard, 1999) Carbana Pool Monzogranite (Bagas and Van Kranendonk, in prep.)|
+36770|Nandingarra Granodiorite|Age reasons|between 3433 and 3317 Ma based on relationships outlined above|
+36770|Nandingarra Granodiorite|Proposed publication|GSWA Explanatory notes for the SPLIT ROCK 1:100 000 sheet area|
+36770|Nandingarra Granodiorite|References|Bagas, L., and Van Kranendonk, M. J., in prep., Geology of the Split Rock 1:100 000 sheet: Western Australia Geological Survey, 1:100 000 Geological Series Explanatory Notes.
+BARLEY, M. E., and PICKARD, A. L., 1999, An extensive, crustally-derived, 3325 to 3310 Ma silicic volcanoplutonic suite in the eastern Pilbara Craton: evidence from the Kelly Belt, McPhee Dome and Corunna Downs Batholith: Precambrian Research, v. 60, p. 185-241.
+NELSON, D. R., 2000, Compilation of geochronology data, 1999: Western Australia Geological Survey, Record 2000/2, 251p.|
+13856|Nardoopiquithanna Adamellite|Name source|Nardoopiquithanna Pool, Marble Bar 1:250 000 Sheet area (MGR 1425 3405).|
+13856|Nardoopiquithanna Adamellite|Type section locality|Although the Adamellite is well exposed over most of its area, access is most readily attained via station and mining tracks from the Wittenoom-Port Hedland road (from a point near Kunagunarrina Pool) extending northwest towards Wodgina and west towards Round Hummock.|
+13856|Nardoopiquithanna Adamellite|Extent|The Nardoopiquithanna Adamellite occurs northwest of Abydos in the Yule Batholith (see Fig. 1) as an arcuate mass, concave towards the south, between laltitudes 21o21'S and 21o19'S, and longitudes 118o40'E and 118o51'E. The pluton has an area of about 125 km2.|
+13856|Nardoopiquithanna Adamellite|Lithology|The Nardoopiquithanna Adamellite is a massive to poorly foliated biotite adamellite. It is fine to medium-grained in the northern portion becoming medium-grained towards the south. The mass is strongly jointed and has almost total outcrop as low rocky ridges and large rounded tors. Pegmatites are sparse.|
+13856|Nardoopiquithanna Adamellite|Relationships and boundaries|The pluton clearly cuts the strong foliation of older banded migmatite in the north and is intruded in the south by Numbana Granite which contains abundant xenoliths of the Adamellite. Relationships with porphyritic rocks to the east (Pincunah Adamellite) and west (Kangan Granite) are uncertain. Possibly the Nardoopiquithanna Adamellite intrudes both the Kangan Granite and Pincunah Adamellite since these exhibit a strong metamorphic foliation not observed in the Nardoopiquithanna Adamellite.|
+13856|Nardoopiquithanna Adamellite|Age reasons|Archaean|
+13856|Nardoopiquithanna Adamellite|Proposed publication|Explan. Notes on Marble Bar 1:250 000 Sheet area, WA: West. Australia Geol. Survey Rec. 1974/20 West. Australia Geol. Survey Ann. Rept 1974|
+13856|Nardoopiquithanna Adamellite|First Reference|79/20350|
+14208|Noingara Siltstone|Name source|Noingara well, 3-2 km north-northwest of the type section (30o14'S, 116o00'E). Moora 1:250 000 Sheet area.|
+14208|Noingara Siltstone|Type section locality|790 m of siltstone and minor interbedded chert and orthoquartzite. This is a discontinuous composite section, which commences 1-8 km west-southwest of Longreach Homestead and extends east to near the homestead.|
+14208|Noingara Siltstone|Extent|The formation is known only in the area extending from 8 km northwest of Watheroo to just west of Coorow.|
+14208|Noingara Siltstone|Thickness range|The type section is the only section measured.|
+14208|Noingara Siltstone|Lithology|Siltstone, red-brown, light-grey, white, and pale-yellow, massive to thin-bedded: thin interbeds of white and grey chert, and some orthoquartzite.|
+14208|Noingara Siltstone|Relationships and boundaries|The lower limit of the unit is not exposed, but stratigraphic evidence suggests that the formation overlies the Coomberdale Chert. It is overlain conformably by the Winemaya Quartzite. The top of the formation is defined by a predominantly red-brown, also light-grey to white and pale-yellow, mostly massive, micaceous and highly ferruginous siltstone 581 m thick.|
+14208|Noingara Siltstone|Age reasons|No fossils have so far been found in the formation but it is believed to be of Proterozoic age because of its relationship with underlying formations of the Moora Group.|
+14208|Noingara Siltstone|Proposed publication|Geology of Western Australia; West Aust. Geol. Survey, Memoir 2; in press.|
+14208|Noingara Siltstone|Name first published by|Lipple S.L., 1976|
+24433|North Shaw Tonalite|Name source|North Shaw Well, Marble Bar 1:250 000 Sheet area (MGR 216 335).|
+24433|North Shaw Tonalite|Type section locality|The pluton is well exposed near the North Shaw Well.|
+24433|North Shaw Tonalite|Extent|The North Shaw Tonalite occurs as a small pluton (area of 35 km2) in the northern part of the Shaw Batholith (see Fig. 1), between latitudes 21o19'S and 21o23'S, and longitudes 119o23'E and 119o28'E.|
+24433|North Shaw Tonalite|Lithology|The North Shaw Tonalite is an equigranular, poorly foliated biotite tonalite. The composition is variable due to assimilation of Archaean greenstone material from the enclosing country rock. The pluton is notable for the preservation of igneous textures. Near the North Shaw Well, the pluton is a fine-grained biotite tonalite with euhedral sericitized oligoclase, quartz, chlorite after biotite, opaque iron oxide; minor microcline, common accessory apatite and sphene, rare zircon and allanite; and secondary carbonate, epidote and sericite. Other varieties in the pluton occurring to the south and east of North Shaw Well are medium to coarse-grained biotite granodiorite, and medium-grained hornblende biotite granofiorite with hornblende phenocrysts. Accessory minerals are similar for these varieties except that sphene is more abundant in the latter type.|
+24433|North Shaw Tonalite|Relationships and boundaries|The pluton intrudes mafic and felsic volcanic rocks of the Archaean Warrawoona Group. The pluton is intruded by Lower Proterozoic dolerite dykes and is unconformably overlain by Mount Roe Basalt. The relationship with gneissose and migmatitic granodiorite to the south is not known but the preservation of primary textures in the North Shaw Tonalite contrasted with the strong metamorphic foliation of the migmatitic rocks suggest that the Tonalite is younger and intrudes the migmatitic granodiorite.  The tonalite may be the source of numerous thin quartz-feldspar porphyry dykes which intrude the Archaean basalt around the North Shaw mining centre. Several quartz veins cut the pluton. Exposure is generally not good since it is obscured by extensive but thin Quaternary gravel and sand deposits.|
+24433|North Shaw Tonalite|Age reasons|Archaean|
+24433|North Shaw Tonalite|Proposed publication|Explan. Notes on Marble Bar 1:250 000 Sheet area, WA: West Australia Geol. Survey Rec. 1974/20 West. Australia Geol. Survey Ann. Rept, 1974|
+24433|North Shaw Tonalite|First Reference|83/23412|
+24433|North Shaw Tonalite|Proposer|Lipple S.L. and Hickman A.H.|
+24433|North Shaw Tonalite|Resdate|15-JAN-1975|
+14360|Nullara Limestone|Name source|Nullara Spring, near northeast end of Oscar Range (17o38'24"S, 124o54'20"E).|
+14360|Nullara Limestone|Unit history|The Nullara Limestone previously formed the upper part of the Pillara Limestone of Playford and Lowry (1966). The name "Nullara Oolite" was first used for the lower part of the present formation in an unpublished Wapet report. The name "Nullara Formation" was shown on a stratigraphic chart by Read (1973).|
+14360|Nullara Limestone|Type section locality|Northeast end of Oscar Range, from 17o39'15"S, 124o56'12"E to 17o38'45"S, 124o54'20"E.|
+14360|Nullara Limestone|Extent|Exposed in the Oscar Range, Napier Range, Horeshoe Range and Red Bluffs areas.  Encountered in severl wells on the Lennard Shelf.|
+14360|Nullara Limestone|Lithology|Dominantly well-bedded fenestral (cryptalgal) calcarenite and oolite, with some interbeds of sandstone and siltstone.|
+14360|Nullara Limestone|Fossils|Most of unit consists of cryptalgal limestone and oolite with few skeletal fossils other than thick-shelled gastropods and bivalves. Incriodid conodonts occur rarely, and there are also some stromatoporoids and brachiopods. They indicate a Famennian age. The lower limit is uncertain, but the formation probably extends up into the latest Famennian (do VI).|
+14360|Nullara Limestone|Relationships and boundaries|Overlies and interfingers with the Windjana Limestone; interfingers with or is abutted by the Piker Hills and Virgin Hills Formations. Overlain conformably by the Fairfield Formation.|
+14360|Nullara Limestone|Age reasons|About 400 m thick in the type section.  Up to 320 m thick in several wells on the Lennard Shelf.|
+14360|Nullara Limestone|Defn author|Playford P.E., Cockbain A.E., 1976  |
+14360|Nullara Limestone|Proposed publication|Geological Survey of WA Annual Rept|
+14360|Nullara Limestone|Defn Reference|83/23481|
+30595|Onedin Member|Name source|Onedin Prospect, GR CE454734.|
+30595|Onedin Member|Geomorphic expression|low narrow ridges.|
+30595|Onedin Member|Type section locality|southeastern flank of syncline at GR CE460738, near Onedin prospect (Zn-Cu-Pb), Halls Creek 1:100 000 Sheet area. Here the member is about 30 m thick and consists of red shale with limonitic chert (carbonate at depth), gossan and ironstone; it is underlain by sandstone and overlain and intruded by rhyolite (Orth 1997).|
+30595|Onedin Member|Extent|SW of Halls Creek, in Halls Creek 1:100 000 Sheet area, Gordon Downs 1:250 000 Sheet area, WA|
+30595|Onedin Member|Thickness range|maximum about 150 m.|
+30595|Onedin Member|Lithology|red shale with interlayered ironstone, chert, carbonate and gossan; also chloritic, talc-rich, and carbonaceous shale, calc-silicate rocks, iron-rich dolomite and tremolite-talc schist in drill core.|
+30595|Onedin Member|Depositional environment|marine.|
+30595|Onedin Member|Relationships and boundaries|Of Koongie Park Formation. Conformable band within Koongie Park Formation.|
+30595|Onedin Member|Age reasons|Palaeoproterozoic - Orosirian, as part of Koongie Park Formation, which is dated at 1843 Ma (Page et al. 1995).|
+30595|Onedin Member|Correlations|as for Koongie Park Formation|
+30595|Onedin Member|References|Blake, D.H., Tyler, I.M., Griffin, T.J., Sheppard, S., Thorne, A.M. & Warren, R.G., 1998. Geology of the Halls Creek 1:100 000 Sheet area (4461), Western Australia. Australian Geological Survey Organisation, Canberra.
+Orth, K.,1997. Notes on the geology of the Koongie Park Formation southwest of 	Halls Creek, Western Australia. Australian Geological Survey Organisation, Record 1997/25.|
+27093|Padbury Group|Name source|Revision of Definition of Barnett 1975 so as to include new formation (Wilthorpe Conglomerate) and to exclude the Labouchere Formation.|
+27093|Padbury Group|Constituents|Wilthorpe Conglomerate (Gee 1979) Robinson Range Formation and Millidie Formation (Barnett 1975).|
+27093|Padbury Group|Relationships and boundaries|Unconformably overlies Glengarry Group; probably correlates with Earaheedy Group in eastern part of Nabberu Basin (Hall and others 1977).|
+27093|Padbury Group|Age reasons|Proterozoic, probably about 1.8-1.7 b.y.|
+27093|Padbury Group|Proposed publication|Western Australia Geological Survey Annual Report for 1978 (Pub. 1979)|
+14753|Paddy Market Formation|Name source|Paddy Market Creek (Military Grid 202 328), Marble Bar 1:250 000 Sheet area.|
+14753|Paddy Market Formation|Type section locality|The unit is well exposed in a gorge cut by Paddy Market Creek through a prominent ridge at 202 328. It is also well exposed east of Split Rock homestead and north of Honeyeater Creek (201 347). Ferruginous shales are prominent in the area north of Honeyeater Creek.|
+14753|Paddy Market Formation|Extent|The Paddy Market Formation occurs in the North Shaw Belt and Pilgangoora, Lalla Rookh and Coongan Belt Synclines.|
+14753|Paddy Market Formation|Thickness range|Maximum thickness about 1 km|
+14753|Paddy Market Formation|Lithology|Banded iron formation, shales and ferruginous sandstones and siltstones.|
+14753|Paddy Market Formation|Relationships and boundaries|Conformably underlies the Honeyeater Formation and conformably overlies the Corboy Formation and a thick unassigned sequence of sandstones and siltstones of the Soanesville Subgroup.|
+14753|Paddy Market Formation|Age reasons|Archaean because of tectonic style and conformity with other divisions of the greenstone sequence intruded by Archaean granitic rocks.|
+14753|Paddy Market Formation|Defn author|Lipple S.L., 1975|
+14753|Paddy Market Formation|Proposed publication|West. Australia Geol. Survey 1:250 000 Geol. Series Explan. Notes|
+14834|Panorama Formation|Name source|From Panorama Ridge, which is a prominent ridge extending about 22 km west from Military Grid Reference 230 344 to 206 342, Marble Bar 1:250 000 Sheet area.|
+14834|Panorama Formation|Type section locality|Panorama ridge in the area 6 km northeast from North Shaw mining centre.|
+14834|Panorama Formation|Extent|The Panorama Formation occurs along Panorama Ridge in the North Pole Dome and as inliers within the Proterozoic cover of the North Pole Dome.|
+14834|Panorama Formation|Thickness range|Maximum 1 km.|
+14834|Panorama Formation|Lithology|Dacite lava, tuff and agglomerate are dominant in the western portion. The lava is generally massive and may be vesicular or porphyritic. Minor sedimentary rocks including shale, sandstone and conglomerate are intercalated within the volcanic sequence. Banded cherts including red and white, grey and white, black and white and green coloured varieties are prominent. In the eastern portion of the Formation, sandstones, grits and conglomerates become dominant. The conglomerates contain abundant clasts of chert, dacite, vein quartz and rare basalt. Current stratification is common in sandstone and grit units.|
+14834|Panorama Formation|Relationships and boundaries|The Panorama Formation is a lensoid volcanic-sedimentary rock sequence conformably within the unassigned pillow basalt of the Salgash Subgroup. The volcanic and sedimentary rocks exhibit an interfingering contemporary facies relationship with some contribution from the volcanic pile to the adjacent sedimentary deposits. Equivalent to the Kelly Formation.|
+14834|Panorama Formation|Age reasons|Archaean|
+14834|Panorama Formation|Defn author|Lipple S.L. 1975|
+14834|Panorama Formation|Proposed publication|West. Australia Geol. Survey 1:250 000 Geol. Series Explan. Notes|
+31962|Pimbyana Granite|Name source|Pimbyana Creek at MGA Zone 50, 434000E 7350000N|
+31962|Pimbyana Granite|Unit history|The name "Pimbyana Granite" was first used by Pearson et al. (1996; AJES v.43, p.299-309). A brief description was provided, along with two whole-rock chemical analyses. The synonym "Pimbyana Granitoid" was introduced by Krapez (1999; AJES v 46(1), p.71-89) but no justification is given for the name change. The synonym is only mentioned in the paper, and the unit was not studied by the author.|
+31962|Pimbyana Granite|Geomorphic expression|Low rounded hills covered in boulders and tors. Whalebacks with reddish weathered surfaces are common.|
+31962|Pimbyana Granite|Type section locality|About 0.5 km NW of the Frasers-Yangibana REE prospect on the Edmund 100k sheet area (MGA Zone 50 429500E 7351500N). Access is via a station track from Gifford Creek Homestead via Fraser Bore.|
+31962|Pimbyana Granite|Extent|The Pimbyana Granite forms a NW trending belt at least 90 km long comprising numerous intrusions extending from just north of Gifford Creek Homestead to near Maroonah Homestead. The most abundant rock type is a coarse-grained porphyritic to megacrystic biotite(-muscovite) monzogranite to syenogranite. The vast bulk of the intrusion contains squat tabular megacrysts or phenocrysts of microperthite, although between Bald Hill North and Henderson Bore on the Edmund 100K sheet, round K-feldspar megacrysts with graphic textures predominate. A fine- to medium-grained, even-textured tonalite or granodiorite that is comingled with the megacrystic phase is also included within the Pimbyana Granite.|
+31962|Pimbyana Granite|Lithology|The most abundant rock type is a coarse-grained porphyritic to megacrystic biotite(-muscovite) monzogranite to syenogranite. Fine- to medium-grained biotite tonalite and granodiorite comprises an un-named member. It is only abundant in the area east and southeast of the Star of Mangaroon mine on the Mangaroon 100K sheet, and around the Frasers-Yangibana REE prospect on the Edmund 100K sheet. Between the Yangibana South and Frasers-Yangibana REE prospects, the Pimbyana Granite contains abundant inclusions metasedimentary and mafic meta-igneous rocks it is mapped as a separate, un-named member.|
+31962|Pimbyana Granite|Relationships and boundaries|The Pimbyana Granite intrudes foliated porphyritic granodiorite and augen gneiss of the Gooche Gneiss, and metasedimentary rocks of the Pooranoo Metamorphics. The megacrystic monzogranite to syenogranite phase is intruded by various other units of the Durlacher Supersuite: namely the Dingo Creek Granite and the Yangibana Granite, and by extensive veins and dykes of muscovite-biotite granite, and tourmaline-bearing granite and pegmatite.|
+31962|Pimbyana Granite|Age reasons|Two samples of porphyritic biotite-muscovite syenogranite have been dated at 1673 ? 15 Ma (GSWA 169060; D.R. Nelson, 2002, GSWA Record 2002/2) and 1673 ? 11 Ma (GSWA 178029; D.R. Nelson, in prep., GSWA Record 2004/2). A sample of fine-to medium-grained, even-textured biotite tonalite from about 500 m northwest of the Frasers-Yangibana prospect (GSWA sample 169054) has an indistinguishable SHRIMP U-Pb zircon age of 1674 ? 8 Ma (D.R. Nelson, 2002, GSWA Record 2002/2).|
+31962|Pimbyana Granite|Comments|The name "Pimbyana Granite" was first used by Pearson et al. (1996; AJES v.43, p.299-309). A brief description was provided, along with two whole-rock chemical analyses.|
+31962|Pimbyana Granite|References|Martin, D.M., Thorne, A.M. and Occhipinti, S.A., 2002, Edmund, W.A. Sheet 2150. Western Australia Geological Survey, 1:100 000 Geological Series.|
+24461|Point Torment Sand|Name source|Point Torment grid reference 117853 Derby 1:250 000 Sheet.|
+24461|Point Torment Sand|Type section locality|Point Torment Light tower (grid reference 120847, Derby 1:250 000 Sheet)|
+24461|Point Torment Sand|Extent|Discontinuous shoreline depsoit on both east and west shores of King Sound.|
+24461|Point Torment Sand|Thickness range|<1 m up to 3 m.|
+24461|Point Torment Sand|Lithology|Cross laminated cross bedded and bioturbated medium and coarse quartz skeletal sand, shelly sand and lithoclastic sand; generally white or cream colour.|
+24461|Point Torment Sand|Relationships and boundaries|The Point Torment Sand unconformably abuts Mowanjum Sand; locally the formation rests unconformably on Christine Point Clay. The formation more typically overlies and interfingers with Doctors Creek Formation.|
+24461|Point Torment Sand|Age reasons|The Point Torment Sand is being deposited today and is obviously Holocene.|
+24461|Point Torment Sand|Proposed publication|Journal of the Royal Society of WA|
+24461|Point Torment Sand|Proposer|Semeniuk V.|
+37649|Pooranoo Metamorphics|Name source|Pooranoo Well (382300E 7363400N MGA 94) on the Mangaroon 100K sheet|
+37649|Pooranoo Metamorphics|Geomorphic expression|Metamorphosed cobble and pebble conglomerate forms low ridges. Metamorphosed feldspathic sandstone and pelitic gneiss form low, undulating countryside dissected by numerous creeks.|
+37649|Pooranoo Metamorphics|Type section locality|Between Maroonah Homestead, Red Rock Well and East Paddock Hill on the southern edge of the Maroonah 100K sheet. The area contains a well-defined contact between the two main units (pelitic gneiss and metamorphosed feldspathic sandstone). Also present are layers of metamorphosed cobble and granule conglomerate and quartz sandstone, and calc-silicate gneiss and schist. The pelitic gneiss is accessible from a station track and N-S fenceline east of Maroonah Homestead. Good exposures of metamorphosed feldspathic sandstone are located 2.75km SSW of Red Rock Well on the east side of a dolerite dyke. Metamorphosed cobble and pebble conglomerate and quartz sandstone are well exposed at East Paddock Hill.|
+37649|Pooranoo Metamorphics|Extent|Confined to a southeasterly trending, fault-bounded terrane about 50 km wide in the northern Gascoyne Complex. The unit is in faulted contact with, or ?overlies, granites of the 1830-1780 Ma Moorarie Supersuite, which contrasts with older metamorphic units that are intruded by the supersuite.|
+37649|Pooranoo Metamorphics|Lithology|Pooranoo Metamorphics comprises two main units in roughly equal proportions: metamorphosed feldspathic sandstone and pelitic gneiss. The metamorphosed feldspathic sandstone is interlayered with minor pelitic rock and granule conglomerate. Graded bedding is preserved in places in the metamorphosed feldspathic sandstone. Pelitic gneiss and granofels are mainly non-migmatitic, but in the area around the Star of Mangaroon Mine, migmatitic pelitic gneiss is abundant. The migmatites include both diatexites and metatexites. Interlayered metamorphosed cobble and pebble conglomerate, granule sandstone, calc-silicate gneiss and schist, and amphibolite and actinolite schist are minor rock types.|
+37649|Pooranoo Metamorphics|Relationships and boundaries|Rocks of the Pooranoo Metamorphics are confined to a fault-bounded terrane. The metamorphics are separated from inliers of the c. 1770 Ma Gooche Gneiss by layer-parallel faults, and are intruded extensively by granites of the c. 1685-1620 Ma Durlacher Supersuite. The Pooranoo Metamorphics are unconformably overlain by sedimentary rocks of the Edmund Group (Bangemall Supergroup).|
+37649|Pooranoo Metamorphics|Age reasons|The youngest population of detrital zircons from a sample of pelitic gneiss from southeast of Maroonah Homestead provide a maximum depositional age of 1680 ? 13 Ma (GSWA 169094; D.R. Nelson in press, GSWA Record 2003/2). Two samples of metamorphosed feldspathic sandstone provide maximum ages of 1800 ? 4 Ma (GSWA 169091; D.R. Nelson in press, GSWA Record 2003/2) and 1808 ? 11 Ma (GSWA 169056; D.R. Nelson 2002, GSWA Record 2002/2). However, these rock types are interbedded with pelitic gneiss and, therefore, the whole succession must have a maximum age of 1680 ? 13 Ma. The metamorphic rocks are intruded by granites of the 1685-1620 Ma Durlacher Supersuite, thus providing a minimum depositional age.|
+37649|Pooranoo Metamorphics|References|Sheppard S., Martin D. M., & Thorne A. M. 2004. Mangaroon, W.A. Sheet 2050. Western Australia Geological Survey,1:100 000 Geological Series.
+Martin D. M. 2004. Maroonah, W.A. Sheet 2051. Western Australia Geological Survey,1:100 000 Geological Series.
+Nelson D. R. 2002. Compilation of geochronology data 2001. Western Australia Geological Survey, Record 2002/2.
+Nelson D. R. in press. Compilation of geochronology data 2002. Western Australia Geological Survey, Record 2003/2.|
+24468|Ragged Hills Granophyre|Name source|Ragged Hills mine (21o18'S, 121o09'E). Nullagine 1:250 000 Sheet area.|
+24468|Ragged Hills Granophyre|Unit history|Included in the Gregory Range Granite of (2).|
+24468|Ragged Hills Granophyre|Type section locality|8 km east of Ragged Hills mine, and to the south of the Telfer-Braeside road.|
+24468|Ragged Hills Granophyre|Extent|Crops out intermittently over an area of approximately 500 km2.|
+24468|Ragged Hills Granophyre|Thickness range|Vertical thickness unknown, a high-level hypabyssal intrusion.|
+24468|Ragged Hills Granophyre|Lithology|Pink, medium grained granophyre containing scattered rounded phenocrysts of perthite in a granophyric matrix. Mafic minerals are biotite, hornblende and aegirine augite. The rock is generally massive but locally cleaved. To the north and south of the type area the rock becomes finer grained and more closely resembles lava of the adjacent Koongaling Volcanics (1) to which it is thought to be genetically related.|
+24468|Ragged Hills Granophyre|Relationships and boundaries|Of similar chemistry to the Koongaling Volcanics. Small peripheral dykes of granophyre intrude the basal section of the Koongaling Volcanics. Other relations obscured by sand cover.|
+24468|Ragged Hills Granophyre|Age reasons|Thought to be Early Proterozoic. Geochronology in progress, preliminary results of which indicate an age of 2 600-2 400 my.|
+24468|Ragged Hills Granophyre|Proposed publication|Geology of the Pilbara Block and its environs, GSWA Bull.|
+24468|Ragged Hills Granophyre|Proposer|Hickman A.H.|
+15929|Red Bull Member|Name source|Red Bull Bore, Napier Range. The use of the geographic name Red Bull, a common geographic name in Australia, reflects the scarcity of place names in the northern Canning Basin.|
+15929|Red Bull Member|Unit history|Informally named Red Bull Member by Read (1973b).|
+15929|Red Bull Member|Type section locality|Partial section (top not exposed) approximately five km southwest of Red Bull Bore, Napier Range area (N 2840000 yds; E 244500 yds to N 2840300 yds; E243500 yds). A second reference section (base and top not exposed) is located immediately north of Windjana Gorge, Napier Range (N 2810200 yds; E 27900 yds to N 281020 yds; E 277700 yds); for detailed stratigraphic section see Read (1973b; Fig. 5).|
+15929|Red Bull Member|Thickness range|Maximum thicknesses (270 m) occur in Napier Range - east Oscar Plateau area. Thins rapidly to south and west; it is approximately 100 m thick in the Geikie Range, 6 m in the Oscar Range and less than 15 m thick in the Pillara Range.|
+15929|Red Bull Member|Lithology|Interbedded terrigenous sediments (sandstone, siltstone and shale) and limestone (stromatoporoid limestone, pellet limestone).|
+15929|Red Bull Member|Relationships and boundaries|Conformably overlies Big Spring Member and is conformably overlain by the Menyous Limestone Member.  The top is placed at the top of the uppermost terrigenous horizon below the Menyous Limestone Member, which lacks terrigenous interbeds.|
+15929|Red Bull Member|Age reasons|Givetian to lowermost Frasnian.|
+15929|Red Bull Member|Proposed publication|Bull. Can. Petrol. Geol. V.21, p.344-394|
+15929|Red Bull Member|Name first published by|Logan B.W., Semeniuk V., 1976.|
+15980|Redbank Yard Formation|Name source|Redbank Yard on Wolf Creek, at 19o04'00"S, 127o47'00"E, Billiluna 1:250 000 Sheet area, WA.|
+15980|Redbank Yard Formation|Unit history|Outcrops of Redbank Yard Conglomerate were previously mapped as part of the Kearney Beds (Casey & Wells, 1964).|
+15980|Redbank Yard Formation|Type section locality|15 km west-northwest of Redbank Yard. Here a sequence 330 m thick, dipping 20o south, consists of 200 m of polymictic conglomerate overlain by 130 m of medium to very coarse sublithic arenite.|
+15980|Redbank Yard Formation|Extent|Northwest corner of the Billiluna 1:250 000 Sheet area.|
+15980|Redbank Yard Formation|Thickness range|At least 330 m (maximum exposed, in type section).|
+15980|Redbank Yard Formation|Lithology|Conglomerate, sublithic arenite, minor dolomite.|
+15980|Redbank Yard Formation|Relationships and boundaries|Stratigraphic equivalent of the Moonlight Valley Tillite in the Gordon Downs Sheet area (Gemuts & Smith, 1968). Inferred to be unconformable on Wade Creek Sandstone, which it overlies to the west, and to be conformably overlain by Ranford Formation to the east. Hence it is a constituent formation of the Duerdin Group, East Kimberley succession (Gemuts & Smith, 1968; Dow & Gemuts, 1969). |
+15980|Redbank Yard Formation|Age reasons|Adelaidean|
+15980|Redbank Yard Formation|Defn approved by|taken from xerox copy of approved definitions from WA Sub-Committee acc.to Dr Blake|
+15980|Redbank Yard Formation|Name first published by|Blake D.H., Yeates A.N., Passmore V.L., Hodgson I.M., Walton D.G., Muhling P.G., Crowe R.W.A., 1977|
+30278|Ruby Plains Group|Name source|Ruby Plains 1:100 000 map sheet (4460) and homestead (at GR CE565432), Gordon Downs 1:250 000 Sheet area.|
+30278|Ruby Plains Group|Unit history|previously mapped as part of the Osmond Range succession (Dow & Gemuts 1969) and Wade Creek Sandstone (Blake et al. 1979), which are Mesoproterozoic.|
+30278|Ruby Plains Group|Constituents|from bottom to top, Mount Kinahan Sandstone, Eliot Range Dolomite, and Illjarra Sandstone.|
+30278|Ruby Plains Group|Geomorphic expression|ridges, cuestas and valleys.|
+30278|Ruby Plains Group|Type section locality|across prominent ridges, from base at GR CE703578  to top at GR CE718570, Halls Creek 1:100 000 Sheet area, where all three constituent formations of the group are exposed, unconformably overlying Olympio Formation to west and overlain by Duerdin Group to east.|
+30278|Ruby Plains Group|Extent|Ruby Plains, Halls Creek and Antrim 1:100 000 Sheet areas, Gordon Downs 1:250 000 Sheet area, and Dixon 1:100 000 Sheet area, Dixon Range 1:250 000 Sheet area; extends southwest into, but not distinguished in, Billiluna and Mount Bannerman 1:250 000 Sheet areas.|
+30278|Ruby Plains Group|Thickness range|from about 500 m to more than 1000 m.|
+30278|Ruby Plains Group|Lithology|sedimentary rocks, dominated by quartz sandstone, dolomite, and lithic sandstone.|
+30278|Ruby Plains Group|Depositional environment|marine shelf?|
+30278|Ruby Plains Group|Relationships and boundaries|Ruby Plains Group is unconformable on Olympio Formation of Palaeoproterozoic Halls Creek Group and on undated granite, and is overlain unconformably by Neoproterozoic Duerdin Group. Stratigraphic contacts between the three formations of the group are conformable or disconformable.|
+30278|Ruby Plains Group|Age reasons|Neoproterozoic - Tonian or Cryogenian.|
+30278|Ruby Plains Group|Correlations|Supersequence 1 of Centralian Superbasin of Walter et al. (1995).|
+30278|Ruby Plains Group|References|Blake, D.H., Hodgson, I.M. & Muhling, P.C., 1979. Geology of The Granites?Tanami region, Northern Territory and Western Australia. Bureau of Mineral 	Resources, Australia, Bulletin 197.
+Blake, D.H., Tyler, I.M. & Sheppard, S., 1997. Geology of the Ruby Plains 1:100 000 Sheet area (4460), Western Australia,. Australian Geological Survey 	Organisation, Canberra.
+Blake, D.H., Tyler, I.M., Griffin, T.J., Sheppard, S., Thorne, A.M. & Warren, R.G., 1998. Geology of the Halls Creek 1:100 000 	Sheet area (4461), Western Australia. Australian Geological Survey Organisation, Canberra.
+Dow, D.B. & Gemuts, I., 1969. Geology of the Kimberley region, Western Australia: 	the East Kimberley. Bureau of Mineral Resources, Australia, Bulletin 106, & 	Geological Survey of Western Australia, Bulletin 120.
+Walter, M.J., Veevers, J.J., Calver, C.R. & Grey, K., 1995. Late Proterozoic stratigraphy of the Centralian Superbasin, Australia. Precambrian Research, 73, 173?195.|
+27300|Rushall Slate|Name source|Rushall mine (20o51'S, 117o50'E) Roebourne 1:250 000 Sheet area.|
+27300|Rushall Slate|Unit history|Whim Creek slate (3) informally used. The name 'Whim Creek' is applied to the Whim Creek Group|
+27300|Rushall Slate|Type section locality|Whim Creek mine (20o52'S, 117o50'E).|
+27300|Rushall Slate|Extent|30 km2 around Whim Creek centre and also immediately southwest of Mons Cupri (20o53'S, 117o48'E) and near Good Luck Well (20o56'S, 117o41'E).|
+27300|Rushall Slate|Thickness range|200 m.|
+27300|Rushall Slate|Lithology|Grey slate and phyllite, very subordinate flows of andesite and dacite, local beds of quartzite and thin lenses of felsic tuff. Basal conglomerate (2m) south of Whim Creek centre. At Mons Cupri the formation includes an andesite unit (informally referred to as the Comstock andesite by (3).|
+27300|Rushall Slate|Relationships and boundaries|Top formation of the Whim Creek Group (1) Unconformably overlain by the Negri Volcanics; (2) at Mount Negri and by the rocks correlated with the Louden Volcanics (new name) at Good Luck Well.|
+27300|Rushall Slate|Age reasons|Late Archaean.|
+27300|Rushall Slate|Proposed publication|Geology of the Pilbara Block and its environs, GSWA Bull.|
+27300|Rushall Slate|Proposer|Hickman A.H.|
+16559|Salgash Subgroup|Name source|Salgash mining centre (Military Grid 263 341). Mable Bar 1:250 000 Sheet area.|
+16559|Salgash Subgroup|Type section locality|The type area is between Camel Creek and Salgash. The Subgroup is also well exposed along Chinaman Creek, west of Marble Bar and in the North Pole Dome, southwest of North Pole.|
+16559|Salgash Subgroup|Extent|The Salgash Subgroup is distributed over most of the greenstone areas of the Marble Bar Sheet, including the Warrawoona, Coongan and Pilganoora Synclines, the North Shaw, Western Shaw, Marble Bar, Kelly Belts, and the North Pole Dome.|
+16559|Salgash Subgroup|Thickness range|The unit has variable thickness between 1-8 km due partly to variation in original depositonal thickness and partly to tectonic thinning.|
+16559|Salgash Subgroup|Lithology|Approx. 2 km lower basalt lavas, commonly pillowed with intercalated chert horizons, 1 km dacite lava tuff and agglomerate with local sedimentary rocks (Panorama Formation and Kelly Formation), and about 0.5-1 km of upper basalt lavas, commonly pillowed with intercalated chert horizons, and minor felsic volcanic and ultramafic units.|
+16559|Salgash Subgroup|Relationships and boundaries|Conformably overlies the Duffer Volcanics and underlies the Wyman Formation. The upper margin is locally unconformable, such as in the Kelly Belt. The Marble Bar Chert lies at or near the base of the Subgroup in the Marble Bar Belt and the Warrawoona Syncline. The informally named "Chinaman Pool chert", occurring near Marble Bar, locally forms the base of the Subgroup.|
+16559|Salgash Subgroup|Age reasons|Archaean because of tectonic style and intrusion and Archaean granitic rocks.|
+16559|Salgash Subgroup|Defn author|Lipple S.L., 1975|
+16559|Salgash Subgroup|Proposed publication|West. Australia Geol. Survey 1:250 000 Geol. Series Explan. Notes|
+16559|Salgash Subgroup|Name first published by|Lipple S.L., 1975|
+26900|Slatey Creek Granite|Name source|Slatey Creek, lat. 19o19'S, long. 128o45'E, Billiluna 1:250 000 Sheet area (SE/52-14).|
+26900|Slatey Creek Granite|Unit history|Included by Casey & Wells (1964) in the Lewis Granite, which is now restricted to the Lewis Range area in the Lucas Sheet area to the south. The Lewis Granite is dated isotopically by R.W. Page at 1715 +/- 15 m.y.|
+26900|Slatey Creek Granite|Type section locality|Scarp face 60 m high 16 km NNW of Tent Hill and 3 km S of Slatey Creek, at lat. 19o22'S, long. 128o41'30"E. Here unweathered medium grained mainly non porphyritic pale muscovite and muscovite-biotite adamellite is exposed intruding Killi Killi Beds and overlain by 30 m of Lewis Range Sandstone.|
+26900|Slatey Creek Granite|Extent|Scattered exposures in eastern part of the Billiluna Sheet area southwest of the Gardner Range and mainly south of Slatey Creek.|
+26900|Slatey Creek Granite|Lithology|Porphyritic and non-porphyritic mainly medium to fine muscovite, biotite-muscovite, and biotite adamellite; minor biotite granodiorite. Some pegmatite and aplite veins.|
+26900|Slatey Creek Granite|Relationships and boundaries|Intrudes low grade metamorphics of the Killi Killi Beds, part of the Archaean? Tanami complex (Blake et al., in press). Overlian by Carpentarian Gardiner Sandstone (Blake et al., in press) and Adelaidean Lewis Range Sandstone (Blake & Hodgson, in prep.).|
+26900|Slatey Creek Granite|Age reasons|Dated isotopically by R.W. Page, using the whole rock Rb-Sr method, at 1770 +/- 62 my i.e., early Carpentarian.|
+26900|Slatey Creek Granite|Proposed publication|Bureau of Mineral Resources Report|
+74062|Strelley Pool Formation|Name source|Strelley Pool (21o 06' 41"S       119o 08' 25"E)|18/DEC/12
+74062|Strelley Pool Formation|Unit history|Strelley Pool Chert.   Previously named as the Strelley Pool Chert (Lowe, 1983; Van Kranendonk et al., 2006).|18/DEC/12
+74062|Strelley Pool Formation|Constituents|Three informally named members in type area.|18/DEC/12
+74062|Strelley Pool Formation|Geomorphic expression|Positive relief, generally forms ridges.|
+74062|Strelley Pool Formation|Type section locality|21o 06' 41"S       119o 08' 25"E   Ridge section immediately to east of Strelley Pool; also west of Strelley Pool.|18/DEC/12
+74062|Strelley Pool Formation|Description at type locality|Basal sandstone (5 m), overlain by secondary grey-white chert representing silicified carbonate rocks (13 m), overlain by silicified volcanic ash (2 m), overlain by matrix-supported polymictic breccia and conglomerate (3 m)|18/DEC/12
+74062|Strelley Pool Formation|Extent|30,000 km2 in the East Pilbara Terrane of the Pilbara Craton, Western Australia.Outcrops in eleven greenstone belts of the East Pilbara Terranes in the Pilbra Craton, Western Australia.|18/DEC/12
+74062|Strelley Pool Formation|Thickness range|5-1000m.  Extremely variable thickness and lithological composition on a regional scale, and rapid lateral variations over distances of 500 m to 1000 m.THICKNESS FOR TYPE AREA:  Averages 20 m in type area, but laterally variable between 10m and 30m.THICKNESS IN EAST PILBARA TERRANE:  0-1000 m|18/DEC/12
+74062|Strelley Pool Formation|Lithology|Regionally dominated by siliciclastic and volcaniclastic assemblages, laminated grey-white chert, representing silicified carbonate rocks, carbonate rocks with only minor silicification, and minor primary black, white, and jaspilitic chert with crystal fans (pseudomorphs after aragonite, gypsum, or barite).LITHOLOGY FOR TYPE AREA:  Sandstone, conglomerate, silicified carbonate rocks (laminated chert), and evaporite deposits.LITHOLOGY IN EAST PILBARA TERRANE:  Regionally dominated by siliciclastic assemblages, carbonate rocks, and laminated grey-wgite chert (slicified carbonate rocks). Minor primar black, white, and jaspilitic chert with crystal fans (pseudomorphs after aragonite, gypsum, or barite).|18/DEC/12
+74062|Strelley Pool Formation|Depositional environment|Continental, including fluviatile, deltaic, and shallow-water marine environments.IN TYPE SECTION:  Shallow-water marine, including tidal and supratidal.IN EAST PILBARA TERRANE:  Shallow-water marine, esturine, deltaic, beach, fluviatile, lacustrine, and sabkha environments.|18/DEC/12
+74062|Strelley Pool Formation|Fossils|Coniform stromatolites and trace fossils (microtubular structures).IN TYPE AREA:  Coniform stromatolites and trace fossils (microtabular structures).|18/DEC/12
+74062|Strelley Pool Formation|Diastems or hiatuses|Formation spans 75 million years based on dating of immediately underlying and overlying volcanic formations. More detailed mapping and internal geochronology on a regional scale is expected to reveal local breaks.IN TYPE AREA:   Indicated by lateral thickness variations of facies, evaporite deposits repeated at several stratigraphic levels, and horizons showing erosional freatures.|18/DEC/12
+74062|Strelley Pool Formation|Relationships and boundaries|Paraconformable to disconformable on the 3450-3427 Ma Panorama Formation (upper Warrawoona Group), and disconformably to paraconformably underlies the 3350-3315 Ma Euro Basalt (lower Kelly Group). Currently assigned to the Kelly Group (dominated by mafic volcanic rocks) based on apparent conformity and the presence of mafic volcaniclastic rocks in the upper part of the formation. However, conglomerate at the top of the formation in several areas indicates local erosional breaks between this formation and the overlying Euro Basalt.Unconformably to paraconformably overlies formations of the Warrawoona Group.|18/DEC/12
+74062|Strelley Pool Formation|Age reasons|Paleoarchean, 3427-3350 Ma, based on the youngest precise zircon U-Pb age obtained from the underlying Panorama Formation (3427 Ma; Nelson, 2001) and the oldest zircon U-Pb age from the Euro Basalt (3350 Ma: Geological Survey of Western Australia, 2005).|18/DEC/12
+74062|Strelley Pool Formation|Comments|Name change from Strelley Pool Chert proposed because (a) the formation contains a wide range of lithologies, in which chert is commonly absent or minor, and (b) most of the chert in the formation is a seconadary replacement (partly Cenozoic) of primary carbonate rocks.Includes most of the succession previously informally named as the Strelley Pool Chert (Lowe, 1983), and formally named as the Strelley Pool Chert (Van Kranendonk and Morant, 1998). The name is amended because 'chert' does not reflect the lithological diversity of the unit as mapped.|18/DEC/12
+74062|Strelley Pool Formation|References|Hickman, AH, 2008, Regional review of the 3426-3350 Ma Strelley Pool Formation, Pilbara Craton, Western Australia, Record 2008/15, 27p.Lowe, D.R., 1983, Restricted shallow-water sedimentation of early Archaean stromatolitic and evaporitic strata of the Strelley Pool Chert, Pilbara Block, Western Australia. Precambrian Research 19(3) p239-283.Nelson, D.R., 2001, Compilation of geochronology data, 2000, Geological Survey of Western Australia, Record 2001/2, 205p.Van Kranendonk, MJ, and Morant, P, 1998, Revised Archaean stratigraphy of the North Shaw 1:100 000 sheet, Pilbara Craton: Geological Survey of Western Australia, Annual Review 1997-98, p. 55-62.Van Kranendonk, M.J., Hickman, A.H., Smithies, R.H., Williams, I.R., Bagas, L., and Farrell, T.R., 2004, Event stratigraphy applied to 700 million years of Archaean crustal evolution, Pilbara Craton, Western Australia: Geological Survey of Western Australia, Annual Review 2003-04, p. 49-61.Van Kranendonk, M.J., Hickman, A.H., Smithies, R.H., Williams, I.R., Bagas, L., and Farrell, T.R., 2006, Revised lithostratigraphy of Archaean supracrustal and intrusive rocks in the northern Pilbara Craton, Western Australia. Western Australia Geological Survey, Record 2006/15, 75p.Geological Survey of Western Australia, 2005, Compilation of geochronological data, June 2005 update. Western Australia Geological Survey (DVD).|18/DEC/12
+74062|Strelley Pool Formation|Parent|Pilbara Supergroup. The formation is not assigned to a group.|18/DEC/12
+74062|Strelley Pool Formation|Reserved? Yes/No|Yes - will supersede Strelley Pool Chert when the definition is formally published in a GSWA Record (probably March 2008).|29/JAN/08
+74062|Strelley Pool Formation|State(s)|W.A.|29/JAN/08
+17925|Teichmans Group|Name source|Teichmans Gold Mine (abandoned); grid reference 21o16'N, 118o12'E, Pyramid 1:250 000 Sheet area.|
+17925|Teichmans Group|Unit history|Equated with Nickel River Formation on Yarraloola 1:250 000 Sheet and Talga Talga/Salgash Subgroups on Marble Bar and Nullagine 1:250 000 sheets (Hickman) & Lipple, in press).|
+17925|Teichmans Group|Type section locality|3.15 km of dominantly mafic and ultramafic volcanic rocks, intercalated banded cherts, minor acid volcancis and volcanoclastic sediments. Typical "greenstone" succession.|
+17925|Teichmans Group|Extent|The group occurs throughout the West Pilbara Goldfield but is best developed between Teichmans Gold Mine and the Yule River.|
+17925|Teichmans Group|Thickness range|Range 1-4 km|
+17925|Teichmans Group|Relationships and boundaries|Oldest known Archaean rocks in West Pilbara Goldfield. Basal unit intruded by diapiritic ganites. Overlain conformably by Gorge Creek Group.|
+17925|Teichmans Group|Age reasons|Lower Archaean > 3000 m.y.|
+17925|Teichmans Group|Defn author|Fitton M.J., Horwitz R.C., Sylvester G., 1975|
+17925|Teichmans Group|Proposed publication|CSIRO, Minerals Research Laboratories, Report No. FP 11.|
+17925|Teichmans Group|Comments|Notes on this Group were previously included as part of the Regal Formation of the Roebourne Group on both the Roebourne and Pyramid 1:250 000 Sheets.|
+24538|Tuckfield Member|Name source|Mt Tuckfield 18o42'S, 124o53'E)|
+24538|Tuckfield Member|Unit history|Forms main part of Poole Sandstone (Guppy et al., 1952). Previously termed "middle Poole Sandstone" by Crowe & Towner (1976a).|
+24538|Tuckfield Member|Type section locality|Mt Tuckfield (18o42'15"S, 124o53'35"E)|
+24538|Tuckfield Member|Extent|Exposed in and between the Poole, St George and Grant Ranges in the Fitzroy Trough of the Canning Basin. Molre isolated exposures also occur on the Lennard Shelf. Correlatives elsewhere in the basin are indefinite.|
+24538|Tuckfield Member|Thickness range|245 m at the type section, but the top is not exposed. 25 m thick in the southern Poole Range.|
+24538|Tuckfield Member|Lithology|Mainly thinly bedded and laminated very fine and fine-grained quartz and lithic wacke with minor quartz arenite and clay pellet conglomerate. Wave-formed ripple marks and bedding-surface trace fossils are common.|
+24538|Tuckfield Member|Relationships and boundaries|Conformably and disconformably overlies Nura Nura Member (Guppy et al., 1952). Disconformably overlain by Christmas Creek Member (Crowe & Towner, 1976b) and where the Christmas Creek Member is absent the Tuckfield Member is overlain by the Noonkanbah Formation, possibly disconformably.|
+24538|Tuckfield Member|Age reasons|Probably Artinskian as it overlies latest Sakmarian Nura Nura Member and is overlain by Artinskian Noonkanbah Formation.|
+24538|Tuckfield Member|Proposed publication|Annual Report Geological Survey of WA for 1976|
+24538|Tuckfield Member|First Reference|80/20975|
+24538|Tuckfield Member|Proposer|Towner R.R., Crowe R.W.A.|
+24538|Tuckfield Member|Reserved? Yes/No|Yes|
+18668|Tumbiana Formation|Name source|Tumbiana Pool on the Nullagine River (MGR 342 346).|
+18668|Tumbiana Formation|Unit history|Original name "Tumbiana Pisolite" (Noldart and Wyatt, 1962).|
+18668|Tumbiana Formation|Type section locality|Meentheena Basin, south of Tumbiana Pool on the Nullagine River.|
+18668|Tumbiana Formation|Extent|Southern part Marble Bar 1:250 000 Sheet; Meentheena Basin Nullagine 1:250 000 Sheet, Roy Hill 1:250 000 Sheet etc.|
+18668|Tumbiana Formation|Thickness range|At Meentheena, about 200 metres. On Marble Bar Sheet, about 50 metres.|
+18668|Tumbiana Formation|Lithology|Upper carbonate member, Lower tuff member.|
+18668|Tumbiana Formation|Relationships and boundaries|Part of the Fortescue Group. Conformably overlies Kylena Basalt. Conformably overlain by Nymerina Basalt. Consists of Meentheena carbonate and Mingah tuff members.|
+18668|Tumbiana Formation|Age reasons|Lower Proterozoic.|
+18668|Tumbiana Formation|Defn author|Lipple S.L., 1975|
+18668|Tumbiana Formation|Proposed publication|West. Australia Geol. Survey 1:250 000 Geol. Series Explan. Notes|
+18668|Tumbiana Formation|Status|1|
+29116|Warambie Basalt|Name source|Warambie Homestead; grid reference 20o57', 117o22', Roebourne 1:250 000 Sheet area.|
+29116|Warambie Basalt|Type section locality|200 metres of massive basalt in close proximity to Warambie Homestead.|
+29116|Warambie Basalt|Extent|The unit is exposed in an arcuate belt between Warambie Homestead and Whim Creek, on the Roebourne 1:250 000 Sheet.|
+29116|Warambie Basalt|Thickness range|Range 100-200 metres.|
+29116|Warambie Basalt|Lithology|A fine-grained grey-green amygdaloidal mafic volcanic, ranging in composition from andesite to basalt. Rare glomeroporphyritic plagioclase has been observed. Minor pyroclastic horizons and ultramafic flows occur near the base of the unit locally.|
+29116|Warambie Basalt|Relationships and boundaries|Appears to unconformably overlie either rocks of the Teichmans Group or Caines Well granite. It is conformably overlain by the Mons Cupri Volcananics.|
+29116|Warambie Basalt|Age reasons|Structural complexity and stratigraphic position suggest an Upper Archaean age. Geochronology on a unit within the Mons Cupri Volcanics has been published (Compston & Ariens, 1967) at an age of 3050 m.y. but more recently Ariens has revised this date to an age approximately in the range between 2 500 and 2 300 m.y.; the Warambie Basalt is thus older.|
+29116|Warambie Basalt|Defn author|Fitton M.J., Horwitz R.C., Sylvester G., 1975|
+29116|Warambie Basalt|Proposed publication|CSIRO, Minerals Research Laboratories, Report No. FP 11|
+29116|Warambie Basalt|State(s)|Warambie Basalt|
+26211|Whim Creek Group|Name source|Whim Creek centre (20o52'S, 117o50'E) Roebourne 1:250 000 Sheet areas.|
+26211|Whim Creek Group|Name source|Whim Creek Townsite and Mine; 20o51'S and 117o51'E on the Roebourne Sheet.|
+26211|Whim Creek Group|Unit history|Whim Creek Group of (1). Reasons for redefinition of the Whim Creek Group were published in (2). As defined by (1) the group includes the Mosquito Creek Formation (Mallina Formation of (1)) and the Lalla Rookh Sandstone (Constantine Sandstone of (1)) but these formations are currently regarded as forming part of the Gorge Creek Group (as originally defined in (4)). As stated in (2) the Mons Cupri Volcanics overlies the Mallina Formation (Mosquito Creek Formation) 15 km southeast of Sherlock. Also, the Whim Creek Group is less deformed than the Gorge Creek Group, lying immediately adjacent to the south.|
+26211|Whim Creek Group|Type section locality|Between Whim Creek centre and Mons Cupri (20o53'S, 117o48'E), but no single section affords a complete succession of the entire group.|
+26211|Whim Creek Group|Type section locality|The lower part of the sequence is well exposed 2.5 km east of Mons Cupri while the upper part is well exposed in the immediate vicinity of Whim Creek Mine.|
+26211|Whim Creek Group|Extent|Rocks of this unit are widely exposed between Whim Creek, Warambie Station, Kangan and to the west of Kangan some 80 km.|
+26211|Whim Creek Group|Extent|Approx. 100 km2 between Mount Negri (20o53'S, 117o48'E), but no single section affords a complete succession of the entire group.|
+26211|Whim Creek Group|Thickness range|Approx. 900 m|
+26211|Whim Creek Group|Lithology|The unit is composed of four named formations: (1) The Warambie Basalt, (2) The ;Mons Cupri Volcanics, (3) The Constantine Sandstone, (4) The Mallina Formation.|
+26211|Whim Creek Group|Relationships and boundaries|The unit is underlain unconformably by the Caines Well Granite or the Teichmans Group and overlain (probably disconformably by the Negri Volcanics).|
+26211|Whim Creek Group|Relationships and boundaries|Unconformably overlies the Warrawoona Group (equivalent to Teichmans Group of (1)) 4 km west of Mount Fraser (20o56'S, 117o33'E). See (1) and (2). Conformably or disconformably overlies the Gorge Creek Group (4) 15 km south east of Sherlock homestead (20o53'S, 117o38'E). See (2). Unconformably overlain by the Negri Volcanics (1), and newly redefined to appear in (3)) at Mount Negri and southwest of Mons Cupri. Unconformably overlain by the Fortescue Group (Lower Proterozoic) 3 km west-northwest of Warambie. Low angle unconformity separates the group from rocks correlated with the overlying Louden Volcanics (newly defined and to appear in (3) approx. 10 km south-southeast of Sherlock homestead.|
+26211|Whim Creek Group|Age reasons|Upper Archaean|
+26211|Whim Creek Group|Age reasons|Late Archaean. Unpublished geochronology indicates an age of approx. 2700-2600 my.|
+26211|Whim Creek Group|Proposed publication|Geology of the Pilbara Block and its environs GSWA Bull.|
+26211|Whim Creek Group|Proposed publication|CSIRO, Minerals Research Laboratories, Report No. FP 11|
+26211|Whim Creek Group|Apprdate|14-SEP-1979|
+26211|Whim Creek Group|Defn approved by|Western Australia|
+26211|Whim Creek Group|Defn approved by|Western Australia|
+26211|Whim Creek Group|Proposer|Fitton M.J. Horwitz R.C., Sylvester G.|
+26211|Whim Creek Group|Proposer|Hickman A.H.|
+26211|Whim Creek Group|Status|1|
+30320|Windoo Sandstone|Name source|Windoo Hill, GR , Nicholson 1:100 000 Sheet area, Gordon Downs 1:250 000 Sheet area.|
+30320|Windoo Sandstone|Unit history|( No synonymy given)|
+30320|Windoo Sandstone|Geomorphic expression|Low hills and small mesas.|
+30320|Windoo Sandstone|Type section locality|At GR DE733765, Nicholson 1:100 000 Sheet area, where Cambrian Antrim Plateau Volcanics are overlain by 20 m of flat-lying sandstone, mapped as Windoo Sandstone, forming a small mesa.|
+30320|Windoo Sandstone|Extent| Nicholson 1:100 000 Sheet area, Gordon Downs 1:250 000 Sheet area, W.A.|
+30320|Windoo Sandstone|Thickness range|Maximum probably less than 50 m.|
+30320|Windoo Sandstone|Lithology|Thin to thick bedded, variably lithic quartz sandstone, ripple marks and  large-scale convolute bedding common; thinly bedded claystone and dolomitic mudstone present locally at base and stromatolitic chert present locally near top.|
+30320|Windoo Sandstone|Depositional environment|Shallow marine?|
+30320|Windoo Sandstone|Relationships and boundaries|Overlies, probably disconformably, Antrim Plateau Volcanics; top not seen.|
+30320|Windoo Sandstone|Age reasons|Palaeozoic - Cambrian or younger.|
+30320|Windoo Sandstone|Correlations|May be similar in age to sandstone in the Elder Subgroup of the Cambrian Goose Hole Group or in the Devonian Mahony Group of the Ord Basin succession.|
+30320|Windoo Sandstone|Comments| Previously mapped as Gardiner beds (Gemuts & Smith 1968).|
+30320|Windoo Sandstone|References|Gemuts, I. & Smith, J.W., 1968. Gordon Downs, Western Australia ? 1:250 000 	Geological Series. Bureau of Mineral Resources, Australia, Explanatory Notes SE/52-10.|
+24577|Winemaya Quartzite|Name source|Winemaya Spring, 10.5 km north of the type section (30o14'S; 115o59'E). Moora 1:250 000 Sheet area.|
+24577|Winemaya Quartzite|Type section locality|1 365 m of bedded light grey orthoquartzites, with minor red-brown and grey siltstone and chert. The section commences about 4 km west of Longreach Homestead and extends for some 2.2 km to the east-northeast.|
+24577|Winemaya Quartzite|Extent|Scattered exposures over a belt 5 km wide extending from 9 km northwest of Watheroo to 13 km northwest of Marchagee.|
+24577|Winemaya Quartzite|Thickness range|The type section is the only section that has been measured. The top is not exposed and it is likely that a considerable additional thickness is obscured by Quaternary deposits.|
+24577|Winemaya Quartzite|Lithology|Orthoquartzite, light grey to medium grey, fine- to coarse-grained with some pebble conglomerate with chert and orthoquartzite clasts: with minor red-brown and grey micaceous siltstone and chert.|
+24577|Winemaya Quartzite|Relationships and boundaries|The Winemaya Quartzite rests with apparent conformity on the Noingara Siltstone. The top of the formation is not exposed. The base of the formation is defined by a unit, 245 m thick, consisting of light-grey, coarse-grained, orthoquartzite, well bedded towards the top, with occasional thin beds of pebble conglomerate.|
+24577|Winemaya Quartzite|Age reasons|No fossils have so far been found in the Winemaya Quartzite. However, the unit is believed to be of Proterozoic age because of its relationship with underlying formations of the Moora Group.|
+24577|Winemaya Quartzite|Proposed publication|Geology of Western Australia; West. Aust. Geol. Survey, Memoir 2; in press.|
+24577|Winemaya Quartzite|Proposer|Low G.H.|
+24577|Winemaya Quartzite|Resdate|15-JAN-1975|
+27255|Winifred Formation|Name source|Lake Winifred (22o45'S, 123o30'E)|
+27255|Winifred Formation|Unit history|Middle part of Grant Formation (Guppy et al., 1952) now termed Grant Group. Referred to as Dora Shale by Koop (1966) and as "middle shale unit" by Crowe & Towner (1976).|
+27255|Winifred Formation|Type section locality|Section at 22o52'40"S, 123o36'20"E near Well 26 on the Tabletop Sheet area. A subsurface reference section between 814-1069 m in Kidson No. 1 (22o36'59"S, 125o00'16"E) is also designated.|
+27255|Winifred Formation|Extent|Only exposures so far identified occur in Well 26-27 area near L. Winifred, Canning Basin. In subsurface the unit has been traced throughout the basin.|
+27255|Winifred Formation|Thickness range|Up to 100 m thick in Fitzroy Trough-Lennard Shelf area; up to 190 m thick in Gregory Sub-basin; up to 256 m in Kidson Sub-basin.|
+27255|Winifred Formation|Lithology|On the surface the unit is composed of mudstone with minor very fine-grained quartz wacke. Subsurface sections contain a similar lithology.|
+27255|Winifred Formation|Relationships and boundaries|Conformably overlain by Carolyn Formation except where overlapped. Conformably overlies Betty Formation and probably interfingers laterally with the Paterson Formation.|15/JAN/07
+27255|Winifred Formation|Age reasons|Sakmarian sensu lato based on palynological evidence (Broad & McDermott, 1974).B8|
+27255|Winifred Formation|Proposed publication|Annual Report Geological Survey of Western Australia for 1976|
+27255|Winifred Formation|Reserved? Yes/No|Yes|
+20708|Wye Worry Member|Name source|Wye Worry Bore, lat. 18o42'25"S, long. 125o15'20"E, on Cherrabun Station in the St George Range, Noonkanbah 1:250 000 Sheet area.|
+20708|Wye Worry Member|Type section locality|Latitude 18o46'25"S, longitude 125o18'50"E in the eastern St George Range.|
+20708|Wye Worry Member|Extent|The member crops out in the St George Range, the Poole Range, in the Lauris Range and in isolated hills around Fitzroy Crossing on the Noonkanbah Sheet area. It extends onto the Mt Ramsay 1:250 000 Sheet area to the east.|
+20708|Wye Worry Member|Thickness range|Range from 25 m in central St George Range to at least 95 m in type section.|
+20708|Wye Worry Member|Lithology|Mainly sandy siltstone and shale with calcareous concretions and striated and facetted glacial dropstones. Contains varves of graded silt and clay at the base. Contains lenses of tillitic conglomerate and is snady towards the top. In the Poole Range the member is slumped and deformed.|
+20708|Wye Worry Member|Relationships and boundaries|Overlies undivided Grant Formation probably disconformably. Conformably overlain by the Millajiddee Member in most of the St George Range and in the Poole Range; at Mt Thorlan and southwestern St George Range the Nura Nura Member of the Poole Sandstone rests unconformably on the Wye Worry Member.|
+20708|Wye Worry Member|Age reasons|Fauna consists of pelecypods, bryozoans, gastropods and brachiopods. The fauna has much in common with that of the upper part of the Lyons Group in the Carnarvon Basin. The age is Sakmarian.|
+26238|Wyman Formation|Name source|Wyman's Well (Military Grid 262 339), Marble Bar 1:250 000 Sheet area.|
+26238|Wyman Formation|Unit history|Rocks now assigned to this formation in the Wymans Well and Upper Budjan Creek areas were described by Noldart and Wyatt (1962, p.108-109) as belonging to the "Copper Hills porphyry".|
+26238|Wyman Formation|Type section locality|The type area is along Camel Creek south of Wyman's Well and near Fieldings Gully. The unit is also well exposed in the upper reaches of Budjan Creek.|
+26238|Wyman Formation|Extent|The Wyman Formation occurs in the central portion of the Warrawoona Syncline, south of Wyman's Well, in an arcuate belt near the eastern margin of Strelley Granite, north of Soanesville, in the Coongan Syncline and south of Kelly.|
+26238|Wyman Formation|Thickness range|The formation has a maximum thickness of about 1 km.|
+26238|Wyman Formation|Lithology|The formation typically consists of massive to schistose, flow banded, porphyritic and locally strikingly columnar jointed rhyolite. Further description of the rhyolite is given by Hickman and Lipple (in prep.) and chemical analyses of the rock are presented in their Table 14B. The formation also contains felsic tuff and agglomerate and minor basalt lava and agglomerate in the belt east of Strelley Granite. The columnar-jointing is well illustrated by photographs in Noldart and Wyatt (1962, p.108-109).|
+26238|Wyman Formation|Relationships and boundaries|The formation is conformable with the underlying Salgash Subgroup in the Warrawoona Syncline but unconformably overlies the Salgash Subgroup in the Kelly Belt and is there unconformably overlain by the Budjan Creek Formation. It is locally overlain unconformably by the Soanesville Subgroup in the Soanesville Belt.|
+26238|Wyman Formation|Proposed publication|West. Australia Geol. Survey 1:250 000 Geol. Series Explan. Notes|
+35993|Yangibana Granite|Name source|Yangibana Creek (411500E 7356300N, Zone 50, MGA 94) on the Edmund 100K sheet area|
+35993|Yangibana Granite|Unit history|Named and described by Pearson (1996) and mentioned by Pearson et al (1996). The definition expands on the distribution of the unit as described by Pearson (1996).|
+35993|Yangibana Granite|Geomorphic expression|Typically, low rounded hills covered in tors and boulders.|
+35993|Yangibana Granite|Type section locality|About 1.5km south of the Yangibana-Frasers REE prospect near the southern edge of the Edmund 100k sheet area, centred at 430100E 7349400N (Zone 50 MGA94). The locality can be accessed via station tracks from Gifford Creek Homestead to the prospect, then south off road. The locality is centred on a GSWA geochronology samples site (GSWA 169055). North of the site, toward the edge of the pluton, the granite contains numerous thin schlieren of biotite. About 500m north of the sample site, there is a contact with a phase of the Yangibana Granite that is rich in inclusions of metasedimentary rock.|
+35993|Yangibana Granite|Extent|The Yangibana Granite forms two plutons on the southern half of the Edmund 100k sheet area, as well as dykes and veins in the surrounding metasedimentary rocks.|
+35993|Yangibana Granite|Lithology|The Yangibana Granite is a massive, leucocratic, medium-grained biotite-muscovite syenogranite to monzogranite, which ranges from being equigranular to slightly porphyritic. Locally the granite contains clots of tourmaline. Large areas of the unit that are rich in inclusions of metasedimentary rock have been assigned to an un-named member of the unit.|
+35993|Yangibana Granite|Relationships and boundaries|Dykes and veins of the Yangibana Granite extensively intrude metasedimentary rocks of the Pooranoo Metamorphics. Dykes and veins of the granite intrude the Pimbyana Granite. The Dingo Creek Granite is unconformably overlain by sedimentary rocks of the Edmund Group (Bangemall Supergroup) in the southeastern corner of the Edmund 100K sheet.|
+35993|Yangibana Granite|Age reasons|The granite has been dated at two localities on the Edmund 100k sheet area: 4 km southeast of Fraser Well (GSWA sample 169055; Nelson, 2002) and 4 km southeast of Yangibana Bore (GSWA sample 169059; Nelson, 2002).  The two samples gave U-Pb SHRIMP ages of, respectively, 1659 +/-10 Ma and 1660 +/-9 Ma. These ages are comparable to other units of the Durlacher Supersuite.|19/MAY/10
+35993|Yangibana Granite|Correlations|The Yangibana Granite is lithologically similar to, and probably coeval with, other leucocratic muscovite-biotite(-tourmaline) granites of the Durlacher Supersuite farther to the west and northwest on the Mangaroon and southern Maroonah 100k sheet areas.|
+35993|Yangibana Granite|References|Nelson D. R. 2002. Compilation of geochronology data 2001. Western Australia Geological Survey, Record 2002/2.                                                                                                                                   
+Pearson J. M. 1996. Alkaline rocks of the Gifford Creek Complex, Gascoyne Province, Western Australia - their petrogenetic and tectonic significance. PhD thesis (unpublished), University of Western Australia.         Pearson J. M. Taylor W. R. & Barley M. E. 1996. Geology of the alkaline Gifford Creek Complex, Gascoyne Complex, Western Australia. Australian Journal of Earth Sciences 43, 299-309.|19/MAY/10
+20935|Yellow Drum Sandstone|Name source|Yellow Drum Bore; 125o23'45"E, 18o05'S, Noonkanbah 1:250 000 Sheet area.|
+20935|Yellow Drum Sandstone|Unit history|Thomas (1959) included the uppermost part in his Laurel Formation.|
+20935|Yellow Drum Sandstone|Type section locality|(WCB 004) 14 m of dolomite with shale and sandstone complemented by 68.9 m of sandstone and dolomite with minor shale from BMR Noonkanbah No. 4 which spudded in at the top of the type section. The bottom is recognised by the incoming of sandstone and dolomite, the top by the incoming of pellital limestone.|
+20935|Yellow Drum Sandstone|Extent|Southwest of the Oscar Range and in Station Creek. Outcrop is poor but the unit is known from boreholes to the south of the Oscar and Napier Ranges.|
+20935|Yellow Drum Sandstone|Thickness range|Range 50-300 m|
+20935|Yellow Drum Sandstone|Lithology|The dominant rock types are sandstone, dolomite and siltstone together with minor shale and limestone. The sandstones are white to yellow brown or grey, calcareous and quartzose; the dolomites are porous, greyish yellow to dark grey; the siltstones are brown.|
+20935|Yellow Drum Sandstone|Relationships and boundaries|Conformably overlies and interfingers with the Gumhole Formation. Conformably overlain and interfingers with the Laurel Formation.|
+20935|Yellow Drum Sandstone|Age reasons|Contains a sparse microbiota of spores and conodonts which show that the unit is diachronous and was deposited during the latest Late Devonian and earliest Early Carboniferous (do VI - tnla-tn-lb of the European sequence).|
+20935|Yellow Drum Sandstone|Defn Reference|79/20374; 83/23481|

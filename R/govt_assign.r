@@ -2,6 +2,9 @@
 
 govt <- read.delim('../data/govt_geology.txt', sep = '|', 
                    stringsAsFactors = FALSE)
+govt <- govt[!(duplicated(govt[, 1])), ]
+govt <- govt[order(govt[, 1]), ]
+govt[, 1] <- gsub(', ', '/', govt[, 1])
 
 forms <- read.csv('../data/geology.csv', stringsAsFactors = FALSE)
 
@@ -17,9 +20,7 @@ interest <- c('limestone', 'dolomite', 'carbonate', 'lime mudstone',
               'shale', 'mudstone', 'siltstone', 'conglomerate', 'quartzite',
               'phyllite', 'schist', 'slate', 'mixed carbonate-siliciclastic', 
               'marl')
-geo <- unique(forms$lithology1)
-geo <- c(geo, unique(forms$lithology2))
-geo <- unique(c(geo, interest))
+geo <- unique(c(forms$lithology1, forms$lithology2, interest))
 geo <- geo[geo != '']
 
 # go through the lithologies and match with the important geological information
@@ -35,7 +36,6 @@ for(ii in seq(length(geo))) {
 }
 mm <- lapply(oo, function(x) {
              Map(function(a, b) a[b], a = lith, b = x)})
-
 mm <- do.call(Map, c(c, mm))
 ww <- do.call(Map, c(c, ww))
 ww <- lapply(ww, rank)
