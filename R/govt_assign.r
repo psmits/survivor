@@ -1,4 +1,5 @@
 # assign the exact lithologies of the governmental information
+source('../R/desc2lith.r')
 
 govt <- read.delim('../data/govt_geology.txt', sep = '|', 
                    stringsAsFactors = FALSE)
@@ -8,10 +9,10 @@ govt[, 1] <- gsub(', ', '/', govt[, 1])
 
 forms <- read.csv('../data/geology.csv', stringsAsFactors = FALSE)
 
-lith <- tolower(govt$Lithology.Description)
-lith <- gsub(pattern = '[^[:alnum:] ]', '', lith)
-lith <- lapply(lith, function(x) 
-               unlist(strsplit(x, split = '\\s', perl = TRUE)))
+glith <- tolower(govt$Lithology.Description)
+glith <- gsub(pattern = '[^[:alnum:] ]', '', glith)
+glith <- lapply(glith, function(x) 
+                unlist(strsplit(x, split = '\\s', perl = TRUE)))
 
 interest <- c('limestone', 'dolomite', 'carbonate', 'lime mudstone', 
               'grainstone', 'wackestone', 'packstone', 'bafflestone',
@@ -23,23 +24,17 @@ interest <- c('limestone', 'dolomite', 'carbonate', 'lime mudstone',
 geo <- unique(c(forms$lithology1, forms$lithology2, interest))
 geo <- geo[geo != '']
 
-# go through the lithologies and match with the important geological information
-ww <- oo <- list()
-for(ii in seq(length(geo))) {
-  aa <- bb <- list()
-  for(jj in seq(length(lith))) {
-    aa[[jj]] <- grepl(geo[ii], lith[[jj]])
-    bb[[jj]] <- grep(geo[ii], lith[[jj]])
-  }
-  oo[[ii]] <- aa
-  ww[[ii]] <- bb
-}
-mm <- lapply(oo, function(x) {
-             Map(function(a, b) a[b], a = lith, b = x)})
-mm <- do.call(Map, c(c, mm))
-ww <- do.call(Map, c(c, ww))
-ww <- lapply(ww, rank)
+govt.rock <- desc2lith(glith, geo)
+names(govt.rock) <- gsub(pattern = '\\s', '_', govt[, 1])
+save(govt.rock, file = '../data/rock_names.rdata')
 
-mm <- Map(function(x, y) x[y], mm, ww)
 
-names(mm) <- gsub(pattern = '\\s', '_', govt[, 1])
+# extract the lithologies from the occurrence information
+occs <- read.csv('../data/psmits-occs.csv', stringsAsFactors = FALSE)
+olith <- occs$lithdescript
+olith <- gsub(pattern = '[^[:alnum:] ]', '', olith)
+olith <- lapply(olith, function(x) 
+                unlist(strsplit(x, split = '\\s', perl = TRUE)))
+
+occ.rock <- desc2lith(olith, geo)
+save(occ.rock, file = '../data/occ_rocks.rdata')
