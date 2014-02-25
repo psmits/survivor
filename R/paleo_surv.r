@@ -25,5 +25,9 @@ paleosurv <- function(fad, lad, start, end) {
   rr <- which(!is.na(fad) & is.na(lad))
   fad[rr] <- abs(fad[rr] - abs(end - old))
 
+  # too early
+  ee <- which(is.na(fad) & !is.na(lad))
+  fad[ee] <- start - lad[ee]
+
   Surv(time = fad, time2 = lad, type = 'interval2')
 }
