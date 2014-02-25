@@ -13,9 +13,9 @@ paleosurv <- function(fad, lad, start, end) {
   fad[left] <- NA
   lad[right] <- NA
 
-  old <- max(fad, na.rm = TRUE)
-  fad <- abs(fad - old)
-  lad <- abs(lad - old)
+  zero <- max(fad, na.rm = TRUE)
+  fad <- abs(fad - zero)
+  lad <- abs(lad - zero)
 
   # complete
   exact <- which(!is.na(fad) & !is.na(lad))
@@ -23,11 +23,12 @@ paleosurv <- function(fad, lad, start, end) {
 
   # right
   rr <- which(!is.na(fad) & is.na(lad))
-  fad[rr] <- abs(fad[rr] - abs(end - old))
+  fad[rr] <- abs(fad[rr] - abs(end - zero))
 
   # too early
   ee <- which(is.na(fad) & !is.na(lad))
-  fad[ee] <- start - lad[ee]
+  fad[ee] <- lad[ee]
+  lad[ee] <- NA
 
   Surv(time = fad, time2 = lad, type = 'interval2')
 }
