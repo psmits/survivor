@@ -28,3 +28,52 @@ gg <- gg + theme(axis.title.y = element_text(angle = 0),
                  legend.text = element_text(size = 15),
                  legend.title = element_text(size = 16),
                  strip.text = element_text(size = 15))
+ggsave(filename = '../doc/figure/east_cast.png', plot = gg,
+       width = 15, height = 10)
+
+# substrate
+sda <- melt(substats)
+sda$L3 <- as.numeric(sda$L3)
+sda$L2[sda$L2 == 'bc'] <- 'BC'
+sda$L2[sda$L2 == 'end'] <- 'E'
+sda$L2[sda$L2 == 'avgcoc'] <- 'Occ'
+sda$L2[sda$L2 == 'code'] <- 'Code length'
+
+gs <- ggplot(sda, aes(x = L3, y = value, colour = L1))
+gs <- gs + geom_line()
+gs <- gs + scale_color_manual(values = cbp,
+                              name = 'Substrate\nAffinity')
+gs <- gs + labs(x = 'Time (My)')
+gs <- gs + facet_wrap(~ L2, scales = 'free')
+gs <- gs + theme(axis.title.y = element_text(angle = 0),
+                 axis.text = element_text(size = 17),
+                 axis.title = element_text(size = 20),
+                 legend.text = element_text(size = 15),
+                 legend.title = element_text(size = 16),
+                 strip.text = element_text(size = 15))
+ggsave(file = '../doc/figure/substrate_network.png', plot = gs,
+       width = 15, height = 10)
+
+# habitat
+
+hda <- melt(habstats)
+hda$L3 <- as.numeric(hda$L3)
+hda$L2[hda$L2 == 'bc'] <- 'BC'
+hda$L2[hda$L2 == 'end'] <- 'E'
+hda$L2[hda$L2 == 'avgcoc'] <- 'Occ'
+hda$L2[hda$L2 == 'code'] <- 'Code length'
+
+gh <- ggplot(hda, aes(x = L3, y = value, colour = L1))
+gh <- gh + geom_line()
+gh <- gh + scale_color_manual(values = cbp,
+                              name = 'Substrate\nAffinity')
+gh <- gh + labs(x = 'Time (My)')
+gh <- gh + facet_wrap(~ L2, scales = 'free')
+gh <- gh + theme(axis.title.y = element_text(angle = 0),
+                 axis.text = element_text(size = 17),
+                 axis.title = element_text(size = 20),
+                 legend.text = element_text(size = 15),
+                 legend.title = element_text(size = 16),
+                 strip.text = element_text(size = 15))
+ggsave(file = '../doc/figure/habitat_network.png', plot = gh,
+       width = 15, height = 10)

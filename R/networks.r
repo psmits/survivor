@@ -19,6 +19,8 @@ for(ii in seq(nrow(bb))) {
 }
 info$bins <- bins
 
+# east coast
+info <- info[info$state != 'Queensland', ]
 
 # occurrence grids
 gid <- grid.id(lat = info$paleolatdec, long = info$paleolngdec, 
@@ -48,3 +50,24 @@ nets <- network.bin(occ,
 # network measures
 stats <- lapply(biogeosum, function(x) {
                 lapply(nets, x)})
+
+# split by category
+substrate <- split(occ, occ$lithology1)
+subnets <- lapply(substrate, function(x) {
+                  network.bin(x,
+                              bin = 'bins',
+                              taxa = 'occurrence.genus_name',
+                              loc = 'gid')})
+substats <- lapply(subnets, function(x) {
+                   lapply(biogeosum, function(y) {
+                          lapply(x, y)})})
+
+habitat <- split(occ, occ$environment)
+habnets <- lapply(habitat, function(x) {
+                  network.bin(x,
+                              bin = 'bins',
+                              taxa = 'occurrence.genus_name',
+                              loc = 'gid')})
+habstats <- lapply(habnets, function(x) {
+                   lapply(biogeosum, function(y) {
+                          lapply(x, y)})})
