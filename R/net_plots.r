@@ -66,7 +66,7 @@ hda$L2[hda$L2 == 'code'] <- 'Code length'
 gh <- ggplot(hda, aes(x = L3, y = value, colour = L1))
 gh <- gh + geom_line()
 gh <- gh + scale_color_manual(values = cbp,
-                              name = 'Substrate\nAffinity')
+                              name = 'Habitat\nAffinity')
 gh <- gh + labs(x = 'Time (My)')
 gh <- gh + facet_wrap(~ L2, scales = 'free')
 gh <- gh + theme(axis.title.y = element_text(angle = 0),
