@@ -2,6 +2,7 @@ library(survival)
 library(ggplot2)
 library(scales)
 library(reshape2)
+source('../R/step_ribbon.r')
 
 source('../R/basic_surv.r')
 
@@ -21,6 +22,7 @@ ggkma <- ggkma + geom_step()
 ggkma <- ggkma + geom_ribbon(aes(x = time, ymax = upper, ymin = lower, fill = aff), 
                              stat = 'stepribbon', alpha = 0.3, colour = NA)
 ggkma <- ggkma + labs(x = 'time', y = 'S(t)')
+ggkma <- ggkma + coord_cartesian(xlim = c(0,42))
 ggkma <- ggkma + scale_color_manual(values = cbp,
                                     name = 'substrate\npreference')
 ggkma <- ggkma + scale_fill_manual(values = cbp,
@@ -41,9 +43,10 @@ kmecurve <- cbind(data.frame(time = kmhab$time), surv = kmhab$surv,
                   hab = ee)
 ggkme <- ggplot(kmecurve, aes(x = time, y = surv, colour = hab)) 
 ggkme <- ggkme + geom_step()
-ggkma <- ggkma + geom_ribbon(aes(x = time, ymax = upper, ymin = lower, fill = aff), 
+ggkme <- ggkme + geom_ribbon(aes(x = time, ymax = upper, ymin = lower, fill = hab), 
                              stat = 'stepribbon', alpha = 0.3, colour = NA)
 ggkme <- ggkme + labs(x = 'time', y = 'S(t)')
+ggkme <- ggkme + coord_cartesian(xlim = c(0,42))
 ggkme <- ggkme + scale_color_manual(values = cbp,
                                     name = 'habitat\npreference')
 ggkme <- ggkme + scale_fill_manual(values = cbp,
@@ -75,8 +78,7 @@ ggaff <- ggplot(affcurve, aes(x = Var1, y = value, colour = Var2))
 ggaff <- ggaff + geom_line()
 ggaff <- ggaff + geom_ribbon(aes(ymin = value - se.fit, ymax = value + se.fit,
                                  fill = Var2), alpha = 0.3, colour = NA)
-ggaff <- ggaff + coord_flip()
-ggaff <- ggaff + labs(y = 'time', x = 'S(t)')
+ggaff <- ggaff + coord_flip(ylim = c(0,42))
 ggaff <- ggaff + scale_fill_manual(values = cbp,
                                    name = 'substrate\npreference')
 ggaff <- ggaff + scale_colour_manual(values = cbp, 
@@ -107,6 +109,7 @@ gghab <- gghab + geom_line()
 gghab <- gghab + geom_ribbon(aes(ymin = value - se.fit, ymax = value + se.fit,
                                  fill = Var2), alpha = 0.3, colour = NA)
 gghab <- gghab + labs(y = 'time', x = 'S(t)')
+gghab <- gghab + coord_flip(ylim = c(0,42))
 gghab <- gghab + scale_fill_manual(values = cbp,
                                    name = 'habitat\npreference')
 gghab <- gghab + scale_colour_manual(values = cbp, 
@@ -116,6 +119,5 @@ gghab <- gghab + theme(axis.title.y = element_text(angle = 0),
                        axis.title = element_text(size = 23),
                        legend.text = element_text(size = 17),
                        legend.title = element_text(size = 19))
-gghab <- gghab + coord_flip()
 ggsave(filename = '../doc/figure/hab.png', plot = gghab,
        height = 10, width = 15)
