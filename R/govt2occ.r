@@ -1,5 +1,7 @@
 # match the govermental lithology information with the units 
 # present in the brachiopod occurrence data
+library(plyr)
+source('../R/lith_tabler.r')
 
 load('../data/rock_names.rdata')  # govt.rock is the govt geological information 
 
@@ -40,7 +42,17 @@ forms <- occs$formation
 forms.match <- matcher(forms, govt)
 forms.success <- lapply(forms.match$matches, any)
 forms.geol <- lapply(forms.match$matches[unlist(forms.success)],
-                     function(x) govt.rock[x])
+                     function(x) govt.rock[x])  # my rock information
+# grab the lithologies from the occ
+occ.form <- forms %in% names(which(unlist(forms.success)))
+form.lith <- cbind(occs$lithology1[occ.form], occs$lithology2[occ.form])
+form.lith <- aaply(form.lith, 1, function(x) gsub('[^[:alnum:] ]', '', x))
+form.lith <- cbind(forms[occ.form], form.lith)
+form.lith <- form.lith[!duplicated(form.lith[, 1]), ]
+forms.tab <- lith.tab(forms.geol, form.lith)
+label(forms.tab) <- 'tab:form_lith'
+print.xtable(forms.tab, file = '../doc/form_lith.tex',
+             include.rownames = FALSE)
 
 groups <- occs$geological_group
 groups.match <- matcher(groups, govt)
