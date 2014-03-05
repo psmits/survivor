@@ -6,6 +6,7 @@ source('../R/lith_tabler.r')
 load('../data/rock_names.rdata')  # govt.rock is the govt geological information 
 
 occs <- read.csv('../data/psmits-occs.csv', stringsAsFactors = FALSE)
+occs <- occs[occs$period == 'Permian', ]
 recs <- read.csv('../data/geology.csv', stringsAsFactors = FALSE)
 
 govt <- names(govt.rock)

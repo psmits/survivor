@@ -3,6 +3,7 @@ library(plyr)
 
 gov <- read.csv('../data/geology.csv', stringsAsFactors = FALSE)
 occ <- read.csv('../data/psmits-occs.csv', stringsAsFactors = FALSE)
+occ <- occ[occ$period == 'Permian', ]
 
 form <- cbind(occ$geological_group, occ$formation, occ$member)
 
