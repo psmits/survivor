@@ -1,6 +1,8 @@
 library(survival)
 
 source('../R/mung.r')
+# use the Pr(TRAIT) values for survival instead of the categories
+
 
 # nonparametric K-M curves
 kmaff <- survfit(formula = surv ~ aff, data = persist)

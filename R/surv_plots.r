@@ -78,6 +78,7 @@ ggaff <- ggplot(affcurve, aes(x = Var1, y = value, colour = Var2))
 ggaff <- ggaff + geom_line()
 ggaff <- ggaff + geom_ribbon(aes(ymin = value - se.fit, ymax = value + se.fit,
                                  fill = Var2), alpha = 0.3, colour = NA)
+ggaff <- ggaff + labs(y = 'time', x = 'S(t)')
 ggaff <- ggaff + coord_flip(ylim = c(0,42))
 ggaff <- ggaff + scale_fill_manual(values = cbp,
                                    name = 'substrate\npreference')
