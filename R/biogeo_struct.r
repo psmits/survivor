@@ -50,14 +50,16 @@ bc <- function(graph, l.small = TRUE) {
 #' TODO check for bipartite property
 #'
 #' @param graph object of class igraph (bipartite)
+#' @param membership vector of biome membership
 #' @param l.small logical if smaller part of bipartite projection is locality information
+#' @param trait vector of trait values
 #' @return
 #' @export
 #' @keywords
 #' @author Peter D Smits <psmits@uchicago.edu>
 #' @references
 #' @examples
-endemic <- function(graph, l.small = TRUE) {
+endemic <- function(graph, membership, l.small = TRUE, trait = NULL) {
   bip <- bipartite.projection(graph)
   len <- lapply(bip, function(x) length(V(x)))
   ws <- which.min(unlist(len))
@@ -71,12 +73,37 @@ endemic <- function(graph, l.small = TRUE) {
     tx <- V(bip[[ws]])$name
   }
 
-  nei <- lapply(tx, function(x) neighbors(graph, x))
-  tps <- table(unlist(nei))
-  ende <- which(unlist(lapply(nei, length)) == 1)
-  locs <- table(unlist(nei[ende]))
-  ww <- match(names(locs), names(tps))
-  avg.end <- sum(locs / tps[ww]) / length(st)
+  tx.mem <- membership[V(graph)$name %in% tx]
+  loc.mem <- membership[!(V(graph)$name %in% tx)]
+
+  nei <- lapply(st, function(x) neighbors(graph, x))
+  mem.nei <- split(nei, loc.mem)
+  oo <- lapply(mem.nei, function(x) unique(unlist(x)))
+  uni <- list()
+  for (ii in seq(length(oo))) {
+    shared <- oo[[ii]] %in% unique(unlist(oo[-ii]))
+    uni[[ii]] <- oo[[ii]][!shared]
+  }
+
+  if(!(is.null(trait))) {
+    uni.trait <- lapply(uni, function(x) trait[x])
+    uni.tot <- lapply(uni.trait, table)
+
+    other.trait <- lapply(oo, function(x) trait[x])
+    other.tot <- lapply(other.trait, table)
+
+    tt <- list()
+    for (ii in seq(length(uni.tot))) {
+      ww <- match(names(uni.tot[[ii]]), names(other.tot[[ii]]))
+      tt[[ii]] <- uni.tot[[ii]] / other.tot[[ii]][ww]
+    }
+    prop <- split(unlist(tt), names(unlist(tt)))
+    avg.end <- lapply(prop, mean)
+  } else {
+    prop <- unlist(Map(function(x, y) length(x) / length(y), uni, oo))
+    num <- sum(prop)
+    avg.end <- num / length(oo)
+  }
 
   avg.end
 }
@@ -136,14 +163,16 @@ corefind <- function(nei){
 #' How many localities do taxa appear in on average?
 #'
 #' @param graph object of class igraph (bipartite)
+#' @param membership vector of biome memberships
 #' @param l.small logical if smaller part of bipartite projection is locality information
+#' @param trait partition based on trait information (vector)
 #' @return
 #' @export
 #' @keywords
 #' @author Peter D Smits <psmits@uchicago.edu>
 #' @references
 #' @examples
-avgocc <- function(graph, l.small = TRUE) {
+avgocc <- function(graph, membership, l.small = TRUE, trait = NULL) {
   bip <- bipartite.projection(graph)
 
   len <- lapply(bip, function(x) length(V(x)))
@@ -158,13 +187,23 @@ avgocc <- function(graph, l.small = TRUE) {
     st <- V(bip[[wm]])$name
   }
 
-  # ask the neighbors of all the taxa
-  nei <- lapply(taxa, function(x) neighbors(graph, x))
-  # (sum l / L) / N
-  occ <- lapply(lapply(nei, length), function(x) x / length(st))
-  ao <- mean(unlist(occ))
+  tx.mem <- membership[V(graph)$name %in% taxa]
+  loc.mem <- membership[!(V(graph)$name %in% taxa)]
 
-  ao
+  nei <- lapply(st, function(x) neighbors(graph, x)) # taxa per grid cell
+  mem.nei <- split(nei, loc.mem) # taxa per biome
+  oo <- lapply(mem.nei, function(x) unique(unlist(x))) # taxa that occur in biome
+  occ <- table(unlist(oo)) # number of biomes per taxon
+  relocc <- occ/length(oo)
+
+  if(!(is.null(trait))) {
+    spl <- split(relocc, trait)
+    avg.occ <- lapply(spl, mean)
+  } else {
+    avg.occ <- mean(relocc) # average relative number of biome occurrences.
+  }
+
+  avg.occ
 }
 
 
@@ -174,3 +213,44 @@ code <- function(x, l.small = TRUE) {
   code.length(y)
 }
 biogeosum <- list(bc = bc, end = endemic, avgcoc = avgocc, code = code)
+
+
+#' Number of BU occurrences per taxa
+#'
+#' Get the number of BUs that each taxa occurs in for a given network.
+#' This is very similar to the avgcooc function except it is not reletavized
+#' or averaged.
+#'
+#' @param graph object of class igraph (bipartite)
+#' @param membership vector of biome memberships
+#' @param l.small logical if smaller part of bipartite projection is locality information
+#' @return
+#' @export
+#' @keywords
+#' @author Peter D Smits <psmits@uchicago.edu>
+#' @references
+#' @examples
+occupancy <- function(graph, membership) {
+  bip <- bipartite.projection(graph)
+
+  # find which half is the taxa
+  if(any(grepl('[0-9]', V(bip[[1]])$name))) {
+    taxa <- V(bip[[2]])$name
+    st <- V(bip[[1]])$name 
+  } else {
+    taxa <- V(bip[[1]])$name
+    st <- V(bip[[2]])$name 
+  }
+
+  tx.mem <- membership[V(graph)$name %in% taxa]
+  loc.mem <- membership[!(V(graph)$name %in% taxa)]
+
+  nei <- lapply(st, function(x) neighbors(graph, x)) # taxa per grid cell
+  mem.nei <- split(nei, loc.mem) # taxa per biome
+  oo <- lapply(mem.nei, function(x) unique(unlist(x))) # taxa that occur in biome
+  occ <- table(unlist(oo)) # number of biomes per taxon
+  out <- as.data.frame(cbind(occ, taxa))
+  out$occ <- as.numeric(as.character(out$occ))
+
+  out
+}

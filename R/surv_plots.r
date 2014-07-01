@@ -4,121 +4,132 @@ library(scales)
 library(reshape2)
 source('../R/step_ribbon.r')
 
-source('../R/basic_surv.r')
+source('../R/para_surv.r')
 
 theme_set(theme_bw())
-cbp <- c('#E69F00', '#56B4E9', '#009E73', '#F0E442', 
-         '#0072B2', '#D55E00', '#CC79A7')
+cbp <- c("#999999", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2",
+         "#D55E00", "#CC79A7")
+# base
+bc <- predict(swei[[1]], type = 'quantile', 
+              p = seq(0.01, 0.99, by = 0.01), se.fit = TRUE)
+bc <- lapply(bc, function(x) x[1, ])
+bc <- lapply(bc, t)
+bc <- lapply(bc, melt)
+bc <- cbind(fit = bc$fit[, -1], se = bc$se.fit$value)
+bc[, 1] <- (100 - bc[, 1]) / 100
 
-# nonparametric curves
-nn <- c(rep('carbonate', kmaff$strata[1]),
-        rep('clastic', kmaff$strata[2]),
-        rep('mixed', kmaff$strata[3]))
-kmacurve <- cbind(data.frame(time = kmaff$time), surv = kmaff$surv, 
-                  upper = kmaff$upper, lower = kmaff$lower,
-                  aff = nn)
-ggkma <- ggplot(kmacurve, aes(x = time, y = surv, colour = aff)) 
-ggkma <- ggkma + geom_step()
-ggkma <- ggkma + geom_ribbon(aes(x = time, ymax = upper, ymin = lower, fill = aff), 
-                             stat = 'stepribbon', alpha = 0.3, colour = NA)
-ggkma <- ggkma + labs(x = 'time', y = 'S(t)')
-ggkma <- ggkma + coord_cartesian(xlim = c(0,42))
-ggkma <- ggkma + scale_color_manual(values = cbp,
-                                    name = 'substrate\npreference')
-ggkma <- ggkma + scale_fill_manual(values = cbp,
-                                   name = 'substrate\npreference')
-ggkma <- ggkma + theme(axis.title.y = element_text(angle = 0),
-                       axis.text = element_text(size = 20),
-                       axis.title = element_text(size = 23),
-                       legend.text = element_text(size = 17),
-                       legend.title = element_text(size = 19))
-ggsave(filename = '../doc/figure/km_aff.png', plot = ggkma,
-       height = 10, width = 15)
+reg <- ggplot(bc, aes(x = fit.Var2, y = fit.value))
+reg <- reg + geom_line(size = 1)
+reg <- reg + geom_ribbon(aes(ymin = fit.value - se, ymax = fit.value + se),
+                         alpha = 0.3)
+reg <- reg + coord_flip()
+reg <- reg + labs(y = 'Time', x = 'P(T > t)')
+reg <- reg + scale_x_continuous(trans = log10_trans())
+reg <- reg + theme(axis.title.y = element_text(angle = 0),
+                   axis.text = element_text(size = 20),
+                   axis.title = element_text(size = 23),
+                   legend.text = element_text(size = 17),
+                   legend.title = element_text(size = 19),
+                   strip.text = element_text(size = 20))
+ggsave(filename = '../doc/figure/para_reg.png', plot = reg,
+       width = 15, height = 10)
 
-ee <- c(rep('inshore', kmhab$strata[1]),
-        rep('none', kmhab$strata[2]),
-        rep('offshore', kmhab$strata[3]))
-kmecurve <- cbind(data.frame(time = kmhab$time), surv = kmhab$surv, 
-                  upper = kmhab$upper, lower = kmhab$lower,
-                  hab = ee)
-ggkme <- ggplot(kmecurve, aes(x = time, y = surv, colour = hab)) 
-ggkme <- ggkme + geom_step()
-ggkme <- ggkme + geom_ribbon(aes(x = time, ymax = upper, ymin = lower, fill = hab), 
-                             stat = 'stepribbon', alpha = 0.3, colour = NA)
-ggkme <- ggkme + labs(x = 'time', y = 'S(t)')
-ggkme <- ggkme + coord_cartesian(xlim = c(0,42))
-ggkme <- ggkme + scale_color_manual(values = cbp,
-                                    name = 'habitat\npreference')
-ggkme <- ggkme + scale_fill_manual(values = cbp,
-                                   name = 'habitat\npreference')
-ggkme <- ggkme + theme(axis.title.y = element_text(angle = 0),
-                       axis.text = element_text(size = 20),
-                       axis.title = element_text(size = 23),
-                       legend.text = element_text(size = 17),
-                       legend.title = element_text(size = 19))
-ggsave(filename = '../doc/figure/km_hab.png', plot = ggkme,
-       height = 10, width = 15)
+# substrate affinity
+sa <- predict(swei[[2]], newdata = data.frame(aff = c('carbonate', 
+                                                      'clastic',
+                                                      'mixed')),
 
+              type = 'quantile',
+              p = seq(0.01, 0.99, by = 0.01), se.fit = TRUE)
+rownames(sa$fit) <- rownames(sa$se.fit) <- c('carbonate', 'clastic', 'mixed')
+sa <- lapply(sa, t)
+sa <- lapply(sa, melt)
+sa <- cbind(fit = sa$fit, se = sa$se.fit$value)
+sa[, 1] <- (100 - sa[, 1]) / 100
 
-# parametric curves
-affcurve <- predict(moda.wei, newdata = data.frame(aff = c('carbonate',
-                                                           'clastic',
-                                                           'mixed')),
-                    type = 'quantile',
-                    p = seq(0.0, 0.99, by = 0.01),
-                    se.fit = TRUE)
-rownames(affcurve$fit) <- c('carbonate', 'clastic', 'mixed')
-rownames(affcurve$se.fit) <- c('carbonate', 'clastic', 'mixed')
-affcurve <- lapply(affcurve, t)
-affcurve <- lapply(affcurve, melt)
-affcurve <- cbind(affcurve$fit, se.fit = affcurve$se.fit$value)
-affcurve[, 1] <- (100 - affcurve[, 1]) / 100
+gaf <- ggplot(sa, aes(x = fit.Var1, y = fit.value, fill = fit.Var2))
+gaf <- gaf + geom_line(aes(colour = fit.Var2), size = 1)
+gaf <- gaf + geom_ribbon(aes(ymin = fit.value - se, ymax = fit.value + se),
+                         alpha = 0.3)
+gaf <- gaf + coord_flip()
+gaf <- gaf + labs(y = 'Time', x = 'P(T > t)')
+gaf <- gaf + scale_x_continuous(trans = log10_trans())
+gaf <- gaf + scale_color_manual(values = cbp[-1],
+                                name = 'Substrate\nAffinity')
+gaf <- gaf + scale_fill_manual(values = cbp[-1],
+                               name = 'Substrate\nAffinity')
+gaf <- gaf + theme(axis.title.y = element_text(angle = 0),
+                   axis.text = element_text(size = 20),
+                   axis.title = element_text(size = 23),
+                   legend.text = element_text(size = 17),
+                   legend.title = element_text(size = 19),
+                   strip.text = element_text(size = 20))
+ggsave(filename = '../doc/figure/para_aff.png', plot = gaf,
+       width = 15, height = 10)
 
-ggaff <- ggplot(affcurve, aes(x = Var1, y = value, colour = Var2)) 
-ggaff <- ggaff + geom_line()
-ggaff <- ggaff + geom_ribbon(aes(ymin = value - se.fit, ymax = value + se.fit,
-                                 fill = Var2), alpha = 0.3, colour = NA)
-ggaff <- ggaff + labs(y = 'time', x = 'S(t)')
-ggaff <- ggaff + coord_flip(ylim = c(0,42))
-ggaff <- ggaff + scale_fill_manual(values = cbp,
-                                   name = 'substrate\npreference')
-ggaff <- ggaff + scale_colour_manual(values = cbp, 
-                                     name = 'substrate\npreference')
-ggaff <- ggaff + theme(axis.title.y = element_text(angle = 0),
-                       axis.text = element_text(size = 20),
-                       axis.title = element_text(size = 23),
-                       legend.text = element_text(size = 17),
-                       legend.title = element_text(size = 19))
-ggsave(filename = '../doc/figure/aff.png', plot = ggaff,
-       height = 10, width = 15)
+# paleoenvironment
+ha <- predict(swei[[3]], newdata = data.frame(hab = c('offshore', 
+                                                      'inshore',
+                                                      'none')),
 
-habcurve <- predict(mode.wei, newdata = data.frame(hab = c('inshore',
-                                                           'none',
-                                                           'offshore')),
-                    type = 'quantile',
-                    p = seq(0.0, 0.99, by = 0.01),
-                    se.fit = TRUE)
-rownames(habcurve$fit) <- c('inshore', 'none', 'offshore')
-rownames(habcurve$se.fit) <- c('inshore', 'none', 'offshore')
-habcurve <- lapply(habcurve, t)
-habcurve <- lapply(habcurve, melt)
-habcurve <- cbind(habcurve$fit, se.fit = habcurve$se.fit$value)
-habcurve[, 1] <- (100 - habcurve[, 1]) / 100
+              type = 'quantile',
+              p = seq(0.01, 0.99, by = 0.01), se.fit = TRUE)
+rownames(ha$fit) <- rownames(ha$se.fit) <- c('offshore', 'inshore', 'none')
+ha <- lapply(ha, t)
+ha <- lapply(ha, melt)
+ha <- cbind(fit = ha$fit, se = ha$se.fit$value)
+ha[, 1] <- (100 - ha[, 1]) / 100
 
-gghab <- ggplot(habcurve, aes(x = Var1, y = value, colour = Var2)) 
-gghab <- gghab + geom_line()
-gghab <- gghab + geom_ribbon(aes(ymin = value - se.fit, ymax = value + se.fit,
-                                 fill = Var2), alpha = 0.3, colour = NA)
-gghab <- gghab + labs(y = 'time', x = 'S(t)')
-gghab <- gghab + coord_flip(ylim = c(0,42))
-gghab <- gghab + scale_fill_manual(values = cbp,
-                                   name = 'habitat\npreference')
-gghab <- gghab + scale_colour_manual(values = cbp, 
-                                     name = 'habitat\npreference')
-gghab <- gghab + theme(axis.title.y = element_text(angle = 0),
-                       axis.text = element_text(size = 20),
-                       axis.title = element_text(size = 23),
-                       legend.text = element_text(size = 17),
-                       legend.title = element_text(size = 19))
-ggsave(filename = '../doc/figure/hab.png', plot = gghab,
-       height = 10, width = 15)
+gah <- ggplot(ha, aes(x = fit.Var1, y = fit.value, fill = fit.Var2))
+gah <- gah + geom_line(aes(colour = fit.Var2), size = 1)
+gah <- gah + geom_ribbon(aes(ymin = fit.value - se, ymax = fit.value + se),
+                         alpha = 0.3)
+gah <- gah + coord_flip()
+gah <- gah + labs(y = 'Time', x = 'P(T > t)')
+gah <- gah + scale_x_continuous(trans = log10_trans())
+gah <- gah + scale_color_manual(values = cbp[-1],
+                                name = 'Paleoenvironment')
+gah <- gah + scale_fill_manual(values = cbp[-1],
+                               name = 'Paleoenvironment')
+gah <- gah + theme(axis.title.y = element_text(angle = 0),
+                   axis.text = element_text(size = 20),
+                   axis.title = element_text(size = 23),
+                   legend.text = element_text(size = 17),
+                   legend.title = element_text(size = 19),
+                   strip.text = element_text(size = 20))
+ggsave(filename = '../doc/figure/para_hab.png', plot = gah,
+       width = 15, height = 10)
+
+# occupancy
+occu <- data.frame(occu = c(min(persist$occu),
+                            quantile(persist$occu, .25),
+                            quantile(persist$occu, .5),
+                            quantile(persist$occu, .75),
+                            max(persist$occu)))
+oc <- predict(swei[[4]], newdata = occu, type = 'quantile', 
+              p = seq(0.01, 0.99, by = 0.01), se.fit = TRUE)
+rownames(oc$fit) <- rownames(oc$se.fit) <- c('Min', 'Q1', 'Median', 'Q3', 'Max')
+oc <- lapply(oc, t)
+oc <- lapply(oc, melt)
+oc <- cbind(fit = oc$fit, se = oc$se.fit$value)
+oc[, 1] <- (100 - oc[, 1]) / 100
+
+goc <- ggplot(oc, aes(x = fit.Var1, y = fit.value, fill = fit.Var2))
+goc <- goc + geom_line(aes(colour = fit.Var2), size = 1)
+goc <- goc + geom_ribbon(aes(ymin = fit.value - se, ymax = fit.value + se),
+                         alpha = 0.3)
+goc <- goc + coord_flip()
+goc <- goc + labs(y = 'Time', x = 'P(T > t)')
+goc <- goc + scale_x_continuous(trans = log10_trans())
+goc <- goc + scale_color_manual(values = cbp[-1],
+                                name = 'Mean BC\nOccupancy')
+goc <- goc + scale_fill_manual(values = cbp[-1],
+                               name = 'Mean BC\nOccupancy')
+goc <- goc + theme(axis.title.y = element_text(angle = 0),
+                   axis.text = element_text(size = 20),
+                   axis.title = element_text(size = 23),
+                   legend.text = element_text(size = 17),
+                   legend.title = element_text(size = 19),
+                   strip.text = element_text(size = 20))
+ggsave(filename = '../doc/figure/para_occ.png', plot = goc,
+       width = 15, height = 10)

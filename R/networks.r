@@ -1,5 +1,7 @@
 library(igraph)
 library(mapproj)
+library(plyr)
+library(parallel)
 
 source('../R/mung_help.r')
 source('../R/bin_network.r')
@@ -20,7 +22,7 @@ for(ii in seq(nrow(bb))) {
 info$bins <- bins
 
 # east coast
-info <- info[info$state != 'Queensland', ]
+# info <- info[info$state != 'Queensland', ]
 
 # occurrence grids
 gid <- grid.id(lat = info$paleolatdec, long = info$paleolngdec, 
@@ -47,27 +49,40 @@ nets <- network.bin(occ,
                     taxa = 'occurrence.genus_name', 
                     loc = 'gid')
 
+biogeo <- function(taxawin) {
+  biocom <- lapply(taxawin, infomap.community)
+  biomes <- Map(contract.vertices, taxawin, lapply(biocom, membership))
+  biomes <- lapply(biomes, function(x){
+                   x$weight = 1
+                   x})
+  biomes <- lapply(biomes, simplify)
+  mem <- lapply(biocom, function(x) x$membership)
+
+  win.bg <- list(bc = lapply(taxawin, bc),
+                 end = Map(endemic, graph = taxawin, membership = mem),
+                 avgcoc = Map(avgocc, graph = taxawin, membership = mem),
+                 code = lapply(taxawin, code))
+  win.bg
+}
+
 # network measures
-stats <- lapply(biogeosum, function(x) {
-                lapply(nets, x)})
+stats <- biogeo(nets)
+
+# occupancy
+occp <- lapply(nets, function(x) {
+              occupancy(x, membership = membership(infomap.community(x)))})
+occp <- Reduce(rbind, occp)
+sp.occ <- split(occp, occp$taxa)
+mean.occ <- melt(lapply(sp.occ, function(x) mean(x[, 1])))
+names(mean.occ) <- c('mean', 'taxa')
+cv.occ <- melt(lapply(sp.occ, function(x) var(x[, 1]) / mean(x[, 1])))
+names(cv.occ) <- c('cv', 'taxa')
+
+occ.val <- cbind(cv = cv.occ$cv, mean.occ)
+occ.val <- occ.val[order(occ.val$taxa), ]
+persist <- cbind(persist, occu = occ.val$mean, cvo = occ.val$cv)
 
 # split by category
 substrate <- split(occ, occ$lithology1)
-subnets <- lapply(substrate, function(x) {
-                  network.bin(x,
-                              bin = 'bins',
-                              taxa = 'occurrence.genus_name',
-                              loc = 'gid')})
-substats <- lapply(subnets, function(x) {
-                   lapply(biogeosum, function(y) {
-                          lapply(x, y)})})
 
 habitat <- split(occ, occ$environment)
-habnets <- lapply(habitat, function(x) {
-                  network.bin(x,
-                              bin = 'bins',
-                              taxa = 'occurrence.genus_name',
-                              loc = 'gid')})
-habstats <- lapply(habnets, function(x) {
-                   lapply(biogeosum, function(y) {
-                          lapply(x, y)})})
