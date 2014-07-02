@@ -1,6 +1,7 @@
 library(reshape2)
 library(plyr)
 library(survival)
+library(stringr)
 
 source('../R/clean_funcs.r')
 source('../R/occurrence.r')
@@ -46,14 +47,20 @@ addlith <- implith[match(seenlith$formation, names(forms.geol)), 2:3]
 addlith <- apply(addlith, 2, as.character)
 addlith[is.na(addlith[, 1]), 1] <- seenlith[is.na(addlith[, 1]), 2]
 addlith[is.na(addlith[, 2]), 2] <- seenlith[is.na(addlith[, 2]), 3]
-#info$lithology1 <- addlith[, 1]
+addlith <- gsub(pattern = '[\\"?]',
+                replacement = '',
+                addlith,
+                perl = TRUE)
+addlith <- str_replace_all(addlith, 's$', '')
+info$lithology1 <- addlith[, 1]
+info$lithology2 <- addlith[, 2]
 
 # environment 
 seenenv <- info[, c('formation', 'environment')]
 addenv <- got[match(seenenv$formation, got$X1), 2:3]
 addenv <- apply(addenv, 2, as.character)
 addenv[is.na(addenv[, 1]), 1] <- seenenv[is.na(addenv[, 1]), 2]
-#info$environment <- addenv[, 1]
+info$environment <- addenv[, 1]
 
 # body size
 uni <- unique(bs[, c('taxon_name', 'size')])
@@ -64,21 +71,16 @@ dur <- dur[dur$genus %in% uni$taxon_name, ]
 info <- info[info$occurrence.genus_name %in% uni$taxon_name, ]
 
 
-# remove missing lithology information
-info <- info[info$lithology1 != '', ]
-info$lithology1 <- gsub(pattern = '[\\"?]',
-                        replacement = '',
-                        info$lithology1, 
-                        perl = TRUE)
-# remove missing environmental information
-info <- info[info$environment != '', ]
+info <- info[info$lithology1 != '', ]  # remove missing lithology
+info <- info[info$environment != '', ]  # remove missing environment
 rmlith <- c('lithified', 'not reported')
 info <- info[!(info$lithology1 %in% rmlith), ]
 info <- info[info$lithology1 != 'mixed', ]
 
 # lithology
-info$lithology1 <- clean.lith(info$lithology1)
+info$lithology1 <- clean.lith(info$lithology1, add = info$lithology2)
 info <- info[info$lithology1 != 'mixed', ]
+info <- info[info$lithology1 != '', ]  # remove missing lithology
 info$environment <- clean.env(info$environment)
 
 info <- info[with(info, order(occurrence.genus_name)), ]

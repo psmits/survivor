@@ -106,7 +106,7 @@ occu <- data.frame(occu = c(min(persist$occu),
                             quantile(persist$occu, .5),
                             quantile(persist$occu, .75),
                             max(persist$occu)))
-oc <- predict(swei[[4]], newdata = occu, type = 'quantile', 
+oc <- predict(swei[[5]], newdata = occu, type = 'quantile', 
               p = seq(0.01, 0.99, by = 0.01), se.fit = TRUE)
 rownames(oc$fit) <- rownames(oc$se.fit) <- c('Min', 'Q1', 'Median', 'Q3', 'Max')
 oc <- lapply(oc, t)
@@ -132,4 +132,38 @@ goc <- goc + theme(axis.title.y = element_text(angle = 0),
                    legend.title = element_text(size = 19),
                    strip.text = element_text(size = 20))
 ggsave(filename = '../doc/figure/para_occ.png', plot = goc,
+       width = 15, height = 10)
+
+# size
+siz <- data.frame(size = c(min(persist$size),
+                           quantile(persist$size, .25),
+                           quantile(persist$size, .5),
+                           quantile(persist$size, .75),
+                           max(persist$size)))
+sz <- predict(swei[[4]], newdata = siz, type = 'quantile', 
+              p = seq(0.01, 0.99, by = 0.01), se.fit = TRUE)
+rownames(sz$fit) <- rownames(sz$se.fit) <- c('Min', 'Q1', 'Median', 'Q3', 'Max')
+sz <- lapply(sz, t)
+sz <- lapply(sz, melt)
+sz <- cbind(fit = sz$fit, se = sz$se.fit$value)
+sz[, 1] <- (100 - sz[, 1]) / 100
+
+gsz <- ggplot(sz, aes(x = fit.Var1, y = fit.value, fill = fit.Var2))
+gsz <- gsz + geom_line(aes(colour = fit.Var2), size = 1)
+gsz <- gsz + geom_ribbon(aes(ymin = fit.value - se, ymax = fit.value + se),
+                         alpha = 0.3)
+gsz <- gsz + coord_flip()
+gsz <- gsz + labs(y = 'Time', x = 'P(T > t)')
+gsz <- gsz + scale_x_continuous(trans = log10_trans())
+gsz <- gsz + scale_color_manual(values = cbp[-1],
+                                name = 'Log(Size)\nQuartile')
+gsz <- gsz + scale_fill_manual(values = cbp[-1],
+                               name = 'Log(Size)\nQuartile')
+gsz <- gsz + theme(axis.title.y = element_text(angle = 0),
+                   axis.text = element_text(size = 20),
+                   axis.title = element_text(size = 23),
+                   legend.text = element_text(size = 17),
+                   legend.title = element_text(size = 19),
+                   strip.text = element_text(size = 20))
+ggsave(filename = '../doc/figure/para_szc.png', plot = gsz,
        width = 15, height = 10)

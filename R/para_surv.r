@@ -6,6 +6,7 @@ source('../R/networks.r')
 
 vars <- names(persist[, -(ncol(persist))])
 mods <- create.model(vars = vars)
+persist$size <- log(as.numeric(as.character(persist$size)))
 
 surv.wei <- survreg(surv ~ 1, data = persist, dist = 'weibull')
 swei <- fit.models(surv.wei, mods, data = persist, dist = 'weibull')
