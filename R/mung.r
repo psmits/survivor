@@ -7,6 +7,9 @@ source('../R/occurrence.r')
 source('../R/affinity.r')
 source('../R/paleo_surv.r')
 
+source('../R/govt2occ.r')
+source('../R/env_match.r')
+
 info <- read.csv('../data/psmits-occs.csv', stringsAsFactors = FALSE)
 dur <- read.csv('../data/psmits-ranges.csv', stringsAsFactors = FALSE)
 
@@ -27,10 +30,28 @@ info <- info[!(info$occurrence.genus_name %in% rg), ]
 rg <- which(info$ma_mid > pst | info$ma_mid < ptbound)
 info <- info[-rg, ]
 
-# remove taxa that originated before the permian
-#rg <- dur[which(dur[, 2] > pst), 1]
-#dur <- dur[!(dur[, 1] %in% rg), ]
-#info <- info[!(info$occurrence.genus_name %in% rg), ]
+# put in information i've learned
+# lithology
+seenlith <- occ[, c('formation', 'lithology1', 'lithology2')]
+
+ll <- laply(forms.geol, length)
+ll[which(ll > 1)] <- c(2, 2, 1, 1, 2, 1, 2, 3, 2, 1, 1, 1, 2)
+implith <- Map(function(x, y) x[[y]][1:2], forms.geol, ll)
+implith <- cbind(data.frame(form = names(implith)), 
+                 Reduce(rbind, implith))
+colnames(implith) <- c('form', 'lith1', 'lith2')
+addlith <- implith[match(seenlith$formation, names(forms.geol)), 2:3]
+addlith <- apply(addlith, 2, as.character)
+addlith[is.na(addlith[, 1]), 1] <- seenlith[is.na(addlith[, 1]), 2]
+addlith[is.na(addlith[, 2]), 2] <- seenlith[is.na(addlith[, 2]), 3]
+
+
+# environment 
+seenenv <- occ[, c('formation', 'environment')]
+addenv <- got[match(seenenv$formation, got$X1), 2:3]
+addenv <- apply(addenv, 2, as.character)
+addenv[is.na(addenv[, 1]), 1] <- seenenv[is.na(addenv[, 1]), 2]
+
 
 # remove missing lithology information
 info <- info[info$lithology1 != '', ]

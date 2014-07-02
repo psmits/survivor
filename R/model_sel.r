@@ -11,14 +11,14 @@ create.model <- function(vars) {
   mod
 }
 
-fit.models <- function(initial, models, data, dist) {
+fit.models <- function(initial, models, data, ...) {
   ups <- list()
   ups[[1]] <- initial
   for(ii in seq(from = 2, to = (length(models) + 1))) {
     ups[[ii]] <- update(initial, paste('. ~ . +', 
                                        paste(models[[ii - 1]], 
                                              collapse = ' + ')), 
-                        data = data, dist = dist)
+                        data = data, ...)
   }
   ups
 }
