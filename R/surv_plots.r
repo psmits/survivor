@@ -35,13 +35,15 @@ ggsave(filename = '../doc/figure/para_reg.png', plot = reg,
        width = 15, height = 10)
 
 # substrate affinity
-sa <- predict(swei[[2]], newdata = data.frame(aff = c('carbonate', 
-                                                      'clastic',
-                                                      'mixed')),
-
+saf <- data.frame(aff = c(min(persist$aff),
+                           quantile(persist$aff, .25),
+                           quantile(persist$aff, .5),
+                           quantile(persist$aff, .75),
+                           max(persist$aff)))
+sa <- predict(swei[[2]], newdata = saf,
               type = 'quantile',
               p = seq(0.01, 0.99, by = 0.01), se.fit = TRUE)
-rownames(sa$fit) <- rownames(sa$se.fit) <- c('carbonate', 'clastic', 'mixed')
+rownames(sa$fit) <- rownames(sa$se.fit) <- c('Min', 'Q1', 'Median', 'Q3', 'Max')
 sa <- lapply(sa, t)
 sa <- lapply(sa, melt)
 sa <- cbind(fit = sa$fit, se = sa$se.fit$value)
@@ -55,9 +57,9 @@ gaf <- gaf + coord_flip()
 gaf <- gaf + labs(y = 'Time', x = 'P(T > t)')
 gaf <- gaf + scale_x_continuous(trans = log10_trans())
 gaf <- gaf + scale_color_manual(values = cbp[-1],
-                                name = 'Substrate\nAffinity')
+                                name = 'Quantile\nP(Carbonate)')
 gaf <- gaf + scale_fill_manual(values = cbp[-1],
-                               name = 'Substrate\nAffinity')
+                               name = 'Quantile\nP(Carbonate)')
 gaf <- gaf + theme(axis.title.y = element_text(angle = 0),
                    axis.text = element_text(size = 20),
                    axis.title = element_text(size = 23),

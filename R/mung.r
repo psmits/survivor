@@ -127,6 +127,7 @@ surv <- paleosurv(dur[, 2], dur[, 3], start = pst, end = ptbound + 5)
 
 # make the data frame for survival analysis
 uni <- uni[uni$taxon_name %in% dur$genus, ]
-persist <- as.data.frame(cbind(aff = unlist(litaf),
+persist <- as.data.frame(cbind(aff = unlist(litprob),
                                hab = unlist(hab),
                                size = uni[, 2]))
+persist$aff <- as.numeric(as.character(persist$aff))
