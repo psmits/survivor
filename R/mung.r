@@ -12,6 +12,8 @@ source('../R/env_match.r')
 
 info <- read.csv('../data/psmits-occs.csv', stringsAsFactors = FALSE)
 dur <- read.csv('../data/psmits-ranges.csv', stringsAsFactors = FALSE)
+bs <- read.delim('../data/payne_bodysize/Occurrence_PaleoDB.txt', 
+                 stringsAsFactors = FALSE)
 
 ptbound <- 252.2
 pst <- 298.9
@@ -32,7 +34,7 @@ info <- info[-rg, ]
 
 # put in information i've learned
 # lithology
-seenlith <- occ[, c('formation', 'lithology1', 'lithology2')]
+seenlith <- info[, c('formation', 'lithology1', 'lithology2')]
 
 ll <- laply(forms.geol, length)
 ll[which(ll > 1)] <- c(2, 2, 1, 1, 2, 1, 2, 3, 2, 1, 1, 1, 2)
@@ -44,13 +46,22 @@ addlith <- implith[match(seenlith$formation, names(forms.geol)), 2:3]
 addlith <- apply(addlith, 2, as.character)
 addlith[is.na(addlith[, 1]), 1] <- seenlith[is.na(addlith[, 1]), 2]
 addlith[is.na(addlith[, 2]), 2] <- seenlith[is.na(addlith[, 2]), 3]
-
+#info$lithology1 <- addlith[, 1]
 
 # environment 
-seenenv <- occ[, c('formation', 'environment')]
+seenenv <- info[, c('formation', 'environment')]
 addenv <- got[match(seenenv$formation, got$X1), 2:3]
 addenv <- apply(addenv, 2, as.character)
 addenv[is.na(addenv[, 1]), 1] <- seenenv[is.na(addenv[, 1]), 2]
+#info$environment <- addenv[, 1]
+
+# body size
+uni <- unique(bs[, c('taxon_name', 'size')])
+uni <- uni[uni$taxon_name %in% dur$genus, ]
+uni <- uni[order(uni$taxon_name), ]
+
+dur <- dur[dur$genus %in% uni$taxon_name, ] 
+info <- info[info$occurrence.genus_name %in% uni$taxon_name, ]
 
 
 # remove missing lithology information
@@ -67,6 +78,7 @@ info <- info[info$lithology1 != 'mixed', ]
 
 # lithology
 info$lithology1 <- clean.lith(info$lithology1)
+info <- info[info$lithology1 != 'mixed', ]
 info$environment <- clean.env(info$environment)
 
 info <- info[with(info, order(occurrence.genus_name)), ]
@@ -104,7 +116,7 @@ names(hab) <- names(penv)
 hab <- lapply(lapply(hab, which.max), 
               function(x) c('inshore', 'offshore', 'none')[x])
 
-
+# put it all together
 sf <- as.character(dur$genus) %in% names(litaf) & 
 as.character(dur$genus) %in% names(hab)
 dur <- dur[sf, ]
@@ -112,5 +124,7 @@ dur <- dur[sf, ]
 surv <- paleosurv(dur[, 2], dur[, 3], start = pst, end = ptbound + 5)
 
 # make the data frame for survival analysis
+uni <- uni[uni$taxon_name %in% dur$genus, ]
 persist <- as.data.frame(cbind(aff = unlist(litaf),
-                               hab = unlist(hab)))
+                               hab = unlist(hab),
+                               size = uni[, 2]))
