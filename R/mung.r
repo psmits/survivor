@@ -15,6 +15,7 @@ info <- read.csv('../data/psmits-occs.csv', stringsAsFactors = FALSE)
 dur <- read.csv('../data/psmits-ranges.csv', stringsAsFactors = FALSE)
 bs <- read.delim('../data/payne_bodysize/Occurrence_PaleoDB.txt', 
                  stringsAsFactors = FALSE)
+recs <- read.csv('../data/geology.csv', stringsAsFactors = FALSE)
 
 ptbound <- 252.2
 pst <- 298.9
@@ -43,6 +44,17 @@ implith <- Map(function(x, y) x[[y]][1:2], forms.geol, ll)
 implith <- cbind(data.frame(form = names(implith)), 
                  Reduce(rbind, implith))
 colnames(implith) <- c('form', 'lith1', 'lith2')
+
+reclith <- recs[, c('formation', 'lithology1', 'lithology2')]
+reclith <- reclith[order(reclith$formation), ]
+reclith <- reclith[reclith$formation %in% info$formation, ]
+reclith <- ddply(reclith, .(formation), summarize,
+                 lith1 = names(which.max(table(lithology1))),
+                 lith2 = names(which.max(table(lithology2))))
+names(reclith)[1] <- 'form'
+implith <- rbind(implith, reclith)
+implith <- implith[!duplicated(implith[, 1]), ]
+
 addlith <- implith[match(seenlith$formation, names(forms.geol)), 2:3]
 addlith <- apply(addlith, 2, as.character)
 addlith[is.na(addlith[, 1]), 1] <- seenlith[is.na(addlith[, 1]), 2]
@@ -52,6 +64,7 @@ addlith <- gsub(pattern = '[\\"?]',
                 addlith,
                 perl = TRUE)
 addlith <- str_replace_all(addlith, 's$', '')
+
 info$lithology1 <- addlith[, 1]
 info$lithology2 <- addlith[, 2]
 
