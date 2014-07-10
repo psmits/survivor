@@ -32,11 +32,13 @@ aff <- function(substrate, middle, level = 0.5) {
 #' @param occur vector; substrate where taxon occurs
 #' @param avil vector; all avaliable substrates during taxon's lifetime
 #' @param aff character string; affinity used as 1
-shprob <- function(occur, avil, ph1 = 0.5, ph2 = 0.5, aff = 'carbonate') {
-  pe <- sum(avil == aff) / length(avil)
+shprob <- function(occur, avil, ph1 = 0.5, aff = 'carbonate') {
+  ph2 <- 1 - ph1
+  
+  pe <- sum(avil == aff) / length(avil)  # P(carbonate)
 
-  peh1 <- pbinom(sum(occur == aff), length(occur), pe)
-  peh2 <- pbinom(sum(occur != aff), length(occur), 1 - pe)
+  peh1 <- dbinom(sum(occur == aff), length(occur), pe)  # P(data | carbonate)
+  peh2 <- dbinom(sum(occur == aff), length(occur), 1 - pe)  # P(data | clastic)
 
   p <- (peh1 * ph1) / ((peh1 * ph1) + (peh2 * ph2))
   p

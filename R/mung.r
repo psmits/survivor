@@ -70,7 +70,7 @@ info$lithology2 <- addlith[, 2]
 
 # environment 
 seenenv <- info[, c('formation', 'environment')]
-addenv <- got[match(seenenv$formation, got$X1), 2:3]
+addenv <- got[match(seenenv$formation, got$formation), 2:3]
 addenv <- apply(addenv, 2, as.character)
 addenv[is.na(addenv[, 1]), 1] <- seenenv[is.na(addenv[, 1]), 2]
 info$environment <- addenv[, 1]
@@ -94,7 +94,7 @@ info <- info[info$lithology1 != 'mixed', ]
 info$lithology1 <- clean.lith(info$lithology1, add = info$lithology2)
 info <- info[info$lithology1 != 'mixed', ]
 info <- info[info$lithology1 != '', ]  # remove missing lithology
-info$environment <- clean.env(info$environment)
+info$environment <- clean.env(info$environment) # environment
 
 info <- info[with(info, order(occurrence.genus_name)), ]
 pocc <- split(info, info$occurrence.genus_name)
@@ -120,11 +120,11 @@ names(penv) <- dur[, 1]
 hab <- list()
 for(ii in seq(length(penv))) {
   ins <- shprob(occur = pocc[[ii]]$environment, avil = penv[[ii]], 
-                ph1 = 1/3, ph2 = 2/3, aff = 'inshore')
+                ph1 = 1/3, aff = 'inshore')
   off <- shprob(occur = pocc[[ii]]$environment, avil = penv[[ii]], 
-                ph1 = 1/3, ph2 = 2/3, aff = 'offshore')
+                ph1 = 1/3, aff = 'offshore')
   non <- shprob(occur = pocc[[ii]]$environment, avil = penv[[ii]], 
-                ph1 = 1/3, ph2 = 2/3, aff = 'none')
+                ph1 = 1/3, aff = 'none')
   hab[[ii]] <- c(ins, off, non)
 }
 names(hab) <- names(penv)
