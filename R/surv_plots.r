@@ -70,13 +70,14 @@ ggsave(filename = '../doc/figure/para_aff.png', plot = gaf,
        width = 15, height = 10)
 
 # paleoenvironment
-ha <- predict(swei[[3]], newdata = data.frame(hab = c('offshore', 
+ha <- predict(swei[[3]], newdata = data.frame(hab = c(#'offshore', 
                                                       'inshore',
                                                       'none')),
 
               type = 'quantile',
               p = seq(0.01, 0.99, by = 0.01), se.fit = TRUE)
-rownames(ha$fit) <- rownames(ha$se.fit) <- c('offshore', 'inshore', 'none')
+rownames(ha$fit) <- rownames(ha$se.fit) <- c(#'offshore',
+                                             'inshore', 'none')
 ha <- lapply(ha, t)
 ha <- lapply(ha, melt)
 ha <- cbind(fit = ha$fit, se = ha$se.fit$value)

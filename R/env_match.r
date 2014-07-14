@@ -28,14 +28,3 @@ for(ii in seq(length(good))) {
 }
 out <- Reduce(rbind, out)
 got <- out[out$environment1 != '', ]
-
-
-# ok, make a table that has old and new next to each other
-#improve <- cbind(kk, got[, -1])
-#names(improve) <- c('formation', 'PBDB paleoenvironment', 'my paleoenvironment 1', 'my paleoenvironment 2')
-#rownames(improve) <- NULL
-#improve <- improve[order(improve$formation), ]
-#improve.table <- xtable(improve)
-#label(improve.table) <- 'tab:paleoenv'
-#print.xtable(improve.table, file = '../doc/paleoenv_tab.tex', 
-#             include.rownames = FALSE)

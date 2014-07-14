@@ -15,7 +15,6 @@ info <- read.csv('../data/psmits-occs.csv', stringsAsFactors = FALSE)
 dur <- read.csv('../data/psmits-ranges.csv', stringsAsFactors = FALSE)
 bs <- read.delim('../data/payne_bodysize/Occurrence_PaleoDB.txt', 
                  stringsAsFactors = FALSE)
-recs <- read.csv('../data/geology.csv', stringsAsFactors = FALSE)
 
 ptbound <- 252.2
 pst <- 298.9
@@ -37,25 +36,8 @@ info <- info[-rg, ]
 # put in information i've learned
 # lithology
 seenlith <- info[, c('formation', 'lithology1', 'lithology2')]
-
-ll <- laply(forms.geol, length)
-ll[which(ll > 1)] <- c(2, 2, 1, 1, 2, 1, 2, 3, 2, 1, 1, 1, 2)
-implith <- Map(function(x, y) x[[y]][1:2], forms.geol, ll)
-implith <- cbind(data.frame(form = names(implith)), 
-                 Reduce(rbind, implith))
-colnames(implith) <- c('form', 'lith1', 'lith2')
-
-reclith <- recs[, c('formation', 'lithology1', 'lithology2')]
-reclith <- reclith[order(reclith$formation), ]
-reclith <- reclith[reclith$formation %in% info$formation, ]
-reclith <- ddply(reclith, .(formation), summarize,
-                 lith1 = names(which.max(table(lithology1))),
-                 lith2 = names(which.max(table(lithology2))))
-names(reclith)[1] <- 'form'
-implith <- rbind(implith, reclith)
-implith <- implith[!duplicated(implith[, 1]), ]
-
-addlith <- implith[match(seenlith$formation, names(forms.geol)), 2:3]
+mm <- match(seenlith$formation, forms.geol$formation)
+addlith <- forms.geol[mm, 2:3]
 addlith <- apply(addlith, 2, as.character)
 addlith[is.na(addlith[, 1]), 1] <- seenlith[is.na(addlith[, 1]), 2]
 addlith[is.na(addlith[, 2]), 2] <- seenlith[is.na(addlith[, 2]), 3]
@@ -64,7 +46,6 @@ addlith <- gsub(pattern = '[\\"?]',
                 addlith,
                 perl = TRUE)
 addlith <- str_replace_all(addlith, 's$', '')
-
 info$lithology1 <- addlith[, 1]
 info$lithology2 <- addlith[, 2]
 
@@ -77,7 +58,7 @@ info$environment <- addenv[, 1]
 
 # what is still missing from env and lith
 nolith <- sort(unique(seenlith$formation)[!(unique(seenlith$formation) 
-                                            %in% implith[, 1])])
+                                            %in% forms.geol[, 1])])
 noenv <- sort(unique(seenenv$formation)[!(unique(seenenv$formation) 
                                           %in% got$formation)])
 write.csv(nolith, file = '../data/missing_lithology.csv')
@@ -91,7 +72,7 @@ uni <- uni[order(uni$taxon_name), ]
 dur <- dur[dur$genus %in% uni$taxon_name, ] 
 info <- info[info$occurrence.genus_name %in% uni$taxon_name, ]
 
-
+# final cleaning step
 info <- info[info$lithology1 != '', ]  # remove missing lithology
 info <- info[info$environment != '', ]  # remove missing environment
 rmlith <- c('lithified', 'not reported')

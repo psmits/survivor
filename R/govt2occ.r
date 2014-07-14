@@ -2,69 +2,83 @@
 # present in the brachiopod occurrence data
 library(plyr)
 library(reshape2)
+library(stringr)
 source('../R/lith_tabler.r')
 
 load('../data/rock_names.rdata')  # govt.rock is the govt geological information 
 
 occs <- read.csv('../data/psmits-occs.csv', stringsAsFactors = FALSE)
 occs <- occs[occs$period == 'Permian', ]
-
 govt <- names(govt.rock)
 govt <- gsub('[_/]', ' ', govt)
 
-matcher <- function(test, base) {
-  test <- gsub('[^[:alnum:] ]', '', test)
-  test[test %in% LETTERS] <- ''
-  test <- unique(test)
-  test <- test[test != '']
+me <- read.csv('../data/geology.csv', stringsAsFactors = FALSE)
 
-  mat <- list()
-  for(ii in seq(length(test))) {
-    oo <- list()
-    for(jj in seq(length(base))) {
-      oo[[jj]] <- grepl(test[[ii]], base[jj])
-    }
-    mat[[ii]] <- oo
+# problem is with partial matches
+# parse down to simple words
+clean <- str_replace(govt, '\\s+\\S*$', '')
+good <- sort(unique(clean))
+known <- lapply(good, function(yy) {
+                which(laply(str_match_all(occs$formation, yy),
+                            function(x) length(x) > 0))})
+
+out <- list()
+for(ii in seq(length(good))) {
+  rform <- unique(occs[known[[ii]], 'formation'])
+  rlith <- govt.rock[clean %in% good[ii]]
+  rlith <- lapply(rlith, function(x) x[1:2])
+  if(length(rform) > 0) {
+    out[[ii]] <- rlith
   }
-  mat <- lapply(mat, unlist)
-
-  names(mat) <- test
-
-  list(test = test, matches = mat)
 }
+out <- unlist(out, recursive = FALSE)
+out <- cbind(names(out), data.frame(Reduce(rbind, out)))
+names(out) <- c('formation', 'lith1', 'lith2')
 
-member <- occs$member
-member.match <- matcher(member, govt)
-member.success <- lapply(member.match$matches, any)
-member.geol <- lapply(member.match$matches[unlist(member.success)],
-                      function(x) govt.rock[x])
 
-forms <- occs$formation
-forms.match <- matcher(forms, govt)
-forms.success <- lapply(forms.match$matches, any)
-forms.geol <- lapply(forms.match$matches[unlist(forms.success)],
-                     function(x) govt.rock[x])  # my rock information
+# now again with my stuff
+mrcl <- str_replace(me$formation, '\\s+\\S*$', '')
+neut <- sort(unique(mrcl))
+known <- lapply(neut, function(yy) {
+                which(laply(str_match_all(occs$formation, yy),
+                            function(x) length(x) > 0))})
 
-# what is missing
-obs <- melt(forms.success)
-obs <- obs[order(obs[, 2]), ]
-unknown <- obs[!obs[, 1], 2]
+temp <- list()
+for(ii in seq(length(neut))) {
+  rform <- unique(occs[known[[ii]], 'formation'])
+  rlith <- me[mrcl %in% neut[ii], c('formation', 'lithology1', 'lithology2')]
+  rlith <- rlith[!duplicated(rlith$formation), ]
+  if(length(rform) > 0) {
+    temp[[ii]] <- rlith
+  }
+}
+temp <- Reduce(rbind, temp)
+names(temp)[2:3] <- c('lith1', 'lith2')
 
-# grab the lithologies from the occ
-occ.form <- forms %in% names(which(unlist(forms.success)))
-form.lith <- cbind(occs$lithology1[occ.form], occs$lithology2[occ.form])
-form.lith <- aaply(form.lith, 1, function(x) gsub('[^[:alnum:] ]', '', x))
-form.lith <- cbind(forms[occ.form], form.lith)
-form.lith <- form.lith[!duplicated(form.lith[, 1]), ]
+# combined and again
+forms.geol <- rbind(temp, out)
+forms.geol$formation <- str_replace_all(forms.geol$formation, '_', ' ')
 
-# make a pretty table to show how much i've improved!
-forms.tab <- lith.tab(forms.geol, form.lith)
-label(forms.tab) <- 'tab:form_lith'
-print.xtable(forms.tab, file = '../doc/form_lith.tex',
-             include.rownames = FALSE)
+forms.geol$formation <- str_replace(forms.geol$formation, '\\s+\\S*$', '')
+forms.geol <- forms.geol[!duplicated(forms.geol$formation), ]
 
-groups <- occs$geological_group
-groups.match <- matcher(groups, govt)
-groups.success <- lapply(groups.match$matches, any)
-groups.geol <- lapply(groups.match$matches[unlist(groups.success)], 
-                      function(x) govt.rock[x])
+matched <- lapply(forms.geol$formation, function(yy) {
+                  which(laply(str_match_all(occs$formation, yy),
+                              function(x) length(x) > 0))})
+
+nice <- list()
+for(ii in seq(nrow(forms.geol))) {
+  ff <- unique(occs[matched[[ii]], 'formation'])
+  if(length(ff) > 1) {
+    li <- Reduce(rbind, replicate(length(ff), forms.geol[ii, 2:3], 
+                                  simplify = FALSE))
+    ll <- cbind(formation = ff, li)
+  } else {
+    ll <- c(formation = ff, forms.geol[ii, 2:3])
+  }
+  if(length(ff) > 0) {
+    nice[[ii]] <- ll
+  }
+}
+forms.geol <- data.frame(Reduce(rbind, nice))
+forms.geol <- data.frame(t(aaply(forms.geol, 2, unlist)), row.names = NULL)

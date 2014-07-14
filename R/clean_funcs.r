@@ -4,8 +4,8 @@
 clean.lith <- function(lith, add = NULL) {
 
   other <- c('gabbro', 'metagabbro', 'volcanic', 'basalt', 'basaltic', 
-             'andesite', 'rhyolite', 'quartz', 'granodiorite', 'tuff',
-             'monzogranite', 'granite', 'diorite')
+             'andesite', 'rhyolite', 'quartz', 'granodiorite', 'tuff', 'ruff',
+             'monzogranite', 'granite', 'diorite', 'dacite', 'pyroclastic')
 
   if(!is.null(add)) {
     bads <- lith %in% other
@@ -18,7 +18,7 @@ clean.lith <- function(lith, add = NULL) {
                  'calcarenite', 'calcirudite')
   clastic <- c('siliciclastic', 'sandstone', 'sandy', 'sandy,calcareous',
                'shale', 'mudstone', 'siltstone', 'conglomerate', 'quartzite',
-               'phyllite', 'schist', 'slate', 'breccia', 
+               'phyllite', 'schist', 'slate', 'breccia', 'diamictite',
                'arenite', 'chert', 'claystone')
   mixed <- c('mixed carbonate-siliciclastic', 'marl', 'carbonatesiliciclastic')
 
