@@ -75,6 +75,14 @@ addenv <- apply(addenv, 2, as.character)
 addenv[is.na(addenv[, 1]), 1] <- seenenv[is.na(addenv[, 1]), 2]
 info$environment <- addenv[, 1]
 
+# what is still missing from env and lith
+nolith <- sort(unique(seenlith$formation)[!(unique(seenlith$formation) 
+                                            %in% implith[, 1])])
+noenv <- sort(unique(seenenv$formation)[!(unique(seenenv$formation) 
+                                          %in% got$formation)])
+write.csv(nolith, file = '../data/missing_lithology.csv')
+write.csv(noenv, file = '../data/missing_environ.csv')
+
 # body size
 uni <- unique(bs[, c('taxon_name', 'size')])
 uni <- uni[uni$taxon_name %in% dur$genus, ]
