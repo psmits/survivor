@@ -43,12 +43,14 @@ clean.env <- function(env) {
                'sublittoral strand', 'alluvial fan', 'alluvial valley fill', 'alluvial',
                'alluvial plain', 'costal plain', 'delta', 'deltaic/coastal plain',
                'fan delta', 'fluvial coastal', 'nearshore marine', 'prograding shelf',
-               'coastal plain')
+               'coastal plain', 'shallowwater', 'fluviatile', 'subtidal', 
+               'upper shoreface', 'lower shoreface', 'Basin-margin alluvial apron')
   offshore <- c('deep-water indet.', 'deep subtidal ramp', 'offshore', 'offshore indet.',
                 'offshore ramp', 'offshore shelf', 'basinal (carbonate)', 
-                'basinal (siliciclastic)', 'marine shelf', 'offshore marine')
+                'basinal (siliciclastic)', 'marine shelf', 'offshore marine', 
+                'offshore transition-offshore', 'lower shoreface-offshore transition')
   reef <- c('reef, buildup or bioherm')
-  none <- c('carbonate indet.', 'marine indet.')
+  none <- c('carbonate indet.', 'marine indet.', 'shelf', 'shallow marine')
 
   env[env %in% inshore] <- 'inshore'
   env[env %in% offshore] <- 'offshore'
