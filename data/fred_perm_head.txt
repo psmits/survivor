@@ -1,0 +1,519 @@
+**************************************************************************************************************
+Data downloaded from FRED (http://www.fred.org.nz) on August 5, 2014
+FRED is the computer database for the NZ Fossil Record File (FRF), which is a nationally significant database administrated by GSNZ and GNS Science                                
+Please acknowledge use of this data in publications, reports and presentations.                               
+**************************************************************************************************************
+
+********
+Paleontology
+********
+FR Number	Yard FR Number	Locality Type	Field Number/Drillhole Name	Depth From	Depth To	Depth Unit	Drill Type	Identifiers	Identification Date	Stage Lower	Lower Modifier	Stage Upper	Upper Modifier	Age Start	Age Stop	Stage Comments	nLab Number	Collection Comments
+D39/f0031		Outcrop						Cambell, J.D.; MacFarlan, D.A.B.; 	March 23, 1983	Permian				298.9	252.2			32-2-2 one good brachiopod specimen and many bryozoan.	
+D39/f0031		Outcrop						Olivecrona, Y.M.; 	June 6, 1985	no fossils				999.9	0.0				
+D41/f7512	S122/f0512	Outcrop						MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JDC 2183	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D41/f7515	S122/f0515	Outcrop	JGW 2807					Campbell, J.D.; 	December 12, 1974	Aparima Series		Braxtonian		288.5	259.8				
+D41/f7515A	S122/f0515A	Outcrop	JGW 686					Campbell, J.D.; 	December 12, 1974	Aparima Series		Braxtonian		288.5	259.8				
+D41/f9546	S131/f0546	Outcrop						Campbell, J.D.; 	December 12, 1974	Aparima Series		D'Urville Series		288.5	251.0				
+D42/f0054A		Outcrop	U2					Campbell, H.J.; 	May 26, 1981	Braxtonian				276.0	259.8		GNS GS 12666	CORALS.	
+D42/f0069		Outcrop	U4					Campbell, H.J.; 	May 26, 1981	Braxtonian				276.0	259.8		GNS GS 12668	CORALS.	
+D42/f0070		Outcrop	U1					Campbell, H.J.; 	May 26, 1981	Braxtonian				276.0	259.8		GNS GS 12669	CORALS.	
+D42/f0077		Outcrop						Campbell, H.J.; 	March 24, 1981	Makarewan				253.2	251.0		GNS GS 12672	FOSSIL FRAGMENTS INDET.	
+D42/f0079		Outcrop	U3					Campbell, H.J.; 	March 25, 1981	D'Urville Series	?			259.8	251.0		GNS GS 12670		
+D42/f7517	S131/f0517	Outcrop						Waterhouse, J.B.; 		Aparima Series				288.5	259.8		GNS GS 7826	NO LIST.	
+D43/f0015		Outcrop						Aitchison, J.C.; 	May 17, 1984	Malakovian				246.5	245.5			Maitai Group.	
+D43/f0015		Outcrop						MacFarlan, D.A.B.; 	1992	Gore Series				251.0	229.0		Otago U OU 17458	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D43/f0028		Outcrop	HJC1138					Campbell, H.J.; 	October 16, 1987	Aparima Series		D'Urville Series		288.5	251.0		GNS GS 14317		
+D43/f9524	S150/f0524	Outcrop						Waterhouse, J.B.; 	1960	Braxtonian				276.0	259.8		GNS GS 7803	GASTROPOD DETERMINATIONS PUBLISHED WATERHOUSE 1963 NZJGG 6: 88-112, 587-622. BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35, WATERHOUSE 1968, PALEONT. 129.	
+D43/f9524	S150/f0524	Outcrop						Olivecrona, Y.M.; 	January 6, 1986	not determined				999.9	0.0		GNS L 12671 /1	Some contamination with modern and Tertiary pollen.	
+D43/f9537	S150/f0537	Outcrop																	
+D43/f9537	S150/f0537	Outcrop						MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JDC 1980	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D43/f9537A		Outcrop	JDC1980/H42					MacFarlan, D.A.B.; 	July 1982								JDC1980/H42	+ black stem-like objects, various fragments	
+D43/f9537A		Outcrop	JDC1980/H42					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JDC 1980/McF H42	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D44/f0016		Outcrop	285					Campbell, H.J.; 		Braxtonian				276.0	259.8	First Permian trilobite fauna found in New Zealand.		Two specimens - one pygidium and one specimen with thorax and part of the glabella.	
+D44/f0017		Outcrop	381					Campbell, H.J.; 		Braxtonian		Makarewan		276.0	251.0				
+D44/f0018		Outcrop	68f					Campbell, H.J.; 		Braxtonian				276.0	259.8				
+D44/f0022		Outcrop						Campbell, H.J.; 		Mangapirian				285.0	276.0				
+D44/f0022		Outcrop						Olivecrona, Y.M.; 									GNS L 10363		
+D44/f0033		Outcrop	159							Makarewan				253.2	251.0				
+D44/f0036		Outcrop	14					Campbell, H.J.; 		Braxtonian				276.0	259.8				
+D44/f0043		Outcrop	JGB 1187					Begg, J.G.; 	July 6, 1976	Malakovian				246.5	245.5		JGB 1187		
+D44/f0044		Outcrop	JGB 1077					Begg, J.G.; 		Etalian				245.5	238.0				
+D44/f0044		Outcrop	JGB 1077					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JGB 1077	includes OU recollections; MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D44/f0044A		Outcrop	135					Campbell, H.J.; 	February 8, 1982	Etalian				245.5	238.0		GNS GS 13142		
+D44/f0044A		Outcrop	135					Campbell, H.J.; 	February 8, 1982	Etalian				245.5	238.0		GNS GS 13142		
+D44/f0044A		Outcrop	135					De Jersey, N.J.; 	1987	Etalian				245.5	238.0	Macrofossils from same locality: GS13142.	GNS L 10402	Total count = 200. Sporites count = 9. Acritarch count = 81.	
+D44/f0046		Outcrop	JGB 1704 (1705)					Begg, J.G.; 	August 22, 1977	Etalian				245.5	238.0		JGB 1704 (1705)		
+D44/f0047		Outcrop	JGB 1906					Begg, J.G.; 	August 22, 1977	Etalian				245.5	238.0		JGB 1906	Excellent preservation.	
+D44/f0048		Outcrop	JGB 1969					Begg, J.G.; 	August 22, 1977	Etalian				245.5	238.0		JGB 1969	Poorly preserved.	
+D44/f0049		Outcrop	JGB 1983					Begg, J.G.; 	August 3, 1977	Etalian				245.5	238.0		JGB 1983	Well preserved fossils in concretions.	
+D44/f0049		Outcrop	JGB 1983					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JGB 1983	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D44/f0117		Outcrop						Waterhouse, J.B.; 	1995	Braxtonian				276.0	259.8		GNS GS 15228		
+D44/f0141		Outcrop	JGB 1906					Begg, J.G.; 	October 13, 1980	Etalian				245.5	238.0		JGB 1906		
+D44/f0141		Outcrop	JGB 1906					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JGB 1906	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D44/f0143		Outcrop						Campbell, H.J.; 	March 24, 1981	Makarewan				253.2	251.0		GNS GS 12651		
+D44/f0143		Outcrop						Olivecrona, Y.M.; 	November 8, 1982	no fossils				999.9	0.0		GNS L 9881		
+D44/f0144		Outcrop						Campbell, H.J.; 	March 24, 1981	Waiitian	?			254.2	253.2		GNS GS 12658	FRAGMENTS.	
+D44/f0145		Outcrop						Campbell, H.J.; 	March 24, 1981	Makarewan				253.2	251.0		GNS GS 12649		
+D44/f0146		Outcrop						Campbell, H.J.; 	March 24, 1981	Makarewan				253.2	251.0		GNS GS 12648		
+D44/f0147		Outcrop						Campbell, H.J.; 	March 24, 1981	Makarewan				253.2	251.0		GNS GS 12647	GOOD SOLITARY CORAL.	
+D44/f0148		Outcrop						Campbell, H.J.; 	March 24, 1981	Puruhauan				259.8	254.2		GNS GS 12646	ABUNDANT BURROWS, TRACE FOSSILS. WOOD AND PLANT FRAGMENTS.	
+D44/f0148		Outcrop						Olivecrona, Y.M.; 	April 23, 1981								GNS L 9863		
+D44/f0149		Outcrop						Campbell, H.J.; 	March 25, 1981	Waiitian				254.2	253.2		GNS GS 13009	BRACHIOPOD FRAGMENTS INDET. SOLITARY CORAL	
+D44/f0149		Outcrop						Olivecrona, Y.M.; 	November 8, 1982	no fossils				999.9	0.0		GNS L 9882		
+D44/f0150		Outcrop						Olivecrona, Y.M.; 	March 15, 1981	no fossils				999.9	0.0		GNS L 9864		
+D44/f0150		Outcrop						Campbell, H.J.; 	March 25, 1981	Waiitian	?			254.2	253.2		GNS GS 13010		
+D44/f0151		Outcrop						Campbell, H.J.; 		Waiitian				254.2	253.2		GNS GS 13008	BRACHIOPOD FRAGMENTS INDET. SOLITARY CORAL.	
+D44/f0151		Outcrop						Olivecrona, Y.M.; 	April 14, 1981	no fossils				999.9	0.0		GNS L 9865		
+D44/f0152		Outcrop						Campbell, H.J.; 	March 24, 1981	Makarewan				253.2	251.0		GNS GS 12650		
+D44/f0153		Outcrop						Campbell, H.J.; 	March 24, 1981	Makarewan				253.2	251.0		GNS GS 12652	GASTROPOD INDET.	
+D44/f0154		Outcrop						Campbell, H.J.; 	March 24, 1981	Waiitian				254.2	253.2		GNS GS 12653	BRACIOPOD SHELL FRAGMENTS INDET. ?BIVALVIA SHELL FRAGMENTS INDET.	
+D44/f0155		Outcrop						Campbell, H.J.; 		Makarewan				253.2	251.0		GNS GS 12655	SOLITARY CORAL.	
+D44/f0155		Outcrop						Olivecrona, Y.M.; 	June 29, 1981								GNS L 9883		
+D44/f0155A		Outcrop	PC4					Begg, J.G.; 	May 12, 1983	Makarewan				253.2	251.0		GNS GS 13508		
+D44/f0155A		Outcrop	PC4					Olivecrona, Y.M.; 	January 9, 1985								GNS L 12712	ACRITARCHS COMMON, SPORES RARE. PLENTY OF ORGANIC DETRITAL MATERIAL ON SLIDES.	
+D44/f0156		Outcrop						Campbell, H.J.; 	March 24, 1981	Makarewan				253.2	251.0		GNS GS 12656		
+D44/f0157		Outcrop						Campbell, H.J.; 	March 24, 1981	Waiitian				254.2	253.2		GNS GS 12657	SHELL FRAGMENTS INDET.	
+D44/f0176		Outcrop	131					Campbell, H.J.; 	February 8, 1982	D'Urville Series				259.8	251.0		GNS GS 13143		
+D44/f0176		Outcrop	131					Olivecrona, Y.M.; 	October 18, 1982	no fossils				999.9	0.0		GNS L 10360	GS13143.	
+D44/f0184		Outcrop	PC3					Begg, J.G.; 	May 12, 1983	Makarewan				253.2	251.0		GNS GS 13524		
+D44/f0192		Outcrop	PC 11A					Begg, J.G.; 	May 12, 1983	Braxtonian				276.0	259.8		GNS GS 13510		
+D44/f0204		Outcrop	MI					Begg, J.G.; 	May 12, 1983	Permian				298.9	252.2		GNS GS 13511		
+D44/f0204		Outcrop	MI					Olivecrona, Y.M.; 	January 8, 1986	no fossils				999.9	0.0		GNS L 12710	SOME MODERN CONTAMINATION.	
+D44/f0222		Outcrop	McF H18 JDC3737					MacFarlan, D.A.B.; 	January 1982	Etalian				245.5	238.0		H18 JDC3737	Also an object with spines that is unidentified.	
+D44/f0222		Outcrop	McF H18 JDC3737					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JDC 3737	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D44/f0223		Outcrop	H14 JDC2021														2021(82)		
+D44/f0223		Outcrop	H14 JDC2021					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JDC 2021	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D44/f0232		Outcrop	HJC1162					Campbell, H.J.; 	May 11, 1987	Mangapirian				285.0	276.0		GNS GS 14312		
+D44/f0234		Outcrop	HJC1164					Campbell, H.J.; 	October 19, 1987	Mangapirian				285.0	276.0		GNS GS 14310		
+D44/f0235		Outcrop	HJC1165					Campbell, H.J.; 	October 19, 1987	Mangapirian				285.0	276.0		GNS GS 14309		
+D44/f0236		Outcrop	HJC1139					Campbell, H.J.; 	October 19, 1987	Aparima Series		D'Urville Series		288.5	251.0		GNS GS 14318		
+D44/f0238		Outcrop	HJC143					Campbell, H.J.; 	October 19, 1987	Aparima Series		D'Urville Series		288.5	251.0		GNS GS 14320		
+D44/f0239		Outcrop	HJC1144					Campbell, H.J.; 	October 19, 1987	Aparima Series		D'Urville Series		288.5	251.0		GNS GS 14321		
+D44/f0240		Outcrop	HJC1153					Campbell, H.J.; 	October 20, 1987	Telfordian				288.5	285.0		GNS GS 14325		
+D44/f0241		Outcrop	HJC1154					Campbell, H.J.; 	October 16, 1987	Aparima Series		D'Urville Series		288.5	251.0		GNS GS 14326		
+D44/f0242		Outcrop	HJC1155					Campbell, H.J.; 	October 16, 1987	Aparima Series		D'Urville Series		288.5	251.0		GNS GS 14327		
+D44/f0243		Outcrop	HJC1156					Campbell, H.J.; 	October 19, 1987	Aparima Series		D'Urville Series		288.5	251.0		GNS GS 14328		
+D44/f0285		Outcrop	JDC3824 JGB WH2 754					MacFarlan, D.A.B.; 	1984										
+D44/f0285		Outcrop	JDC3824 JGB WH2 754					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JDC 3824	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D44/f0286		Outcrop	JGB WH4 JDC 3826					MacFarlan, D.A.B.; 	1984	Etalian				245.5	238.0				
+D44/f0286		Outcrop	JGB WH4 JDC 3826					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JDC 3826	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D44/f7562	S150/f0562	Outcrop						Scott, G.L.; 	September 1, 1974	Aparima Series		Braxtonian		288.5	259.8				
+D44/f9001	S159/f1001	Outcrop						Waterhouse, J.B.; 	1963	Braxtonian				276.0	259.8		GNS GS 9697	BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1968, PALEONT. 129 AND WATERHOUSE 1982 PAL.BULL. 48. BIVALVE DETERMINATIONS PUBLISHED WATERHOUSE 1980, JRSNZ 10 (1): 97-133 AND WATERHOUSE 1982, PAL.BULL. 49.	
+D44/f9002	S159/f1002	Outcrop	CTH 31					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU CTH 31	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D44/f9003	S159/f1003	Outcrop	CTH 32					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU CTH 32	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D44/f9020	S159/f1020	Outcrop	15					Force, L.M.; 	1969	Puruhauan				259.8	254.2			In Palaeontogr. 1968 p. 50 Wat. describes Spir. n.sp. from J.D. Campbell's loc 2018. This is NOT in the Hawtel, but the Glendale and is = LF15	
+D44/f9036	S159/f1036	Outcrop	AP56, 57, 58					Force, E.R; 	August 2, 1968	Etalian	?			245.5	238.0			All fossils very small. Fauna similar to S159/467	
+D44/f9036	S159/f1036	Outcrop	AP56, 57, 58					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU ERF AP57	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D44/f9062	S159/f1062	Outcrop	JDC 1462						March 1, 1971	Etalian				245.5	238.0				
+D44/f9062	S159/f1062	Outcrop	JDC 1462					MacFarlan, D.A.B.; 	1992	Kaihikuan				238.0	229.0		Otago U OU JDC 1462	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D44/f9129	S159/f1129	Outcrop	344					Begg, J.G.; 	November 6, 1974	Mangapirian		Braxtonian		285.0	259.8	Insufficient fossil evidence to correlate directly with the Productus Creek Group formation	344		
+D44/f9130	S159/f1130	Outcrop	757					Begg, J.G.; 	November 6, 1974	Etalian				245.5	238.0		757		
+D44/f9130	S159/f1130	Outcrop	757					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JGB 757	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D44/f9131	S159/f1131	Outcrop	82 and 803					Begg, J.G.; 	November 5, 1974	Braxtonian				276.0	259.8	From the type formation of YAb (Waterhouse).	82/803	Collection from ref soft wet sandstone.	
+D44/f9132	S159/f1132	Outcrop	621					Begg, J.G.; 	November 6, 1974	Etalian				245.5	238.0	Fauna typical of Etalian	621		
+D44/f9132	S159/f1132	Outcrop	621					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JGB 621	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D44/f9133	S159/f1133	Outcrop	421/422					Begg, J.G.; 	November 6, 1974	Etalian				245.5	238.0		421/422		
+D44/f9133	S159/f1133	Outcrop	421/422					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JGB 421, 422	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D44/f9478	S159/f0478	Outcrop															GNS B 1033	Specimen transferred from macropaleontology collection (BR. 948).	
+D44/f9478	S159/f0478	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0	ARTINSKIAN COLD WATER FACIES - SEE PAL.BULL. 19.	GNS GS 3616	BRACHIOPOD DETERMINATIONS PUBLISHED FLETCHER, HILL & WILLETT, 1952, PAL. BULL. 19; WATERHOUSE, 1964, PAL.BULL. 35; WATERHOUSE, 1968, 1968, PALEONT. 129; WATERHOUSE, 1969, PAL.BULL. 41; WATERHOUSE 1982, PAL.BULL. 48. BIVALVE DETERMINATIONS PUBLISHED WATERHOUSE 1965, PALEONT. 6 & 7; WATERHOUSE, 1980, JRSNZ (10) 1 & (10) 2; WATERHOUSE 1982, PAL.BULL. 49. SCAPHOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1980, JRSNZ. 10 (2): 195-214. GASTROPOD DETERMINATIONS PUBLISHED PAL.BULL. 19 - FLETCHER, HILL & WILLETT, 1952; WATERHOUSE 1963, NZJGG 6; WATERHOUSE 1980, JRSNZ 10 (2). MOLLUSCA DETERMINATIONS PUBLISHED WATERHOUSE 1980 JRSNZ 10 (2): 195-214.	
+D44/f9478	S159/f0478	Outcrop						Willett, R.W.; 		Telfordian		Makarewan		288.5	251.0	ARTINSKIAN COLD WATER FACIES - SEE PAL BULL. 19.	GNS GS 3616	DETERMINATIONS PUBLISHED FLETCHER, HILL & WILLETT, 1952 PAL. BULL. 19.	
+D44/f9478	S159/f0478	Outcrop															GNS L 5654	Specimen transferred from macropaleontology collection (BR. 948).	
+D44/f9478A	S159/f0478A	Outcrop	PC13					Begg, J.G.; 	May 12, 1983	Makarewan				253.2	251.0		GNS GS 13507		
+D44/f9478B	S159/f0478B	Outcrop	HJC 1082					Campbell, H.J.; 	February 7, 1986	Braxtonian				276.0	259.8		GNS GS 14049		
+D44/f9478B	S159/f0478B	Outcrop	HJC 1082					Olivecrona, Y.M.; 	July 8, 1986								GNS L 12962	MANY UNIDENTIFIABLE BROKEN GRAINS.	
+D44/f9478B	S159/f0478B	Outcrop	HJC 1082					Campbell, H.J.; 	1996	Braxtonian				276.0	259.8		GNS B 1334		
+D44/f9478C	S159/f0478C	Outcrop	HJC1140					Campbell, H.J.; 	October 20, 1987	Puruhauan				259.8	254.2		GNS GS 14259		
+D44/f9478C	S159/f0478C	Outcrop	HJC1140					Campbell, H.J.; 	1996	Braxtonian				276.0	259.8		GNS B 1332		
+D44/f9479	S159/f0479	Outcrop						Willett, R.W.; 	1946	Telfordian		Makarewan		288.5	251.0		GNS GS 3615	DETERMINATIONS PUBLISHED FLETCHER, HILL & WILLETT, 1952 PAL.BULL. 19.	
+D44/f9479	S159/f0479	Outcrop						Waterhouse, J.B.; 	1968	Telfordian		Makarewan		288.5	251.0		GNS GS 3615	DETERMINATIONS PUBLISHED WATERHOUSE 1968, PALEONT. 129, WATERHOUSE 1982, PAL.BULL. 48.	
+D44/f9480	S159/f0480	Outcrop						Waterhouse, J.B.; 		Mangapirian				285.0	276.0		GNS GS 3614	DETERMINATIONS PUBLISHED FLETCHER, HILL & WILLETT 1952, PAL. BULL. 19; WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1982, PAL. BULL. 48.	
+D44/f9480	S159/f0480	Outcrop						Waterhouse, J.B.; 	1969	Mangapirian				285.0	276.0		GNS GS 3614	DETERMINATIONS PUBLISHED WATERHOUSE 1969, PAL.BULL. 41.	
+D44/f9511	S159/f0511	Outcrop						Hill, D.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 5296	SEE D. HILL - PAL.BULL. 19.	
+D44/f9511	S159/f0511	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 5296	BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1982, PAL. BULL. 48 AND WATERHOUSE 1964, PAL.BULL. 35. GASTROPOD DETERMINATIONS PUBLISHED WATERHOUSE 1963, NZJGG 6.	
+D44/f9542	S159/f0542	Outcrop						Campbell, H.J.; 	July 9, 1981	Etalian				245.5	238.0		5519	DETERMINATIONS PUBLISHED WATERHOUSE 1960 NZJGG 3 (2): 271-283. ?Saurian bones plus 1 whole vertebra.	
+D44/f9542	S159/f0542	Outcrop						MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JDC 1375, 1454	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D44/f9542	S159/f0542	Outcrop						Simes, J.E.; 	January 6, 2011								GNS GS 5519	A variety of bone and probable teeth in half a dozen fist sized lumps.	
+D44/f9543	S159/f0543	Outcrop								Etalian				245.5	238.0				
+D44/f9543	S159/f0543	Outcrop						Campbell, H.J.; 	July 8, 1981	Kaihikuan				238.0	229.0		GNS GS 5520	BONE FRAGMENT AND HEULONDITISED FORAMINIFERIDA IN COLLECTION.	
+D44/f9543	S159/f0543	Outcrop						MacFarlan, D.A.B.; 	1992	Kaihikuan				238.0	229.0		GNS GS 5520	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D44/f9553	S159/f0553	Outcrop						Marwick, J.; 		Etalian	?			245.5	238.0	ETALIAN FROM FIELD RELATIONS.	GNS GS 5607		
+D44/f9559	S159/f0559	Outcrop						Marwick, J.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 5613		
+D44/f9559	S159/f0559	Outcrop						Waterhouse, J.B.; 		Mangapirian				285.0	276.0		GNS GS 5613	BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1982, PAL.BULL. 48. GASTROPOD DETERMINATIONS PUBLISHED WATERHOUSE 1963, NZJGG 6.	
+D44/f9604	S159/f0604	Outcrop						Waterhouse, J.B.; 		Telfordian				288.5	285.0		GNS GS 5885	BIVALVIA DETERMINATIONS PUBLISHED WATERHOUSE 1963, PALEONT. 6 (4) AND WATERHOUSE 1982, PAL.BULL. 49. GASTROPODA DETERMINATIONS PUBLISHED WATERHOUSE, 1963 NZJGG 6 (5): 817-42. BRACHIOPODA DETERMINATIONS PUBLISHED WATERHOUSE 1958, NZJGG 1 (4); WATERHOUSE, 1964, PAL.BULL. 35; WATERHOUSE 1968, PALEONT. 129; WATERHOUSE, 1982, PAL.BULL. 48.	
+D44/f9604	S159/f0604	Outcrop						Mutch, A.R.; 		Permian	?			298.9	252.2				
+D44/f9604	S159/f0604	Outcrop						Fleming, C.A.; 	August 26, 1953	Permian				298.9	252.2				
+D44/f9604	S159/f0604	Outcrop							June 12, 1958										
+D44/f9604A	S159/f0604A	Outcrop	125					Campbell, H.J.; 	February 8, 1982	Aparima Series				288.5	259.8		GNS GS 13140		
+D44/f9604A	S159/f0604A	Outcrop	125					Olivecrona, Y.M.; 	October 18, 1982	no fossils				999.9	0.0		GNS L 10359	GS13140.	
+D44/f9621	S159/f0621	Outcrop						Waterhouse, J.B.; 		Braxtonian				276.0	259.8		GNS GS 6070	BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1968, PALEONT. 129; WATERHOUSE 1982, PAL.BULL. 48. BIVALVE DETERMINATIONS PUBLISHED WATERHOUSE 1965, PALEONT. 7; WATERHOUSE 1969, PAL.BULL. 41: WATERHOUSE 1982, PAL.BULL. 49. COELENTERATE DETERMINATIONS PUBLISHED WATERHOUSE 1979, JRSNZ 9 (4): 475-89. GASTROPOD DETERMINATIONS PUBLISHED WATERHOUSE 1963, NZJGG 6: 115-154.	
+D44/f9622	S159/f0622	Outcrop						Waterhouse, J.B.; 		Braxtonian				276.0	259.8		GNS GS 6071	BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1968, PALEONT. 129; WATERHOUSE 1982, PAL.BULL. 48. BIVALVE DETERMINATIONS PUBLISHED WATERHOUSE 1965, PALEONT 7; WATERHOUSE 1969, PAL.BULL. 41; WATERHOUSE 1980, JRSNZ 10 (1); WATERHOUSE 1982, PAL.BULL. 49. GASTROPOD DETERMINATIONS PUBLISHED WATERHOUSE 1963, NZJGG 6: 587-622. OTHER MOLLUSC DETERMINATIONS PUBLISHED WATERHOUSE 1980, JRSNZ 10 (2): MOLLUSC DETERMINATIONS PUBLISHED WATERHOUSE 1980, JRSNZ 10 (2): 195-214.	
+D44/f9623	S159/f0623	Outcrop						Waterhouse, J.B.; 		Braxtonian				276.0	259.8		GNS GS 6072	BIVALVE DETERMINATIONS PUBLISHED WATERHOUSE 1958, NZJGG 1 (1); WATERHOUSE 1963, PALEONT. 6; WATERHOUSE 1965, PALEONT. 7; WATERHOUSE 1980, JRSNZ 10. GASTROPOD DETERMINATIONS PUBLISHED WATERHOUSE 1963, NZJGG 6. BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1968, PALEONT. 129; WATERHOUSE 1982, PAL.BULL. 48. SCAPHOPOD DETERMINATIONS PUBLISHED WATERHOUSE, 1980, JRSNZ 10 (2): 195-214.	
+D44/f9624	S159/f0624	Outcrop						Waterhouse, J.B.; 		Braxtonian				276.0	259.8		GNS GS 6073	BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1968, PALEONT. 129; WATERHOUSE 1982, PAL.BULL. 48. BIVALVE DETERMINATIONS PUBLISHED WATERHOUSE 1980, JRSNZ 10 (1). GASTROPOD DETERMINATIONS PUBLISHED WATERHOUSE 1963, NZJGG 6: 115-154.	
+D44/f9624	S159/f0624	Outcrop								Permian				298.9	252.2			Deltopecten subquinquelineatus occurs in Australian Upper Marine Permian. Specimens very poorly preserved: show affinities with collection 6073.	
+D44/f9625	S159/f0625	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 6054	GASTROPOD DETERMINATIONS PUBLISHED WATERHOUSE 1958, NZJGG 1 (4); WATERHOUSE 1963, NZJGG 6: 115-154. BRACH DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL. BULL 35;.	
+D44/f9626	S159/f0626	Outcrop						Waterhouse, J.B.; 		Braxtonian				276.0	259.8		GNS GS 6074	GASTROPOD DETERMINATIONS PUBLISHED WATERHOUSE 1963, NZJGG 6. BIVALVE DETERMINATIONS PUBLISHED WATERHOUSE 1980, JRSNZ 10 (1). BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1968, PALEONT. 129; WATERHOUSE 1982, PAL.BULL. 48.	
+D44/f9651	S159/f0651	Outcrop						Waterhouse, J.B.; 		Telfordian		Mangapirian		288.5	276.0		GNS GS 6393	DETERMINATIONS PUBLISHED WATERHOUSE, 1964 PAL.BULL. 35; WATERHOUSE 1968, PALEONT. 129; WATERHOUSE 1982, PAL.BULL. 48.	
+D44/f9671	S159/f0671	Outcrop								Mangapirian				285.0	276.0			Fragments.	
+D44/f9672	S159/f0672	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 6323	BIVALVE DETERMINATIONS PUBLISHED WATERHOUSE 1958, NZJGG 1 (1): 166-177; WATERHOUSE 1965, PALEONT. 7; 610-55; WATERHOUSE 1969, PAL.BULL. 41; WATERHOUSE 1980, JRSNZ 10 (1); 97-133; WATERHOUSE 1982, PAL. BULL. 49. BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1968, PALEONT. 129; WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1982, PAL.BULL. 48. GASTROPOD DETERMINATIONS PUBLISHED WATERHOUSE 1963, NZJGG 6 (4): 587-622; 6 (2): 115-54, 6 (5): 817-42. SCAPHOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1980, JRSNZ 10 (2): 195-211.	
+D44/f9672A	S159/f0672A	Outcrop						Olivecrona, Y.M.; 		Permian				298.9	252.2		GNS L 9746 /1	COUNT 100 - 24% SPORES, 69% BISACCATE, 1% TAENIATE SACCATES, 6% ACRITARCHS.	
+D44/f9672A	S159/f0672A	Outcrop						Olivecrona, Y.M.; 		Permian				298.9	252.2		GNS L 9747 /1	COUNT 100 - 24% SPORES, 66% BISACCATE, 5% TAENIATE SACCATES, 5% ACRITARCHS.	
+D44/f9672A	S159/f0672A	Outcrop						Campbell, H.J.; 	March 24, 1981	Braxtonian				276.0	259.8		GNS GS 12654		
+D44/f9751	S159/f0751	Outcrop						Campbell, H.J.; 	July 9, 1981	Etalian				245.5	238.0		GNS GS 6618		
+D44/f9751	S159/f0751	Outcrop						MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JDC 1453	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D44/f9779	S159/f0779	Outcrop																	
+D44/f9779	S159/f0779	Outcrop						MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JDC 1446	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D44/f9779A	S159/f0779A	Outcrop						Campbell, J.D.; 		Etalian				245.5	238.0				
+D44/f9780	S159/f0780	Outcrop																	
+D44/f9780	S159/f0780	Outcrop						MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JDC 1447	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D44/f9861	S159/f0861	Outcrop						Waterhouse, J.B.; 		Mangapirian				285.0	276.0		GNS GS 7343	GASTROPOD DETERMINATIONS PUBLISHED WATERHOUSE 1963, NZJGG 6: 587-622. BIVALVE DETERMINATIONS PUBLISHED WATERHOUSE 1980, JRSNZ 10 (1): 97-133; WATERHOUSE 1982, PAL. BULL. 49. BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1982, PAL. BULL. 48.	
+D44/f9863	S159/f0863	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 7345	GASTROPOD DETERMINATIONS PUBLISHED WATERHOUSE 1963, NZJGG 6: 587-622. BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1982, PAL. BULL. 48. BIVALVE DETERMINATIONS PUBLISHED WATERHOUSE 1982, PAL.BULL. 49.	
+D44/f9864	S159/f0864	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 7346	DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1982, PAL. BULL. 48.	
+D44/f9865	S159/f0865	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 7347	GASTROPOD DETERMINATIONS PUBLISHED WATERHOUSE 1963, NZJGG 6: 88-112. BIVALVE DETERMINATIONS PUBLISHED WATERHOUSE 1965, PALEONT. 7. BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1968, PALEONT. 129; WATERHOUSE 1982, PAL.BULL. 48.	
+D44/f9870	S159/f0870	Outcrop															GNS B 1115	Glossopteris fragments.	
+D44/f9870	S159/f0870	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 7352	BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1982, PAL.BULL. 48. BIVALVE DETERMINATIONS PUBLISHED WATERHOUSE 1969, PAL.BULL. 41. FIRST AND ONLY KNOWN GLOSSOPTERIS RECORD IN NEW ZEALAND.	
+D44/f9872	S159/f0872	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 7354	DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1982, PAL.BULL. 48.	
+D44/f9873	S159/f0873	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 7355	DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1968, PALEONT. 129; WATERHOUSE 1982, PAL.BULL. 48.	
+D44/f9874	S159/f0874	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 7356	DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1967, NZJGG 10: 74-118; WATERHOUSE 1982, PAL.BULL. 48.	
+D44/f9875	S159/f0875	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 7357	DETERMINATIONS PUBLISHED WATERHOUSE 1967, NZJGG 10: 74-118; WATERHOUSE 1982, PAL.BULL. 48.	
+D44/f9876	S159/f0876	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 7358	BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1967, NZJGG 10: 74-118; WATERHOUSE 1982, PAL. BULL. 48. MOLLUSC DETERMINATIONS PUBLISHED WATERHOUSE 1980, JRSNZ 10 (2): 195-214. GASTROPOD DETERMINATIONS PUBLISHED WATERHOUSE 1963, NZJGG 6: 587-622.	
+D44/f9878	S159/f0878	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 7807	DETERMINATIONS PUBLISHED WATERHOUSE 1968, PALEONT. 129; WATERHOUSE 1982, PAL.BULL. 48.	
+D44/f9881	S159/f0881	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 7810		
+D44/f9882	S159/f0882	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 7811	BIVALVE DETERMINATIONS PUBLISHED WATERHOUSE 1965, PALEONT. 7; WATERHOUSE 1969, PAL.BULL. 41; WATERHOUSE 1980, JRSNZ 10 (1): 97-133. GASTROPOD DETERMINATIONS PUBLISHED WATERHOUSE 1963, NZJGG 6: 88-112. BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1968, PALEONT. 129; WATERHOUSE 1982, PAL.BULL. 48.	
+D44/f9883	S159/f0883	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 7812	GASTROPOD DETERMINATIONS PUBLISHED WATERHOUSE 1963, NZJGG 6: 115-154; WATERHOUSE 1980, JRSNZ 10 (2): 195-214. BIVALVE DETERMINATIONS PUBLISHED WATERHOUSE 1965, PALEONT 7: 630-655; WATERHOUSE 1969, PAL.BULL. 41; WATERHOUSE 1980, JRSNZ 10 (1): 97-133. BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1968, PALEONT. 129.	
+D44/f9885	S159/f0885	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 7814	DETERMINATIONS PUBLISHED WATERHOUSE 1967, NZJGG 10: 74-118; WATERHOUSE 1982, PAL.BULL. 48.	
+D44/f9888	S159/f0888	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 7818	BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1968, PALEONT. 129; WATERHOUSE 1982 PAL.BULL. 48. BIVALVE DETERMINATIONS PUBLISHED WATERHOUSE 1982, PAL.BULL. 49.	
+D44/f9891	S159/f0891	Outcrop	CTH 28																
+D44/f9891	S159/f0891	Outcrop	CTH 28					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU CTH 28	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D44/f9892	S159/f0892	Outcrop																	
+D44/f9892	S159/f0892	Outcrop						MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU CTH 29	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D44/f9894	S159/f0894	Outcrop																	
+D44/f9894	S159/f0894	Outcrop						MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU CTH 51	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D44/f9949	S159/f0949	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 9391	DETERMINATIONS PUBLISHED 1968, PALEONT. 129; WATERHOUSE 1982, PAL.BULL. 48.	
+D44/f9949A	S159/f0949A	Outcrop	HJC1145					Campbell, H.J.; 	October 16, 1987	Aparima Series		D'Urville Series		288.5	251.0		GNS GS 14322		
+D44/f9951	S159/f0951	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 9397	DETERMINATIONS PUBLISHED WATERHOUSE 1982, PAL.BULL. 48.	
+D44/f9954	S159/f0954	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 9401	DETERMINATIONS PUBLISHED WATERHOUSE 1967, NZJGG 10: 74-118; WATERHOUSE 1982, PAL.BULL. 48.	
+D44/f9955	S159/f0955	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 9402		
+D44/f9957	S159/f0957	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 9276	BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1968, PALEONT. 129; WATERHOUSE 1982, PAL.BULL. 48. BIVALVE DETERMINATIONS PUBLISHED WATERHOUSE 1982, PAL.BULL. 49.	
+D44/f9958	S159/f0958	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 9277	DETERMINATONS PUBLISHED WATERHOUSE 1982, PAL.BULL. 48.	
+D44/f9959	S159/f0959	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 9278	DETERMINATIONS PUBLISHED WATERHOUSE 1968, PALEONT. 129; WATERHOUSE 1982, PAL.BULL. 48.	
+D44/f9960	S159/f0960	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 9279	BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1968, PALEONT. 129; WATERHOUSE 1980, JRSNZ 10 (1): 97-133. GASTROPOD DETERMINATIONS PUBLISHED WATERHOUSE 1980, JRSNZ 10 (2): 195-214. BIVALVE DETERMINATIONS PUBLISHED WATERHOUSE 1968, PALEONT. 129; WATERHOUSE 1980, JRSNZ 10 (1): 97-133.	
+D45/f0032		Outcrop	GE12					Campbell, H.J.; 	September 23, 1980	Malakovian				246.5	245.5		GNS GS 12852	Gastropod indet.	
+D45/f0032		Outcrop	GE12					De Jersey, N.J.; 	1987	Malakovian				246.5	245.5		GNS L 9251	(List based on NZGS slide; GSQ sample barren).	
+D45/f0036		Outcrop	JGB 2612					Begg, J.G.; 	September 20, 1979	Malakovian				246.5	245.5				
+D45/f0037		Outcrop	JGB1985					Begg, J.G.; 	August 3, 1977	Etalian				245.5	238.0		JGB 1985	Fragmental fossils.	
+D45/f0037		Outcrop	JGB1985					Strong, C.P.; 	January 1985								GNS F 24496	BULK ONLY. SHED 13.	
+D45/f0038		Outcrop	JGB 2016					Begg, J.G.; 	August 4, 1977	Etalian				245.5	238.0		JGB 2016	Largely from concretions.	
+D45/f0042		Outcrop	JGB 2042					Begg, J.G.; 	August 17, 1977	Etalian				245.5	238.0				
+D45/f0045		Outcrop	JGB 2133					Begg, J.G.; 	July 15, 1977	Etalian				245.5	238.0	Not absolutely certainly Etalian, but Mellarium and Lepismatina? and Alipunctifera c.f. 'etaliana' suggest Etalian.		Poorly preserved fossils, molluscans chloritised.	
+D45/f0047		Outcrop	JGB 2168					Begg, J.G.; 	August 22, 1977	Etalian				245.5	238.0	Based on occurence of Rhynconella sp.	JGB 2168		
+D45/f0048		Outcrop	JGB 2189					Begg, J.G.; 	August 2, 1977	Etalian				245.5	238.0	Unusual fauna. Upper Etalian.	JGB 2189		
+D45/f0053		Outcrop	JGB 2631					Begg, J.G.; 	September 20, 1979	Etalian				245.5	238.0	Contains Daonella plus small Rhynconellid.			
+D45/f0053		Outcrop	JGB 2631					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JGB 2631	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D45/f0068		Outcrop	JGB 2612					Begg, J.G.; 	October 13, 1980	Malakovian				246.5	245.5		JGB 2612		
+D45/f0096		Outcrop	134					Campbell, H.J.; 	January 15, 1982	Etalian				245.5	238.0		GNS GS 13126	PLANTAE. POSSIBLY SEVERAL SPECIES OF GYMNOTOCERAS OR/AND POSSIBLY ANAGYMNOTOCERAS SP. (BEGG THESIS 1981).	
+D45/f0096		Outcrop	134					De Jersey, N.J.; 	1987	Etalian				245.5	238.0	Macrofossils from same locality: GS13126.	GNS L 10410		
+D45/f0096A		Outcrop	JDC 3730					Campbell, J.D.; Begg, J.G.; MacFarlan, D.A.B.; 	January 16, 1982	Etalian				245.5	238.0		JDC 3730	Also undetermined bone fragment and leaf.	
+D45/f0097		Outcrop	H11					MacFarlan, D.A.B.; 	January 16, 1982	Malakovian				246.5	245.5			Fauna similar to that at Coal Creek (S159/574)	
+D45/f0097		Outcrop	H11					MacFarlan, D.A.B.; 	1992	Malakovian				246.5	245.5		Otago U OU McF H11	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D45/f0098		Outcrop	TJK223					Campbell, J.D.; 	1969	Malakovian				246.5	245.5		TJK233		
+D45/f0098		Outcrop	TJK223					MacFarlan, D.A.B.; 	1992	Malakovian				246.5	245.5		Otago U OU TJK 233	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D45/f0098A		Outcrop	H12					MacFarlan, D.A.B.; 	April 1982	Malakovian				246.5	245.5		H12		
+D45/f0098A		Outcrop	H12					MacFarlan, D.A.B.; 	1992	Malakovian				246.5	245.5		Otago U OU McF H12	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D45/f0176		Outcrop	JDC3736=H16					MacFarlan, D.A.B.; 	February 1982	Malakovian		Etalian		246.5	238.0			Lab Number H16;JDC3736	
+D45/f0298		Outcrop	HJC 1150					Campbell, H.J.; 	October 16, 1987	Malakovian				246.5	245.5		GNS GS 14323		
+D45/f0319		Outcrop						MacFarlan, D.; 	1990	Malakovian				246.5	245.5				
+D45/f0320		Outcrop						MacFarlan, D.; 		Malakovian				246.5	245.5				
+D45/f0328		Outcrop	JDC 1969					MacFarlan, D.A.B.; 	1984	Etalian				245.5	238.0				
+D45/f0328		Outcrop	JDC 1969					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JDC 1969	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D45/f7443A	S159/f0443A	Outcrop																?bone, orthocones	
+D45/f7443A	S159/f0443A	Outcrop						MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JDC 1362	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D45/f7500	S159/f0500	Outcrop						Campbell, H.J.; 	September 5, 1981	Etalian				245.5	238.0		GNS GS 3199	DET. PUBISHED TRSNZ 79: 528-34. RECOLLECTED BY M. TEPUNGA, A.R. LILLIE & H.J. HARRINGTON IN MARCH 1944.	
+D45/f7500	S159/f0500	Outcrop						Campbell, H.J.; 	September 6, 1981	Etalian				245.5	238.0		GNS GS 3199	DETERMINATIONS PUBLISHED MARWICK 1953 PAL.BULL. 21 AND BROWNE 1951 TRSNZ 79: 528-34. Anaptychus IN COLLECTION.	
+D45/f7500	S159/f0500	Outcrop						MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JDC 1346, 1347, JGB 1979	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D45/f7500	S159/f0500	Outcrop						Raine, J.I.; 	April 9, 1997	Etalian				245.5	238.0	From stratigraphy.	GNS B 388	Two small pieces transferred from GS collection today (not seen by Retallack, as on loan to Waterhouse).	
+D45/f7500A	S159/f0500A	Outcrop						Speden, I.G.; 		Etalian				245.5	238.0		GNS GS 4630		
+D45/f7500A	S159/f0500A	Outcrop						Wood, B.L.; 										Aptychus, jaw of Nautiloid	
+D45/f7500B	S159/f0500B	Outcrop															5129	recollection of original Etalian locality	
+D45/f7500B	S159/f0500B	Outcrop						Campbell, H.J.; 	July 3, 1981	Etalian				245.5	238.0		GNS GS 5129	LEAF FOUND IN COLLECTION - JGB. 3/10/83. CRINOID COLUMNALS.	
+D45/f7500C	S159/f0500C	Outcrop	H19 JDC1347					Retallack, G.J.; 	1977	Etalian				245.5	238.0		GNS B 388		
+D45/f7500C	S159/f0500C	Outcrop	H19 JDC1347					MacFarlan, D.A.B.; 	March 1982	Etalian				245.5	238.0		H19 JDC1347 JGB2157		
+D45/f7500C	S159/f0500C	Outcrop	H19 JDC1347					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JDC 1347, McF H19	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D45/f7540	S159/f0540	Outcrop								Etalian				245.5	238.0				
+D45/f7540	S159/f0540	Outcrop						Campbell, H.J.; 	July 8, 1981	Etalian				245.5	238.0		GNS GS 5518		
+D45/f7570	S159/f0570	Outcrop						Speden, I.G.; 		Etalian				245.5	238.0		GNS GS 5687		
+D45/f7570	S159/f0570	Outcrop								Kaihikuan				238.0	229.0			small fragments very poor	
+D45/f7572	S159/f0572	Outcrop						Waterhouse, J.B.; 		Puruhauan				259.8	254.2		GNS GS 5689	DETERMINATIONS PUBLISHED WATERHOUSE 1978, NZJGG 21 (4): 517-30. (GS 5689 IS MISTAKENLY REFERRED TO AS 5863).	
+D45/f7572	S159/f0572	Outcrop								Permian				298.9	252.2				
+D45/f7574	S159/f0574	Outcrop																	
+D45/f7574	S159/f0574	Outcrop								Etalian				245.5	238.0				
+D45/f7574	S159/f0574	Outcrop																	
+D45/f7574	S159/f0574	Outcrop						Kummel, B.; 	March 20, 1957										
+D45/f7574	S159/f0574	Outcrop						Begg, J.G.; 	October 26, 1983	Etalian				245.5	238.0		GNS GS 5685		
+D45/f7574	S159/f0574	Outcrop						MacFarlan, D.A.B.; 	1992	Malakovian				246.5	245.5		GNS GS 5685	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D45/f7574A	S159/f0574A	Outcrop						MacFarlan, D.A.B.; 	1992	Malakovian				246.5	245.5		Otago U OU JDC 1355	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D45/f7574B	S159/f0574B	Outcrop																	
+D45/f7574B	S159/f0574B	Outcrop						MacFarlan, D.A.B.; 	1992	Malakovian				246.5	245.5		Otago U OU JDC 1443, JGB 2601, McF E52	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D45/f7574C	S159/f0574C	Outcrop						MacFarlan, D.A.B.; 	1992	Malakovian				246.5	245.5		Auckland U AU 1121	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D45/f7579	S159/f0579	Outcrop								Telfordian		Makarewan		288.5	251.0		GNS GS 5868		
+D45/f7579	S159/f0579	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 5868	DETERMINATIONS PUBLISHED WATERHOUSE 1968, PALEONT. 129: 1-94; WATERHOUSE 1982, PAL.BULL. 48.	
+D45/f7590	S159/f0590	Outcrop						Leed, H.; 	1951	Etalian				245.5	238.0	H.J. CAMPBELL 4/9/79.	GNS GS 5713		
+D45/f7590	S159/f0590	Outcrop						Campbell, H.J.; 	September 4, 1979	Etalian				245.5	238.0		GNS GS 5713		
+D45/f7592	S159/f0592	Outcrop								Kaihikuan				238.0	229.0				
+D45/f7592	S159/f0592	Outcrop						Begg, J.G.; 	October 27, 1983	Malakovian				246.5	245.5		GNS GS 5715		
+D45/f7592	S159/f0592	Outcrop						MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		GNS GS 5715	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D45/f7594	S159/f0594	Outcrop						Marwick, J.; 		Etalian	?			245.5	238.0	PRE Ge.	GNS GS 5717		
+D45/f7649	S159/f0649	Outcrop						Marwick, J.; 	1954	Malakovian	?			246.5	245.5	PRE-ETALIAN.	GNS GS 6392		
+D45/f7746	S159/f0746	Outcrop						Stevens, G.R.; 	1955	Malakovian				246.5	245.5		GNS GS 6457	DETERMINATIONS PUBLISHED WATERHOUSE 1979 NZJGG 22 (6): 743-9 (1980).	
+D45/f7746	S159/f0746	Outcrop						Waterhouse, J.B.; 	1979	Malakovian				246.5	245.5		GNS GS 6457	DETERMINATIONS PUBLISHED WATERHOUSE 1979 NZJGG 22 (6): 743-9 (1980).	
+D45/f7763	S159/f0763	Outcrop																	
+D45/f7763	S159/f0763	Outcrop						MacFarlan, D.A.B.; 	1992	Malakovian				246.5	245.5		Otago U OU JDC 1356	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D45/f7905	S159/f0905	Outcrop	JDC 1871																
+D45/f7905	S159/f0905	Outcrop	JDC 1871					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JDC 1871	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D45/f7906	S159/f0906	Outcrop	JDC 1872																
+D45/f7906	S159/f0906	Outcrop	JDC 1872					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JDC 1872, JGB 1367	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D45/f7906A		Outcrop	HJC 1081					Campbell, H.J.; 	February 8, 1982	Etalian				245.5	238.0		GNS GS 13145		
+D45/f7906A		Outcrop	HJC 1081					Begg, J.G.; 	November 30, 1983	Etalian				245.5	238.0		GNS GS 13145		
+D45/f7906B		Outcrop	HJC 1081					Campbell, H.J.; 	February 4, 1986	Etalian				245.5	238.0		GNS GS 14046		
+D45/f7911	S159/f0911	Outcrop	JDC 1881																
+D45/f7911	S159/f0911	Outcrop	JDC 1881					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JDC 1881	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D45/f7914	S159/f0914	Outcrop	JDC 1885																
+D45/f7914	S159/f0914	Outcrop	JDC 1885					MacFarlan, D.A.B.; 	1992	Malakovian				246.5	245.5		Otago U OU JDC 1885	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D45/f7916	S159/f0916	Outcrop	JDC 1887																
+D45/f7916	S159/f0916	Outcrop	JDC 1887					MacFarlan, D.A.B.; 	1992	Malakovian				246.5	245.5		Otago U OU JDC 1887	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D45/f7918	S159/f0918	Outcrop	JDC 1889																
+D45/f7918	S159/f0918	Outcrop	JDC 1889					MacFarlan, D.A.B.; 	1992	Malakovian				246.5	245.5		Otago U OU JDC 1889	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D45/f7972	S159/f0972	Outcrop	JDC 1906																
+D45/f7972	S159/f0972	Outcrop	JDC 1906					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JDC 1906	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D45/f7973	S159/f0973	Outcrop	JDC 1915																
+D45/f7973	S159/f0973	Outcrop	JDC 1915					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JDC 1915	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+D45/f7976	S159/f0976	Outcrop	JDC 1923																
+D45/f7976	S159/f0976	Outcrop	JDC 1923					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JDC 1923	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+E44/f0012		Outcrop						Campbell, H.J.; 	May 30, 1980	Makarewan				253.2	251.0	This age is based solely upon the occurence of Wairakiella rostrata.	GNS GS 12599		
+E44/f0012A		Outcrop	142					Campbell, H.J.; 	February 5, 1982	Makarewan				253.2	251.0		GNS GS 13136		
+E44/f0012B		Outcrop	HJC 1083					Campbell, H.J.; 	February 4, 1986	Makarewan				253.2	251.0	Wairakiella rostrata ZONE. MAKAREWAN STAGE.	GNS GS 14050		
+E44/f0017		Outcrop	JDC 3245							Makarewan				253.2	251.0				
+E44/f0063		Outcrop	JDC 2235					MacFarlan, D.A.B.; 	1984	Etalian				245.5	238.0				
+E44/f0063		Outcrop	JDC 2235					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JDC 2235	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+E44/f0064		Outcrop	JDC 3788					MacFarlan, D.A.B.; 	1984	Etalian				245.5	238.0				
+E44/f0064		Outcrop	JDC 3788					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JDC 3788	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+E44/f0065		Outcrop	DSC #T6 (ERF)					MacFarlan, D.A.B.; 	1984	Etalian				245.5	238.0				
+E44/f0065		Outcrop	DSC #T6 (ERF)					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU ERF T6	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+E44/f8437	S159/f0437	Outcrop	DSC 107					Coombs, D.S.; 	1950	Kaihikuan				238.0	229.0				
+E44/f8437	S159/f0437	Outcrop	DSC 107					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU DSC 107	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+E44/f8439	S159/f0439	Outcrop						Coombs, D.S.; 	1950	Kaihikuan				238.0	229.0				
+E44/f8439	S159/f0439	Outcrop						MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU DSC 125	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+E44/f8467	S159/f0467	Outcrop	DSC 95, 96, 98							Kaihikuan				238.0	229.0				
+E44/f8467	S159/f0467	Outcrop	DSC 95, 96, 98					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU DSC 95, 96, 98	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+E44/f8468	S159/f0468	Outcrop	DSC 126																
+E44/f8468	S159/f0468	Outcrop	DSC 126					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU DSC 126	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+E44/f8473	S159/f0473	Outcrop							1948	Etalian	?			245.5	238.0				
+E44/f8473	S159/f0473	Outcrop						MacFarlan, D.A.B.; 	1992	Kaihikuan				238.0	229.0		Otago U OU JDC 2189	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+E44/f8886	S159/f0886	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 7815	GASTROPOD DETERMINATIONS PUBLISHED WATERHOUSE 1963, NZJGG 6: 587-622. BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1967, NZJGG 10: 74-118; WATERHOUSE 1982, PAL.BULL. 48.	
+E44/f8889	S159/f0889	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 7805	DETERMINATIONS PUBLISHED WATERHOUSE 1967, NZJGG 10: 74-118; WATERHOUSE 1982, PAL.BULL. 48.	
+E44/f9538	S160/f0538	Outcrop	2215					Force, E.R; Campbell, J.D.; 	July 15, 1968	Etalian				245.5	238.0				
+E44/f9538	S160/f0538	Outcrop	2215					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JDC 2215, ERF coll	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+E45/f0354		Outcrop	JDC4535, 4537							Etalian				245.5	238.0				
+E45/f9432	S169/f0432	Outcrop						Begg, J.G.; 	November 8, 1983	Etalian				245.5	238.0		GNS GS 378	EXAMINED J. MARWICK. DETERMINATIONS PUBLISHED MARWICK 1953 PAL.BULL. 21. RE-EXAMINED BY J.G. BEGG.	
+E45/f9730	S169/f0730	Outcrop						Speden, I.G.; 		not determined				999.9	0.0	THE OCCURRENCE OF BRACHIOPOD (SPIRIFERID) FRAGMENTS SHOWING COMB-TOOTH HINGE STRUCTURE IS MOST INTRIGUING (ESP. AT SUCH A LOW STRAT.) AND AS IT IS LIKELY TO BE OF STRAT. AND PALEONT. IMPORTANCE, WE WOULD WELCOME ADDITIONAL MATERIAL, ESPECIALLY OF WHOLE SPECMIENS - AGE Ge or Gk.	GNS GS 7293		
+E45/f9730	S169/f0730	Outcrop						MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		GNS GS 7293	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+E45/f9982	S169/f0982	Outcrop	JRB 741,2					Campbell, J.D.; 	July 15, 1971	Malakovian				246.5	245.5				
+E45/f9982	S169/f0982	Outcrop	JRB 741,2					MacFarlan, D.A.B.; 	1992	Gore Series				251.0	229.0		Otago U OU JRB 741	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+E45/f9986	S169/f0986	Outcrop	JRB 755					Campbell, J.D.; 	July 15, 1971	Malakovian	?			246.5	245.5				
+E47/f0004		Outcrop	1133					Campbell, H.J.; 	October 16, 1987	Aparima Series		D'Urville Series		288.5	251.0		GNS GS 14254		
+E47/f0006		Outcrop	1132					Campbell, H.J.; 	October 16, 1987	Aparima Series		D'Urville Series		288.5	251.0		GNS GS 14253		
+F45/f0102		Outcrop	JDC3524					Campbell, J.D.; 		Etalian				245.5	238.0			Wairuna Peak	
+F45/f0103		Outcrop	JDC3525					Campbell, J.D.; 	May 8, 1979	Etalian				245.5	238.0			Wairuna Peak	
+F45/f0103		Outcrop	JDC3525					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JDC 3525	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+F45/f0167A		Outcrop	4613					Campbell, J.D.; Grebneff, A.; 	May 19, 1998	Etalian				245.5	238.0				
+F45/f0167B		Outcrop	JDC4613					Campbell, J.D.; 	February 24, 1997	Etalian				245.5	238.0			JDC4613	
+F45/f0267		Outcrop	360					Wright, E.; 	May 30, 1990	Etalian				245.5	238.0				
+F45/f0268		Outcrop	390/471/495					Wright, E.; 	May 30, 1990	Etalian				245.5	238.0				
+F45/f0326		Outcrop	JDC3383					Campbell, J.D.; 	June 2, 1977	Malakovian				246.5	245.5		PI	Planisirally coiled worm tubes.	
+F45/f0326		Outcrop	JDC3383					Begg, J.; 	August 15, 1977	Malakovian				246.5	245.5		PI		
+F45/f0333		Outcrop	4631					Campbell, J.D.; Grebneff, A.; 	May 1998	Etalian				245.5	238.0				
+F45/f8940	S169/f0940	Outcrop	EF 618					Force, E.R; 	January 23, 1969	Etalian				245.5	238.0			Undescribed form. Small strongly ribbed as at Kaka Point and North Range.	
+F45/f8940	S169/f0940	Outcrop	EF 618					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU ERF 618, JDC 2335	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+F45/f8941	S169/f0941	Outcrop	EF 616					Force, E.R; 	January 23, 1969	Etalian				245.5	238.0			Undescribed forms.	
+F45/f8941	S169/f0941	Outcrop	EF 616					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU ERF 616, JDC 2334	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+F45/f8980	S169/f0980	Outcrop	JRB HK4					Campbell, J.D.; 	July 15, 1971	Malakovian		Etalian		246.5	238.0				
+F45/f8981	S169/f0981	Outcrop	JDC 2333					Cambell, J.D.; 	July 15, 1971	Malakovian				246.5	245.5				
+F45/f8981	S169/f0981	Outcrop	JDC 2333					MacFarlan, D.A.B.; 	1992	Gore Series				251.0	229.0		Otago U OU JDC 2333	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+F45/f9535	S170/f0535	Outcrop						Bell, S.M.; 									GNS B 28		
+F45/f9535	S170/f0535	Outcrop						Retallack, G.J.; 	1977	Malakovian		Etalian		246.5	238.0	Probably Gm.	GNS B 28	G.J. RETALLACK - Thesis 1977.	
+F45/f9535	S170/f0535	Outcrop						Waterhouse, J.B.; 	1982	Etalian				245.5	238.0		GNS GS 4524	DETERMINATIONS PUBLISHED WATERHOUSE 1982 PAL.BULL. 49 ?ANNELIDS IN COLLECTION.	
+F45/f9535	S170/f0535	Outcrop						Begg, J.G.; 	November 11, 1983	Etalian				245.5	238.0		GNS GS 4524	?ANNELIDS IN COLLECTION.	
+F45/f9546	S170/f0546	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 4533	BIVALVE DETERMINATIONS PUBLISHED WATERHOUSE 1963, NZJGG 6: 193-6; WATERHOUSE 1982, PAL.BULL. 49. BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1982, PAL.BULL. 48.	
+F45/f9546	S170/f0546	Outcrop																	
+F45/f9546A	S170/f0546A	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 4610	DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1982, PAL.BULL. 48.	
+F45/f9559	S170/f0559	Outcrop						Campbell, H.J.; 	July 7, 1981	Etalian	?			245.5	238.0		GNS GS 4618	Cephalopod fragments.	
+F45/f9581	S170/f0581	Outcrop						Campbell, H.J.; 	July 6, 1981	Etalian				245.5	238.0		GNS GS 4637		
+F45/f9581	S170/f0581	Outcrop						Campbell, H.J.; 	September 6, 1981	Etalian				245.5	238.0		GNS GS 4637		
+F47/f0008		Outcrop	YO12					Campbell, H.J.; 	July 10, 1981	Puruhauan				259.8	254.2		GNS GS 13051		
+F47/f0008		Outcrop	YO12					Olivecrona, Y.M.; 	1983								GNS L 10002		
+F47/f0037		Outcrop						Campbell, J.D.; 	February 1, 1995	Malakovian		Etalian		246.5	238.0				
+F47/f6503	S182/f0503	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 5060	BIVALVE DETERMINATIONS PUBLISHED WATERHOUSE 1963, PALEONT. 6: 697-717; WATERHOUSE 1979, PAP. GEOL. DEPT. QSLD. UNIV. 9 (1): 1-22. BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1968, PALEONT. 129. GASTROPOD DETERMINATIONS PUBLISHED WATERHOUSE 1980, JRSNZ 10 (2): 195-214.	
+F47/f6503	S182/f0503	Outcrop																	
+F47/f6506	S182/f0506	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 5057	DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35.	
+F47/f6539	S182/f0539	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 7840	NO LIST.	
+G45/f0003		Outcrop	DDR30					Campbell, J.D.; 	September 20, 1977	Etalian				245.5	238.0			DDR30	
+G45/f0003		Outcrop	DDR30					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU DDR 30	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+G45/f0023A		Outcrop						Campbell, H.J.; 	July 9, 1981	Puruhauan				259.8	254.2		GNS GS 13048		
+G45/f0073		Outcrop	AR5					Begg, J.G.; 	May 12, 1983	Puruhauan				259.8	254.2		GNS GS 13525		
+G45/f0091		Outcrop	DDR48					Campbell, J.D.; 	September 10, 1977	Malakovian		Etalian		246.5	238.0		DDR48		
+G45/f8591	S170/f0591	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 4650	BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1982, PAL. BUL. 48. GASTROPODA DETERMINATIONS PUBLISHED WATERHOUSE 1963, NZJGG 6: 587-622.	
+G45/f8591	S170/f0591	Outcrop								Permian				298.9	252.2				
+G45/f8592	S170/f0592	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 4651	DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1968, PALEONT. 129; WATERHOUSE 1982, PAL.BULL. 48.	
+G45/f8592	S170/f0592	Outcrop								Permian				298.9	252.2				
+G45/f8592A	S170/f0592A	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 5077	BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1963, PALEONT. 6 (4): 699-717; WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1968, PALEONT. 129: 1-94; WATERHOUSE 1982, PAL.BULL. 48. BIVALVE DETERMINATIONS PUBLISHED WATERHOUSE 1979, PAP. GEOL. DEPT. QSLD. UNIV. 9 (1): 1-22.	
+G45/f8592B	S170/f0592B	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 7816	DETERMINATIONS PUBLISHED WATERHOUSE 1982, PAL.BULL. 48 (NOTE: ENTERED WRONGLY AS S170/664).	
+G45/f8612	S170/f0612	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 5078	BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1968, PALEONT. 129; WATERHOUSE 1982, PAL.BULL. 48. MOLLUSC DETERMINATIONS PUBLISHED WATERHOUSE 1980, JRSNZ 10 (8): 195-214. BIVALVE DETERMINATIONS PUBLISHED WATERHOUSE 1963, NZJGG 6: 193-6; WATERHOUSE 1965, PALEONT. 7 (4): 630-55; WATERHOUSE 1976, JRSNZ 6 (2): 221-5; WATERHOUSE 1980, JRSNZ 10 (1): 97-133; WATERHOUSE 1982, PAL.BULL. 49. COELENTERATE DETERMINATIONS PUBLISHED WATERHOUSE 1979, JRSNZ 9 (4): 475-89. GASTROPOD DETERMINATIONS PUBLISHED WATERHOUSE 1963, NZJGG 6: 587-622, 817-842.	
+G45/f8612	S170/f0612	Outcrop																	
+G45/f8613	S170/f0613	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 5079	DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1968, PALEONT. 129; WATERHOUSE 1982, PAL.BULL. 48.	
+G45/f8613	S170/f0613	Outcrop																	
+G45/f8614	S170/f0614	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 5684	DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1982, PAL.BULL. 48.	
+G45/f8614	S170/f0614	Outcrop						Leed, H.; 	1949								GNS B 192	Nothing resembling Glossopteris was found. See fossil list of species identification in Old Forms folder at IGNS LOWER HUTT for full list.	
+G45/f8615	S170/f0615	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 5080	DETERMINATIONS PUBLISHED WATERHOUSE 1959, G.S.BULL. 35: 47; WATERHOUSE 1963, NZJGG 6 (4): 587-622, 6 (5): 817-42; WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1976, JRSNZ 6 (2): 221-5; WATERHOUSE 1982, PAL.BULL. 48.	
+G45/f8615	S170/f0615	Outcrop							1949								GNS B 193	cf. Cladophlebis - not determinable, only fossil listed.	
+G45/f8629	S170/f0629	Outcrop						Campbell, H.J.; 	September 4, 1979	Etalian		Oretian		245.5	221.0		GNS GS 5154		
+G45/f8629	S170/f0629	Outcrop						MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		GNS GS 5154	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+G45/f8665	S170/f0665	Outcrop	C191					Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 11143	NO LIST.	
+G45/f8665	S170/f0665	Outcrop	C191																
+G45/f8667	S170/f0667	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 9188	BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1968, PALEONT. 129; WATERHOUSE 1976, JRSNZ 6 (2): 227-52; WATERHOUSE 1982, PAL.BULL. 48. BIVALVE DETERMINATIONS PUBLISHED WATERHOUSE 1976, JRSNZ 6 (2): 227-52.	
+G45/f8676	S170/f0676	Outcrop	159					Force, L.M.; 	1968	Puruhauan				259.8	254.2				
+G45/f8677	S170/f0677	Outcrop	Trig DD					Force, L.M.; 	1968	Puruhauan				259.8	254.2				
+G45/f8678	S170/f0678	Outcrop	158					Force, L.M.; 	January 1958	Puruhauan				259.8	254.2				
+G45/f8683	S170/f0683	Outcrop						Waterhouse, J.B.; 		Puruhauan				259.8	254.2		GNS GS 11133	DETERMINATIONS PUBLISHED WATERHOUSE 1976, JRSNZ 6 (2): 227-52; WATERHOUSE 1982, PAL.BULL. 48.	
+G45/f8684	S170/f0684	Outcrop						Waterhouse, J.B.; 		Telfordian		Puruhauan		288.5	254.2		GNS GS 11134	DETERMINATIONS PUBLISHED WATERHOUSE 1976, JRSNZ 6 (2): 227-52; WATERHOUSE 1982, PAL.BULL. 48.	
+G45/f8686	S170/f0686	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 11136	DETERMINATIONS PUBLISHED WATERHOUSE 1976, JRSNZ 6 (2): 227-52; WATERHOUSE 1982, PAL.BULL. 48.	
+G45/f8687	S170/f0687	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 11137	DETERMINATIONS PUBLISHED WATERHOUSE 1976, JRSNZ 6 (2): 227-52; WATERHOUSE 1982, PAL.BULL. 48.	
+G45/f8688	S170/f0688	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 11138	DETERMINATIONS PUBLISHED WATERHOUSE, JRSNZ 6 (2): 227-52; WATERHOUSE 1982, PAL.BULL. 48.	
+G45/f8689	S170/f0689	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 11139	DETERMINATIONS PUBLISHED WATERHOUSE 1976, JRSNZ 6 (2): 227-52; WATERHOUSE 1982, PAL.BULL. 48.	
+G45/f9498	S171/f0498	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 1456	BIVALVE DETERMINATIONS PUBLISHED WATERHOUSE 1963, PALEONT. 6: 699-717; WATERHOUSE 1979, PAP. QLSD. UNIV. GEOL. DEPT. 9 (1): 1-22; WATERHOUSE 1982, PAL.BULL. 49. BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1978, NZJGG 21 (4): 517-30; WATERHOUSE 1982, PAL. BULL. 48. GASTROPOD DETERMINATIONS PUBLISHED NZJGG 6: 587-622; NZJGG 6 (5): 833. DETERMINATIONS PUBLISHED WATERHOUSE 1963, NZJGG 6 (1): 98; NZJGG 6 (4);	
+G46/f9735	S179/f0735	Outcrop	JDC 2287					Campbell, J.D.; 	November 1, 1968										
+G46/f9735	S179/f0735	Outcrop	JDC 2287					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JDC 2287	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+H46/f0172A		Outcrop	JDC3108					Campbell, J.D.; 	April 1997	Etalian				245.5	238.0				
+H46/f0172B		Outcrop	JDC3108					Campbell, J.D.; 	February 1998	Etalian				245.5	238.0				
+H46/f0266		Outcrop	JDC 4591,92					Campbell, J.D.; 	March 7, 1998	Etalian				245.5	238.0				
+H46/f0288		Outcrop	JDC 4658					Campbell, J.D.; Grebneff, A.; 	May 19, 1998	Etalian				245.5	238.0				
+H46/f0320		Outcrop	JDC 3550					Cambell, J.D.; 	August 1979	Etalian	?			245.5	238.0				
+H46/f8501	S179/f0501	Outcrop						Marwick, J.; 	1950	Etalian				245.5	238.0	or Gk.	GNS GS 5116		
+H46/f8501	S179/f0501	Outcrop						MacFarlan, D.A.B.; 	1992	Kaihikuan				238.0	229.0		GNS GS 5116	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+H46/f8646	S179/f0646	Outcrop	JDC 1420					Campbell, J.D.; 		Etalian	?			245.5	238.0				
+H46/f8646	S179/f0646	Outcrop	JDC 1420					MacFarlan, D.A.B.; 	1992	Etalian				245.5	238.0		Otago U OU JDC 1420	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp	
+H46/f8654	S179/f0654	Outcrop	1433 JDC					Campbell, J.D.; 		Etalian	?			245.5	238.0			Conchostracan = aptychus. Many red-pink spherical granular non-calcareous bodies. Plant impressions with 2 distinct fern-like pinules.	
+H46/f8702	S179/f0702	Outcrop	544					Force, E.R; 	January 19, 1969	Etalian	?			245.5	238.0	Based entirely on regional stratigraphy.			
+H46/f8706	S179/f0706	Outcrop	EF 583, JDC 2276					Campbell, J.D.; 		Etalian	?			245.5	238.0		Otago U OU 18094		
+I36/f0018		Outcrop						Waterhouse, J.B.; 	November 24, 1985	Mangapirian				285.0	276.0			Taeniothaerus only in YAm, but Echinalosia prideri zone.	
+J36/f0006B		Outcrop	AKvD101					van Dusschoten, Andrei; 	November 5, 1999	Etalian				245.5	238.0	Confirmed by Mellarium.		Three taxa listed could not be found or assigned to any group known; '?Suosurellidae sp.' '?Placatula sp.' and 'Strelochondria' sp.'. Burrows also noted.	
+J36/f0093		Outcrop	AKvD102					van Dusschoten, Andrei; 		Etalian				245.5	238.0			mostly (all) brachs	
+J36/f0094		Outcrop	AKvD103					van Dusschoten, Andrei; 	November 5, 1999	Etalian				245.5	238.0			Material collected from about 20m of stratigraphic thickness. Also, some nearby float material clearly from the locality is grouped with this collection.	
+J36/f0098		Outcrop	AKvD107					van Dusschoten, Andrei; 	November 5, 1999	Etalian				245.5	238.0				
+J36/f0105		Outcrop	AKvD115					van Dusschoten, Andrei; 	November 5, 1999	Etalian				245.5	238.0	Confirmed by presence of Mellarium 			
+M25/f9562	S8/f0562	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 9387	BIVALVE DETERMINATIONS PUBLISHED WATERHOUSE 1969, PAL.BULL. 41;. BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1982, PAL.BULL. 48.	
+N28/f0056		Outcrop	N28/174					Campbell, H.J.; 	February 8, 1982	Etalian	?			245.5	238.0		GNS GS 12443		
+N28/f0056		Outcrop	N28/174					Campbell, H.J.; 	February 8, 1983	Etalian	?			245.5	238.0		GNS GS 12443		
+N28/f0056		Outcrop	N28/174					Begg, J.G.; 	November 24, 1983	Etalian	?			245.5	238.0		GNS GS 12443		
+N28/f0063B		Outcrop						Campbell, H.J.; 	September 23, 1980	Etalian				245.5	238.0		GNS GS 12450		
+N28/f0063C		Outcrop	SO.917					Owen, S.R.; 	February 18, 1991	Etalian				245.5	238.0			Type locality for Etalia johnstoni	
+N28/f0094		Outcrop						Campbell, H.J.; 	May 23, 1980	Etalian				245.5	238.0		GNS GS 12621		
+N28/f0095		Outcrop						Campbell, H.J.; 	May 22, 1980	Etalian				245.5	238.0		GNS GS 12622	Conulariida. Leaf fossils. Wood and stem fragments.	
+N28/f0095		Outcrop						Raine, J.I.; 	June 10, 1980	Etalian				245.5	238.0	From macrofauna.	GNS B 1165	Secondary venation little dichotomized; distinct angle of margin at upper third of leaf; lower part tapers to petiole; 18-23 by c. 45 mm complete.	
+N28/f0095		Outcrop						MacFarlan, D.; 	1992	Etalian				245.5	238.0		GNS GS 12622	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp.	
+N28/f0095E		Outcrop	D16, D2					MacFarlan, D.A.B.; 	February 1982	Etalian				245.5	238.0	Good upper Etalian brachiopod fauna, similar to that at some Wairaki localities	D2, D16	Some material (D2) collected during GSNZ conference field trip, 21/11/81; led by H.J, Campbell	
+N28/f0095E		Outcrop	D16, D2					MacFarlan, D.; 	1992	Etalian				245.5	238.0		Otago U OU McF D2, D16	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp.	
+N28/f0096		Outcrop						Campbell, H.J.; 		Etalian				245.5	238.0		GNS GS 12623	DETERMINATION IN APPENDIX 1 (NOT PUBLISHED) TO NZJGG 28: 725-741.	
+N28/f0096		Outcrop						MacFarlan, D.; 	1992	Etalian				245.5	238.0		GNS GS 12623	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp.	
+N28/f0097		Outcrop						Campbell, H.J.; 	May 21, 1980	Etalian				245.5	238.0		GNS GS 12624	Two indet. gastropod forms plus trochid gastropod. Orthocone nautiloid. Crinoids - ?two species or forms present. Plant fragments.	
+N28/f0097		Outcrop						MacFarlan, D.; 	1992	Etalian				245.5	238.0		GNS GS 12624	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp.	
+N28/f0098		Outcrop						Campbell, H.J.; 	May 22, 1980	Etalian				245.5	238.0		GNS GS 12625	DETERMINATION IN APPENDIX 1 (NOT PUBLISHED) NZJGG 28: 725-741.	
+N28/f0102A		Outcrop	SRO.832					Owen, S.R.; 	February 24, 1991	Etalian				245.5	238.0			RICHMOND GROUP	
+N28/f0147		Outcrop	D18					MacFarlan, D.A.B.; 	March 1982	Etalian				245.5	238.0	Upper Ge	D18		
+N28/f0147		Outcrop	D18					MacFarlan, D.; 	1992	Etalian				245.5	238.0		Otago U OU McF D18	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp.	
+N28/f0164		Outcrop	JDC2722					Campbell, J.D.; 	December 1971	Etalian				245.5	238.0				
+N28/f0164		Outcrop	JDC2722					MacFarlan, D.; 	1992	Etalian				245.5	238.0		Otago U OU JDC 2722	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp.	
+N28/f0165		Outcrop	JDC2723					Campbell, J.D.; 	December 1971	Etalian				245.5	238.0			ALSO CRINOIDEA	
+N28/f0165		Outcrop	JDC2723					MacFarlan, D.; 	1992	Oretian	?			229.0	221.0		Otago U OU JDC 2723	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp.	
+N28/f0175		Outcrop	S.O. 42					Owen, S.R.; 	February 18, 1991	Etalian				245.5	238.0				
+N28/f0180		Outcrop	SO 41					Owen, S.R.; 	February 18, 1991	Etalian				245.5	238.0				
+N28/f0181		Outcrop	SRO 43					Owen, S.R.; 	December 24, 1991	Etalian				245.5	238.0				
+N28/f0182		Outcrop	SO 51					Owen, S.R.; 	February 18, 1991	Etalian				245.5	238.0				
+N28/f0183		Outcrop	SRO 58					Owen, S.R.; 	February 24, 1991	Etalian				245.5	238.0				
+N28/f0184		Outcrop	SRO 63					Owen, S.R.; 	February 24, 1991	Etalian				245.5	238.0				
+N28/f0185		Outcrop	SRO 69					Owen, S.R.; 	March 1, 1991	Etalian				245.5	238.0				
+N28/f0186		Outcrop	SRO 74					Owen, S.R.; 	March 1, 1991	Etalian				245.5	238.0				
+N28/f0187		Outcrop	SRO 115					Owen, S.R.; 	February 18, 1991	Etalian				245.5	238.0				
+N28/f0188		Outcrop	SRO 118					Owen, S.R.; 	February 19, 1991	Etalian				245.5	238.0				
+N28/f0189		Outcrop	SO 119					Begg, J.G.; 	September 14, 1990	Etalian				245.5	238.0				
+N28/f0189		Outcrop	SO 119					Begg, J.G.; 	September 14, 1990	Etalian				245.5	238.0			Also Gastropoda cf. Proconulinae n.gen. n.sp. of Begg 1981	
+N28/f0190		Outcrop	SRO 121					Owen, S.R.; 	February 1989	Etalian				245.5	238.0				
+N28/f0191		Outcrop	123					Owen, S.R.; 	February 18, 1991	Etalian				245.5	238.0	largely from field relations as specimens poor			
+N28/f0192		Outcrop	SRO 125					Owen, S.R.; 	February 19, 1991	Etalian				245.5	238.0				
+N28/f0197		Outcrop	SRO 455					Owen, S.R.; 	February 21, 1991	Etalian				245.5	238.0	material a bit poor, only one specimen.			
+N28/f0199		Outcrop	SRO 482					Owen, S.R.; 	February 21, 1991	Etalian				245.5	238.0				
+N28/f0200		Outcrop	SRO 487					Owen, S.R.; 	February 21, 1991	Etalian				245.5	238.0				
+N28/f0211		Outcrop	SRO 824					Owen, S.R.; 	February 18, 1991	Etalian				245.5	238.0				
+N28/f0212		Outcrop	SRO 846					Owen, S.R.; 	February 24, 1991	Etalian				245.5	238.0			Also Ammonoidea cf. Popanoceritidae.	
+N28/f0215		Outcrop	SRO 861					Owen, S.R.; 	February 21, 1991	Etalian				245.5	238.0				
+N28/f0218		Outcrop	SRO 891					Owen, S.R.; 	February 24, 1991	Etalian				245.5	238.0				
+N28/f0222		Outcrop	SRO 911					Owen, S.R.; 	February 25, 1991	Etalian				245.5	238.0				
+N28/f0244		Outcrop	SRO 1318					Owen, S.R.; 	February 26, 1991	Etalian				245.5	238.0				
+N28/f0268		Outcrop	1621					Owen, S.R.; 	November 15, 1994	Etalian				245.5	238.0			also: ?fish bone (fine)	
+N28/f0269		Outcrop	SRO 1630					Owen, S.R.; 	November 14, 1994	Etalian				245.5	238.0				
+N28/f6518	S19/f0518	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 9352	DETERMINATIONS PUBLISHED WATERHOUSE 1982, PAL.BULL. 48.	
+N28/f6519	S19/f0519	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 9353	DETERMINATIONS PUBLISHED WATERHOUSE 1982, PAL.BULL. 48.	
+N28/f7447	S20/f0447	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 9187	BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1967, NZJGG 10: 74-118; WATERHOUSE 1964, PAL.BULL. 35: WATERHOUSE 1982, PAL.BULL. 48. GASTROPOD DETERMINATIONS PUBLISHED WATERHOUSE 1963, NZJGG 6 (4): 587-622.	
+N28/f7457	S20/f0457	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 388	DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1967, NZJGG 10: 74-118; WATERHOUSE 1982, PAL.BULL. 48.	
+N28/f7458	S20/f0458	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 389	DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1982, PAL. BULL. 48.	
+N28/f7474	S20/f0474	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 441	DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1967, NZJGG 10: 74-118; WATERHOUSE 1982, PAL.BULL. 48. WATERHOUSE 1982, PAL.BULL. 49.	
+N28/f7477	S20/f0477	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 473	DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1967, NZJGG 10: 74-118; WATERHOUSE 1982, PAL.BULL. 48.	
+N28/f7500	S20/f0500	Outcrop						Marwick, J.; 									GNS GS 3716		
+N28/f7500	S20/f0500	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 397	BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1982, PAL.BULL. 48. GASTROPOD DETERMINATIONS PUBLISHED WATERHOUSE 1963, NZJGG 6: 587-622.	
+N28/f7509	S20/f0509	Outcrop						Begg, J.G.; 	October 20, 1983	Etalian				245.5	238.0		GNS GS 4545	BONE FRAGMENT IN COLLECTION.	
+N28/f7523	S20/f0523	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 4590	BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1967, NZJGG 10: 74-118; WATERHOUSE 1982, PAL.BULL. 48. GASTROPOD DETERMINATIONS PUBLISHED WATERHOUSE 1963, NZJGG 6 (4): 587-622.	
+N28/f7533	S20/f0533	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 4596	DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1967, NZJGG 10: 74-118; WATERHOUSE 1982, PAL.BULL. 48.	
+N28/f7554	S20/f0554	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 4853	DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1982, PAL.BULL. 48.	
+N28/f7630	S20/f0630	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 7641	DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1982, PAL.BULL. 48.	
+N28/f7669	S20/f0669	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 7797	DETERMINATIONS PUBLISHED WATERHOUSE 1982, PAL.BULL. 48.	
+N28/f7672	S20/f0672	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 7799	DETERMINATIONS PUBLISHED WATERHOUSE 1982, PAL.BULL. 48.	
+N28/f7673	S20/f0673	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 7800	DETERMINATIONS PUBLISHED WATERHOUSE 1967, NZJGG 10: 74-118; WATERHOUSE 1982, PAL.BULL. 48.	
+N28/f7694	S20/f0694	Outcrop						Campbell, H.J.; 	February 8, 1982	Etalian	?			245.5	238.0	I think this may be Ge: - Rhynchonella is similar to costate Ge one, Mentzeliopsis is similar to Ge one; Spiriferinidae indet. is ?Alipunctifera n.sp., Ge one, - J.G. BEGG 8/11/83.	GNS GS 7908	Crinoid or Echinoid fragments in collection; determinations in Appendix 1 (not published) in NZJGG 28: 725-41.	
+N28/f7694	S20/f0694	Outcrop						MacFarlan, D.; 	1992	Etalian				245.5	238.0		GNS GS 7908	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp.	
+N28/f7699	S20/f0699	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 9139	DETERMINATIONS PUBLISHED WATERHOUSE 1963, NZJGG 6 (4): 587-622.	
+N28/f7700	S20/f0700	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 9140	DETERMINATIONS PUBLISHED WATERHOUSE 1967, NZJGG 10: 74-118; WATERHOUSE 1982, PAL.BULL. 48.	
+N28/f7701	S20/f0701	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 9141	DETERMINATIONS PUBLISHED WATERHOUSE 1967, NZJGG 10: 71-118; WATERHOUSE 1982, PAL.BULL. 48.	
+N28/f7707	S20/f0707	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 9350	DETERMINATIONS PUBLISHED WATERHOUSE 1982, PAL.BULL. 48.	
+N28/f7708	S20/f0708	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 9394	DETERMINATIONS PUBLISHED WATERHOUSE 1982, PAL.BULL. 48.	
+N28/f7709	S20/f0709	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 9395	DETERMINATIONS PUBLISHED WATERHOUSE 1982, PAL.BULL. 48.	
+N28/f7710	S20/f0710	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 9396	DETERMINATIONS PUBLISHED WATERHOUSE 1982, PAL.BULL. 48.	
+N28/f7736	S20/f0736	Outcrop	N41					MacFarlan, D.; 	1992	Etalian				245.5	238.0		Otago U OU ERF N41	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp.	
+N28/f7737	S20/f0737	Outcrop						MacFarlan, D.; 	1992	Etalian				245.5	238.0		Otago U OU ERF N49	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp.	
+N28/f7742	S20/f0742	Outcrop	N29					MacFarlan, D.; 	1992	Etalian				245.5	238.0		Otago U OU ERF N29	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp.	
+N28/f7743	S20/f0743	Outcrop	414-430					MacFarlan, D.; 	1992	Etalian				245.5	238.0		Otago U OU ERF N8b	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp.	
+N28/f7744	S20/f0744	Outcrop	412-413					MacFarlan, D.; 	1992	Etalian				245.5	238.0		Otago U OU ERF 412	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp.	
+N28/f7767	S20/f0767	Outcrop	JDC 2847					MacFarlan, D.; 	1992	Etalian				245.5	238.0		Otago U OU JDC 2547	MacFarlan, D.A.B. 1992 Triassic and Jurassic Rhynchonellacea (Brachiopoda) from New Zealand and New Caledonia. Royal Society of New Zealand Bulletin 31: 310pp.	
+NC/f0136		Outcrop	HJC30B					Campbell, H.J.; 		Malakovian				246.5	245.5		Auckland U AU 5761		
+NC/f0161		Outcrop	HJC92					Campbell, H.J.; 		Puruhauan				259.8	254.2		Auckland U AU 5772		
+NC/f0163		Outcrop	HJC96					Campbell, H.J.; 		Puruhauan				259.8	254.2		Auckland U AU 5769		
+NC/f0172		Outcrop	HJC116					Campbell, H.J.; 		Puruhauan				259.8	254.2		Auckland U AU 5774		
+NC/f0173		Outcrop	HJC117					Campbell, H.J.; 		Puruhauan				259.8	254.2		Auckland U AU 5775		
+NC/f0174		Outcrop	HJC118					Campbell, H.J.; 		Puruhauan				259.8	254.2		Auckland U AU 5776		
+NC/f0175		Outcrop	HJC119							Puruhauan				259.8	254.2		Auckland U AU 5777		
+NC/f0176		Outcrop	HJC120					Campbell, H.J.; 		Puruhauan				259.8	254.2		Auckland U AU 5778		
+NC/f0177		Outcrop	HJC121					Campbell, H.J.; 		Puruhauan				259.8	254.2		Auckland U AU 5779		
+NC/f0291		Outcrop	JAGM19					Campbell, H.J.; 		Puruhauan				259.8	254.2		Auckland U AU 7278	T117; JAGM19, 1965	
+NC/f0296		Outcrop	JAGM24					Campbell, H.J.; 		Puruhauan				259.8	254.2		Auckland U AU 5781		
+NC/f0306		Outcrop	JAGM84					Campbell, H.J.; 		Malakovian				246.5	245.5		Auckland U AU 7264	also Incertae sedis	
+NC/f0306A		Outcrop	HJC5					Campbell, H.J.; 		Malakovian				246.5	245.5		Auckland U AU 5759	also Incertae sedis	
+NC/f0319		Outcrop	JDC3156					Campbell, H.J.; 		Puruhauan				259.8	254.2				
+NC/f0320		Outcrop	JDC3184					Campbell, H.J.; 		Malakovian				246.5	245.5				
+NC/f0325		Outcrop	JDC3189					Campbell, H.J.; 		Puruhauan				259.8	254.2				
+O27/f7500	S15/f0500	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 3757	DETERMINATIONS PUBLISHED WATERHOUSE 1963, PALEONT. 6: 699-717; WATERHOUSE 1958, NZJGG 1 (1): 166-77; WATERHOUSE 1979, QSLD. UNIV. GEOL. DEPT. PAP. 9 (1): 1-22.	
+O27/f7502	S15/f0502	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 3759	DETERMINATIONS PUBLISHED WATERHOUSE 1964, PAL.BULL. 35; WATERHOUSE 1982, PAL.BULL. 48.	
+P04/f7505A	N8/f0505A	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 5074	BRACHIOPOD DETERMINATIONS PUBLISHED WATERHOUSE 1968, PALEONT. 129. COELENTERATE DETERMINATIONS PUBLISHED HILL & LEED, 1956, PAL.BULL. 25.	
+P04/f7505A	N8/f0505A	Outcrop						Hornibrook, N. de B.; 								UPPER PERMIAN.		T1000. IDENTIFICATIONS PUBLISHED - HORNIBROOK TRANS. ROY. SOC. NZ 79 (2) 319-321, 1951. PROF CHARLES ROSS W. WASHINGTON STATE UNIVERSITY VISITED NZGS 2/9/1970 CONFIRMED ADVANCED YABEINA FAUNA AND CORRELATION WITH CAPITAN OR OCHOAN SUGGESTED WAS A FORE REEF FACIES.	
+P04/f7505A	N8/f0505A	Outcrop						Ozawa, T.; 	July 3, 1970									IDENTIFICATIONS FROM MATERIAL SENT TO PROF. OZAWA, KYUSHU UNIVERSITY BY N. de B. HORNIBROOK - SUPPLIED IN LETTER DATED JULY 3 RD 1970.	
+P04/f7505A	N8/f0505A	Outcrop						Campbell, H.J.; 	January 21, 1986	Telfordian		Makarewan		288.5	251.0		GNS GS 5074		
+P04/f7526	N8/f0526	Outcrop						Speden, I.G.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 10511	MOULDS OF SHELL FRAGMENTS - NO RECOGNISABLE FOSSILS. NEW PERMIAN FOSSIL LOCALITY. NO LIST.	
+P25/f0001		Outcrop						Campbell, H.J.; 	April 10, 1980	Makarewan				253.2	251.0		GNS GS 12643	Conulariida and Anthozoa. Rostroconcha. Bryozoa: several forms.	
+P25/f8002	S10/f0002	Outcrop						Waterhouse, J.B.; 		Telfordian		Makarewan		288.5	251.0		GNS GS 7633	DETERMINATIONS PUBLISHED WATERHOUSE 1963, PALEONT. 6: 699-717; WATERHOUSE 1979, QSLD. UNIV. GEOL. DEPT. PAP. 9 (1): 1-22.	
+
