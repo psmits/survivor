@@ -137,15 +137,16 @@ persist <- as.data.frame(cbind(aff = unlist(litprob),
 persist$aff <- as.numeric(as.character(persist$aff))
 
 
-
 # new zealand
-zealand <- zealand[!(is.na(zealand$Age.Start) | is.na(zealand$Age.Stop)), ]
-zealand <- zealand[zealand$Age.Start > ptbound, ]
-zealand <- zealand[zealand$Age.Start < 900, ]
-
 zea <- unique(bs[, c('taxon_name', 'size')])
 zea <- zea[zea$taxon_name %in% zealand$genus, ]
 zea <- zea[order(zea$taxon_name), ]
 
 zealand <- zealand[zealand$genus %in% zea[, 1], ]
-zealand$duration <- zealand$Age.Start - zealand$Age.Stop
+zea.dur <- zea.dur[zea.dur$genus %in% zea[, 1], ]
+
+late <- zea.dur[zea.dur$start > ptbound, 1]
+zealand <- zealand[zealand$genus %in% late, ]
+zea.dur <- zea.dur[zea.dur$genus %in% late, ]
+
+zea.surv <- paleosurv(zea.dur$start, zea.dur$end, start = pst, end = ptbound)

@@ -10,6 +10,9 @@ library(stringr)
 
 
 # locality information
+fred.strat <- read.delim(file = '../data/fred_perm_strat.txt',
+                         sep = '\t', skip = 9, stringsAsFactors = FALSE,
+                         row.names = NULL)
 fred.feat <- read.delim(file = '../data/fred_perm_fea.txt', 
                         sep = '\t', skip = 9, stringsAsFactors = FALSE,
                         row.names = NULL)
@@ -69,10 +72,23 @@ names(fred.head) <- names(fred.head)[-1]
 sit <- str_replace(fred.feat[, 1], '\\/', '\\.')
 fred.feat <- fred.feat[match(oc[, 2], sit), -ncol(fred.feat)]
 
+stra <- str_replace(fred.strat[, 1], '\\/', '\\.')
+fred.strat <- fred.strat[match(oc[, 2], stra), -ncol(fred.strat)]
+
+# synonyms to match payne data
 oc[, 1] <- as.character(oc[, 1])
 for(ii in seq(nrow(syn))) {
   oc[oc[, 1] %in% syn[ii, 1], 1] <- syn[ii, 2]
 }
 
 # bring it all together
-zealand <- cbind(oc, fred.feat, fred.head[, 11:17])
+zealand <- cbind(oc, fred.feat, fred.head[, 11:17], fred.strat[, 21:36])
+zealand <- zealand[!(is.na(zealand$Age.Start) | is.na(zealand$Age.Stop)), ]
+zealand <- zealand[zealand$Age.Start < 900, ]
+zealand$locality <- str_replace(zealand$locality, '[A-Z]$', '')
+zealand <- zealand[!(zealand$Stage.Lower == 'Permian' 
+                     | zealand$Stage.Upper == 'Permian'), ]
+
+zea.dur <- ddply(zealand, .(genus), summarize,
+                 start = max(Age.Start, na.rm = TRUE),
+                 end = min(Age.Stop, na.rm = TRUE))
