@@ -10,16 +10,19 @@ library(stringr)
 
 
 # locality information
-fred.strat <- read.delim(file = '../data/fred_perm_strat.txt',
-                         sep = '\t', skip = 9, stringsAsFactors = FALSE,
-                         row.names = NULL)
 fred.feat <- read.delim(file = '../data/fred_perm_fea.txt', 
+                        sep = '\t', skip = 9, stringsAsFactors = FALSE,
+                        row.names = NULL)
+fred.head <- read.delim(file = '../data/fred_perm_head.txt', 
                         sep = '\t', skip = 9, stringsAsFactors = FALSE,
                         row.names = NULL)
 
 # taxon occurrence
 fred.taxon <- read.delim(file = '../data/fred_perm_taxon.txt', 
                          sep = '\t', skip = 9, stringsAsFactors = FALSE)
+
+syn <- read.csv(file = '../data/brach_synom.csv')
+syn <- apply(syn[syn[, 2] != '', ], 2, as.character)
 
 lab <- c('FR Number', 'Yard FR Number', 'Locality Type', 'Field Number/Drillhole Name',
          'Depth From', 'Depth To', 'Depth Unit', 'Drill Type', 'Identifier')
@@ -59,11 +62,17 @@ oc[, 2] <- str_replace(oc[, 2], '\\.(\\d{1})\\.*$', '')
 names(oc) <- c('genus', 'locality', 'occurrence')
 
 # match with locality information
-st <- str_replace(fred.strat[, 1], '\\/', '\\.')
-fred.strat <- fred.strat[match(oc[, 2], st), -ncol(fred.strat)]
+st <- str_replace(fred.head[, 1], '\\/', '\\.')
+fred.head <- fred.head[match(oc[, 2], st), -ncol(fred.head)]
+names(fred.head) <- names(fred.head)[-1]
 
 sit <- str_replace(fred.feat[, 1], '\\/', '\\.')
 fred.feat <- fred.feat[match(oc[, 2], sit), -ncol(fred.feat)]
 
+oc[, 1] <- as.character(oc[, 1])
+for(ii in seq(nrow(syn))) {
+  oc[oc[, 1] %in% syn[ii, 1], 1] <- syn[ii, 2]
+}
+
 # bring it all together
-zealand <- cbind(oc, fred.feat, fred.strat[, 21:33])
+zealand <- cbind(oc, fred.feat, fred.head[, 11:17])

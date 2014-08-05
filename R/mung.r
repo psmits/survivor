@@ -11,6 +11,8 @@ source('../R/paleo_surv.r')
 source('../R/govt2occ.r')
 source('../R/env_match.r')
 
+source('../R/read_fred.r')
+
 info <- read.csv('../data/psmits-occs.csv', stringsAsFactors = FALSE)
 dur <- read.csv('../data/psmits-ranges.csv', stringsAsFactors = FALSE)
 bs <- read.delim('../data/payne_bodysize/Occurrence_PaleoDB.txt', 
@@ -133,3 +135,17 @@ persist <- as.data.frame(cbind(aff = unlist(litprob),
                                hab = unlist(hab),
                                size = uni[, 2]))
 persist$aff <- as.numeric(as.character(persist$aff))
+
+
+
+# new zealand
+zealand <- zealand[!(is.na(zealand$Age.Start) | is.na(zealand$Age.Stop)), ]
+zealand <- zealand[zealand$Age.Start > ptbound, ]
+zealand <- zealand[zealand$Age.Start < 900, ]
+
+zea <- unique(bs[, c('taxon_name', 'size')])
+zea <- zea[zea$taxon_name %in% zealand$genus, ]
+zea <- zea[order(zea$taxon_name), ]
+
+zealand <- zealand[zealand$genus %in% zea[, 1], ]
+zealand$duration <- zealand$Age.Start - zealand$Age.Stop
