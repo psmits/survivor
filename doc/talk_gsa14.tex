@@ -38,42 +38,18 @@
 \end{frame}
 
 \begin{frame}
-  \frametitle{Extinction}
-
-  \begin{quotation}
-    All species that have ever lived are, to a first approximation, dead.
-
-    \tiny{\attrib{Raup 1986 \underline{The Nemesis Affair}}}
-  \end{quotation}
-\end{frame}
-
-\begin{frame}
   \frametitle{Foundation}
 
   \begin{alertblock}{Question}
-    Why do certain taxa go extinct at different rates?
+    Why do taxa go extinct at different rates?
   \end{alertblock}
 \end{frame}
 
-\begin{frame}
-  \frametitle{Modes of extinction}
-
-  \hspace{\stretch{0.4}} Field of Bullets 
-  \hspace{\stretch{0.5}} \textbf{--} 
-  \hspace{\stretch{0.5}} Wanton 
-  \hspace{\stretch{0.5}} \textbf{--} 
-  \hspace{\stretch{0.5}} Fair Game 
-  \hspace{\stretch{1}}
-
-  \bigskip
-
-  \tiny{\attrib{Raup 1991 \underline{Extinction: Bad Genes or Bad Luck?}}}
-\end{frame}
 
 \begin{frame}
   \frametitle{Common observation}
 
-  \begin{block}{Known pattern}
+  \begin{block}{Pattern}
     Species with large geographic ranges have a low extinction risk.
   \end{block}
 
@@ -89,29 +65,89 @@
   \frametitle{Gambler's Ruin}
 
   \begin{definition}
-    Given infinite time, all gambler's go bust. The rate is proportional to starting chip count.
+    Given infinite time, all gambler's go bust. 
   \end{definition}
-
-  \bigskip
-
-  \begin{center}
-    \begin{align*}
-      \text{Gambler} &\equiv \text{Taxon} \\
-      \\
-      \text{Chip count} &\equiv \text{Range, Species:Genus, etc.}
-    \end{align*}
-  \end{center}
-  
 \end{frame}
 
 
-% Stochastic expectations of extinction and the Gambler's Ruin
+\begin{frame}
+  \frametitle{Same rates}
+
+  \includegraphics[width = \textwidth, height = 0.8\textheight, keepaspectratio = true]{figure/gambling}
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Different rates}
+
+  \includegraphics[width = \textwidth, height = 0.8\textheight, keepaspectratio = true]{figure/gsame}
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Mechanism}
+  \begin{alertblock}{Problem}
+    Impossible to distinguish \alert{random} from \alert{selection} without more information.
+  \end{alertblock}
+\end{frame}
 
 
 % Ecology and interactions with the environment
+\begin{frame}
+  \frametitle{Adaptive zones}
 
+  \begin{center}
+    \includegraphics[height = 0.7\textheight, keepaspectratio = true]{figure/simpson}
+
+    \tiny{\attrib{Simpson 1944 \underline{Tempo and Mode}}}
+  \end{center}
+\end{frame}
 
 % Enter Brachiopods
+\begin{frame}
+  \frametitle{Enter brachiopods}
+
+  Permian
+
+  Australia and New Zealand (pbdb + fred)
+
+  substrate affinity
+
+  paleoenvironment affinity
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Brachiopods, environmental preference, and extinction}
+
+  \begin{alertblock}{Question}
+    Do interactions involved in environmental preference predict differential survival?
+  \end{alertblock}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Formalization of Van Valen}
+
+  \begin{block}{Law of Constant Extinction}
+    \begin{columns}
+      \begin{column}{0.5\textwidth}
+        \begin{align*}
+          T &\sim Exp(\lambda)\ \\ 
+          &\sim Weibull(\lambda, k = 1) 
+        \end{align*}
+      \end{column}
+      \begin{column}{0.5\textwidth}
+
+        \(T\): survival time
+        
+        \(\lambda\): expected number of \\extinctions per unit time
+        
+        \(k\): time proportionality
+      \end{column}
+    \end{columns}
+
+  \end{block}
+\end{frame}
 
 
 % Preliminary analytical framework
@@ -121,7 +157,63 @@
 
 
 % Future modeling
+\begin{frame}
+  \frametitle{Bayesian framework}
 
+  better capture uncertainty
+
+  continuous model development
+
+  interpretability 
+
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Affinity is a distribution, not a scalar}
+
+  e.g. Pr(taxon carbonate draw \(\mid\) all taxon draw) has uncertainty.
+
+  Improved prior e.g. substrate affinity:
+  \begin{align*}
+    (\theta_{\text{carb}} \mid \text{rocks}) &\sim Bin(\text{carb} \mid \text{rocks}, \theta_{\text{carb}}) Beta(\alpha, \beta) \\
+    &\sim Beta(\text{carb} + \alpha, \text{rocks} - \text{carb} + \beta)
+  \end{align*}
+
+  Estimate affinity as part of model. 
+  
+  Propagate uncertainty.
+
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Acknowledgements}
+  \begin{columns}
+    \begin{column}{0.5\textwidth}
+      \begin{itemize}
+        \item Advising
+          \begin{itemize}
+            \item Kenneth D. Angielczyk, Michael J. Foote
+            \item P. David Polly, \\Richard H. Ree
+          \end{itemize}
+
+        \item Discussion and advice
+          \begin{itemize}
+            \item David Bapst, Megan Boatright, Ben Frable, Marites Villarosa Garcia, Kathleen Ritterbush, Darcy Ross, Liz Sander, Carl Simpson
+          \end{itemize}
+      \end{itemize}
+    \end{column}
+    \begin{column}{0.5\textwidth}
+      \includegraphics[height = 0.3\textheight, keepaspectratio = true]{figure/chicago} 
+      \includegraphics[width = 0.4\textwidth, keepaspectratio = true]{figure/field}
+
+      \includegraphics[height = 0.3\textheight, width = 0.5\textwidth, keepaspectratio = true]{figure/fossilworks}
+      \includegraphics[width = 0.5\textwidth, keepaspectratio = true]{figure/paleodb}
+
+    \end{column}
+  \end{columns}
+\end{frame}
 
 
 \end{document}
