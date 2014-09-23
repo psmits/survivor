@@ -116,6 +116,11 @@ litaf[litaf > (1/3) & litaf < (2/3)] <- 'mixed'
 # environment
 penv <- get.occ(dur[, 2], dur[, 3], info$ma_mid, info$environment)
 names(penv) <- dur[, 1]
+
+# tabled env occurrences
+kenv <- lapply(penv, table)
+tenv <- lapply(pocc, function(x) table(x$environment))
+
 hab <- list()
 for(ii in seq(length(penv))) {
   ins <- shprob(occur = pocc[[ii]]$environment, avil = penv[[ii]], 
