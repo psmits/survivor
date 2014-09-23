@@ -21,6 +21,7 @@ bs <- read.delim('../data/payne_bodysize/Occurrence_PaleoDB.txt',
 ptbound <- 252.2
 pst <- 298.9
 
+# basic cleaning
 # remove taxa that went extinct before the permian
 rg <- dur[which(dur[, 3] > pst), 1]
 dur <- dur[!(dur[, 1] %in% rg), ]
@@ -34,6 +35,7 @@ info <- info[!(info$occurrence.genus_name %in% rg), ]
 # remove all occurrences not from the permian
 rg <- which(info$ma_mid > pst | info$ma_mid < ptbound)
 info <- info[-rg, ]
+
 
 # put in information i've learned
 # lithology
@@ -59,12 +61,12 @@ addenv[is.na(addenv[, 1]), 1] <- seenenv[is.na(addenv[, 1]), 2]
 info$environment <- addenv[, 1]
 
 # what is still missing from env and lith
-nolith <- sort(unique(seenlith$formation)[!(unique(seenlith$formation) 
-                                            %in% forms.geol[, 1])])
-noenv <- sort(unique(seenenv$formation)[!(unique(seenenv$formation) 
-                                          %in% got$formation)])
-write.csv(nolith, file = '../data/missing_lithology.csv')
-write.csv(noenv, file = '../data/missing_environ.csv')
+#nolith <- sort(unique(seenlith$formation)[!(unique(seenlith$formation) 
+#                                            %in% forms.geol[, 1])])
+#noenv <- sort(unique(seenenv$formation)[!(unique(seenenv$formation) 
+#                                          %in% got$formation)])
+#write.csv(nolith, file = '../data/missing_lithology.csv')
+#write.csv(noenv, file = '../data/missing_environ.csv')
 
 # body size
 uni <- unique(bs[, c('taxon_name', 'size')])
@@ -81,6 +83,8 @@ rmlith <- c('lithified', 'not reported')
 info <- info[!(info$lithology1 %in% rmlith), ]
 info <- info[info$lithology1 != 'mixed', ]
 
+
+# assign information
 # lithology
 info$lithology1 <- clean.lith(info$lithology1, add = info$lithology2)
 info <- info[info$lithology1 != 'mixed', ]
@@ -93,6 +97,10 @@ dur <- dur[dur[, 1] %in% names(pocc), ]
 
 paff <- get.occ(dur[, 2], dur[, 3], info$ma_mid, info$lithology1)
 names(paff) <- dur[, 1]
+
+# tabled lithology occurrences
+kocc <- lapply(paff, table)
+tocc <- lapply(pocc, function(x) table(x$lithology1))
 
 litaf <- list()
 for(ii in seq(length(pocc))) {
@@ -150,3 +158,6 @@ zealand <- zealand[zealand$genus %in% late, ]
 zea.dur <- zea.dur[zea.dur$genus %in% late, ]
 
 zea.surv <- paleosurv(zea.dur$start, zea.dur$end, start = pst, end = ptbound)
+
+
+
