@@ -1,4 +1,5 @@
 library(rstan)
+library(car)
 library(parallel)
 
 source('../R/networks.r')
@@ -30,7 +31,7 @@ occ <- persist$occu
 
 data <- list(duration = duration,
              siz = log(size),
-             aff = aff,
+             aff = logit(aff),
              occ = occ,
              hab = hab,
              extinct = extinct)

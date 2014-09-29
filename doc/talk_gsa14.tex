@@ -149,23 +149,25 @@
 
 
 \begin{frame}  % effect size
-  \frametitle{Scale parameter}
-  % faceted histograms, one for each beta
-  % plot as exp(beta)? to show effect on scale parameter
+  \frametitle{Parameter marginal posteriors}
+  \begin{center}
+    \includegraphics[height = 0.8\textheight, width = \textwidth, keepaspectratio = true]{figure/post}
+  \end{center}
 \end{frame}
 
-
-\begin{frame}  
-  \frametitle{Shape parameter}
-  % plot as log(shape) so it is ``centered'' around 0 and easier to interpret
+\begin{frame}
+  \frametitle{Posterior predictive check: mean duration}
+  \begin{center}
+    \includegraphics[height = 0.8\textheight, width = \textwidth, keepaspectratio = true]{figure/mean_ppc}
+  \end{center}
 \end{frame}
 
-
-\begin{frame}  % S(t) and h(t)
-  \frametitle{Survival distributions}
-  % use low alpha and stack estimates on top of each other
+\begin{frame}
+  \frametitle{Posterior predictive check: affinity effect}
+  \begin{center}
+    \includegraphics[height = 0.8\textheight, width = \textwidth, keepaspectratio = true]{figure/bio_ppc}
+  \end{center}
 \end{frame}
-
 
 \begin{frame}
   \frametitle{Current conclusions}
@@ -191,7 +193,9 @@
       \begin{itemize}
         \item Model
           \begin{itemize}
-            \item substrate, habitat as distributions (fully hierarchical model)
+            \item extended sensitivity analysis
+            \item robust priors (\(t\)-distribution)
+            \item substrate, habitat as distributions (fully hierarchical model) or just make categorical?
             \item sampling rate as predictor
           \end{itemize}
       \end{itemize}
@@ -227,21 +231,6 @@
   \end{columns}
 \end{frame}
 
-\begin{frame}  % posterior predictive checking, sensitivity analysis
-  \frametitle{Model checking}
-  % mean survival time
-  % median survival time
-  % variance?
-\end{frame}  % is this actually necessary for what i want to show?
 
-\begin{frame}
-  \frametitle{Model formulation}
-  \begin{align*}
-    p(\lambda, k \mid y) &\propto p(y \mid \lambda, k) p(\lambda, k) \\
-    p(y \mid \lambda, k) &= \prod_{i: I_i = 1} Weibull(y \mid \lambda, k) \prod_{i: I_{i} = 0} cCDF_{Weibull}(y, \lambda, k) \\
-    \lambda &= \exp(\beta \mathbf{X})\\
-    \beta &\sim \mathcal{N}(0, 100) \\
-    k &\sim Gamma(1, 1) \\
-  \end{align*}
-\end{frame}
+
 \end{document}
