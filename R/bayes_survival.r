@@ -6,6 +6,16 @@ source('../R/networks.r')
 RNGkind(kind = "L'Ecuyer-CMRG")
 seed <- 420
 
+
+# this is for the really complicated idea i have about 
+# having affinity as a distribution
+#taxa.carb <- unlist(lapply(tocc, function(x) {
+#                           if(is.na(x['carbonate'])) 0 else x['carbonate']}))
+#taxa.occ <- unlist(lapply(tocc, sum))
+#total.carb <- unlist(lapply(kocc, function(x){
+#                            if(is.na(x['carbonate'])) 0 else x['carbonate']}))
+#total.occ <- unlist(lapply(kocc, sum))
+
 # assemble data
 duration <- surv[, 1]
 extinct <- surv[, 3]  # 1 yes, 0 no
@@ -56,14 +66,3 @@ fitlist <- mclapply(1:4, mc.cores = detectCores(),
                                      chains = 1, chain_id = x,
                                      refresh = -1))
 fit1 <- sflist2stanfit(fitlist)
-
-
-
-# this is for the really complicated idea i have about 
-# having affinity as a distribution
-#taxa.carb <- unlist(lapply(tocc, function(x) {
-#                           if(is.na(x['carbonate'])) 0 else x['carbonate']}))
-#taxa.occ <- unlist(lapply(tocc, sum))
-#total.carb <- unlist(lapply(kocc, function(x){
-#                            if(is.na(x['carbonate'])) 0 else x['carbonate']}))
-#total.occ <- unlist(lapply(kocc, sum))
