@@ -148,10 +148,17 @@
 \end{frame}
 
 
-\begin{frame}  % effect size
+\begin{frame}
   \frametitle{Parameter marginal posteriors}
   \begin{center}
     \includegraphics[height = 0.8\textheight, width = \textwidth, keepaspectratio = true]{figure/post}
+  \end{center}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Durations}
+  \begin{center}
+    \includegraphics[height = 0.8\textheight, width = \textwidth, keepaspectratio = true]{figure/dur_post}
   \end{center}
 \end{frame}
 
@@ -163,16 +170,22 @@
 \end{frame}
 
 \begin{frame}
-  \frametitle{Posterior predictive check: affinity effect}
+  \frametitle{Posterior predictive checks: traits} 
   \begin{center}
     \includegraphics[height = 0.8\textheight, width = \textwidth, keepaspectratio = true]{figure/bio_ppc}
   \end{center}
 \end{frame}
 
 \begin{frame}
-  \frametitle{Current conclusions}
-  % what do we know so far? 
-  % which parameters matter most how does that relate to the record?
+  \frametitle{State of knowledge}
+
+  \begin{block}{Conclusions}
+    Extinction is age-dependent (\(v > 1\)).
+
+    Body size and onshore/offshore have largest effects.
+
+    Model is not fully capturing variance.
+  \end{block}
 \end{frame}
 
 
@@ -184,7 +197,7 @@
         \item Data
           \begin{itemize}
             \item New Zealand (FRED)
-            \item Improved paleoenvironment reconstructions
+            \item improved paleoenvironment reconstructions
             \item affixing strategy information
           \end{itemize}
       \end{itemize}
@@ -196,7 +209,7 @@
             \item extended sensitivity analysis
             \item robust priors (\(t\)-distribution)
             \item substrate, habitat as distributions (fully hierarchical model) or just make categorical?
-            \item sampling rate as predictor
+            \item effect of sampling 
           \end{itemize}
       \end{itemize}
     \end{column}

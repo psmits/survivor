@@ -1,7 +1,7 @@
 library(ggplot2)
 library(grid)
 
-#source('../R/bayes_survival.r')
+source('../R/bayes_survival.r')
 
 # look at posteriors
 sims <- extract(fit1, permuted = TRUE)
@@ -41,6 +41,27 @@ gpost <- gpost + labs(x = 'value', y = 'density')
 ggsave(gpost, filename = '../doc/figure/post.png', 
        width = 15, height = 10)
 
+# make a bunch of weibull distributions
+durs <- rbind(cbind(data.frame(dur = data$dur_unc), type = rep('No', data$N_unc)),
+              cbind(dur = data$dur_cen, type = rep('Yes', data$N_cen)))
+durs$dur <- as.numeric(durs$dur)
+
+dists <- ggplot(durs, aes(x = dur, fill = type))
+dists <- dists + geom_histogram(aes(y = ..density..), postion = 'stack', binwidth = 2)
+dists <- dists + scale_fill_manual(values = cbp,
+                                   name = 'Censored')
+for(i in seq(1000)) {
+  dists <- dists + stat_function(fun = dweibull, 
+                                 size = 2, 
+                                 alpha = 0.01,
+                                 arg = list(shape = pshap[i, 2], 
+                                            scale = exp(pint[i, 2])))
+}
+ggsave(dists, filename = '../doc/figure/dur_post.png',
+       width = 15, height = 10)
+
+
+
 
 # posterior predictive checks
 samp <- sum(data$N_unc, data$N_cen)
@@ -75,23 +96,23 @@ aff.obs <- c(data$aff_unc, data$aff_cen)
 
 for(s in seq(n.sim)) {
   a0.rep[, s] <- rweibull(samp, shape = sims$alpha[s], 
-                         scale = exp(sims$beta[s, 1] + 
-                                     sims$beta[s, 2] * 0 + 
-                                     sims$beta[s, 3] * min(aff.obs) + 
-                                     sims$beta[s, 4] * 0 +
-                                     sims$beta[s, 5] * 0))
+                          scale = exp(sims$beta[s, 1] + 
+                                      sims$beta[s, 2] * 0 + 
+                                      sims$beta[s, 3] * min(aff.obs) + 
+                                      sims$beta[s, 4] * 0 +
+                                      sims$beta[s, 5] * 0))
   a5.rep[, s] <- rweibull(samp, shape = sims$alpha[s], 
-                         scale = exp(sims$beta[s, 1] + 
-                                     sims$beta[s, 2] * 0 + 
-                                     sims$beta[s, 3] * median(aff.obs) + 
-                                     sims$beta[s, 4] * 0 +
-                                     sims$beta[s, 5] * 0))
+                          scale = exp(sims$beta[s, 1] + 
+                                      sims$beta[s, 2] * 0 + 
+                                      sims$beta[s, 3] * median(aff.obs) + 
+                                      sims$beta[s, 4] * 0 +
+                                      sims$beta[s, 5] * 0))
   a1.rep[, s] <- rweibull(samp, shape = sims$alpha[s], 
-                         scale = exp(sims$beta[s, 1] + 
-                                     sims$beta[s, 2] * 0 + 
-                                     sims$beta[s, 3] * max(aff.obs) + 
-                                     sims$beta[s, 4] * 0 +
-                                     sims$beta[s, 5] * 0))
+                          scale = exp(sims$beta[s, 1] + 
+                                      sims$beta[s, 2] * 0 + 
+                                      sims$beta[s, 3] * max(aff.obs) + 
+                                      sims$beta[s, 4] * 0 +
+                                      sims$beta[s, 5] * 0))
 }
 a0.mean <- colMeans(a0.rep)
 a5.mean <- colMeans(a5.rep)
@@ -102,7 +123,7 @@ min.aff <- aff.dur[which.min(aff.obs), 1]
 med.aff <- aff.dur[which(aff.obs == median(aff.obs)), 1]
 max.aff <- aff.dur[which.max(aff.obs), 1]
 aff.int <- data.frame(pnt = c(min.aff, med.aff, max.aff), 
-                     lvl = c('min', 'med', 'max'))
+                      lvl = c('min', 'med', 'max'))
 
 aff.sims <- data.frame(lvl = c(rep('min', length(a0.mean)),
                                rep('med', length(a5.mean)),
@@ -118,23 +139,23 @@ siz.obs <- c(data$size_unc, data$size_cen)
 
 for(s in seq(n.sim)) {
   s0.rep[, s] <- rweibull(samp, shape = sims$alpha[s], 
-                         scale = exp(sims$beta[s, 1] + 
-                                     sims$beta[s, 2] * min(siz.obs) + 
-                                     sims$beta[s, 3] * 0 + 
-                                     sims$beta[s, 4] * 0 +
-                                     sims$beta[s, 5] * 0))
+                          scale = exp(sims$beta[s, 1] + 
+                                      sims$beta[s, 2] * min(siz.obs) + 
+                                      sims$beta[s, 3] * 0 + 
+                                      sims$beta[s, 4] * 0 +
+                                      sims$beta[s, 5] * 0))
   s5.rep[, s] <- rweibull(samp, shape = sims$alpha[s], 
-                         scale = exp(sims$beta[s, 1] + 
-                                     sims$beta[s, 2] * median(siz.obs) + 
-                                     sims$beta[s, 3] * 0 + 
-                                     sims$beta[s, 4] * 0 +
-                                     sims$beta[s, 5] * 0))
+                          scale = exp(sims$beta[s, 1] + 
+                                      sims$beta[s, 2] * median(siz.obs) + 
+                                      sims$beta[s, 3] * 0 + 
+                                      sims$beta[s, 4] * 0 +
+                                      sims$beta[s, 5] * 0))
   s1.rep[, s] <- rweibull(samp, shape = sims$alpha[s], 
-                         scale = exp(sims$beta[s, 1] + 
-                                     sims$beta[s, 2] * max(siz.obs) + 
-                                     sims$beta[s, 3] * 0 + 
-                                     sims$beta[s, 4] * 0 +
-                                     sims$beta[s, 5] * 0))
+                          scale = exp(sims$beta[s, 1] + 
+                                      sims$beta[s, 2] * max(siz.obs) + 
+                                      sims$beta[s, 3] * 0 + 
+                                      sims$beta[s, 4] * 0 +
+                                      sims$beta[s, 5] * 0))
 }
 s0.mean <- colMeans(s0.rep)
 s5.mean <- colMeans(s5.rep)
@@ -145,7 +166,7 @@ min.siz <- siz.dur[which.min(siz.obs), 1]
 med.siz <- siz.dur[which(siz.obs == median(siz.obs)), 1]
 max.siz <- siz.dur[which.max(siz.obs), 1]
 siz.int <- data.frame(pnt = c(min.siz, med.siz, max.siz), 
-                     lvl = c('min', 'med', 'max'))
+                      lvl = c('min', 'med', 'max'))
 
 siz.sims <- data.frame(lvl = c(rep('min', length(s0.mean)),
                                rep('med', length(s5.mean)),
