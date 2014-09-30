@@ -37,12 +37,14 @@ genus.info <- genus.info[!outbounds]
 
 # how many permian stages
 # missing stage
+# TODO need to adjust this to correct of unsampled mid-range stages
 info <- info[info$stage == '', ]
 pst <- c('Changhsingian', 'Wuchiapingian', 'Capitanian',
          'Wordian', 'Roadian', 'Kungurian', 'Artinskian',
          'Sakmarian', 'Asselian')
 find.dur <- function(x) {
-  sum(unique(x$stage) %in% pst)
+  mm <- which(pst %in% unique(x$stage))
+  max(mm) - min(mm) + 1
 }
 n.stage <- unlist(lapply(genus.info, find.dur))
 
@@ -95,7 +97,6 @@ info <- info[info$lithology1 != 'mixed', ]
 info$lithology1 <- clean.lith(info$lithology1, add = info$lithology2)
 info <- info[info$lithology1 != 'mixed', ]
 info <- info[info$lithology1 != '', ]  # remove missing lithology
-info$environment <- clean.env(info$environment) # environment
 
 info <- info[with(info, order(occurrence.genus_name)), ]
 
@@ -121,16 +122,49 @@ for(ii in seq(length(pocc))) {
 }
 names(litaf) <- names(pocc)
 litprob <- unlist(litaf)
-
 litaf[litaf >= (2/3)] <- 'carbonate'
 litaf[litaf <= (1/3)] <- 'clastic'
 litaf[litaf > (1/3) & litaf < (2/3)] <- 'mixed'
 
+
 # environment
-# TODO
+seenenv <- info[, c('formation', 'environment')]
+mm <- match(seenenv$formation, got$formation)
+addenv <- got[mm, 2:3]
+addenv <- apply(addenv, 2, as.character)
+addenv[is.na(addenv[, 1]), 1] <- seenenv[is.na(addenv[, 1]), 2]
+addenv <- gsub(pattern = '[\\"?]',
+                replacement = '',
+                addenv,
+                perl = TRUE)
+addenv <- str_replace_all(addenv, 's$', '')
+info$environment1 <- addenv[, 1]
+info$environment2 <- addenv[, 2]
+info$environment1 <- clean.env(info$environment1) # environment
+info$environment1[info$environment1 != 'inshore'] <- 'other'
+
+pocc <- split(info, info$occurrence.genus_name)
+pocc <- lapply(pocc, function(x) x[x$period == per[2], ])
+# all simultaneous occurrences
+eocc <- vector(mode = 'list', length = length(pocc))
+for(ii in seq(length(eocc))) {
+  mm <- info$stage %in% pocc[[ii]]$stage 
+  eocc[[ii]] <- info[mm, ]$environment1
+}
+names(eocc) <- names(pocc)
+
+envaf <- list()
+for(ii in seq(length(pocc))) {
+  envaf[[ii]] <- shprob(occur = pocc[[ii]]$environment1, avil = eocc[[ii]],
+                        aff = 'inshore')
+}
+names(envaf) <- names(pocc)
+envprob <- unlist(envaf)
+
 
 # values of interest
 affinity <- litprob
+inshore <- envprob
 dur <- n.stage
 dur <- dur[names(dur) %in% names(affinity)]
 censored <- cen

@@ -1,8 +1,8 @@
 library(rstan)
-library(car)
+library(boot)
 library(parallel)
 
-#source('../R/networks.r')
+source('../R/networks.r')
 
 RNGkind(kind = "L'Ecuyer-CMRG")
 seed <- 420
@@ -25,8 +25,7 @@ extinct <- 1 - censored[keep]
 size <- size[keep]
 
 aff <- affinity[keep]
-#hab <- persist$hab
-#hab <- (hab == 'inshore') * 1
+hab <- inshore[keep]
 
 occ <- occ.val$mean
 
@@ -34,7 +33,7 @@ data <- list(duration = duration,
              siz = log(size),
              aff = logit(aff),
              occ = occ,
-#             hab = hab,
+             hab = logit(hab),
              extinct = extinct)
 good <- !is.na(duration)
 data <- lapply(data, function(x) x[good])
@@ -47,13 +46,13 @@ cen <- lapply(data, function(x) x[!grab])
 data <- list(dur_unc = unc$duration,
              size_unc = unc$siz,
              aff_unc = unc$aff,
+             hab_unc = unc$hab,
              occ_unc = unc$occ,
-#             hab_unc = unc$hab,
              N_unc = length(unc$duration),
              dur_cen = cen$duration,
              size_cen = cen$siz,
              aff_cen = cen$aff,
-#             hab_cen = cen$hab,
+             hab_cen = cen$hab,
              occ_cen = cen$occ,
              N_cen = length(cen$duration))
 
