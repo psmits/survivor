@@ -27,7 +27,7 @@ aff <- function(substrate, middle, level = 0.5) {
   out
 }
 
-#' Simpson and Harnik Bayes method
+#' Improved Simpson and Harnik Bayes method
 #'
 #' @param occur vector; substrate where taxon occurs
 #' @param avil vector; all avaliable substrates during taxon's lifetime

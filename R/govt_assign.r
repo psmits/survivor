@@ -30,7 +30,7 @@ save(govt.rock, file = '../data/rock_names.rdata')
 
 
 # extract the lithologies from the occurrence information
-occs <- read.csv('../data/psmits-occs.csv', stringsAsFactors = FALSE)
+occs <- read.csv('../data/smits-occs.csv', stringsAsFactors = FALSE)
 olith <- occs$lithdescript
 olith <- gsub(pattern = '[^[:alnum:] ]', '', olith)
 olith <- lapply(olith, function(x) 

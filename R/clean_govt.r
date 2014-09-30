@@ -1,6 +1,6 @@
 library(plyr)
 
-info <- read.csv('../data/psmits-occs.csv', stringsAsFactors = FALSE)
+info <- read.csv('../data/smits-occs.csv', stringsAsFactors = FALSE)
 
 string <- 'Stratigraphic\ names\ Current.txt'
 geo <- list.files(path = '../data/', pattern = string)

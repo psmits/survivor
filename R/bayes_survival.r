@@ -2,13 +2,12 @@ library(rstan)
 library(car)
 library(parallel)
 
-source('../R/networks.r')
+#source('../R/networks.r')
 
 RNGkind(kind = "L'Ecuyer-CMRG")
 seed <- 420
 
 
-# this is for the really complicated idea i have about 
 # having affinity as a distribution
 #taxa.carb <- unlist(lapply(tocc, function(x) {
 #                           if(is.na(x['carbonate'])) 0 else x['carbonate']}))
@@ -16,24 +15,26 @@ seed <- 420
 #total.carb <- unlist(lapply(kocc, function(x){
 #                            if(is.na(x['carbonate'])) 0 else x['carbonate']}))
 #total.occ <- unlist(lapply(kocc, sum))
+# observed
+keep <- names(affinity) %in% occ.val$taxa
 
 # assemble data
-duration <- surv[, 1]
-extinct <- surv[, 3]  # 1 yes, 0 no
+duration <- dur[keep]
+extinct <- 1 - censored[keep]
 
-size <- uni[, 2]
+size <- size[keep]
 
-aff <- persist$aff
-hab <- persist$hab
-hab <- (hab == 'inshore') * 1
+aff <- affinity[keep]
+#hab <- persist$hab
+#hab <- (hab == 'inshore') * 1
 
-occ <- persist$occu
+occ <- occ.val$mean
 
 data <- list(duration = duration,
              siz = log(size),
              aff = logit(aff),
              occ = occ,
-             hab = hab,
+#             hab = hab,
              extinct = extinct)
 good <- !is.na(duration)
 data <- lapply(data, function(x) x[good])
@@ -47,12 +48,12 @@ data <- list(dur_unc = unc$duration,
              size_unc = unc$siz,
              aff_unc = unc$aff,
              occ_unc = unc$occ,
-             hab_unc = unc$hab,
+#             hab_unc = unc$hab,
              N_unc = length(unc$duration),
              dur_cen = cen$duration,
              size_cen = cen$siz,
              aff_cen = cen$aff,
-             hab_cen = cen$hab,
+#             hab_cen = cen$hab,
              occ_cen = cen$occ,
              N_cen = length(cen$duration))
 

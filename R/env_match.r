@@ -3,7 +3,7 @@ library(plyr)
 library(stringr)
 
 gov <- read.csv('../data/geology.csv', stringsAsFactors = FALSE)
-occ <- read.csv('../data/psmits-occs.csv', stringsAsFactors = FALSE)
+occ <- read.csv('../data/smits-occs.csv', stringsAsFactors = FALSE)
 occ <- occ[occ$period == 'Permian', ]
 
 gov <- gov[gov$environment1 != '', ]

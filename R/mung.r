@@ -13,29 +13,44 @@ source('../R/env_match.r')
 
 source('../R/read_fred.r')
 
-info <- read.csv('../data/psmits-occs.csv', stringsAsFactors = FALSE)
-dur <- read.csv('../data/psmits-ranges.csv', stringsAsFactors = FALSE)
+info <- read.csv('../data/smits-occs.csv', stringsAsFactors = FALSE)
+#dur <- read.csv('../data/smits-ranges.csv', stringsAsFactors = FALSE)
 bs <- read.delim('../data/payne_bodysize/Occurrence_PaleoDB.txt', 
                  stringsAsFactors = FALSE)
 
-ptbound <- 252.2
-pst <- 298.9
+# non-permian ranging taxa
+per <- c('Carboniferous', 'Permian', 'Triassic')
+info <- info[info$period %in% per, ]
+carboniferous <- info$period == per[1]
+permian <- info$period == per[2]
+triassic <- info$period == per[3]
 
-# basic cleaning
-# remove taxa that went extinct before the permian
-rg <- dur[which(dur[, 3] > pst), 1]
-dur <- dur[!(dur[, 1] %in% rg), ]
-info <- info[!(info$occurrence.genus_name %in% rg), ]
+# each genus
+genus.info <- split(info, info$occurrence.genus_name)
+outbounds <- laply(genus.info, function(x) {
+                   if(all(x$period == per[1]) | all(x$period == per[3])) {
+                     TRUE
+                   } else {
+                     FALSE
+                 }})
+genus.info <- genus.info[!outbounds]
 
-# remove taxa originating after the permian
-rg <- dur[which(dur[, 2] < ptbound), 1]
-dur <- dur[!(dur[, 1] %in% rg), ]
-info <- info[!(info$occurrence.genus_name %in% rg), ]
+# how many permian stages
+# missing stage
+info <- info[info$stage == '', ]
+pst <- c('Changhsingian', 'Wuchiapingian', 'Capitanian',
+         'Wordian', 'Roadian', 'Kungurian', 'Artinskian',
+         'Sakmarian', 'Asselian')
+find.dur <- function(x) {
+  sum(unique(x$stage) %in% pst)
+}
+n.stage <- unlist(lapply(genus.info, find.dur))
 
-# remove all occurrences not from the permian
-rg <- which(info$ma_mid > pst | info$ma_mid < ptbound)
-info <- info[-rg, ]
+# censored?
+cen <- unlist(lapply(genus.info, function(x) any(x$period != per[2]))) * 1
 
+# put it back together
+info <- Reduce(rbind, genus.info)
 
 # put in information i've learned
 # lithology
@@ -60,20 +75,11 @@ addenv <- apply(addenv, 2, as.character)
 addenv[is.na(addenv[, 1]), 1] <- seenenv[is.na(addenv[, 1]), 2]
 info$environment <- addenv[, 1]
 
-# what is still missing from env and lith
-#nolith <- sort(unique(seenlith$formation)[!(unique(seenlith$formation) 
-#                                            %in% forms.geol[, 1])])
-#noenv <- sort(unique(seenenv$formation)[!(unique(seenenv$formation) 
-#                                          %in% got$formation)])
-#write.csv(nolith, file = '../data/missing_lithology.csv')
-#write.csv(noenv, file = '../data/missing_environ.csv')
-
 # body size
 uni <- unique(bs[, c('taxon_name', 'size')])
-uni <- uni[uni$taxon_name %in% dur$genus, ]
+uni <- uni[uni$taxon_name %in% info$occurrence.genus_name, ]
 uni <- uni[order(uni$taxon_name), ]
 
-dur <- dur[dur$genus %in% uni$taxon_name, ] 
 info <- info[info$occurrence.genus_name %in% uni$taxon_name, ]
 
 # final cleaning step
@@ -92,19 +98,26 @@ info <- info[info$lithology1 != '', ]  # remove missing lithology
 info$environment <- clean.env(info$environment) # environment
 
 info <- info[with(info, order(occurrence.genus_name)), ]
-pocc <- split(info, info$occurrence.genus_name)
-dur <- dur[dur[, 1] %in% names(pocc), ]
 
-paff <- get.occ(dur[, 2], dur[, 3], info$ma_mid, info$lithology1)
-names(paff) <- dur[, 1]
+# all permian occurrences of a taxon
+pocc <- split(info, info$occurrence.genus_name)
+pocc <- lapply(pocc, function(x) x[x$period == per[2], ])
+
+# all simultaneous occurrences
+socc <- vector(mode = 'list', length = length(pocc))
+for(ii in seq(length(pocc))) {
+  mm <- info$stage %in% pocc[[ii]]$stage 
+  socc[[ii]] <- info[mm, ]$lithology1
+}
+names(socc) <- names(pocc)
 
 # tabled lithology occurrences
-kocc <- lapply(paff, table)
+kocc <- lapply(socc, table)
 tocc <- lapply(pocc, function(x) table(x$lithology1))
 
 litaf <- list()
 for(ii in seq(length(pocc))) {
-  litaf[[ii]] <- shprob(occur = pocc[[ii]]$lithology1, avil = paff[[ii]])
+  litaf[[ii]] <- shprob(occur = pocc[[ii]]$lithology1, avil = socc[[ii]])
 }
 names(litaf) <- names(pocc)
 litprob <- unlist(litaf)
@@ -114,55 +127,13 @@ litaf[litaf <= (1/3)] <- 'clastic'
 litaf[litaf > (1/3) & litaf < (2/3)] <- 'mixed'
 
 # environment
-penv <- get.occ(dur[, 2], dur[, 3], info$ma_mid, info$environment)
-names(penv) <- dur[, 1]
+# TODO
 
-# tabled env occurrences
-kenv <- lapply(penv, table)
-tenv <- lapply(pocc, function(x) table(x$environment))
-
-hab <- list()
-for(ii in seq(length(penv))) {
-  ins <- shprob(occur = pocc[[ii]]$environment, avil = penv[[ii]], 
-                ph1 = 1/3, aff = 'inshore')
-  off <- shprob(occur = pocc[[ii]]$environment, avil = penv[[ii]], 
-                ph1 = 1/3, aff = 'offshore')
-  non <- shprob(occur = pocc[[ii]]$environment, avil = penv[[ii]], 
-                ph1 = 1/3, aff = 'none')
-  hab[[ii]] <- c(ins, off, non)
-}
-names(hab) <- names(penv)
-hab <- lapply(lapply(hab, which.max), 
-              function(x) c('inshore', 'offshore', 'none')[x])
-
-# put it all together
-sf <- as.character(dur$genus) %in% names(litaf) & 
-as.character(dur$genus) %in% names(hab)
-dur <- dur[sf, ]
-
-surv <- paleosurv(dur[, 2], dur[, 3], start = pst, end = ptbound + 5)
-
-# make the data frame for survival analysis
-uni <- uni[uni$taxon_name %in% dur$genus, ]
-persist <- as.data.frame(cbind(aff = unlist(litprob),
-                               hab = unlist(hab),
-                               size = uni[, 2]))
-persist$aff <- as.numeric(as.character(persist$aff))
-
-
-# new zealand
-zea <- unique(bs[, c('taxon_name', 'size')])
-zea <- zea[zea$taxon_name %in% zealand$genus, ]
-zea <- zea[order(zea$taxon_name), ]
-
-zealand <- zealand[zealand$genus %in% zea[, 1], ]
-zea.dur <- zea.dur[zea.dur$genus %in% zea[, 1], ]
-
-late <- zea.dur[zea.dur$start > ptbound, 1]
-zealand <- zealand[zealand$genus %in% late, ]
-zea.dur <- zea.dur[zea.dur$genus %in% late, ]
-
-zea.surv <- paleosurv(zea.dur$start, zea.dur$end, start = pst, end = ptbound)
-
-
-
+# values of interest
+affinity <- litprob
+dur <- n.stage
+dur <- dur[names(dur) %in% names(affinity)]
+censored <- cen
+censored <- censored[names(censored) %in% names(affinity)]
+size <- uni$size
+size <- size[uni$taxon_name %in% names(affinity)]

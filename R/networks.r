@@ -10,20 +10,6 @@ source('../R/window.r')
 
 source('../R/mung.r')
 
-# temporal bins
-wdt <- 2
-bb <- seq(from = ptbound, to = pst, by = wdt)
-bb <- cbind(top = bb[-1], bot = bb[-length(bb)])
-bins <- rep(NA, nrow(info))
-for(ii in seq(nrow(bb))) {
-  oo <- which(info$ma_mid < bb[ii, 1] & info$ma_mid >= bb[ii, 2])
-  bins[oo] <- bb[ii, 1]
-}
-info$bins <- bins
-
-# east coast
-# info <- info[info$state != 'Queensland', ]
-
 # occurrence grids
 gid <- grid.id(lat = info$paleolatdec, long = info$paleolngdec, 
                width = 2, projection = 'mercator')
@@ -31,7 +17,7 @@ gid <- factor(gid, unique(gid))
 info$gid <- gid
 
 # remove duplicate grid ids for each bin
-foo <- split(info, info$bins)
+foo <- split(info, info$stage)
 fgi <- lapply(foo, function(x) split(x, x$gid))
 uu <- lapply(fgi, function(x) {
              lapply(x, function(y) {
@@ -45,9 +31,11 @@ occ <- Reduce(rbind, uu)
 
 # bin networks
 nets <- network.bin(occ, 
-                    bin = 'bins', 
+                    bin = 'stage', 
                     taxa = 'occurrence.genus_name', 
                     loc = 'gid')
+nets <- nets[pst]
+nets <- nets[!is.na(names(nets))]
 
 biogeo <- function(taxawin) {
   biocom <- lapply(taxawin, infomap.community)
@@ -73,16 +61,14 @@ occp <- lapply(nets, function(x) {
               occupancy(x, membership = membership(infomap.community(x)))})
 occp <- Reduce(rbind, occp)
 sp.occ <- split(occp, occp$taxa)
-mean.occ <- melt(lapply(sp.occ, function(x) mean(x[, 1])))
+mean.occ <- melt(lapply(sp.occ, function(x) mean(x[, 1], na.rm = TRUE)))
 names(mean.occ) <- c('mean', 'taxa')
 cv.occ <- melt(lapply(sp.occ, function(x) var(x[, 1]) / mean(x[, 1])))
 names(cv.occ) <- c('cv', 'taxa')
 
 occ.val <- cbind(cv = cv.occ$cv, mean.occ)
 occ.val <- occ.val[order(occ.val$taxa), ]
-persist <- cbind(persist, occu = occ.val$mean, cvo = occ.val$cv)
 
 # split by category
-substrate <- split(occ, occ$lithology1)
-
-habitat <- split(occ, occ$environment)
+#substrate <- split(occ, occ$lithology1)
+#habitat <- split(occ, occ$environment)

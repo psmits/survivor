@@ -1,7 +1,7 @@
 library(ggplot2)
 library(grid)
 
-source('../R/bayes_survival.r')
+#source('../R/bayes_survival.r')
 
 # look at posteriors
 sims <- extract(fit1, permuted = TRUE)
@@ -9,17 +9,18 @@ pint <- sims$beta[, 1]
 psize <- sims$beta[, 2]
 paff <- sims$beta[, 3]
 pocc <- sims$beta[, 4]
-phab <- sims$beta[, 5]
+#phab <- sims$beta[, 5]
 shape <- sims$alpha
 
 pint <- cbind(data.frame(val = rep('constant', length(pint))), sim = pint)
 psize <- cbind(data.frame(val = rep('beta_{size}', length(psize))), sim = psize)
 paff <- cbind(data.frame(val = rep('beta_{aff}', length(paff))), sim = paff)
 pocc <- cbind(data.frame(val = rep('beta_{occ}', length(pocc))), sim = pocc)
-phab <- cbind(data.frame(val = rep('beta_{hab}', length(phab))), sim = phab)
+#phab <- cbind(data.frame(val = rep('beta_{hab}', length(phab))), sim = phab)
 pshap <- cbind(data.frame(val = rep('v', length(shape))), sim = shape)
 
-posts <- rbind(pint, psize, paff, pocc, phab, pshap)
+posts <- rbind(pint, psize, paff, pocc, #phab,
+               pshap)
 
 # graphs
 theme_set(theme_bw())
@@ -47,12 +48,12 @@ durs <- rbind(cbind(data.frame(dur = data$dur_unc), type = rep('No', data$N_unc)
 durs$dur <- as.numeric(durs$dur)
 
 dists <- ggplot(durs, aes(x = dur, fill = type))
-dists <- dists + geom_histogram(aes(y = ..density..), postion = 'stack', binwidth = 2)
+dists <- dists + geom_histogram(aes(y = ..density..), postion = 'stack', binwidth = 1)
 dists <- dists + scale_fill_manual(values = cbp,
                                    name = 'Censored')
 for(i in seq(1000)) {
   dists <- dists + stat_function(fun = dweibull, 
-                                 size = 2, 
+                                 size = 1.5, 
                                  alpha = 0.01,
                                  arg = list(shape = pshap[i, 2], 
                                             scale = exp(pint[i, 2])))
@@ -74,8 +75,7 @@ for(s in seq(n.sim)) {
                          scale = exp(sims$beta[s, 1] + 
                                      sims$beta[s, 2] * 0 + 
                                      sims$beta[s, 3] * 0 + 
-                                     sims$beta[s, 4] * 0 +
-                                     sims$beta[s, 5] * 0))
+                                     sims$beta[s, 4] * 0))
 }
 sim.mean <- colMeans(m.rep)
 dur.mean <- mean(c(data$dur_unc, data$dur_cen)) 
@@ -99,20 +99,17 @@ for(s in seq(n.sim)) {
                           scale = exp(sims$beta[s, 1] + 
                                       sims$beta[s, 2] * 0 + 
                                       sims$beta[s, 3] * min(aff.obs) + 
-                                      sims$beta[s, 4] * 0 +
-                                      sims$beta[s, 5] * 0))
+                                      sims$beta[s, 4] * 0))
   a5.rep[, s] <- rweibull(samp, shape = sims$alpha[s], 
                           scale = exp(sims$beta[s, 1] + 
                                       sims$beta[s, 2] * 0 + 
                                       sims$beta[s, 3] * median(aff.obs) + 
-                                      sims$beta[s, 4] * 0 +
-                                      sims$beta[s, 5] * 0))
+                                      sims$beta[s, 4] * 0))
   a1.rep[, s] <- rweibull(samp, shape = sims$alpha[s], 
                           scale = exp(sims$beta[s, 1] + 
                                       sims$beta[s, 2] * 0 + 
                                       sims$beta[s, 3] * max(aff.obs) + 
-                                      sims$beta[s, 4] * 0 +
-                                      sims$beta[s, 5] * 0))
+                                      sims$beta[s, 4] * 0))
 }
 a0.mean <- colMeans(a0.rep)
 a5.mean <- colMeans(a5.rep)
@@ -120,7 +117,9 @@ a1.mean <- colMeans(a1.rep)
 
 aff.dur <- cbind(c(data$dur_unc, data$dur_cen), aff.obs)
 min.aff <- aff.dur[which.min(aff.obs), 1]
-med.aff <- aff.dur[which(aff.obs == median(aff.obs)), 1]
+mid <- ceiling(length(sort(aff.obs)) / 2)
+wm <- names(sort(aff.obs)[mid])
+med.aff <- aff.dur[wm, 1]
 max.aff <- aff.dur[which.max(aff.obs), 1]
 aff.int <- data.frame(pnt = c(min.aff, med.aff, max.aff), 
                       lvl = c('min', 'med', 'max'))
@@ -142,20 +141,17 @@ for(s in seq(n.sim)) {
                           scale = exp(sims$beta[s, 1] + 
                                       sims$beta[s, 2] * min(siz.obs) + 
                                       sims$beta[s, 3] * 0 + 
-                                      sims$beta[s, 4] * 0 +
-                                      sims$beta[s, 5] * 0))
+                                      sims$beta[s, 4] * 0))
   s5.rep[, s] <- rweibull(samp, shape = sims$alpha[s], 
                           scale = exp(sims$beta[s, 1] + 
                                       sims$beta[s, 2] * median(siz.obs) + 
                                       sims$beta[s, 3] * 0 + 
-                                      sims$beta[s, 4] * 0 +
-                                      sims$beta[s, 5] * 0))
+                                      sims$beta[s, 4] * 0))
   s1.rep[, s] <- rweibull(samp, shape = sims$alpha[s], 
                           scale = exp(sims$beta[s, 1] + 
                                       sims$beta[s, 2] * max(siz.obs) + 
                                       sims$beta[s, 3] * 0 + 
-                                      sims$beta[s, 4] * 0 +
-                                      sims$beta[s, 5] * 0))
+                                      sims$beta[s, 4] * 0))
 }
 s0.mean <- colMeans(s0.rep)
 s5.mean <- colMeans(s5.rep)
@@ -163,7 +159,9 @@ s1.mean <- colMeans(s1.rep)
 
 siz.dur <- cbind(c(data$dur_unc, data$dur_cen), siz.obs)
 min.siz <- siz.dur[which.min(siz.obs), 1]
-med.siz <- siz.dur[which(siz.obs == median(siz.obs)), 1]
+mid <- ceiling(length(sort(siz.obs)) / 2)
+wm <- which(siz.obs == sort(siz.obs)[72])
+med.siz <- siz.dur[wm, 1]
 max.siz <- siz.dur[which.max(siz.obs), 1]
 siz.int <- data.frame(pnt = c(min.siz, med.siz, max.siz), 
                       lvl = c('min', 'med', 'max'))
