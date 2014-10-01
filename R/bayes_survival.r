@@ -8,6 +8,13 @@ RNGkind(kind = "L'Ecuyer-CMRG")
 seed <- 420
 
 
+# compile models
+weim <- stan(file = '../stan/weibull_survival.stan')
+expm <- stan(file = '../stan/exp_survival.stan')
+lgnm <- stan(file = '../stan/logn_survival.stan')
+mods <- list(weim, expm, lgnm) 
+
+
 # having affinity as a distribution
 #taxa.carb <- unlist(lapply(tocc, function(x) {
 #                           if(is.na(x['carbonate'])) 0 else x['carbonate']}))
@@ -57,13 +64,34 @@ data <- list(dur_unc = unc$duration,
              N_cen = length(cen$duration))
 
 
-# compile and fit model
-fit <- stan(file = '../stan/survival_model.stan')
-
-# parallel magic
-fitlist <- mclapply(1:4, mc.cores = detectCores(),
-                    function(x) stan(fit = fit, seed = seed,
+# fit models with parallel magic
+# weibull
+weilist <- mclapply(1:4, mc.cores = detectCores(),
+                    function(x) stan(fit = mods[[1]], seed = seed,
                                      data = data,
                                      chains = 1, chain_id = x,
                                      refresh = -1))
-fit1 <- sflist2stanfit(fitlist)
+
+# list of results
+wfit <- sflist2stanfit(weilist)
+
+# exponential
+explist <- mclapply(1:4, mc.cores = detectCores(),
+                    function(x) stan(fit = mods[[2]], seed = seed,
+                                     data = data,
+                                     chains = 1, chain_id = x,
+                                     refresh = -1))
+
+# list of results
+efit <- sflist2stanfit(explist)
+
+# log-normal
+lgnlist <- mclapply(1:4, mc.cores = detectCores(),
+                    function(x) stan(fit = mods[[3]], seed = seed,
+                                     data = data,
+                                     iter = 10000,
+                                     chains = 1, chain_id = x,
+                                     refresh = -1))
+
+# list of results
+lfit <- sflist2stanfit(lgnlist)

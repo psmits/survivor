@@ -12,7 +12,7 @@ flat <- rbind(data.frame(fs), sn)
 names(flat) <- c('dur', 'size', 'aff', 'hab', 'occ')
 
 # look at posteriors
-sims <- extract(fit1, permuted = TRUE)
+sims <- extract(wfit, permuted = TRUE)
 pint <- sims$beta[, 1]
 psize <- sims$beta[, 2]
 paff <- sims$beta[, 3]
