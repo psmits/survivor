@@ -2,40 +2,25 @@ library(rstan)
 library(boot)
 library(parallel)
 
-source('../R/networks.r')
+#source('../R/networks.r')
 
 RNGkind(kind = "L'Ecuyer-CMRG")
 seed <- 420
 
-
 # compile models
 weim <- stan(file = '../stan/weibull_survival.stan')
-expm <- stan(file = '../stan/exp_survival.stan')
 lgnm <- stan(file = '../stan/logn_survival.stan')
-mods <- list(weim, expm, lgnm) 
 
-
-# having affinity as a distribution
-#taxa.carb <- unlist(lapply(tocc, function(x) {
-#                           if(is.na(x['carbonate'])) 0 else x['carbonate']}))
-#taxa.occ <- unlist(lapply(tocc, sum))
-#total.carb <- unlist(lapply(kocc, function(x){
-#                            if(is.na(x['carbonate'])) 0 else x['carbonate']}))
-#total.occ <- unlist(lapply(kocc, sum))
 # observed
 keep <- names(affinity) %in% occ.val$taxa
 
 # assemble data
 duration <- dur[keep]
 extinct <- 1 - censored[keep]
-
 size <- size[keep]
-
 aff <- affinity[keep]
 hab <- inshore[keep]
-
 occ <- occ.val$mean
-
 data <- list(duration = duration,
              siz = log(size),
              aff = logit(aff),
@@ -67,7 +52,7 @@ data <- list(dur_unc = unc$duration,
 # fit models with parallel magic
 # weibull
 weilist <- mclapply(1:4, mc.cores = detectCores(),
-                    function(x) stan(fit = mods[[1]], seed = seed,
+                    function(x) stan(fit = weim, seed = seed,
                                      data = data,
                                      chains = 1, chain_id = x,
                                      refresh = -1))
@@ -75,23 +60,12 @@ weilist <- mclapply(1:4, mc.cores = detectCores(),
 # list of results
 wfit <- sflist2stanfit(weilist)
 
-# exponential
-explist <- mclapply(1:4, mc.cores = detectCores(),
-                    function(x) stan(fit = mods[[2]], seed = seed,
-                                     data = data,
-                                     chains = 1, chain_id = x,
-                                     refresh = -1))
-
-# list of results
-efit <- sflist2stanfit(explist)
 
 # log-normal
 lgnlist <- mclapply(1:4, mc.cores = detectCores(),
-                    function(x) stan(fit = mods[[3]], seed = seed,
+                    function(x) stan(fit = lgnm, seed = seed,
                                      data = data,
-                                     iter = 10000,
                                      chains = 1, chain_id = x,
                                      refresh = -1))
-
 # list of results
 lfit <- sflist2stanfit(lgnlist)
