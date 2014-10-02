@@ -27,7 +27,7 @@ model {
   dur_unc ~ lognormal(exp(beta[1] + beta[2] * size_unc + beta[3] * aff_unc
                           + beta[4] * occ_unc + beta[5] * hab_unc), 
                           sigma);
-  increment_log_prob(N_cen * lognormal_ccdf_log(dur_cen, exp(beta[1]
+  increment_log_prob(lognormal_ccdf_log(dur_cen, exp(beta[1]
                      + beta[2] * size_cen + beta[3] * aff_cen + 
                      beta[4] * occ_cen + beta[5] * hab_cen), 
                      sigma));
