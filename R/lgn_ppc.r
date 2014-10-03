@@ -15,10 +15,10 @@ theme_update(axis.text = element_text(size = 20),
 # make flat data
 rm <- which(names(data) %in% c('N_unc', 'N_cen'))
 flat <- data[-rm]
-fs <- Reduce(cbind, flat[1:5])
-sn <- Reduce(cbind, flat[6:10])
+fs <- Reduce(cbind, flat[1:4])
+sn <- Reduce(cbind, flat[5:9])
 flat <- rbind(data.frame(fs), sn)
-names(flat) <- c('dur', 'size', 'aff', 'hab', 'occ')
+names(flat) <- c('dur', 'size', 'hab', 'occ')
 
 # constants
 samp <- nrow(flat)
@@ -29,7 +29,7 @@ sims <- extract(lfit, permuted = TRUE)
 n.post <- length(sims$lp__)
 
 preds <- data.frame(sims$beta)
-names(preds) <- c('constant', 'beta_size', 'beta_aff', 'beta_occ', 'beta_hab')
+names(preds) <- c('constant', 'beta_size', 'beta_occ', 'beta_hab')
 long.preds <- melt(preds)
 names(long.preds) <- c('val', 'sim')
 
@@ -37,7 +37,7 @@ psigma <- cbind(data.frame(val = rep('v', length(sims$sigma))), sim = sims$sigma
 
 
 # posterior simulation graph
-posts <- rbind(long.preds, pshap)
+posts <- rbind(long.preds, psigma)
 gpost <- ggplot(posts, aes(x = sim))
 gpost <- gpost + geom_histogram(aes(y = ..density..), binwidth = 1/20)
 gpost <- gpost + facet_grid(val ~ .)
@@ -60,7 +60,7 @@ dists <- dists + labs(y = 'Density', x = 'Duration')
 for(i in seq(n.sim)) {
   p <- sample(n.post, 1)
   w <- sample(samp, 1)
-  ints <- exp(sum(preds[p, ] * unlist(c(1, flat[w, 2:5]))))
+  ints <- exp(sum(preds[p, ] * unlist(c(1, flat[w, 2:4]))))
   dists <- dists + stat_function(fun = dlnorm, 
                                  size = 1.5, 
                                  alpha = 0.05,
@@ -77,7 +77,7 @@ y.rep <- array(NA, c(samp, n.sim))
 for(s in seq(n.sim)) {
   p <- sample(n.post, 1)
   w <- sample(samp, 1)
-  ints <- exp(sum(preds[p, ] * unlist(c(1, flat[w, 2:5]))))
+  ints <- exp(sum(preds[p, ] * unlist(c(1, flat[w, 2:4]))))
   y.rep[, s] <- rlnorm(samp, sdlog = sims$sigma[p], 
                          meanlog = ints)
 }

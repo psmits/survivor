@@ -38,13 +38,13 @@ cen <- lapply(data, function(x) x[!grab])
 
 data <- list(dur_unc = unc$duration,
              size_unc = unc$siz,
-             aff_unc = unc$aff,
+#             aff_unc = unc$aff,
              hab_unc = unc$hab,
              occ_unc = unc$occ,
              N_unc = length(unc$duration),
              dur_cen = cen$duration,
              size_cen = cen$siz,
-             aff_cen = cen$aff,
+#             aff_cen = cen$aff,
              hab_cen = cen$hab,
              occ_cen = cen$occ,
              N_cen = length(cen$duration))
