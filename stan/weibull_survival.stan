@@ -15,10 +15,7 @@ parameters {
   real<lower=0> alpha;
 }
 model {
-  beta[1] ~ normal(0, 100);
-  beta[2] ~ normal(0, 100);
-  beta[3] ~ normal(0, 100);
-  beta[4] ~ normal(0, 100);
+  beta ~ normal(0, 100);
   alpha ~ gamma(1, 1);
 
   dur_unc ~ weibull(alpha, exp(beta[1] + beta[2] * size_unc + beta[3] * occ_unc + beta[4] * hab_unc));

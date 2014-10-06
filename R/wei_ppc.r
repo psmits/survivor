@@ -84,8 +84,35 @@ for(s in seq(n.sim)) {
 sim.mean <- colMeans(y.rep)
 dur.mean <- mean(flat$dur)
 gmean <- ggplot(data.frame(x = sim.mean), aes(x = x))
-gmean <- gmean + geom_histogram(aes(y = ..density..), binwidth = 2)
+gmean <- gmean + geom_histogram(aes(y = ..density..), binwidth = 1)
 gmean <- gmean + geom_vline(xintercept = dur.mean, colour = 'blue', size = 2)
 gmean <- gmean + labs(x = 'duration time', y = 'density')
 ggsave(gmean, filename = '../doc/figure/wei_mean_ppc.png',
+       width = 15, height = 10)
+
+# 25th and 75th quantiles
+sim.25 <- apply(y.rep, 2, quantile, probs = 0.25)
+dur.25 <- quantile(flat$dur, probs = 0.25)
+sim.75 <- apply(y.rep, 2, quantile, probs = 0.75)
+dur.75 <- quantile(flat$dur, probs = 0.75)
+
+sim.quant <- melt(cbind(low = sim.25, high = sim.75))[, 2:3]
+dur.quant <- melt(cbind(low = dur.25, high = dur.75))[, 2:3]
+
+mf_labeller <- function(var, value){
+  value <- as.character(value)
+  if (var=="Var2") { 
+    value[value=="low"] <- "25th"
+    value[value=="high"]   <- "75th"
+  }
+  return(value)
+}
+
+gquant <- ggplot(sim.quant, aes(x = value))
+gquant <- gquant + geom_histogram(aes(y = ..density..), binwidth = 1)
+gquant <- gquant + geom_vline(data = dur.quant, aes(xintercept = value), 
+                              colour = 'blue', size = 2)
+gquant <- gquant + labs(x = 'duration time', y = 'density')
+gquant <- gquant + facet_grid(. ~ Var2, labeller = mf_labeller)
+ggsave(gquant, filename = '../doc/figure/wei_quant_ppc.png',
        width = 15, height = 10)
