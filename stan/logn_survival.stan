@@ -19,7 +19,7 @@ model {
   beta[2] ~ normal(0, 100);
   beta[3] ~ normal(0, 100);
   beta[4] ~ normal(0, 100);
-  sigma ~ uniform(0, 100);  // inverse-gamma
+  sigma ~ inv_gamma(1, 1);
 
   dur_unc ~ lognormal(exp(beta[1] + beta[2] * size_unc + beta[3] * occ_unc
                           + beta[4] * hab_unc), 

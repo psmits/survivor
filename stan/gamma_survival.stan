@@ -16,10 +16,7 @@ parameters {
 }
 model {
   alpha ~ gamma(1, 1);
-  beta[1] ~ normal(0, 100);
-  beta[2] ~ normal(0, 100);
-  beta[3] ~ normal(0, 100);
-  beta[4] ~ normal(0, 100);
+  beta ~ normal(0, 100);
 
   dur_unc ~ gamma(alpha, exp(beta[1] + beta[2] * size_unc + beta[3] * occ_unc
                              + beta[4] * hab_unc));

@@ -1,5 +1,6 @@
 library(ggplot2)
 library(grid)
+library(hexbin)
 
 theme_set(theme_bw())
 cbp <- c('#E69F00', '#56B4E9', '#009E73', '#F0E442', 
@@ -43,6 +44,17 @@ gpost <- gpost + geom_histogram(aes(y = ..density..), binwidth = 1/20)
 gpost <- gpost + facet_grid(val ~ .)
 gpost <- gpost + labs(x = 'value', y = 'density')
 ggsave(gpost, filename = '../doc/figure/wei_post.png', 
+       width = 15, height = 10)
+
+# look at the ridge
+gridge <- ggplot(preds, aes(x = constant, y = beta_size))
+gridge <- gridge + stat_density2d(aes(alpha = ..level.., fill = ..level..), 
+                                  geom = 'polygon')
+gridge <- gridge + scale_fill_gradient(low = "yellow", high = "red")
+gridge <- gridge + scale_alpha(range = c(0.1, 0.7), guide = FALSE)
+gridge <- gridge + geom_density2d(colour = 'black')
+gridge <- gridge + geom_point(alpha = 0.1)
+ggsave(gridge, filename = '../doc/figure/wei_ridge.png',
        width = 15, height = 10)
 
 

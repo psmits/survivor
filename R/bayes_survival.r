@@ -68,8 +68,9 @@ wfit <- sflist2stanfit(weilist)
 
 # log-normal
 lgnlist <- mclapply(1:4, mc.cores = detectCores(),
-                    function(x) stan(fit = lgnm, seed = 1000,
+                    function(x) stan(fit = lgnm, seed = 1,
                                      data = data,
+                                     iter = 50000,
                                      chains = 1, chain_id = x,
                                      refresh = -1))
 # list of results

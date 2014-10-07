@@ -19,13 +19,6 @@
 \setbeamercolor{block title alerted}{fg=white,bg=darkgray}
 \setbeamercolor{block body alerted}{fg=black,bg=lightgray}
 
-%\AtBeginSection[]
-%{
-%  \begin{frame}
-%    \tableofcontents[currentsection]
-%  \end{frame}
-%}
-
 
 \title{Gambling with Australian brachiopods}
 \author{Peter D Smits}
@@ -95,8 +88,8 @@
           \end{itemize}
         \item predictors 
           \begin{itemize}
-            \item substrate probability (fully Bayesian approach)
-            \item onshore/offshore
+            \item substrate probability 
+            \item onshore/offshore probability
             \item body size (Payne \textit{et al.} 2014 \textit{Proc. B})
             \item occupancy (see Vilhena \textit{et al.} 2014 \textit{Nature Com.})
           \end{itemize}
@@ -156,7 +149,7 @@
 \end{frame}
 
 \begin{frame}
-  \frametitle{Durations}
+  \frametitle{Estimated distribution}
   \begin{center}
     \includegraphics[height = 0.8\textheight, width = \textwidth, keepaspectratio = true]{figure/wei_dur_post}
   \end{center}
@@ -182,7 +175,7 @@
   \begin{block}{Preliminary conclusions}
     Little evidence for single pattern of age-independence.
 
-    Occupancy has largest effect.
+    Occupancy has largest effect. Non-zero effect of other traits.
   \end{block}
 \end{frame}
 
@@ -190,27 +183,27 @@
   \frametitle{Modeling improvements}
 
   \begin{alertblock}{Major roadblock}
-    HEAVY TAILS
+    \uppercase{heavy right tail}
   \end{alertblock}
 
   \bigskip
 
   \begin{itemize}
-    \item sampling distribution choice
-    \item robust/different priors
+    \item sampling distribution
+    \item different priors
     \item non-linear/heterogeneous variance
     \item fossil sampling effect
   \end{itemize}
 \end{frame}
 
-\begin{frame}
-  \frametitle{Data set} % replace this text with an image
-  \begin{itemize}
-    \item New Zealand record (FRED)
-    \item improved paleoenvironment reconstructions
-    \item affixing strategy information
-  \end{itemize}
-\end{frame}
+%\begin{frame}
+%  \frametitle{Data set} % replace this text with an image
+%  \begin{itemize}
+%    \item New Zealand record (FRED)
+%    \item improved paleoenvironment reconstructions
+%    \item affixing strategy information
+%  \end{itemize}
+%\end{frame}
 
 \begin{frame}
   \frametitle{Remember\dots}
@@ -238,7 +231,7 @@
 
         \item Discussion 
           \begin{itemize}
-            \item David Bapst, Megan Boatright, Ben Frable, Marites Villarosa Garcia, Kathleen Ritterbush, Darcy Ross, Liz Sander, Carl Simpson
+            \item David Bapst, Marites Villarosa Garcia, Gene Hunt, Darcy Ross, Liz Sander
           \end{itemize}
       \end{itemize}
     \end{column}
@@ -253,6 +246,12 @@
   \end{columns}
 \end{frame}
 
+\begin{frame}
+  \frametitle{Identifiability and ridges}
+  \begin{center}
+    \includegraphics[height = 0.8\textheight, width = \textwidth, keepaspectratio = true]{figure/wei_ridge}
+  \end{center}
+\end{frame}
 
 
 \end{document}
