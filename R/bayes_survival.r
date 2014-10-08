@@ -9,8 +9,8 @@ seed <- 420
 
 # compile models
 weim <- stan(file = '../stan/weibull_survival.stan')
-lgnm <- stan(file = '../stan/logn_survival.stan')
-gamm <- stan(file = '../stan/gamma_survival.stan')
+seim <- stan(file = '../stan/shift_exp_surv.stan')
+mwim <- stan(file = '../stan/mixture_survival.stan')
 
 # observed
 keep <- names(affinity) %in% occ.val$taxa
@@ -38,13 +38,13 @@ cen <- lapply(data, function(x) x[!grab])
 
 data <- list(dur_unc = unc$duration,
              size_unc = unc$siz,
-#             aff_unc = unc$aff,
+             aff_unc = unc$aff,
              hab_unc = unc$hab,
              occ_unc = unc$occ,
              N_unc = length(unc$duration),
              dur_cen = cen$duration,
              size_cen = cen$siz,
-#             aff_cen = cen$aff,
+             aff_cen = cen$aff,
              hab_cen = cen$hab,
              occ_cen = cen$occ,
              N_cen = length(cen$duration))
@@ -52,7 +52,8 @@ data <- list(dur_unc = unc$duration,
 small.data <- list(dur_unc = unc$duration,
                    N_unc = length(unc$duration),
                    dur_cen = cen$duration,
-                   N_cen = length(cen$duration))
+                   N_cen = length(cen$duration),
+                   K = 2)
 
 # fit models with parallel magic
 # weibull
@@ -65,24 +66,19 @@ weilist <- mclapply(1:4, mc.cores = detectCores(),
 # list of results
 wfit <- sflist2stanfit(weilist)
 
-
-# log-normal
-lgnlist <- mclapply(1:4, mc.cores = detectCores(),
-                    function(x) stan(fit = lgnm, seed = 1,
+# shifted exp 
+explist <- mclapply(1:4, mc.cores = detectCores(),
+                    function(x) stan(fit = seim, seed = seed,
                                      data = data,
-                                     iter = 50000,
                                      chains = 1, chain_id = x,
                                      refresh = -1))
-# list of results
-lfit <- sflist2stanfit(lgnlist)
+efit <- sflist2stanfit(explist)
 
-
-# gamma
-gamlist <- mclapply(1:4, mc.cores = detectCores(),
-                    function(x) stan(fit = gamm, seed = 420,
-                                     data = data,
-                                     iter = 5000,
-                                     chains = 1, chain_id = x,
-                                     refresh = -1))
-# list of results
-gfit <- sflist2stanfit(gamlist)
+## mixture model
+#mixlist <- mclapply(1:4, mc.cores = detectCores(),
+#                    function(x) stan(fit = mwim, seed = seed,
+#                                     data = small.data,
+#                                     iter = 50000,
+#                                     chains = 1, chain_id = x,
+#                                     refresh = -1))
+#mfit <- sflist2stanfit(mixlist)

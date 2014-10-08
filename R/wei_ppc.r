@@ -16,10 +16,10 @@ theme_update(axis.text = element_text(size = 20),
 # make flat data
 rm <- which(names(data) %in% c('N_unc', 'N_cen'))
 flat <- data[-rm]
-fs <- Reduce(cbind, flat[1:4])
-sn <- Reduce(cbind, flat[5:9])
+fs <- Reduce(cbind, flat[1:5])
+sn <- Reduce(cbind, flat[6:10])
 flat <- rbind(data.frame(fs), sn)
-names(flat) <- c('dur', 'size', 'hab', 'occ')
+names(flat) <- c('dur', 'size', 'aff', 'hab', 'occ')
 
 # constants
 samp <- nrow(flat)
@@ -30,7 +30,7 @@ sims <- extract(wfit, permuted = TRUE)
 n.post <- length(sims$lp__)
 
 preds <- data.frame(sims$beta)
-names(preds) <- c('constant', 'beta_size', 'beta_occ', 'beta_hab')
+names(preds) <- c('size', 'occ', 'habitat', 'substrate')
 long.preds <- melt(preds)
 names(long.preds) <- c('val', 'sim')
 
@@ -40,14 +40,16 @@ pshap <- cbind(data.frame(val = rep('v', length(sims$alpha))), sim = sims$alpha)
 # posterior simulation graph
 posts <- rbind(long.preds, pshap)
 gpost <- ggplot(posts, aes(x = sim))
-gpost <- gpost + geom_histogram(aes(y = ..density..), binwidth = 1/20)
+gpost <- gpost + geom_vline(xintercept = 0, colour = 'grey', size = 2)
+gpost <- gpost + geom_histogram(aes(y = ..density..), 
+                                binwidth = 1/20)
 gpost <- gpost + facet_grid(val ~ .)
 gpost <- gpost + labs(x = 'value', y = 'density')
 ggsave(gpost, filename = '../doc/figure/wei_post.png', 
        width = 15, height = 10)
 
 # look at the ridge
-gridge <- ggplot(preds, aes(x = constant, y = beta_size))
+gridge <- ggplot(preds, aes(x = occ, y = size))
 gridge <- gridge + stat_density2d(aes(alpha = ..level.., fill = ..level..), 
                                   geom = 'polygon')
 gridge <- gridge + scale_fill_gradient(low = "yellow", high = "red")
@@ -58,46 +60,25 @@ ggsave(gridge, filename = '../doc/figure/wei_ridge.png',
        width = 15, height = 10)
 
 
-# overlay sampled weibull distributions over empirical histogram
-durs <- rbind(cbind(data.frame(dur = data$dur_unc), type = rep('No', data$N_unc)),
-              cbind(dur = data$dur_cen, type = rep('Yes', data$N_cen)))
-durs$dur <- as.numeric(durs$dur)
-
-dists <- ggplot(durs, aes(x = dur))
-dists <- dists + geom_histogram(aes(y = ..density..), 
-                                binwidth = 1, fill = 'grey')
-dists <- dists + scale_fill_manual(values = cbp,
-                                   name = 'Censored')
-dists <- dists + labs(y = 'Density', x = 'Duration')
-for(i in seq(n.sim)) {
-  p <- sample(n.post, 1)
-  w <- sample(samp, 1)
-  ints <- exp(sum(preds[p, ] * unlist(c(1, flat[w, 2:4]))))
-  dists <- dists + stat_function(fun = dweibull, 
-                                 size = 1.5, 
-                                 alpha = 0.05,
-                                 arg = list(shape = sims$alpha[p], 
-                                            scale = ints),
-                                 colour = 'blue')
-}
-ggsave(dists, filename = '../doc/figure/wei_dur_post.png',
-       width = 15, height = 10)
-
 
 # esimate of mean duration
 y.rep <- array(NA, c(samp, n.sim))
 for(s in seq(n.sim)) {
+  for(i in seq(samp)) {
   p <- sample(n.post, 1)
-  w <- sample(samp, 1)
-  ints <- exp(sum(preds[p, ] * unlist(c(1, flat[w, 2:4]))))
+  ints <- exp(-(sum(preds[p, ] * unlist(flat[i, 2:5]))) / sims$alpha[p])
   y.rep[, s] <- rweibull(samp, shape = sims$alpha[p], 
                          scale = ints)
+  }
 }
+#y.rep <- ceiling(y.rep)
 sim.mean <- colMeans(y.rep)
 dur.mean <- mean(flat$dur)
 gmean <- ggplot(data.frame(x = sim.mean), aes(x = x))
 gmean <- gmean + geom_histogram(aes(y = ..density..), binwidth = 1)
 gmean <- gmean + geom_vline(xintercept = dur.mean, colour = 'blue', size = 2)
+gmean <- gmean + geom_text(aes(x = dur.mean, label = 'empirical\n mean', 
+                               y = 0.5), hjust = -0.2, colour = 'blue')
 gmean <- gmean + labs(x = 'duration time', y = 'density')
 ggsave(gmean, filename = '../doc/figure/wei_mean_ppc.png',
        width = 15, height = 10)
@@ -124,7 +105,36 @@ gquant <- ggplot(sim.quant, aes(x = value))
 gquant <- gquant + geom_histogram(aes(y = ..density..), binwidth = 1)
 gquant <- gquant + geom_vline(data = dur.quant, aes(xintercept = value), 
                               colour = 'blue', size = 2)
+gquant <- gquant + geom_text(data = dur.quant, 
+                             aes(x = value, label = 'empirical\n quantile', 
+                                 y = 0.5), hjust = -0.2, colour = 'blue')
 gquant <- gquant + labs(x = 'duration time', y = 'density')
 gquant <- gquant + facet_grid(. ~ Var2, labeller = mf_labeller)
 ggsave(gquant, filename = '../doc/figure/wei_quant_ppc.png',
+       width = 15, height = 10)
+
+
+durs <- rbind(cbind(data.frame(dur = data$dur_unc), type = rep('No', data$N_unc)),
+              cbind(dur = data$dur_cen, type = rep('Yes', data$N_cen)))
+durs$dur <- as.numeric(durs$dur)
+
+dists <- ggplot(durs, aes(x = dur))
+dists <- dists + geom_histogram(aes(y = ..density..), 
+                                binwidth = 1, fill = 'grey')
+dists <- dists + scale_fill_manual(values = cbp,
+                                   name = 'Censored')
+dists <- dists + labs(y = 'Density', x = 'Duration')
+ggsave(dists, filename = '../doc/figure/wei_dur.png',
+       width = 15, height = 10)
+
+hist.sim <- melt(y.rep)
+hist.sim <- hist.sim[hist.sim[, 1] %in% 1:12, ]
+ghist <- ggplot(hist.sim, aes(x = value))
+ghist <- ghist + geom_histogram(aes(y = ..density..), 
+                                binwidth = 1, fill = 'blue', alpha = 0.4)
+ghist <- ghist + geom_histogram(data = durs, aes(x = dur, y = ..density..),
+                                binwidth = 1, fill = 'grey', alpha = 0.5)
+ghist <- ghist + facet_wrap( ~ Var1)
+ghist <- ghist + labs(y = 'Density', x = 'Duration')
+ggsave(ghist, filename = '../doc/figure/wei_dur_post.png',
        width = 15, height = 10)

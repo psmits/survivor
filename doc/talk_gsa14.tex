@@ -136,7 +136,7 @@
 \begin{frame}
   \frametitle{Bayesian model structure}
   \begin{center}
-    \includegraphics[height = 0.8\textheight, width = \textwidth, keepaspectratio = true]{figure/surv_mod}
+    \includegraphics[height = 0.8\textheight, width = \textwidth, keepaspectratio = true]{figure/surv_rev}
   \end{center}
 \end{frame}
 
@@ -173,9 +173,11 @@
   \frametitle{State of knowledge}
 
   \begin{block}{Preliminary conclusions}
-    Little evidence for single pattern of age-independence.
+    Little evidence for age-independent pattern.
 
-    Occupancy has largest effect. Non-zero effect of other traits.
+    Occupancy has largest effect. 
+    
+    P(carbonate \(\mid\) occurrences) \(\approx\) no effect.
   \end{block}
 \end{frame}
 
@@ -183,13 +185,17 @@
   \frametitle{Modeling improvements}
 
   \begin{alertblock}{Major roadblock}
-    \uppercase{heavy right tail}
+    \alert{\uppercase{heavy right tail}}
   \end{alertblock}
 
   \bigskip
 
   \begin{itemize}
     \item sampling distribution
+      \begin{itemize}
+        \item three-parameter Weibull
+        \item mixture of distribution
+      \end{itemize}
     \item different priors
     \item non-linear/heterogeneous variance
     \item fossil sampling effect
@@ -244,13 +250,6 @@
 
     \end{column}
   \end{columns}
-\end{frame}
-
-\begin{frame}
-  \frametitle{Identifiability and ridges}
-  \begin{center}
-    \includegraphics[height = 0.8\textheight, width = \textwidth, keepaspectratio = true]{figure/wei_ridge}
-  \end{center}
 \end{frame}
 
 
