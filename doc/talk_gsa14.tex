@@ -100,35 +100,35 @@
 
 
 \begin{frame}
-  \frametitle{Survival analysis}
+  \frametitle{Survival analysis: constant extinction}
 
   \begin{center}
-    \includegraphics[height = 0.5\textheight, width = \textwidth, keepaspectratio = true]{figure/dur_exp}
+    \includegraphics[height = 0.4\textheight, width = \textwidth, keepaspectratio = true]{figure/dur_exp}
 
-    \includegraphics[height = 0.5\textheight, width = 0.4\textwidth, keepaspectratio = true]{figure/sur_exp}
-    \includegraphics[height = 0.5\textheight, width = 0.4\textwidth, keepaspectratio = true]{figure/haz_exp}
+    \includegraphics[height = 0.6\textheight, width = 0.5\textwidth, keepaspectratio = true]{figure/sur_exp}
+    \includegraphics[height = 0.6\textheight, width = 0.5\textwidth, keepaspectratio = true]{figure/haz_exp}
   \end{center}
 \end{frame}
 
 \begin{frame}
-  \frametitle{Survival analysis}
+  \frametitle{Survival analysis: decelerating (k \(<\) 1)}
 
   \begin{center}
-    \includegraphics[height = 0.5\textheight, width = \textwidth, keepaspectratio = true]{figure/dur_dec}
+    \includegraphics[height = 0.4\textheight, width = \textwidth, keepaspectratio = true]{figure/dur_dec}
 
-    \includegraphics[height = 0.5\textheight, width = 0.4\textwidth, keepaspectratio = true]{figure/sur_dec}
-    \includegraphics[height = 0.5\textheight, width = 0.4\textwidth, keepaspectratio = true]{figure/haz_dec}
+    \includegraphics[height = 0.6\textheight, width = 0.5\textwidth, keepaspectratio = true]{figure/sur_dec}
+    \includegraphics[height = 0.6\textheight, width = 0.5\textwidth, keepaspectratio = true]{figure/haz_dec}
   \end{center}
 \end{frame}
 
 \begin{frame}
-  \frametitle{Survival analysis}
+  \frametitle{Survival analysis: accelerating (k \(>\) 1)}
 
   \begin{center}
-    \includegraphics[height = 0.5\textheight, width = \textwidth, keepaspectratio = true]{figure/dur_acc}
+    \includegraphics[height = 0.4\textheight, width = \textwidth, keepaspectratio = true]{figure/dur_acc}
 
-    \includegraphics[height = 0.5\textheight, width = 0.4\textwidth, keepaspectratio = true]{figure/sur_acc}
-    \includegraphics[height = 0.5\textheight, width = 0.4\textwidth, keepaspectratio = true]{figure/haz_acc}
+    \includegraphics[height = 0.6\textheight, width = 0.5\textwidth, keepaspectratio = true]{figure/sur_acc}
+    \includegraphics[height = 0.6\textheight, width = 0.5\textwidth, keepaspectratio = true]{figure/haz_acc}
   \end{center}
 \end{frame}
 
@@ -144,26 +144,27 @@
 \begin{frame}
   \frametitle{Parameter marginal posteriors}
   \begin{center}
-    \includegraphics[height = 0.8\textheight, width = \textwidth, keepaspectratio = true]{figure/wei_post}
+    For all but \(k\), if farther to \alert{left} then \(\uparrow\) trait \(\propto\) \(\uparrow\) duration.
+    \includegraphics[height = 0.7\textheight, width = \textwidth, keepaspectratio = true]{figure/wei_post}
   \end{center}
 \end{frame}
 
 \begin{frame}
-  \frametitle{Estimated distribution}
+  \frametitle{Estimated versus observed: distribution}
   \begin{center}
     \includegraphics[height = 0.8\textheight, width = \textwidth, keepaspectratio = true]{figure/wei_dur_post}
   \end{center}
 \end{frame}
 
 \begin{frame}
-  \frametitle{Posterior predictive check: mean duration}
+  \frametitle{Estimated versus observed: mean duration}
   \begin{center}
     \includegraphics[height = 0.8\textheight, width = \textwidth, keepaspectratio = true]{figure/wei_mean_ppc}
   \end{center}
 \end{frame}
 
 \begin{frame}
-  \frametitle{Posterior predictive check: quantiles}
+  \frametitle{Estimated versus observed: quantiles}
   \begin{center}
     \includegraphics[height = 0.8\textheight, width = \textwidth, keepaspectratio = true]{figure/wei_quant_ppc}
   \end{center}
@@ -194,7 +195,7 @@
     \item sampling distribution
       \begin{itemize}
         \item three-parameter Weibull
-        \item mixture of distribution
+        \item mixture of distributions
       \end{itemize}
     \item different priors
     \item non-linear/heterogeneous variance
@@ -237,7 +238,7 @@
 
         \item Discussion 
           \begin{itemize}
-            \item David Bapst, Marites Villarosa Garcia, Gene Hunt, Darcy Ross, Liz Sander
+            \item David Bapst, Marites Villarosa Garcia, Gene Hunt, Nadia Pierrehumbert
           \end{itemize}
       \end{itemize}
     \end{column}

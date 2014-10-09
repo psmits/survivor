@@ -11,7 +11,7 @@ theme_update(axis.text = element_text(size = 20),
              legend.text = element_text(size = 25),
              legend.title = element_text(size = 26),
              legend.key.size = unit(2, 'cm'),
-             strip.text = element_text(size = 20))
+             strip.text = element_text(size = 25))
 
 # make flat data
 rm <- which(names(data) %in% c('N_unc', 'N_cen'))
@@ -34,7 +34,7 @@ names(preds) <- c('size', 'occ', 'habitat', 'substrate')
 long.preds <- melt(preds)
 names(long.preds) <- c('val', 'sim')
 
-pshap <- cbind(data.frame(val = rep('v', length(sims$alpha))), sim = sims$alpha)
+pshap <- cbind(data.frame(val = rep('k', length(sims$alpha))), sim = sims$alpha)
 
 
 # posterior simulation graph
@@ -44,7 +44,8 @@ gpost <- gpost + geom_vline(xintercept = 0, colour = 'grey', size = 2)
 gpost <- gpost + geom_histogram(aes(y = ..density..), 
                                 binwidth = 1/20)
 gpost <- gpost + facet_grid(val ~ .)
-gpost <- gpost + labs(x = 'value', y = 'density')
+gpost <- gpost + labs(x = 'Value', y = 'Density')
+gpost <- gpost + theme(axis.text.y = element_text(size = 15))
 ggsave(gpost, filename = '../doc/figure/wei_post.png', 
        width = 15, height = 10)
 
@@ -75,11 +76,9 @@ for(s in seq(n.sim)) {
 sim.mean <- colMeans(y.rep)
 dur.mean <- mean(flat$dur)
 gmean <- ggplot(data.frame(x = sim.mean), aes(x = x))
-gmean <- gmean + geom_histogram(aes(y = ..density..), binwidth = 1)
+gmean <- gmean + geom_histogram(aes(y = ..density..), binwidth = 0.5)
 gmean <- gmean + geom_vline(xintercept = dur.mean, colour = 'blue', size = 2)
-gmean <- gmean + geom_text(aes(x = dur.mean, label = 'empirical\n mean', 
-                               y = 0.5), hjust = -0.2, colour = 'blue')
-gmean <- gmean + labs(x = 'duration time', y = 'density')
+gmean <- gmean + labs(x = 'Duration', y = 'Density')
 ggsave(gmean, filename = '../doc/figure/wei_mean_ppc.png',
        width = 15, height = 10)
 
@@ -102,13 +101,10 @@ mf_labeller <- function(var, value){
 }
 
 gquant <- ggplot(sim.quant, aes(x = value))
-gquant <- gquant + geom_histogram(aes(y = ..density..), binwidth = 1)
+gquant <- gquant + geom_histogram(aes(y = ..density..), binwidth = 0.5)
 gquant <- gquant + geom_vline(data = dur.quant, aes(xintercept = value), 
                               colour = 'blue', size = 2)
-gquant <- gquant + geom_text(data = dur.quant, 
-                             aes(x = value, label = 'empirical\n quantile', 
-                                 y = 0.5), hjust = -0.2, colour = 'blue')
-gquant <- gquant + labs(x = 'duration time', y = 'density')
+gquant <- gquant + labs(x = 'Duration', y = 'Density')
 gquant <- gquant + facet_grid(. ~ Var2, labeller = mf_labeller)
 ggsave(gquant, filename = '../doc/figure/wei_quant_ppc.png',
        width = 15, height = 10)
