@@ -9,8 +9,8 @@ seed <- 420
 
 # compile models
 weim <- stan(file = '../stan/weibull_survival.stan')
-seim <- stan(file = '../stan/shift_exp_surv.stan')
-mwim <- stan(file = '../stan/mixture_survival.stan')
+sepwei <- stan(file = '../stan/sep_weibull_survival.stan')
+heirwei <- stan(file = '../stan/heir_weibull_survival.stan')
 
 # observed
 keep <- names(affinity) %in% occ.val$taxa
@@ -21,15 +21,31 @@ extinct <- 1 - censored[keep]
 size <- size[keep]
 aff <- affinity[keep]
 hab <- inshore[keep]
+nsp <- ratio[keep]
 occ <- occ.val$mean
+
+
+splitsort <- split(nsp, nsp)
+wss <- lapply(splitsort, names)
+mem <- c()
+for(i in seq(length(duration))) {
+  hooray <- which(laply(wss, function(x) any(x %in% names(nsp[i]))))
+  mem[i] <- hooray
+}
+
+
 data <- list(duration = duration,
              siz = log(size),
              aff = logit(aff),
              occ = occ,
              hab = logit(hab),
-             extinct = extinct)
+             extinct = extinct,
+             nsp = nsp,
+             mem = mem)
 good <- !is.na(duration)
 data <- lapply(data, function(x) x[good])
+
+
 
 # uncensored vs censored
 grab <- data$extinct == 1
@@ -41,13 +57,25 @@ data <- list(dur_unc = unc$duration,
              aff_unc = unc$aff,
              hab_unc = unc$hab,
              occ_unc = unc$occ,
+             nsp_unc = unc$nsp,
+             mem_unc = unc$mem,
              N_unc = length(unc$duration),
              dur_cen = cen$duration,
              size_cen = cen$siz,
              aff_cen = cen$aff,
              hab_cen = cen$hab,
              occ_cen = cen$occ,
+             nsp_cen = cen$nsp,
+             mem_cen = cen$mem,
              N_cen = length(cen$duration))
+
+data$N <- data$N_unc + data$N_cen
+data$samp_unc <- seq(data$N_unc)
+data$samp_cen <- seq(from = data$N_unc + 1, 
+                     to = data$N_unc + data$N_cen, 
+                     by = 1)
+data$nsp <- nsp
+data$G <- length(unique(nsp))
 
 small.data <- list(dur_unc = unc$duration,
                    N_unc = length(unc$duration),
@@ -66,19 +94,19 @@ weilist <- mclapply(1:4, mc.cores = detectCores(),
 # list of results
 wfit <- sflist2stanfit(weilist)
 
-# shifted exp 
-explist <- mclapply(1:4, mc.cores = detectCores(),
-                    function(x) stan(fit = seim, seed = seed,
+# seperate model on shape
+seplist <- mclapply(1:4, mc.cores = detectCores(),
+                    function(x) stan(fit = sepwei, seed = seed,
                                      data = data,
+                                     iter = 5000,
                                      chains = 1, chain_id = x,
                                      refresh = -1))
-efit <- sflist2stanfit(explist)
+sfit <- sflist2stanfit(seplist)
 
-## mixture model
-#mixlist <- mclapply(1:4, mc.cores = detectCores(),
-#                    function(x) stan(fit = mwim, seed = seed,
-#                                     data = small.data,
-#                                     iter = 50000,
-#                                     chains = 1, chain_id = x,
-#                                     refresh = -1))
-#mfit <- sflist2stanfit(mixlist)
+# heirarchical model on shape
+heirlist <- mclapply(1:4, mc.cores = detectCores(),
+                     function(x) stan(fit = heirwei, seed = seed,
+                                      data = data,
+                                      chains = 1, chain_id = x,
+                                      refresh = -1))
+hfit <- sflist2stanfit(heirlist[c(1, 2, 4)])

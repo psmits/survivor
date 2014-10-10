@@ -17,6 +17,7 @@ info <- read.csv('../data/smits-occs.csv', stringsAsFactors = FALSE)
 #dur <- read.csv('../data/smits-ranges.csv', stringsAsFactors = FALSE)
 bs <- read.delim('../data/payne_bodysize/Occurrence_PaleoDB.txt', 
                  stringsAsFactors = FALSE)
+sp.gen <- read.csv('../data/spgen-occs.csv', stringsAsFactors = FALSE)
 
 # non-permian ranging taxa
 per <- c('Carboniferous', 'Permian', 'Triassic')
@@ -171,3 +172,14 @@ censored <- cen
 censored <- censored[names(censored) %in% names(affinity)]
 size <- uni$size
 size <- size[uni$taxon_name %in% names(affinity)]
+
+# get remaining genera
+sp.gen <- sp.gen[sp.gen$occurrence.genus_name %in% names(dur), ]
+#sp.gen <- sp.gen[sp.gen$occurrence.species_name != '', ]
+sp <- !is.na(str_match(sp.gen$occurrence.species_name, 'sp.'))
+sp.gen$occurrence.species_name[sp] <- 'sp.'
+# sp.
+split.gen <- split(sp.gen, sp.gen$occurrence.genus_name)
+ratio <- lapply(split.gen, 
+                function(x) length(unique(x$occurrence.species_name)))
+ratio <- unlist(ratio)

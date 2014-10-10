@@ -65,7 +65,7 @@ for(s in seq(n.sim)) {
   y.rep[, s] <- rexp(samp, rate = ints)
   }
 }
-y.rep <- ceiling(y.rep)
+#y.rep <- ceiling(y.rep)
 sim.mean <- colMeans(y.rep)
 dur.mean <- mean(flat$dur)
 gmean <- ggplot(data.frame(x = sim.mean), aes(x = x))
