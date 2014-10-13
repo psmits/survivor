@@ -11,9 +11,11 @@ seed <- 420
 weim <- stan(file = '../stan/weibull_survival.stan')
 sepwei <- stan(file = '../stan/sep_weibull_survival.stan')
 heirwei <- stan(file = '../stan/heir_weibull_survival.stan')
+#mixwei <- stan(file = '../stan/mixture_survival.stan')
 
 # observed
 keep <- names(affinity) %in% occ.val$taxa
+ord <- orders[keep]
 
 # assemble data
 duration <- dur[keep]
@@ -24,17 +26,18 @@ hab <- inshore[keep]
 nsp <- ratio[keep]
 occ <- occ.val$mean
 
-
-splitsort <- split(nsp, nsp)
+names(ord) <- names(nsp)
+splitsort <- split(ord, ord)
 wss <- lapply(splitsort, names)
 mem <- c()
 for(i in seq(length(duration))) {
-  hooray <- which(laply(wss, function(x) any(x %in% names(nsp[i]))))
+  hooray <- which(laply(wss, function(x) any(x %in% names(ord[i]))))
   mem[i] <- hooray
 }
 
 
 data <- list(duration = duration,
+             ord = ord,
              siz = log(size),
              aff = logit(aff),
              occ = occ,
@@ -74,8 +77,9 @@ data$samp_unc <- seq(data$N_unc)
 data$samp_cen <- seq(from = data$N_unc + 1, 
                      to = data$N_unc + data$N_cen, 
                      by = 1)
-data$nsp <- nsp
-data$G <- length(unique(nsp))
+
+data$G <- length(unique(ord))
+data$K <- 2
 
 small.data <- list(dur_unc = unc$duration,
                    N_unc = length(unc$duration),
@@ -94,7 +98,7 @@ weilist <- mclapply(1:4, mc.cores = detectCores(),
 # list of results
 wfit <- sflist2stanfit(weilist)
 
-# seperate model on shape
+## seperate model on shape
 seplist <- mclapply(1:4, mc.cores = detectCores(),
                     function(x) stan(fit = sepwei, seed = seed,
                                      data = data,
@@ -109,4 +113,15 @@ heirlist <- mclapply(1:4, mc.cores = detectCores(),
                                       data = data,
                                       chains = 1, chain_id = x,
                                       refresh = -1))
-hfit <- sflist2stanfit(heirlist[c(1, 2, 4)])
+hfit <- sflist2stanfit(heirlist)
+
+
+# mixed
+# heirarchical model on shape
+#mixlist <- mclapply(1:4, mc.cores = detectCores(),
+#                    function(x) stan(fit = mixwei, seed = seed,
+#                                     data = data,
+#                                     iter = 10000,
+#                                     chains = 1, chain_id = x,
+#                                     refresh = -1))
+#mixfit <- sflist2stanfit(mixlist)

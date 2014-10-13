@@ -26,6 +26,9 @@ carboniferous <- info$period == per[1]
 permian <- info$period == per[2]
 triassic <- info$period == per[3]
 
+# remove things that don't have an order
+info <- info[info$order_name != '', ]
+
 # each genus
 genus.info <- split(info, info$occurrence.genus_name)
 outbounds <- laply(genus.info, function(x) {
@@ -172,6 +175,9 @@ censored <- cen
 censored <- censored[names(censored) %in% names(affinity)]
 size <- uni$size
 size <- size[uni$taxon_name %in% names(affinity)]
+
+orders <- unique(info[, c('occurrence.genus_name', 'order_name')])[, 2]
+
 
 # get remaining genera
 sp.gen <- sp.gen[sp.gen$occurrence.genus_name %in% names(dur), ]
