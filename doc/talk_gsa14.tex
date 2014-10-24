@@ -23,6 +23,7 @@
 \title{Gambling with Australian brachiopods}
 \author{Peter D Smits}
 \institute{Committee on Evolutionary Biology, University of Chicago}
+\date{}
 
 \begin{document}
 
@@ -82,6 +83,7 @@
     \end{column}
     \begin{column}{0.5\textwidth}
       \begin{itemize}
+        \item \alert{genus durations}
         \item Australian Permian
           \begin{itemize}
             \item range in/out taxa right censored
@@ -133,19 +135,14 @@
 \end{frame}
 
 \begin{frame}
-  
+  \begin{center}
+    Fit a statistical model in a Bayesian framework.
+  \end{center}
 \end{frame}
-
-%\begin{frame}
-%  \frametitle{Bayesian model structure}
-%  \begin{center}
-%    \includegraphics[height = 0.8\textheight, width = \textwidth, keepaspectratio = true]{figure/surv_rev}
-%  \end{center}
-%\end{frame}
 
 
 \begin{frame}
-  \frametitle{Parameter marginal posteriors}
+  \frametitle{Parameter posteriors}
   \begin{center}
     For all but \(k\), if farther to \alert{left} then \(\uparrow\) trait \(\propto\) \(\uparrow\) duration.
     \includegraphics[height = 0.7\textheight, width = \textwidth, keepaspectratio = true]{figure/wei_post}
@@ -153,7 +150,7 @@
 \end{frame}
 
 \begin{frame}
-  \frametitle{Estimated versus observed: distribution}
+  \frametitle{Estimated versus observed: duration frequency}
   \begin{center}
     \includegraphics[height = 0.8\textheight, width = \textwidth, keepaspectratio = true]{figure/wei_dur_post}
   \end{center}
@@ -189,7 +186,7 @@
   \frametitle{Modeling improvements}
 
   \begin{alertblock}{Major roadblock}
-    \alert{\uppercase{heavy right tail}}: model missing long-lived genera
+    \alert{\uppercase{heavy right tail}}: more long-lived genera observed than model predicts.
   \end{alertblock}
 
   \bigskip

@@ -26,6 +26,9 @@ carboniferous <- info$period == per[1]
 permian <- info$period == per[2]
 triassic <- info$period == per[3]
 
+# remove things that aren't from the east coast
+#info <- info[info$state != 'Western Australia', ]
+
 # remove things that don't have an order
 info <- info[info$order_name != '', ]
 
@@ -39,9 +42,16 @@ outbounds <- laply(genus.info, function(x) {
                  }})
 genus.info <- genus.info[!outbounds]
 
+# remove that range completely through
+rangers <- laply(genus.info, function(x) {
+                 if (any(x$period == per[1]) & any(x$period == per[3])) {
+                   TRUE
+                 } else {
+                   FALSE
+                 }})
+genus.info <- genus.info[!rangers]
+
 # how many permian stages
-# missing stage
-# TODO need to adjust this to correct of unsampled mid-range stages
 info <- info[info$stage == '', ]
 pst <- c('Changhsingian', 'Wuchiapingian', 'Capitanian',
          'Wordian', 'Roadian', 'Kungurian', 'Artinskian',
@@ -51,12 +61,22 @@ find.dur <- function(x) {
   max(mm) - min(mm) + 1
 }
 n.stage <- unlist(lapply(genus.info, find.dur))
+cohort <- unlist(lapply(genus.info, function(x) 
+                        max(which(pst %in% unique(x$stage)))))
 
 # censored?
 cen <- unlist(lapply(genus.info, function(x) any(x$period != per[2]))) * 1
 
+# range-in cohort
+cohort[which(cen == 1 & cohort == 2)] <- 1
+
+
 # put it back together
 info <- Reduce(rbind, genus.info)
+
+# remove the non-permian occurrences
+info <- info[info$period == 'Permian', ]
+
 
 # put in information i've learned
 # lithology
@@ -138,9 +158,9 @@ addenv <- got[mm, 2:3]
 addenv <- apply(addenv, 2, as.character)
 addenv[is.na(addenv[, 1]), 1] <- seenenv[is.na(addenv[, 1]), 2]
 addenv <- gsub(pattern = '[\\"?]',
-                replacement = '',
-                addenv,
-                perl = TRUE)
+               replacement = '',
+               addenv,
+               perl = TRUE)
 addenv <- str_replace_all(addenv, 's$', '')
 info$environment1 <- addenv[, 1]
 info$environment2 <- addenv[, 2]
@@ -175,7 +195,7 @@ censored <- cen
 censored <- censored[names(censored) %in% names(affinity)]
 size <- uni$size
 size <- size[uni$taxon_name %in% names(affinity)]
-
+cohort <- cohort[names(cohort) %in% names(affinity)]
 orders <- unique(info[, c('occurrence.genus_name', 'order_name')])[, 2]
 
 

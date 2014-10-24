@@ -10,7 +10,7 @@ seed <- 420
 # compile models
 weim <- stan(file = '../stan/weibull_survival.stan')
 sepwei <- stan(file = '../stan/sep_weibull_survival.stan')
-heirwei <- stan(file = '../stan/heir_weibull_survival.stan')
+hierwei <- stan(file = '../stan/hier_weibull_survival.stan')
 #mixwei <- stan(file = '../stan/mixture_survival.stan')
 
 # observed
@@ -25,6 +25,7 @@ aff <- affinity[keep]
 hab <- inshore[keep]
 nsp <- ratio[keep]
 occ <- occ.val$mean
+coh <- cohort[keep]
 
 names(ord) <- names(nsp)
 splitsort <- split(ord, ord)
@@ -35,20 +36,18 @@ for(i in seq(length(duration))) {
   mem[i] <- hooray
 }
 
-
 data <- list(duration = duration,
-             ord = ord,
+             ord = factor(ord),
              siz = log(size),
              aff = logit(aff),
              occ = occ,
              hab = logit(hab),
              extinct = extinct,
              nsp = nsp,
-             mem = mem)
+             mem = mem,
+             coh = coh)
 good <- !is.na(duration)
 data <- lapply(data, function(x) x[good])
-
-
 
 # uncensored vs censored
 grab <- data$extinct == 1
@@ -62,6 +61,8 @@ data <- list(dur_unc = unc$duration,
              occ_unc = unc$occ,
              nsp_unc = unc$nsp,
              mem_unc = unc$mem,
+             coh_unc = unc$coh,
+             ord_unc = unc$ord,
              N_unc = length(unc$duration),
              dur_cen = cen$duration,
              size_cen = cen$siz,
@@ -70,7 +71,12 @@ data <- list(dur_unc = unc$duration,
              occ_cen = cen$occ,
              nsp_cen = cen$nsp,
              mem_cen = cen$mem,
+             coh_cen = cen$coh,
+             ord_cen = cen$ord,
              N_cen = length(cen$duration))
+
+data$ord_unc <- model.matrix( ~ data$ord_unc - 1)
+data$ord_cen <- model.matrix( ~ data$ord_cen - 1)
 
 data$N <- data$N_unc + data$N_cen
 data$samp_unc <- seq(data$N_unc)
@@ -78,8 +84,9 @@ data$samp_cen <- seq(from = data$N_unc + 1,
                      to = data$N_unc + data$N_cen, 
                      by = 1)
 
-data$G <- length(unique(ord))
+data$O <- length(unique(ord))
 data$K <- 2
+data$C <- max(coh)
 
 small.data <- list(dur_unc = unc$duration,
                    N_unc = length(unc$duration),
@@ -88,40 +95,33 @@ small.data <- list(dur_unc = unc$duration,
                    K = 2)
 
 # fit models with parallel magic
-# weibull
+## weibull
 weilist <- mclapply(1:4, mc.cores = detectCores(),
                     function(x) stan(fit = weim, seed = seed,
                                      data = data,
                                      chains = 1, chain_id = x,
                                      refresh = -1))
 
-# list of results
 wfit <- sflist2stanfit(weilist)
 
-## seperate model on shape
+# seperate model
 seplist <- mclapply(1:4, mc.cores = detectCores(),
-                    function(x) stan(fit = sepwei, seed = seed,
-                                     data = data,
-                                     iter = 5000,
-                                     chains = 1, chain_id = x,
-                                     refresh = -1))
-sfit <- sflist2stanfit(seplist)
-
-# heirarchical model on shape
-heirlist <- mclapply(1:4, mc.cores = detectCores(),
-                     function(x) stan(fit = heirwei, seed = seed,
+                     function(x) stan(fit = sepwei, seed = seed,
                                       data = data,
                                       chains = 1, chain_id = x,
                                       refresh = -1))
-hfit <- sflist2stanfit(heirlist)
+sfit <- sflist2stanfit(seplist)
 
 
-# mixed
-# heirarchical model on shape
-#mixlist <- mclapply(1:4, mc.cores = detectCores(),
-#                    function(x) stan(fit = mixwei, seed = seed,
-#                                     data = data,
-#                                     iter = 10000,
-#                                     chains = 1, chain_id = x,
-#                                     refresh = -1))
-#mixfit <- sflist2stanfit(mixlist)
+# hierarchical model
+#hierlist <- mclapply(1:4, mc.cores = detectCores(),
+#                     function(x) stan(fit = hierwei, seed = seed,
+#                                      data = data,
+#                                      chains = 1, chain_id = x,
+#                                      refresh = -1))
+#hfit <- sflist2stanfit(hierlist)
+
+
+## mixture model
+#mixfit <- stan(fit = mixwei, seed = seed, data = data, 
+#               iter = 10000, chains = 1)

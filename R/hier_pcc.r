@@ -1,6 +1,8 @@
 library(ggplot2)
 library(grid)
 library(hexbin)
+library(reshape2)
+library(stringr)
 
 theme_set(theme_bw())
 cbp <- c('#E69F00', '#56B4E9', '#009E73', '#F0E442', 
@@ -13,71 +15,76 @@ theme_update(axis.text = element_text(size = 20),
              legend.key.size = unit(2, 'cm'),
              strip.text = element_text(size = 25))
 
+
 # make flat data
-fs <- Reduce(cbind, data[1:5])
-sn <- Reduce(cbind, data[9:13])
+fs <- Reduce(cbind, data[c(1:5, 7)])
+sn <- Reduce(cbind, data[c(9:13, 15)])
 flat <- rbind(data.frame(fs), sn)
-names(flat) <- c('dur', 'size', 'aff', 'hab', 'occ')
+names(flat) <- c('dur', 'size', 'aff', 'hab', 'occ', 'order')
 
 # constants
 samp <- nrow(flat)
 n.sim <- 100  
 
 # posterior simulations
-sims <- extract(wfit, permuted = TRUE)
+sims <- extract(hfit, permuted = TRUE)
 n.post <- length(sims$lp__)
 
-preds <- data.frame(sims$beta)
-names(preds) <- c('size', 'occ', 'habitat', 'substrate')
-long.preds <- melt(preds)
-names(long.preds) <- c('val', 'sim')
+melty <- lapply(sims, melt)
+for(ii in seq(length(melty))) {
+  melty[[ii]] <- cbind(melty[[ii]], val = names(melty)[ii])
+}
 
-pshap <- cbind(data.frame(val = rep('k', length(sims$alpha))), sim = sims$alpha)
+# individual level regression coefficients
+betas <- melty[str_detect(names(melty), 'beta')]
+betas <- Reduce(rbind, betas)[, 2:4]
+names(betas) <- c('order', 'value', 'param')
+
+# group level regression coeffcient prior hyperparameters
+beta.prior <- melty[str_detect(names(melty), 'mu') | 
+                    str_detect(names(melty), 'sigma')]
+
+# individual level shape parameter
+shapes <- melty$alpha[, 2:4]
+names(shapes) <- c('order', 'value', 'param')
+
+# group level shape parameter prior hyperparameters
+shapes.prior <- melty$scale[, 2:3]
+names(shapes.prior) <- c('param', 'value')
+
+# change this to point ranges with a line range for 25/75 and 2.5/97.5
 
 
 # posterior simulation graph
-posts <- rbind(long.preds, pshap)
-gpost <- ggplot(posts, aes(x = sim))
-gpost <- gpost + geom_vline(xintercept = 0, colour = 'grey', size = 2)
-gpost <- gpost + geom_histogram(aes(y = ..density..), 
-                                binwidth = 1/20)
-gpost <- gpost + facet_grid(val ~ .)
-gpost <- gpost + labs(x = 'Value', y = 'Relative\nFrequency')
-gpost <- gpost + theme(axis.text.y = element_text(size = 15))
-ggsave(gpost, filename = '../doc/figure/wei_post.png', 
-       width = 15, height = 10)
-
-# look at the ridge
-gridge <- ggplot(preds, aes(x = occ, y = size))
-gridge <- gridge + stat_density2d(aes(alpha = ..level.., fill = ..level..), 
-                                  geom = 'polygon')
-gridge <- gridge + scale_fill_gradient(low = "yellow", high = "red")
-gridge <- gridge + scale_alpha(range = c(0.1, 0.7), guide = FALSE)
-gridge <- gridge + geom_density2d(colour = 'black')
-gridge <- gridge + geom_point(alpha = 0.1)
-ggsave(gridge, filename = '../doc/figure/wei_ridge.png',
-       width = 15, height = 10)
-
+y.rep <- array(NA, c(samp, n.sim))
+split.group <- split(flat, flat$order)
+for(s in seq(n.sim)) {
+  group.holder <- c()
+  for(gg in seq(length(split.group))) {
+    p <- sample(n.post, 1)
+    for(i in seq(nrow(split.group[[gg]]))) {
+      ints <- exp(-(sum(c(sims$beta_size[p, gg], sims$beta_aff[p, gg], 
+                          sims$beta_hab[p, gg], sims$beta_occ[p, gg]) * 
+                        unlist(split.group[[gg]][i, 2:5]))) / sims$alpha[p, gg])
+      group.holder <- c(group.holder, 
+                        rweibull(1, shape = sims$alpha[p, gg], 
+                                 scale = ints)
+                        )
+    }
+  }
+  y.rep[, s] <- group.holder
+}
 
 
 # esimate of mean duration
-y.rep <- array(NA, c(samp, n.sim))
-for(s in seq(n.sim)) {
-  for(i in seq(samp)) {
-  p <- sample(n.post, 1)
-  ints <- exp(-(sum(preds[p, ] * unlist(flat[i, 2:5]))) / sims$alpha[p])
-  y.rep[, s] <- rweibull(samp, shape = sims$alpha[p], 
-                         scale = ints)
-  }
-}
 #y.rep <- ceiling(y.rep)
 sim.mean <- colMeans(y.rep)
 dur.mean <- mean(flat$dur)
 gmean <- ggplot(data.frame(x = sim.mean), aes(x = x))
-gmean <- gmean + geom_histogram(aes(y = ..density..), binwidth = 1)
+gmean <- gmean + geom_histogram(aes(y = ..density..), binwidth = 0.5)
 gmean <- gmean + geom_vline(xintercept = dur.mean, colour = 'blue', size = 2)
 gmean <- gmean + labs(x = 'Duration', y = 'Relative\nFrequency')
-ggsave(gmean, filename = '../doc/figure/wei_mean_ppc.png',
+ggsave(gmean, filename = '../doc/figure/hier_mean_ppc.png',
        width = 15, height = 10)
 
 # 25th and 75th quantiles
@@ -99,12 +106,12 @@ mf_labeller <- function(var, value){
 }
 
 gquant <- ggplot(sim.quant, aes(x = value))
-gquant <- gquant + geom_histogram(aes(y = ..density..), binwidth = 1)
+gquant <- gquant + geom_histogram(aes(y = ..density..), binwidth = 0.5)
 gquant <- gquant + geom_vline(data = dur.quant, aes(xintercept = value), 
                               colour = 'blue', size = 2)
 gquant <- gquant + labs(x = 'Duration', y = 'Relative\nFrequency')
 gquant <- gquant + facet_grid(. ~ Var2, labeller = mf_labeller)
-ggsave(gquant, filename = '../doc/figure/wei_quant_ppc.png',
+ggsave(gquant, filename = '../doc/figure/heir_quant_ppc.png',
        width = 15, height = 10)
 
 
@@ -118,18 +125,17 @@ dists <- dists + geom_histogram(aes(y = ..density..),
 dists <- dists + scale_fill_manual(values = cbp,
                                    name = 'Censored')
 dists <- dists + labs(y = 'Relative\nFrequency', x = 'Duration')
-ggsave(dists, filename = '../doc/figure/wei_dur.png',
+ggsave(dists, filename = '../doc/figure/hier_dur.png',
        width = 15, height = 10)
 
 hist.sim <- melt(y.rep)
 hist.sim <- hist.sim[hist.sim[, 1] %in% 1:12, ]
 ghist <- ggplot(hist.sim, aes(x = value))
-ghist <- ghist + geom_histogram(data = durs, aes(x = dur, y = ..density..),
-                                binwidth = 1, fill = 'grey', alpha = 0.5, 
-                                colour = 'darkgrey')
 ghist <- ghist + geom_histogram(aes(y = ..density..), 
                                 binwidth = 1, fill = 'blue', alpha = 0.4)
+ghist <- ghist + geom_histogram(data = durs, aes(x = dur, y = ..density..),
+                                binwidth = 1, fill = 'grey', alpha = 0.5)
 ghist <- ghist + facet_wrap( ~ Var1)
 ghist <- ghist + labs(y = 'Relative\nFrequency', x = 'Duration')
-ggsave(ghist, filename = '../doc/figure/wei_dur_post.png',
+ggsave(ghist, filename = '../doc/figure/hier_dur_post.png',
        width = 15, height = 10)
