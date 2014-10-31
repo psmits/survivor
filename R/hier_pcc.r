@@ -17,8 +17,8 @@ theme_update(axis.text = element_text(size = 20),
 
 
 # make flat data
-fs <- Reduce(cbind, data[c(1:5, 7)])
-sn <- Reduce(cbind, data[c(9:13, 15)])
+fs <- Reduce(cbind, data[c(1:5, 9)])
+sn <- Reduce(cbind, data[c(11:15, 19)])
 flat <- rbind(data.frame(fs), sn)
 names(flat) <- c('dur', 'size', 'aff', 'hab', 'occ', 'order')
 
@@ -45,39 +45,33 @@ beta.prior <- melty[str_detect(names(melty), 'mu') |
                     str_detect(names(melty), 'sigma')]
 
 # individual level shape parameter
-shapes <- melty$alpha[, 2:4]
-names(shapes) <- c('order', 'value', 'param')
-
-# group level shape parameter prior hyperparameters
-shapes.prior <- melty$scale[, 2:3]
-names(shapes.prior) <- c('param', 'value')
-
-# change this to point ranges with a line range for 25/75 and 2.5/97.5
-
+shapes <- melty$alpha[, 2:3]
+names(shapes) <- c('value', 'param')
 
 # posterior simulation graph
 y.rep <- array(NA, c(samp, n.sim))
-split.group <- split(flat, flat$order)
+byorder <- split(flat, flat$order)
 for(s in seq(n.sim)) {
-  group.holder <- c()
-  for(gg in seq(length(split.group))) {
-    p <- sample(n.post, 1)
-    for(i in seq(nrow(split.group[[gg]]))) {
-      ints <- exp(-(sum(c(sims$beta_size[p, gg], sims$beta_aff[p, gg], 
-                          sims$beta_hab[p, gg], sims$beta_occ[p, gg]) * 
-                        unlist(split.group[[gg]][i, 2:5]))) / sims$alpha[p, gg])
-      group.holder <- c(group.holder, 
-                        rweibull(1, shape = sims$alpha[p, gg], 
-                                 scale = ints)
-                        )
+  for(o in seq(data$O)) {
+    number <- nrow(byorder[[o]])
+    p <- sample(n.post, size = number)
+
+    bio.preds <- apply((sims$beta[p, ] * byorder[[o]][, 2:5]), 1, sum)
+    intercept <- sims$inter[p, o]
+    regression <- intercept + bio.preds
+    shapes <- sims$alpha[p]
+
+    rdur <- c()
+    for(i in seq(number)) {
+      rdur[i] <- rweibull(1, shape = shapes[i], 
+                          scale = exp(-(regression[i]) / shapes[i]))
     }
   }
-  y.rep[, s] <- group.holder
+  y.rep[, s] <- rdur
 }
 
-
 # esimate of mean duration
-#y.rep <- ceiling(y.rep)
+y.rep <- ceiling(y.rep)
 sim.mean <- colMeans(y.rep)
 dur.mean <- mean(flat$dur)
 gmean <- ggplot(data.frame(x = sim.mean), aes(x = x))

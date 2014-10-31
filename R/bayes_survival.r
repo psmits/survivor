@@ -9,8 +9,8 @@ seed <- 420
 
 # compile models
 weim <- stan(file = '../stan/weibull_survival.stan')
-sepwei <- stan(file = '../stan/sep_weibull_survival.stan')
 hierwei <- stan(file = '../stan/hier_weibull_survival.stan')
+#sepwei <- stan(file = '../stan/sep_weibull_survival.stan')
 #mixwei <- stan(file = '../stan/mixture_survival.stan')
 
 # observed
@@ -37,7 +37,7 @@ for(i in seq(length(duration))) {
 }
 
 data <- list(duration = duration,
-             ord = factor(ord),
+             ord = as.numeric(factor(ord)),
              siz = log(size),
              aff = logit(aff),
              occ = log(occ),
@@ -75,8 +75,8 @@ data <- list(dur_unc = unc$duration,
              ord_cen = cen$ord,
              N_cen = length(cen$duration))
 
-data$ord_unc <- model.matrix( ~ data$ord_unc - 1)
-data$ord_cen <- model.matrix( ~ data$ord_cen - 1)
+#data$ord_unc <- model.matrix( ~ data$ord_unc - 1)
+#data$ord_cen <- model.matrix( ~ data$ord_cen - 1)
 
 data$N <- data$N_unc + data$N_cen
 data$samp_unc <- seq(data$N_unc)
@@ -104,24 +104,10 @@ weilist <- mclapply(1:4, mc.cores = detectCores(),
 
 wfit <- sflist2stanfit(weilist)
 
-# seperate model
-#seplist <- mclapply(1:4, mc.cores = detectCores(),
-#                     function(x) stan(fit = sepwei, seed = seed,
-#                                      data = data,
-#                                      chains = 1, chain_id = x,
-#                                      refresh = -1))
-#sfit <- sflist2stanfit(seplist)
-
-
 # hierarchical model
-#hierlist <- mclapply(1:4, mc.cores = detectCores(),
-#                     function(x) stan(fit = hierwei, seed = seed,
-#                                      data = data,
-#                                      chains = 1, chain_id = x,
-#                                      refresh = -1))
-#hfit <- sflist2stanfit(hierlist)
-
-
-## mixture model
-#mixfit <- stan(fit = mixwei, seed = seed, data = data, 
-#               iter = 10000, chains = 1)
+hierlist <- mclapply(1:4, mc.cores = detectCores(),
+                     function(x) stan(fit = hierwei, seed = seed,
+                                      data = data,
+                                      chains = 1, chain_id = x,
+                                      refresh = -1))
+hfit <- sflist2stanfit(hierlist)
