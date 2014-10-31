@@ -40,7 +40,7 @@ data <- list(duration = duration,
              ord = factor(ord),
              siz = log(size),
              aff = logit(aff),
-             occ = occ,
+             occ = log(occ),
              hab = logit(hab),
              extinct = extinct,
              nsp = nsp,
@@ -105,12 +105,12 @@ weilist <- mclapply(1:4, mc.cores = detectCores(),
 wfit <- sflist2stanfit(weilist)
 
 # seperate model
-seplist <- mclapply(1:4, mc.cores = detectCores(),
-                     function(x) stan(fit = sepwei, seed = seed,
-                                      data = data,
-                                      chains = 1, chain_id = x,
-                                      refresh = -1))
-sfit <- sflist2stanfit(seplist)
+#seplist <- mclapply(1:4, mc.cores = detectCores(),
+#                     function(x) stan(fit = sepwei, seed = seed,
+#                                      data = data,
+#                                      chains = 1, chain_id = x,
+#                                      refresh = -1))
+#sfit <- sflist2stanfit(seplist)
 
 
 # hierarchical model
