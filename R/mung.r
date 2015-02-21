@@ -51,6 +51,10 @@ rangers <- laply(genus.info, function(x) {
                  }})
 genus.info <- genus.info[!rangers]
 
+# get rid of range in
+range.in <- laply(genus.info, function(x) any(x$period == per[1]))
+genus.info <- genus.info[!range.in]
+
 # how many permian stages
 info <- info[info$stage == '', ]
 pst <- c('Changhsingian', 'Wuchiapingian', 'Capitanian',
@@ -63,9 +67,12 @@ find.dur <- function(x) {
 n.stage <- unlist(lapply(genus.info, find.dur))
 cohort <- unlist(lapply(genus.info, function(x) 
                         max(which(pst %in% unique(x$stage)))))
+death <- unlist(lapply(genus.info, function(x) 
+                        min(which(pst %in% unique(x$stage)))))
 
 # censored?
 cen <- unlist(lapply(genus.info, function(x) any(x$period != per[2]))) * 1
+cen[death == 2] <- 1
 
 # range-in cohort
 cohort[which(cen == 1 & cohort == 2)] <- 1
@@ -136,6 +143,16 @@ for(ii in seq(length(pocc))) {
 }
 names(socc) <- names(pocc)
 
+# remove the taxon occurrences from the simultaneous occurrences
+for(ii in seq(length(pocc))) {
+  to <- table(pocc[[ii]]$lithology1)
+  rms <- c()
+  for(jj in seq(length(names(to)))) {
+    rms <- c(rms, sample(which(socc[[ii]] == names(to)[jj]), to[jj]))
+  }
+  socc[[ii]][-rms]
+}
+
 # tabled lithology occurrences
 kocc <- lapply(socc, table)
 tocc <- lapply(pocc, function(x) table(x$lithology1))
@@ -176,6 +193,16 @@ for(ii in seq(length(eocc))) {
   eocc[[ii]] <- info[mm, ]$environment1
 }
 names(eocc) <- names(pocc)
+
+# remove the taxon occurrences from the simultaneous occurrences
+for(ii in seq(length(pocc))) {
+  to <- table(pocc[[ii]]$environment1)
+  rms <- c()
+  for(jj in seq(length(names(to)))) {
+    rms <- c(rms, sample(which(eocc[[ii]] == names(to)[jj]), to[jj]))
+  }
+  eocc[[ii]][-rms]
+}
 
 envaf <- list()
 for(ii in seq(length(pocc))) {

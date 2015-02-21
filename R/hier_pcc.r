@@ -52,6 +52,7 @@ names(shapes) <- c('value', 'param')
 y.rep <- array(NA, c(samp, n.sim))
 byorder <- split(flat, flat$order)
 for(s in seq(n.sim)) {
+  rdur <- c()
   for(o in seq(data$O)) {
     number <- nrow(byorder[[o]])
     p <- sample(n.post, size = number)
@@ -61,17 +62,16 @@ for(s in seq(n.sim)) {
     regression <- intercept + bio.preds
     shapes <- sims$alpha[p]
 
-    rdur <- c()
     for(i in seq(number)) {
-      rdur[i] <- rweibull(1, shape = shapes[i], 
-                          scale = exp(-(regression[i]) / shapes[i]))
+      rdur <- c(rdur, rweibull(1, shape = shapes[i], 
+                               scale = exp(-regression[i] / shapes[i])))
     }
   }
   y.rep[, s] <- rdur
 }
 
 # esimate of mean duration
-y.rep <- ceiling(y.rep)
+#y.rep <- ceiling(y.rep)
 sim.mean <- colMeans(y.rep)
 dur.mean <- mean(flat$dur)
 gmean <- ggplot(data.frame(x = sim.mean), aes(x = x))
@@ -123,7 +123,7 @@ ggsave(dists, filename = '../doc/figure/hier_dur.png',
        width = 15, height = 10)
 
 hist.sim <- melt(y.rep)
-hist.sim <- hist.sim[hist.sim[, 1] %in% 1:12, ]
+hist.sim <- hist.sim[hist.sim[, 1] %in% 1:16, ]
 ghist <- ggplot(hist.sim, aes(x = value))
 ghist <- ghist + geom_histogram(aes(y = ..density..), 
                                 binwidth = 1, fill = 'blue', alpha = 0.4)

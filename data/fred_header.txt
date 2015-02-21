@@ -1,0 +1,486 @@
+**************************************************************************************************************
+Data downloaded from FRED (http://www.fred.org.nz) on February 21, 2015
+FRED is the computer database for the NZ Fossil Record File (FRF), which is a nationally significant database administrated by GSNZ and GNS Science                                
+Please acknowledge use of this data in publications, reports and presentations.                               
+**************************************************************************************************************
+
+********
+Paleontology
+********
+FR Number	Yard FR Number	Locality Type	Field Number/Drillhole Name	Depth From	Depth To	Depth Unit	Drill Type	Identifiers	Identification Date	Stage Lower	Lower Modifier	Stage Upper	Upper Modifier	Age Start	Age Stop	Stage Comments	nLab Number	Collection Comments
+C43/f7510	S140/f0510	Outcrop						Fleming, C.A.; 		Whaingaroan		Waitakian		34.6	21.7	PROBABLY LANDON.	GNS GS 7983	NO FOSSIL LIST.	
+C46/f0059		Outcrop	W26					Beu, A.G.; 	February 22, 1984	not determined				999.9	0.0	LACKS IDENTIFIABLE FOSSILS.		SAMPLE DISCARDED.	
+C46/f0103		Outcrop	C46/11A					Beu, A.G.; 	May 3, 1988	not determined				999.9	0.0			ROCK APPARENTLY SHEARED, NO WHOLE SHELLS FOUND AFTER EXTENSIVE WASHING; SAMPLE DISCARDED.	
+C46/f9508	S175/f0508	Outcrop						Fleming, C.A.; 		not determined				999.9	0.0		GNS GS 3825	INDET. SHELL FRAGMENTS.	
+C46/f9524	S175/f0524	Outcrop						Finlay, H.J.; 										HARD LIMESTONE.	
+C46/f9524	S175/f0524	Outcrop						Fleming, C.A.; 		not determined				999.9	0.0		GNS GS 3827	INDET. LST. OF HYDROCORALLINE, ALGAL OR POLYZOAL ORGANISMS. NO FOSSIL LIST.	
+CA/f0021A		Outcrop	217A + B					Fleming, C.A.; 									GNS GS 11260	FIELD NO. 217 - NO LIST.	
+CA/f0021A		Outcrop	217A + B					Edwards, A.R.; 	October 18, 1983	not determined				999.9	0.0		GNS F 23580	SMALL HAND SPECIMEN ONLY.	
+CA/f0021A		Outcrop	217A + B					Strong, C.P.; 	September 9, 1997	Bortonian	?			42.6	39.1	Based on tentative id's.	GNS F 23580	Tentative identifications only, of specimens on weathered surface of small chip. In pillbox in F-Stack. Tucker Cove Lst. 0.5 mi NE of Windlass Bay.	
+CA/f0021B		Outcrop	306					Fleming, C.A.; 									GNS GS 11260	FIELD NO. 306 - NO LIST.	
+CA/f0021B		Outcrop	306					Wilson, G.J.; 	October 8, 1996	Porangan				45.7	42.6	Based on comparison with Waipawa Section (Wilson 1988). Deflandrea convexa only known from Dp and several other taxa not known below Dp e.g. Tritonites trilobus. However uppermost Dh is possible (M. perf. Zone).	GNS L 17668	Abundant dinoflagellates dominated by Deflandrea antarctica and related forms. Preservation good. Pollen relatively rare.	
+CA/f0021B		Outcrop	306					Wilson, G.J.; 	October 8, 1996	Porangan		Bortonian		45.7	39.1	Based on similarity to Waipawa Section (Wilson 1988). Dp seems most likely age.	GNS L 17669	Siliceous core of f21B whereas L17668 is outer limestone of f21B. Abundant dinos and pyritized radiolaria and diatoms.	
+CA/f0021B		Outcrop	306					Strong, C.P.; 	April 9, 1997	Porangan		Bortonian		45.7	39.1	Horni thinks Dp because no G. index; Finlay thinks Ab on comparison with Hampden beach faunas.	GNS F 6424	On slide (needs remounting). Un-entered Finlay and Hornibrook lists revised and updated. Tucker Cove Lst., below cliffs 0.5 mi NE of Windlass Bay.	
+CA/f0022A		Outcrop	246					Fleming, C.A.; 									GNS GS 11261	NO LIST.	
+CA/f0022A		Outcrop	246					Strong, C.P.; 	April 9, 1997	Porangan		Bortonian		45.7	39.1	Horni thinks Dp because no definite G. index.	GNS F 0000	Slide not found. Updated Hornibrook species list. Lower bathyal. Tucker Cove Lst., west coast below St. Col.	
+CH/f0004		Outcrop								Nukumaruan				2.4	1.63	?LOWER.	GNS GS 1178	NO LIST.	
+CH/f0004		Outcrop						Beu, A.G.; 		Nukumaruan				2.4	1.63	ADOPTED AGE. TITIRANGI SAND.	GNS GS 1178	DET. PUBLISHED NZGS BULL. 105 (1991).	
+CH/f0004		Outcrop						Buckeridge, J.S.; 		Nukumaruan				2.4	1.63	ADOPTED AGE. TITIRANGI SAND.	GNS GS 1178	DET. PUBLISHED NZGS BULL. 105 (1991).	
+CH/f0011A		Outcrop								Haumurian				83.6	66.0	ADOPTED AGE.	GNS GS 11250	REFER NZGS BULL. 105 (1991).	
+CH/f0011A		Outcrop						Speden, I.G.; 	December 19, 1973	Urutawan		Motuan		108.4	99.5	SEE G.S. FILE AND REPORT TO GRINDLEY.	GNS GS 11250	COLONIES IN MATRIX AND ENCRUSTING EXTERNAL SURFACE OF Amphidonte.	
+CH/f0011A		Outcrop						Mildenhall, D.C.; 	August 19, 1974	Mangaotanean		Teratan		93.7	86.5	definite.	GNS L 6804	L6804/1 see also L6804/2 to L6804/10. Dinophyceae slide L6804/2 n/d.	
+CH/f0011A		Outcrop						Wilson, G.J.; 	1976								GNS L 6804		
+CH/f0011B		Outcrop	Waihere 41							Haumurian				83.6	66.0	ADOPTED AGE.	GNS GS 11250 B	REFER NZGS BULL. 105 (1991).	
+CH/f0011B		Outcrop	Waihere 41					Speden, I.G.; 	March 17, 1977	Teratan				90.5	86.5	RANGE UNKNOWN.	GNS GS 11250 B		
+CH/f0013B		Outcrop								Opoitian		Mangapanian		5.3	2.4	LATE Wo-Wm.	GNS GS 12163	REFER NZGS BULL. 105 (1991).	
+CH/f0013B		Outcrop						Beu, A.G.; 		Waipipian				3.7	3.0	BY FORAMS.	GNS GS 12163	GASTROPODA DET. PUBLISHED PAL. BULL. 54: 23 (1987). BROZOA DET. TO BE PUBLISHED BY BOARDMAN, MCKINNEY & TAYLOR IN SMITHSONIAN CONTRIBUTIONS TO PALEOBIOLOGY.	
+CH/f0013B		Outcrop						Buckeridge, J.; 									GNS GS 12163	IDENT PH. D. THESIS 1979.	
+CH/f0020B		Outcrop						Maxwell, P.A.; 		Opoitian		Mangapanian		5.3	2.4	LOWER Wo-Wm - ADOPTED AGE.	GNS GS 12162	REFER NZGS BULL. 105 (1991).	
+CH/f0020B		Outcrop						Buckeridge, J.; 	1979	Opoitian				5.3	3.7		GNS GS 12162	Ph. D. THESIS 1979.	
+CH/f0023A		Outcrop						Buckeridge, J.; 	1979	Opoitian				5.3	3.7		GNS GS 12161	Ph. D. THESIS 1979.	
+CH/f0023A		Outcrop						Maxwell, P.A.; 	1991	Opoitian		Mangapanian		5.3	2.4	LOWER Wo-Wm - ADOPTED AGE.	GNS GS 12161	REFER NZGS BULL. 105 (1991).	
+CH/f0025B		Outcrop						Buckeridge, J.; 	1979	Opoitian				5.3	3.7		GNS GS 12164	Ph. D. THESIS.	
+CH/f0025B		Outcrop						Beu, A.G.; 	1987	Waipipian				3.7	3.0		GNS GS 12164	DET. PUBLISHED PAL. BULL. 54: 23.	
+CH/f0025B		Outcrop						Beu, A.G.; 	1991	Opoitian		Mangapanian		5.3	2.4	LOWER Wo-Wm - ADOPTED AGE.	GNS GS 12164	REFER NZGS BULL. 105 (1991).	
+CH/f0039		Outcrop	Chatham Is. 97					Scott, A.U.E.; 		Wanganui Series				5.3	0.0	PLIOCENE, COMPARABLE TO PITT ISLAND FAUNA. FIRST RECORD OF PLIOCENE BEDS ON CHATHAM ISLANDS.	GNS GS 6958	NOTE BY C.A. FLEMING, JULY 1957: THIS COLLECTION CLOSELY RESEMBLES WHENUATARU (PITT IS) SPECIMENS IN SPECIFIC CONTENT AND PRESERVATION AND DIFFERS MARKEDLY FROM THE COLLECTION MADE BY ALLAN & MARWICK, AND LATER BY POWELL & FLEMING (? EOCENE). R.F. HAY REPORTS THAT A MISCELLANEOUS COLLECTION OF FOSSILS WAS BAGGED, AND W. WATTERS THAT IN SEEKING TO LABEL AN UNLABELLED BAG, IT WAS ALLOTTED TO THE WIRELESS STATION LOCALITY. IN VIEW OF THIS DOUBT, THE LOCALITY SHOULD NOT BE ACCEPTED. PROBABLY THIS IS PITT IS. MATERIAL, AT LEAST IN PART.	
+CH/f0039		Outcrop	Chatham Is. 97					Maxwell, P.A.; 	1991	Teurian		Waipawan		66.0	53.7	ADOPTED AGE.	GNS GS 6958	REFER NZGS BULL. 105 (1991).	
+CH/f0045		Outcrop	Chatham Is. 117 and 118					Scott, A.U.E.; 		not determined				999.9	0.0		GNS GS 6970		
+CH/f0045		Outcrop	Chatham Is. 117 and 118					Maxwell, P.A.; 	1991	Waipawan		Whaingaroan		56.0	27.3	ADOPTED AGE.	GNS GS 6970	REFER NZGS BULL. 105 (1991).	
+CH/f0076		Outcrop	Mangare Is. 269					Beu, A.G.; 	August 5, 1988	not determined				999.9	0.0	PROBABLY PRE-PLIOCENE.	GNS GS 6971		
+CH/f0076		Outcrop	Mangare Is. 269					Maxwell, P.A.; 	1991	Tongaporutuan				11.0	7.2	ADOPTED AGE.	GNS GS 6971	REFER NZGS BULL. 105 (1991).	
+CH/f0078		Outcrop	Chatham Is. 271					Scott, A.U.E.; 		Nukumaruan				2.4	1.63	LOWER.	GNS GS 6894		
+CH/f0078		Outcrop	Chatham Is. 271					Maxwell, P.A.; 	1991	Nukumaruan				2.4	1.63		GNS GS 6894	REFER NZGS BULL. 105 (1991).	
+CH/f0095		Outcrop						Fleming, C.A.; 									GNS GS 6213	MANY SPINES TO H.B.F. 11/1954.	
+CH/f0095		Outcrop						Maxwell, P.A.; 	1991	Waipawan		Bortonian		56.0	39.1	ADOPTED AGE.	GNS GS 6213	REFER NZGS BULL. 105 (1991).	
+CH/f0100		Outcrop						Squires, D.F.; 	1958	Landon Series	?			34.6	21.7		GNS GS 9446	DET. PUBLISHED PAL. BULL. 29: 37-38. NOTE: THIS LITHOLOGY EXACTLY MATCHES COLL. FROM ONE OF THE BEACHES SOUTH OF RADIO STATION, WAIKARIPI, WHERE PALE GREEN TUFF WITH PINK BLEBS CONTAINS SPARSE GASTROPODS AND QUITE COMMON Madrepora COLONIES (RECOLL. P.A. MAXWELL & A.G. BEU GS 25/5/1977) GS792 - FAUNA IS CERTAINLY WHENUATARU TUFF, N. PITT IS. (OPOITIAN) EXCEPT 1 POOR Cypraea sp. (MATCHES PRESERVATION RED BLUFF TUFF, N. PITT IS.) SEE PAL. BULL. 8: 97 (GS792) "FOSSILS OCCUR MAINLY AT RED BLUFF... AND ON THE WESTERN SIDE OF PITT IS. (THE ROCKS IN THE LATTER LOCALITY BEING, ACCORDING TO VON HAAST, A TUFFACEOUS WHITISH LIMESTONE").	
+CH/f0100		Outcrop						Maxwell, P.A.; 	1991	Teurian		Waipawan		66.0	53.7	ADOPTED AGE.	GNS GS 9446	GRID REF. UNKNOWN - REFER NZGS BULL. 105 (1991).	
+CH/f0101		Outcrop								Opoitian				5.3	3.7		GNS GS 9447	Cyathoceras cf. rubescens & Dendrophyllia boschmai - CANTERBURY MUSEUM.	
+CH/f0101		Outcrop						Maxwell, P.A.; 	1991	Opoitian		Waipipian		5.3	3.0	LOWER Wo-Wp.	GNS GS 9447	REFER NZGS BULL. 105 (1991).	
+CH/f0104A		Outcrop															GNS GS 12139	TO DR. E.P.F. ROSE, -/6/1977.	
+CH/f0104A		Outcrop						Beu, A.G.; 	1991	Teurian		Waipawan		66.0	53.7	ADOPTED AGE.	GNS GS 12139	REFER NZGS BULL. 105 (1991).	
+CH/f0105		Outcrop						Marwick, J.; 		Opoitian				5.3	3.7		GNS GS 10192	FOSSIL LIST FROM MARWICK 1928 TNZI 58: 437.	
+CH/f0105		Outcrop						Maxwell, P.A.; 	1991	Opoitian		Waipipian		5.3	3.0	LOWER Wo-Wp. ADOPTED AGE.	GNS GS 10192	REFER NZGS BULL. 105 (1991).	
+CH/f0106		Outcrop						Marwick, J.; 		Opoitian				5.3	3.7		GNS GS 10193	DET. PUBLISHED MARWICK, TNZI 58: 437; PAL. BULL. 44.	
+CH/f0106		Outcrop						Maxwell, P.A.; 	1991	Opoitian		Mangapanian		5.3	2.4	LOWER Wo-Wm. ADOPTED AGE.	GNS GS 10193	REFER NZGS BULL. 105 (1991).	
+CH/f0110		Outcrop															GNS GS 10469	NO LIST.	
+CH/f0110		Outcrop						Maxwell, P.A.; 	1991	Teurian		Waipawan		66.0	53.7	ADOPTED AGE.	GNS GS 10469	REFER NZGS BULL. 105 (1991).	
+CH/f0111		Outcrop						Buckeridge, J.; 	1984	Bortonian		Runangan		42.6	34.6	BY STRATIG.	GNS GS 10790	DET. PUBLISHED JRSNZ 14 (4): 324, Fig. 17 (1984).	
+CH/f0111		Outcrop						Maxwell, P.A.; 	1991	Teurian		Waipawan		66.0	53.7	ADOPTED AGE.	GNS GS 10790	REFER NZGS BULL. 105 (1991).	
+CH/f0112		Outcrop						Beu, A.G.; 		not determined				999.9	0.0	PROB. D-A.	GNS GS 11251	ONLY CALCITE AND PHOSPHATIC ANIMALS ARE WELL PRESERVED, THE REST ARE NATURAL MOULDS ONLY; i.e. ARAGONITE REMOVED.	
+CH/f0112		Outcrop						Beu, A.G.; 	1991	Teurian				66.0	56.0	ADOPTED AGE.	GNS GS 11251	REFER NZGS BULL. 105 (1991).	
+CH/f0114		Outcrop						Beu, A.G.; 	September 11, 1974								GNS GS 11252		
+CH/f0114		Outcrop						Beu, A.G.; 	1991	Teurian		Waipawan		66.0	53.7	ADOPTED AGE.	GNS GS 11252	REFER NZGS BULL 105 (1991).	
+CH/f0114		Outcrop						Simes, J.E.; 	November 4, 2014							Teurian to Waipawan from stratigraphy	GNS GS 11252	Fabulous specimen. Species described by Buckeridge, Kelly et. al. 2013	
+CH/f0115		Outcrop						Beu, A.G.; 	September 11, 1974								GNS GS 11253	MANY POOR BRYOZOANS AND MISCELLANEA, MOST DISCARDED.	
+CH/f0115		Outcrop						Beu, A.G.; 	1991	Teurian		Waipawan		66.0	53.7	ADOPTED AGE.	GNS GS 11253	REFER NZGS BULL. 105 (1991).	
+CH/f0116		Outcrop						Beu, A.G.; 		not determined				999.9	0.0		GNS GS 11254	HARD, WHITE LIMESTONE: APPEARS TO HAVE MANY POOR LARGE FORAMS - ?Asterocyclina.	
+CH/f0116		Outcrop						Beu, A.G.; 	1991	Waipawan				56.0	53.7	ADOPTED AGE.	GNS GS 11254	REFER NZGS BULL. 105 (1991).	
+CH/f0222		Outcrop	0901756					Beu, A.G.; 	February 14, 1975	not determined				999.9	0.0	GIVES NO INFORMATION.	GNS GS 11564	Acesta SEEMS MAINLY A DEEP-WATER GENUS TODAY (AT LEAST BELOW THE CONTINENTAL SHELF) BUT SOME EVIDENCE WAS SHALLOWER EARLY IN TERTIARY. SURPRISING TO FIND ONLY A FEW CM ABOVE LAVA.	
+CH/f0222		Outcrop	0901756					Beu, A.G.; 	1991	Teurian				66.0	56.0	ADOPTED AGE.	GNS GS 11564	REFER NZGS BULL. 105 (1991).	
+CH/f0222A		Outcrop						Beu, A.G.; 		Teurian				66.0	56.0		GNS GS 12171	NO LIST.	
+CH/f0222A		Outcrop						Beu, A.G.; 	1991	Teurian				66.0	56.0	ADOPTED AGE.	GNS GS 12171	REFER NZGS BULL. 105 (1991).	
+CH/f0232		Outcrop								Teurian		Waipawan		66.0	53.7	PROVIDED BY FORAMS - NZGS BULL 83: 230.	GNS GS 11653		
+CH/f0232		Outcrop						Maxwell, P.A.; 	1991	Teurian		Waipawan		66.0	53.7	LATE Dt-EARLY Dw.	GNS GS 11653	REFER NZGS BULL. 105 (1991).	
+CH/f0232A		Outcrop															GNS GS 12176	NO LIST.	
+CH/f0232A		Outcrop						Maxwell, P.A.; 	1991	Teurian		Waipawan		66.0	53.7	LATE Dt - EARLY Dw - ADOPTED AGE.	GNS GS 12176	REFER NZGS BULL. 105 (1991).	
+CH/f0244		Outcrop	10					Beu, A.G.; 	April 4, 1989	Waipipian				3.7	3.0	SIMILAR FAUNA TO WHENUATARU TUFF.	GNS GS 11778	RELISTED.	
+CH/f0244		Outcrop	10					Beu, A.G.; 	1991	Opoitian		Waipipian		5.3	3.0	LATE Wo-Wp. ADOPTED AGE.	GNS GS 11778	REFER NZGS BULL. 105 (1991).	
+CH/f0246		Outcrop	14					Beu, A.G.; 	April 4, 1989	Waipipian	?			3.7	3.0	- M. solomoni RECORDED PREVIOUSLY ONLY FROM WHENUATARU TUFF.	GNS GS 11779	RELISTED.	
+CH/f0246		Outcrop	14					Beu, A.G.; 	1991	Opoitian		Mangapanian		5.3	2.4	LATE Wo-Wm. ADOPTED AGE.	GNS GS 11779	REFER NZGS BULL. 105 (1991).	
+CH/f0254A		Outcrop															GNS GS 12140	TO DR. E.P.F. ROSE -/6/1977.	
+CH/f0254A		Outcrop						Beu, A.G.; 	1991	Waipawan				56.0	53.7	ADOPTED AGE.	GNS GS 12140	REFER NZGS BULL. 105 (1991).	
+CH/f0261A		Outcrop						Buckeridge, J.; 	1979	Nukumaruan				2.4	1.63		GNS GS 12170	DET. PUBLISHED PAL. BULL. 50: 110.	
+CH/f0261A		Outcrop						Beu, A.G.; 	1991	Nukumaruan				2.4	1.63	ADOPTED AGE.	GNS GS 12170	REFER NZGS BULL. 105 (1991).	
+CH/f0344		Outcrop						Speden, I.G.; 	March 17, 1977	not determined				999.9	0.0		GNS GS 12123		
+CH/f0344		Outcrop						Beu, A.G.; 	1991	Ngaterian				99.5	95.2	ADOPTED AGE.	GNS GS 12123	REFER NZGS BULL. 105 (1991).	
+CH/f0364A		Outcrop						Beu, A.G.; 	October 25, 1977								GNS GS 12183		
+CH/f0364A		Outcrop						Maxwell, P.A.; 	1991	Opoitian				5.3	3.7	EARLY Wo - ADOPTED AGE.	GNS GS 12183	REFER NZGS BULL. 105 (1991).	
+CH/f0463		Outcrop						Keyes, I.W.; 		Bortonian	?			42.6	39.1		GNS GS 12147		
+CH/f0463		Outcrop						Beu, A.G.; 	1991	Bortonian		Kaiatan		42.6	36.4	ADOPTED AGE.	GNS GS 12147	REFER NZGS BULL. 105 (1991).	
+CH/f0464		Outcrop						Keyes, I.W.; 		Bortonian	?			42.6	39.1		GNS GS 12148		
+CH/f0464		Outcrop						Beu, A.G.; 	1991	Bortonian		Kaiatan		42.6	36.4	ADOPTED AGE.	GNS GS 12148	REFER NZGS BULL. 105 (1991).	
+CH/f0468		Outcrop								Dannevirke Series				66.0	42.6		GNS GS 12156	NO LIST.	
+CH/f0468		Outcrop						Lee, D.E.; 	1991	Teurian		Waipawan		66.0	53.7		GNS GS 12156	DET. PUBLISHED NZGS BULL. 105 (1991).	
+CH/f0468		Outcrop						Maxwell, P.A.; 	1991	Teurian		Waipawan		66.0	53.7		GNS GS 12156	DET. PUBLISHED NZGS BULL. 105 (1991).	
+CH/f0474		Outcrop						Beu, A.G.; 		Dannevirke Series				66.0	42.6		GNS GS 12166	NO LIST.	
+CH/f0474		Outcrop						Lee, D.; 	1991	Teurian		Waipawan		66.0	53.7	LATE Dt - EARLY Dw.	GNS GS 12166	DET. PUBLISHED NZGS BULL. 105 (1991).	
+CH/f0474		Outcrop						Maxwell, P.A.; 	1991	Teurian		Waipawan		66.0	53.7	LATE Dt - EARLY Dw.	GNS GS 12166	DET. PUBLISHED NZGS BULL. 105 (1991).	
+CH/f0483		Outcrop															GNS GS 12179	NO LIST.	
+CH/f0483		Outcrop							1991	Whaingaroan				34.6	27.3	ADOPTED AGE.	GNS GS 12179	REFER NZGS BULL. 105 (1991).	
+CH/f0487		Outcrop						Beu, A.G.; 	March 9, 1982	Opoitian				5.3	3.7	PRESUMABLY Wo, FROM OVERLYING AGE, BUT NOT CHECKED BY BEU; SEE FORAMS.	GNS GS 12185	INTERESTING RECORD OF GASTROPODS LACKING FROM ALL THE OVERLYING BEDS AT MOMOE-A-TOA.	
+CH/f0487		Outcrop						Beu, A.G.; 	1991	Opoitian				5.3	3.7	EARLY Wo - ADOPTED AGE.	GNS GS 12185	REFER NZGS BULL. 105 (1991).	
+CH/f0489		Outcrop						Beu, A.G.; 		Dannevirke Series				66.0	42.6		GNS GS 12188	NO LIST.	
+CH/f0489		Outcrop						Beu, A.G.; 	1991	Waipawan				56.0	53.7	ADOPTED AGE.	GNS GS 12188	REFER NZGS BULL. 105 (1991).	
+CH/f0490		Outcrop								Opoitian				5.3	3.7		GNS GS 12189	NO LIST.	
+CH/f0490		Outcrop						Beu, A.G.; 	1991	Opoitian				5.3	3.7	ADOPTED AGE.	GNS GS 12189	REFER NZGS BULL. 105 (1991).	
+CH/f0491		Outcrop						Buckeridge, J.; 	1979								GNS GS 12190	Ph. D. THESIS 1979.	
+CH/f0491		Outcrop							1991	Opoitian		Mangapanian		5.3	2.4	LATE Wo-Wm - ADOPTED AGE.	GNS GS 12190	REFER NZGS BULL. 105 (1991).	
+CH/f0493		Outcrop															GNS GS 12192	NO LIST.	
+CH/f0493		Outcrop							1991	Waipawan		Whaingaroan		56.0	27.3	ADOPTED AGE.	GNS GS 12192	REFER NZGS BULL. 105 (1991).	
+CH/f0494		Outcrop						Beu, A.G.; 		Dannevirke Series				66.0	42.6		GNS GS 12193	NO LIST.	
+CH/f0494		Outcrop						Beu, A.G.; 	1991	Haumurian		Teurian		83.6	56.0	ADOPTED AGE.	GNS GS 12193	REFER NZGS BULL. 105 (1991).	
+CH/f0526		Outcrop						Scott, G.H.; 	March 4, 1983	Altonian				18.7	15.9	NO ORBULINA. EARLY RECORD OF FOHSELLA PERIPHERORONDA ?Pl - ABOUT MID TO UPPER.	GNS F 23484	SLIDE (H.E.G. MORGANS). OSTRACODS. FISH TEETH. GS12998.	
+CH/f0526		Outcrop						Buckeridge, J.S.; 	March 4, 1983	Altonian				18.7	15.9		GNS GS 12998	DET. PUBLISHED JRSNZ 1984 14 (4): 319-326 - HOLOTYPE AR1116 AND 14 PARATYPES AR1117-1130; NZGS BULL. 105 (1991).	
+CH/f0526		Outcrop						Fordyce, R.E.; 	March 4, 1983	Altonian				18.7	15.9		GNS GS 12998		
+CH/f0526		Outcrop						Keyes, I.W.; 	March 4, 1983	Altonian				18.7	15.9		GNS GS 12998	DET. PUBLISHED NZJGG 25: 459-474, FIG. 12 - CD65 (KEYES 1982).	
+CH/f0526		Outcrop						Lee, D.; 	March 4, 1983	Altonian				18.7	15.9		GNS GS 12998	DET. PUBLISHED NZGS BULL. 105.	
+CH/f0526		Outcrop						Maxwell, P.A.; 	March 4, 1983	Altonian				18.7	15.9		GNS GS 12998	DET. PUBLISHED NZGS BULL. 105.	
+CH/f0526		Outcrop						Edwards, A.R.; 	April 4, 1983	Runangan		Waitakian		36.0	21.7	PROBABLY Lwh - LOWER Lw, DEFINITELY NO YOUNGER THAN LOWER Lw.	GNS N 1784	EXCEEDINGLY RARE, VERY HEAVILY OVERGROWN NANNOFOSSILS IN CALCITIC DEBRIS (BRYOZOAN?) MATRIX. ROCK AND SLIDE CURATED.	
+CH/f0526		Outcrop						Maxwell, P.A.; 	1991	Altonian				18.7	15.9	ADOPTED AGE.	GNS GS 12998	REFER NZGS BULL. 105 (1991).	
+CH/f0529		Outcrop								Teurian		Waipawan		66.0	53.7	ADOPTED AGE.	GNS GS 12999	NO LIST.	
+CH/f0529		Outcrop						Keyes, I.W.; 		Teurian		Waipawan		66.0	53.7	ADOPTED AGE.	GNS GS 12999		
+CH/f0529		Outcrop						Hornibrook, N. de B.; 	April 13, 1981	Teurian				66.0	56.0		GNS F 22149	ON SLIDE. COMPARE CH/f113.	
+CH/f0529		Outcrop						Edwards, A.R.; 	April 13, 1981	no fossils				999.9	0.0	ROCK, RESIDUE, SLIDE DISCARDED.	GNS F 		
+CH/f0529		Outcrop						Maxwell, P.A.; 	1991	Teurian		Waipawan		66.0	53.7	ADOPTED AGE.	GNS GS 12999	REFER NZGS BULL. 105 (1991).	
+CH/f0530		Outcrop						Maxwell, P.A.; 	1991	Teurian		Waipawan		66.0	53.7	ADOPTED AGE.	GNS GS 13000	REFER NZGS BULL. 105 (1991).	
+CH/f0531		Outcrop						Keyes, I.W.; 		Haumurian		Teurian		83.6	56.0	ADOPTED AGE.	GNS GS 13001		
+CH/f0531		Outcrop						Keyes, I.W.; 	1991	Haumurian		Teurian		83.6	56.0	ADOPTED AGE.	GNS GS 13001	REFER NZGS BULL. 105 (1991).	
+CH/f0532		Outcrop						Beu, A.G.; 	March 9, 1982	Haweran				0.34	0.0	OWENGA SHELLY SAND.	GNS GS 12254	DET. PUBLISHED NZGS BULL 105 (1991).	
+CH/f0532		Outcrop						Beu, A.G.; 	1991	Haweran				0.34	0.0	ADOPTED AGE.	GNS GS 12254	REFER NZGS BULL. 105 (1991).	
+CH/f0534		Outcrop						Beu, A.G.; 	February 12, 1982	Nukumaruan				2.4	1.63		GNS GS 13190		
+CH/f0534		Outcrop						Beu, A.G.; 	1991	Nukumaruan				2.4	1.63	ADOPTED AGE.	GNS GS 13190	REFER NZGS BULL. 105 (1991).	
+CH/f0590		Drillhole	CHA43	9.66	11.16	m		Hornibrook, N. de B.; 	March 2, 1987	Haumurian		Modern		83.6	0.0		GNS F 25831	Abundant spherical Radiolaria, Echinoderm spines & sponge spicules. Also "Globigerapsis index" mimick - glauconite filled Radiolaria.	
+CH/f0590		Drillhole	CHA43						1991	Waipawan				56.0	53.7	ADOPTED AGE.	GNS GS 14157	REFER NZGS BULL. 105 (1991).	
+CH/f0591		Drillhole	CHA40	15.84	16.14	m											GNS GS 14158	NO LIST.	
+CH/f0591		Drillhole	CHA40	15.84	16.14	m		Raine, J.I.; 	November 12, 1986	not determined				999.9	0.0	Quaternary?.	GNS L 12980	Abundant pale semi-amorphous "blobs", possibly algal in origin, plus degraded spores. Thermal alteration very slight.	
+CH/f0591		Drillhole	CHA40	15.84	16.14	m		Hornibrook, N. de B.; 	March 2, 1987	no fossils				999.9	0.0		GNS F 25832		
+CH/f0592		Drillhole	CHA65R	13.89	15.38	m		Hornibrook, N. de B.; 	March 2, 1987	no fossils				999.9	0.0		GNS F 25833		
+CH/f0592		Drillhole	CHA65R	13.89	15.38	m			1991	Waipawan				56.0	53.7	ADOPTED AGE.	GNS GS 14159	REFER NZGS BULL. 105 (1991).	
+CH/f0593		Drillhole	CHA31	10.64	10.84	m		Hornibrook, N. de B.; 	March 2, 1987	Dannevirke Series				66.0	42.6		GNS F 25834	Slide, Echinoid remains, abundant spherical Radiolaria , Ostracoda.	
+CH/f0593		Drillhole	CHA31	10.64	10.84	m		Beu, A.G.; 	1991	Waipawan				56.0	53.7	ADOPTED AGE.	GNS GS 14160	REFER NZGS BULL. 105 (1991).	
+CH/f0594		Drillhole	CHA58	9.39	10.09	m		Hornibrook, N. de B.; 	March 2, 1987	Altonian				18.7	15.9	lower.	GNS F 25835	slide.	
+CH/f0594		Drillhole	CHA58	9.39	10.09	m		Beu, A.G.; 	1991	Altonian				18.7	15.9	ADOPTED AGE.	GNS GS 14161	REFER NZGS BULL. 105 (1991).	
+CH/f0602		Outcrop	HJC 631							Waipawan	?			56.0	53.7		GNS GS 14764	NOT PICKED OR IDENTIFIED.	
+D41/f0013		Outcrop	D41/28C					Maxwell, P.A.; 									GNS GS 12642	NO LIST.	
+D41/f0013		Outcrop	D41/28C					Maxwell, P.A.; 	September 29, 1981										
+D41/f0014		Outcrop	D41/15R					Maxwell, P.A.; 									GNS GS 13171	NO LIST.	
+D41/f0014		Outcrop	D41/15R																
+D41/f0015		Outcrop	D41/16R					Maxwell, P.A.; 									GNS GS 13172	NO LIST.	
+D41/f0015		Outcrop	D41/16R					Maxwell, P. A.; 	September 29, 1981										
+D41/f0016		Outcrop	D41/16R					Maxwell, P.A.; 									GNS GS 13173		
+D41/f0016		Outcrop	D41/16R					Maxwell, P. A.; 	September 29, 1981										
+D42/f0059		Outcrop	D42/449B					Maxwell, P.A.; 									GNS GS 13185	NO LIST.	
+D43/f9498	S150/f0498	Outcrop						Marwick, J.; 	June 24, 1943	not determined				999.9	0.0		GNS GS 2927	NO LIST.	
+D45/f0001		Outcrop						Beu, A.G.; 		Waipipian				3.7	3.0		GNS GS 11181	NO LIST.	
+D45/f0002		Outcrop						Beu, A.G.; 		not determined				999.9	0.0		GNS GS 11213	NO LIST.	
+D45/f0003		Outcrop						Beu, A.G.; 		not determined				999.9	0.0		GNS GS 11212	NO LIST.	
+D45/f0004		Outcrop						Maxwell, P.A.; 		Waiauan				12.7	11.0		GNS GS 12141	NO LIST.	
+D45/f0004		Outcrop						Hornibrook, N. de B.; 	November 10, 1977	Lillburnian		Waiauan		15.1	11.0	Resembles Sl assemblage.	GNS F 20729		
+D45/f0004		Outcrop						Keyes, I.W.; 	1991								GNS GS 12141		
+D45/f0005		Outcrop						Maxwell, P.A.; 		Waiauan				12.7	11.0		GNS GS 12142	NO LIST.	
+D45/f0006		Outcrop						Maxwell, P.A.; 		not determined				999.9	0.0		GNS GS 12143	NO LIST.	
+D45/f0080		Outcrop						Maxwell, P.A.; 		Altonian				18.7	15.9		GNS GS 12288	NO LIST.	
+D45/f0080		Outcrop						Schwarzhans, W.; 	1984	Altonian				18.7	15.9		GNS GS 12288	DETERMINATIONS PUBLISHED SCHWARZHANS 1984, NZGS REP. 113: 268.	
+D45/f7136	S159/f1136	Outcrop															GNS GS 11523	NO LIST.	
+D45/f8456	S167/f0456	Outcrop	S.1071					Hornibrook, N. de B.; 		Southland Series				15.9	11.0		GNS F 6164	EXTREMELY POOR.	
+D45/f8456	S167/f0456	Outcrop	S.1071					Marwick, J.; 		not determined				999.9	0.0		GNS GS 2953	COLLECTION NOT LOCATED.	
+D45/f8462	S167/f0462	Outcrop	S.1060					Marwick, J.; 		not determined				999.9	0.0		GNS GS 2967	NO LIST.	
+D45/f8462	S167/f0462	Outcrop	S.1060					Hornibrook, N. de B.; 	September 4, 1952	Altonian				18.7	15.9		GNS F 6132		
+D45/f8482	S167/f0482	Outcrop	S1038					Finlay, H.J.; 		Altonian				18.7	15.9		GNS F 6159	ON SLIDE.	
+D45/f8482	S167/f0482	Outcrop	S1038					Marwick, J.; 		not determined				999.9	0.0		GNS GS 2959	COLLECTION NOT FOUND.	
+D45/f8554		Outcrop	S2512					Finlay, H.J.; 		Tongaporutuan				11.0	7.2		GNS F 8437	POOR FAUNA, MOSTLY BLACKISH RESIDUE.	
+D45/f8554		Outcrop	S2512					Hornibrook, N. de B.; 		Tongaporutuan				11.0	7.2		GNS F 8437	SEE 489. BETTER FAUNA NEARBY.	
+D45/f8554		Outcrop	S2512					Fleming, C.A.; 		Tongaporutuan				11.0	7.2		GNS GS 4584	NO LIST - COLLECTION NOT LOCATED.	
+D45/f8563		Outcrop						Fleming, C.A.; 		not determined				999.9	0.0		GNS GS 5101	NO LIST.	
+D45/f8601		Outcrop						Fleming, C.A.; 		not determined				999.9	0.0		GNS GS 5503	NO LIST.	
+D45/f8797	S167/f0797	Outcrop						Beu, A.G.; 		not determined				999.9	0.0		GNS GS 11227	NO LIST.	
+D45/f8819	S167/f0819	Outcrop						Maxwell, P.A.; 		Altonian		Lillburnian		18.7	12.7		GNS GS 11182	NO LIST.	
+D45/f8820	S167/f0820	Outcrop						Maxwell, P.A.; 		Altonian		Lillburnian		18.7	12.7		GNS GS 11183	NO LIST.	
+D45/f8821	S167/f0821	Outcrop						Maxwell, P.A.; 		Altonian		Lillburnian		18.7	12.7		GNS GS 11184	NO LIST.	
+D45/f8822	S167/f0822	Outcrop						Maxwell, P.A.; 		Altonian		Lillburnian		18.7	12.7		GNS GS 11185	NO LIST.	
+D45/f8822	S167/f0822	Outcrop						Buckeridge, J.; 	1979	Clifdenian				15.9	15.1		GNS GS 11185		
+D45/f8822	S167/f0822	Outcrop						Schwarzhans, W.; 	1984	Clifdenian				15.9	15.1		GNS GS 11185	DETERMINATIONS PUBLISHED SCHWARZHANS 1984, NZGS REP. 113: 267.	
+D45/f8823	S167/f0823	Outcrop						Maxwell, P.A.; 		Altonian		Lillburnian		18.7	12.7		GNS GS 11186	NO LIST.	
+D45/f8825	S167/f0825	Outcrop						Maxwell, P.A.; 		Lillburnian		Waiauan		15.1	11.0		GNS GS 11188	NO LIST.	
+D45/f8826	S167/f0826	Outcrop						Maxwell, P.A.; 		Lillburnian		Waiauan		15.1	11.0		GNS GS 11189	NO LIST.	
+D45/f8827	S167/f0827	Outcrop						Maxwell, P.A.; 		Lillburnian		Waiauan		15.1	11.0		GNS GS 11190	NO LIST.	
+D45/f8828	S167/f0828	Outcrop						Maxwell, P.A.; 		Lillburnian		Waiauan		15.1	11.0		GNS GS 11191	NO LIST.	
+D45/f8828	S167/f0828	Outcrop						Buckeridge, J.; 	1979	not determined				999.9	0.0		GNS GS 11191		
+D45/f8829	S167/f0829	Outcrop						Maxwell, P.A.; 		Lillburnian		Waiauan		15.1	11.0		GNS GS 11192	NO LIST.	
+D45/f8830	S167/f0830	Outcrop						Maxwell, P.A.; 		Lillburnian		Waiauan		15.1	11.0		GNS GS 11193	NO LIST.	
+D45/f9484	S168/f0484	Outcrop	RO 302					Marwick, J.; 		not determined				999.9	0.0		GNS GS 3813	NO LIST.	
+D45/f9485	S168/f0485	Outcrop	OC.43					Marwick, J.; 		not determined				999.9	0.0		GNS GS 3497	NO LIST.	
+D45/f9486	S168/f0486	Outcrop	OC.39					Marwick, J.; 		not determined				999.9	0.0		GNS GS 3494	NO LIST.	
+D45/f9487	S168/f0487	Outcrop	OC.41					Marwick, J.; 		not determined				999.9	0.0		GNS GS 3493	NO LIST.	
+D45/f9488	S168/f0488	Outcrop	OC.42					Marwick, J.; 		not determined				999.9	0.0		GNS GS 3492 A	NO LIST.	
+D45/f9492	S168/f0492	Outcrop						Marwick, J.; 		not determined				999.9	0.0		GNS GS 2557		
+D45/f9585	S168/f0585	Outcrop						Marwick, J.; 		Whaingaroan				34.6	27.3		GNS GS 5444	NO LIST.	
+E37/f9514	S97/f0514	Outcrop	J3A														GNS GS 9894		
+E37/f9514	S97/f0514	Outcrop	J3A					Hornibrook, N. de B.; 	1968	Landon Series				34.6	21.7		GNS F 17779	Thin section plus pill box.	
+E38/f6513	S96/f0513	Outcrop	CR 3					Beu, A.G.; 	September 4, 1974										
+E38/f6513	S96/f0513	Outcrop	CR 3					Beu, A.G.; 	September 4, 1974							Wo by Foraminiferas.	GNS GS 11447	Grandaxinea (5-50 m now) with Neilo and Comitas aff. onokeana. (Now greater than 100 m, probably greater than 200 m) certainly suggests slumping of faunas.	
+E43/f9500	S151/f0500	Outcrop								not determined				999.9	0.0		GNS GS 6367	NO LIST.	
+E43/f9500	S151/f0500	Outcrop						Hornibrook, N. de B.; 										SECTIONED BUT DO NOT APPEAR TO BE ORGANIC. SPHERICAL, HOLLOW - STRUCTURELESS.	
+E46/f7430	S169/f0430	Outcrop						Marwick, J.; 		Arnold Series				42.6	34.6		GNS GS 247	NO LIST.	
+E46/f9487	S177/f0487	Outcrop	2129					Marwick, J.; 		not determined				999.9	0.0		GNS GS 3540	NO LIST.	
+E46/f9489	S177/f0489	Outcrop	S2450							Wanganui Series				5.3	0.0	UPPER W. SERIES.	GNS F 16759		
+E46/f9489	S177/f0489	Outcrop	S2450					Marwick, J.; 		not determined				999.9	0.0		GNS GS 4296	NO LIST.	
+G36/f6501	S78/f0498	Outcrop	573														GNS F 1217	Thin section T1068. No list.	
+G36/f6501	S78/f0498	Outcrop	573														GNS GS 3499		
+G36/f6501	S78/f0498	Outcrop	573					Marwick, J.; 		Whaingaroan		Duntroonian		34.6	25.2		GNS GS 3499	DET. PUBLISHED G.S. BULL48 (1955): 22; 1980 - JRSNZ 10 (3): 245.	
+I38/f7650	S101/f0650	Outcrop						Hornibrook, N. de B.; 		Whaingaroan		Duntroonian		34.6	25.2		GNS F 11126	S. Skwarko identified members of landonensis fauna but no landonensis.	
+I38/f7650	S101/f0650	Outcrop															GNS GS 6972		
+I38/f7747	S101/f0747	Outcrop															GNS GS 9568	NO LIST.	
+I39/f7560	S110/f0560	Outcrop															GNS GS 9030	SEE I39/f7525 FOR LIST.	
+I43/f0053		Outcrop	84																
+J31/f9464	S44/f0464	Outcrop						Finlay, H.J.; 		Runangan				36.0	34.6		GNS F 5861	On slide.	
+J31/f9464	S44/f0464	Outcrop														MIOCENE.	GNS GS 497	DISCARDED - THIS COLLECTION BY A. MCKAY, 1882 - MARLS OVERLYING CRYSTELLARIA LIMESTONE, GREYMOUTH, WESTLAND.	
+J31/f9492	S44/f0492	Outcrop															GNS GS 2217	NO LIST.	
+J31/f9495	S44/f0495	Outcrop															GNS GS 2600	10 Lentipecten Ref. Coll. & 2 Cirsotrema (ON F.R.F.) NO LIST.	
+J31/f9827	S44/f0827	Outcrop															GNS GS 6773	NO LIST.	
+J31/f9827	S44/f0827	Outcrop								not determined				999.9	0.0		GNS L 1831		
+J32/f7571	S44/f0571	Outcrop	CS 488					Finlay, H.J.; 		Altonian				18.7	15.9		GNS F 10208		
+J32/f7571	S44/f0571	Outcrop	CS 488					Hornibrook, N. de B.; 		Altonian				18.7	15.9	POSSIBLY STILL NOT QUITE Sc.	GNS F 10208	EITHER ADVANCED bisphericus OR glomerosa.	
+J32/f7571	S44/f0571	Outcrop	CS 488														GNS GS 3331	NO LIST.	
+J32/f9507	S51/f0507	Outcrop	CS 531					Finlay, H.J.; 										NO FAUNA?.	
+J32/f9507	S51/f0507	Outcrop	CS 531					Beu, A.G.; 									GNS GS 3596	"FORAMS ONLY" FOSSIL RECORD FORM. NO LIST.	
+J32/f9602	S51/f0602	Outcrop	1547					Finlay, H.J.; 		Waiauan				12.7	11.0		GNS F 10851		
+J32/f9602	S51/f0602	Outcrop	1547														GNS GS 5225	NO LIST.	
+J32/f9603	S51/f0603	Outcrop	1548					Finlay, H.J.; 		Waiauan				12.7	11.0		GNS F 10852		
+J32/f9603	S51/f0603	Outcrop	1548														GNS GS 5227	NO LIST.	
+J32/f9604	S51/f0604	Outcrop															GNS GS 5226	NO LIST.	
+J33/f7580	S51/f0580	Outcrop						Fleming, C.A.; 		Opoitian				5.3	3.7	A.G. BEU - MICROFAUNA FROM THIS LOCALITY IS F10511 AGE ?WW.	GNS GS 3998	DET. PUBLISHED PAL. BULL. 27: 35.	
+J36/f0002		Outcrop																NO LIST.	
+J38/f0056		Outcrop						Maxwell, P.A.; 									GNS GS 13813	NO LIST.	
+J38/f7003A	S102/f0003A	Outcrop								Bortonian				42.6	39.1		GNS GS 56	DISCARDED.	
+J38/f8504	S110/f0504	Outcrop	HJH 254a							Arnold Series	?			42.6	34.6		GNS GS 6343	NOT LISTED.	
+J38/f8504	S110/f0504	Outcrop	HJH 254a																
+J38/f9490	S111/f0490	Outcrop	N99					Scott, G.H.; 		Otaian				21.7	18.7	Is above healyi (F6560).	GNS F 6564	On slide.	
+J38/f9490	S111/f0490	Outcrop	N99					Marwick, J.; 									GNS GS 3799	NO LIST.	
+J39/f7500C	S111/f0500C	Outcrop								Otaian				21.7	18.7		GNS GS 11283	NO LIST.	
+J39/f7525	S111/f0525	Outcrop	N81							Otaian				21.7	18.7		GNS F 6546	On slide.	
+J39/f7525	S111/f0525	Outcrop	N81														GNS GS 3802	NO LIST.	
+J39/f7586	S111/f0586	Outcrop						Scott, A.U.E.; 		Otaian				21.7	18.7		GNS GS 9242	NO LIST.	
+J39/f7586	S111/f0586	Outcrop						Harris, W.F.; 									GNS L 4347	nf.	
+J39/f7587	S111/f0587	Outcrop	11					Scott, A.U.E.; 		Otaian				21.7	18.7		GNS GS 9227	NO LIST.	
+J39/f7590	S111/f0590	Outcrop	10					Scott, A.U.E.; 		Otaian				21.7	18.7		GNS GS 9226	NO LIST.	
+J39/f7592	S111/f0592	Outcrop	F33					Scott, A.U.E.; 		Otaian				21.7	18.7		GNS GS 9223	NO LIST.	
+J39/f7593	S111/f0593	Outcrop	F6					Scott, A.U.E.; 									GNS GS 9222	NO LIST.	
+J39/f7626	S111/f0626	Outcrop	37					Scott, A.U.E.; 									GNS GS 9224	NO LIST. MANY Turritella.	
+J39/f7626	S111/f0626	Outcrop	37					Jenkins, D.G.; 	1971	Otaian				21.7	18.7	G. (G.) woodi connecta Zone		Jenkins 1971 NZGS Pal Bull 42	
+J39/f7626	S111/f0626	Outcrop	37					Scott, G.H.; 	May 3, 1971	Otaian				21.7	18.7		GNS F 15860		
+J39/f7626	S111/f0626	Outcrop	37					Pocknall, D.T.; 	October 30, 1981	Otaian				21.7	18.7		GNS L 10149	VIRTUALLY NO FLORA; ABUNDANT ORGANIC MATERIAL AND SLIDES RETAINED.	
+J39/f7626	S111/f0626	Outcrop	37					Wilson, G.J.; 	October 17, 1997	Waitakian		Otaian		25.2	18.7	On stratigraphy. Not younger than mid-Miocene on dinos.	GNS L 10149	Fairly sparse dinos.	
+J39/f8539A	S118/f0539A	Outcrop						Maxwell, P.A.; 		Dannevirke Series				66.0	42.6		GNS GS 13506	NO LIST.	
+J39/f8569	S118/f0569	Outcrop								Dannevirke Series				66.0	42.6		GNS GS 7197	NO LIST - Venericardia, RARE Cucullaea, Spirocolpus, etc. ON F.R. FORM.	
+J39/f9484	S119/f0484	Outcrop	1					Finlay, H.J.; 		Hutchinsonian				18.7	15.9	Not older than Hutchinsonian. Can't find definite evidence of Awamoanan.	GNS F 11432		
+J39/f9484	S119/f0484	Outcrop	1														GNS GS 5292	NO LIST.	
+J39/f9493	S119/f0493	Outcrop	108														GNS GS 3798	NO LIST.	
+J39/f9508	S119/f0508	Outcrop	57							Otaian				21.7	18.7		GNS F 15880		
+J39/f9508	S119/f0508	Outcrop	57														GNS GS 9243	NO LIST.	
+J39/f9508	S119/f0508	Outcrop	57					Pocknall, D.T.; 	June 14, 1982	Otaian				21.7	18.7		GNS L 10157		
+J39/f9508	S119/f0508	Outcrop	57					Pocknall, D.T.; 	June 14, 1982	Otaian				21.7	18.7				
+J39/f9510	S119/f0510	Outcrop	59							Otaian				21.7	18.7		GNS F 15882		
+J39/f9510	S119/f0510	Outcrop	59					Scott, A.U.E.; 		Otaian				21.7	18.7		GNS GS 9244	NO LIST.	
+J39/f9510	S119/f0510	Outcrop	59					Pocknall, D.T.; 	June 22, 1982	Otaian				21.7	18.7		GNS L 10159		
+J39/f9512	S119/f0512	Outcrop	62							Otaian				21.7	18.7		GNS F 15884		
+J39/f9512	S119/f0512	Outcrop	62					Scott, A.U.E.; 		Otaian				21.7	18.7		GNS GS 9245	NO LIST.	
+J39/f9512	S119/f0512	Outcrop	62					Pocknall, D.T.; 	June 22, 1982	Otaian				21.7	18.7		GNS L 10161		
+J39/f9513	S119/f0513	Outcrop	63							Hutchinsonian		Awamoan		18.7	15.9		GNS F 15885		
+J39/f9513	S119/f0513	Outcrop	63					Scott, A.U.E.; 									GNS GS 9246	NO LIST.	
+J39/f9513	S119/f0513	Outcrop	63					Pocknall, D.T.; 	June 24, 1982	Otaian		Altonian		21.7	15.9	Top Po and Lower Pl.	GNS L 10163	Very poor assemblage with very little diversity.	
+J39/f9514	S119/f0514	Outcrop	64							Hutchinsonian		Awamoan		18.7	15.9		GNS F 15886		
+J39/f9514	S119/f0514	Outcrop	64					Scott, A.U.E.; 		not determined				999.9	0.0		GNS GS 9247	NO LIST.	
+J39/f9514	S119/f0514	Outcrop	64					Pocknall, D.T.; 	June 24, 1982	Altonian				18.7	15.9		GNS L 10164	No flora; slides retained.	
+J39/f9515	S119/f0515	Outcrop	65							Hutchinsonian		Awamoan		18.7	15.9		GNS F 15887		
+J39/f9515	S119/f0515	Outcrop	65					Scott, A.U.E.; 		not determined				999.9	0.0		GNS GS 9248	NO LIST.	
+J39/f9515	S119/f0515	Outcrop	65					Pocknall, D.T.; 	June 24, 1982	Altonian				18.7	15.9		GNS L 10165	Virtually no flora; slides retained.	
+J40/f0181		Outcrop																	
+J40/f8516	S127/f0516	Outcrop								Waitakian				25.2	21.7		GNS F 9430		
+J40/f8516	S127/f0516	Outcrop															GNS GS 3981	NO LIST. BRACHS MENTIONED ON F.R. FORM.	
+K31/f8532	S44/f0532	Outcrop	CS 261					Finlay, H.J.; 		Clifdenian				15.9	15.1		GNS F 10121	Sample not in F box system. No slide - R.H. Hoskins.	
+K31/f8532	S44/f0532	Outcrop	CS 261														GNS GS 3155	NO LIST.	
+K31/f8560	S44/f0560	Outcrop	CS 441					Finlay, H.J.; 		Kaiatan				39.1	36.4		GNS F 6284	PRACTICALLY IDENTICAL IN FAUNA AND AGE WITH THE PREVIOUS SAMPLE. THE OCCURRENCE IN BOTH THESE OF Cyclammina AND Ditrupa SPECIMENS EXACTLY SIMILAR IN APPEARANCE TO THOSE IN F6354 SUGGESTS THAT THE LATTER IS MERELY A BASAL, LEACHED PART OF THE KAIATA.	
+K31/f8560	S44/f0560	Outcrop	CS 441							Kaiatan				39.1	36.4		GNS GS 3183	LOCALITY DESCRIPTION ON MACROFAUNA FORM - SAWYERS CREEK 1.50 KM SOUTH OF BODDYTOWN. COLLECTORS H.E. FYFE, M. GAGE & H.W. WELLMAN - 21/11/1943. STRAT. POSITION - 60 M ABOVE COAL & GREYWACKE AND ABOUT 15 M ABOVE C.S. 260. FIELD NO. 441. NO LIST.	
+K32/f8601	S51/f0601	Outcrop	1545					Finlay, H.J.; 		Altonian	?			18.7	15.9	POOR FAUNA BUT Siphogenerina rerensis AND Vulvulina ihungia SEEM TO BE PRESENT, AND THEY WOULD INDICATE Sa. IS THIS LIKELY?.	GNS F 10850		
+K32/f8601	S51/f0601	Outcrop	1545														GNS GS 5395	NO LIST.	
+K32/f8623	S51/f0623	Outcrop								Waipipian				3.7	3.0	A.G. BEU.	GNS GS 5224	NO LIST.	
+K34/f9057	S66/f0057	Outcrop								not determined				999.9	0.0		GNS GS 235	NO LIST.	
+K34/f9068	S66/f0068	Outcrop								Pareora Series		Southland Series		21.7	11.0		GNS GS 452 A	NO LIST.	
+K34/f9071	S66/f0071	Outcrop								Pareora Series		Southland Series		21.7	11.0		GNS GS 456 A	OLD COLLECTIONS. NO LIST.	
+K34/f9553	S66/f0553	Outcrop															GNS GS 4676	SEE K34/f9520.	
+K34/f9553	S66/f0553	Outcrop						Hornibrook, N. de B.; 								Waitakian by macrofossils.			
+K36/f6023	S81/f0023	Outcrop								Landon Series	?			34.6	21.7		GNS GS 474	NO LIST.	
+K36/f7499	S82/f0499	Outcrop															GNS GS 1418	NO LIST - SEE ALSO GS311, 549 - SAME HORIZON.	
+K36/f7499	S82/f0499	Outcrop								Waitakian				25.2	21.7		GNS GS 311	DET. PUBLISHED PAL. BULL. 8: 52; PAL. BULL. 19 (1924); PAL. BULL. 23 (1954).	
+K36/f7499	S82/f0499	Outcrop						Suter, H.; 									GNS GS 311	Also GS 549. Pal. Bull. 8	
+K36/f7499	S82/f0499	Outcrop								Altonian				18.7	15.9		GNS GS 549	MICROFAUNA FROM THIS LOCALITY IS F6454. DET. PUBLISHED PAL. BULL. 10 (1924).	
+L29/f0049		Drillhole	Unnamed Drillhole	0.0	7.15	m	Core	Maxwell, P.A.; 	October 3, 1984	not determined				999.9	0.0			COLLECTION NOT KEPT.	
+L29/f0049		Drillhole	Unnamed Drillhole	0.0	24.4	m	Core	Maxwell, P.A.; 	October 3, 1984	not determined				999.9	0.0			COLLECTION NOT KEPT.	
+L29/f0049		Drillhole	Unnamed Drillhole	0.0	37.0	m	Core	Maxwell, P.A.; 	October 3, 1984	not determined				999.9	0.0		GNS GS 13822		
+L29/f0049		Drillhole	Unnamed Drillhole	6.0	6.0	m	Core	Maxwell, P.A.; 	October 3, 1984	not determined				999.9	0.0		GNS GS 13819		
+L29/f0049		Drillhole	Unnamed Drillhole	10.0	10.0	m	Core	Hoskins, R.H.; 	January 9, 1984	Kaiatan				39.1	36.4		GNS F 23918		
+L29/f0049		Drillhole	Unnamed Drillhole	20.0	20.0	m	Core	Hoskins, R.H.; 	1984								GNS F 23918	NOT PROCESSED.	
+L29/f0049		Drillhole	Unnamed Drillhole	30.0	30.0	m	Core	Hoskins, R.H.; 	1984								GNS F 23918	NOT PROCESSED.	
+L29/f9742	S32/f0742	Outcrop						Beu, A.G.; 		not determined				999.9	0.0	NO CLUE TO AGE.		TUBES OF TEREDINIDAE, INDET., PROBABLY Bankia - THESE CALCAREOUS TUBES (LAID DOWN IN WOOD BY BURROWING BIVALVES) OFTEN SURVIVE AFTER THE WOOD AS BEEN ROTTED AWAY. THE MATRIX LOOKS QUITE CARBONACEOUS.	
+L31/f0047		Outcrop	1115					Pojeta, J.; 		not determined				999.9	0.0		GNS CN 465		
+L34/f8064	S66/f0064	Outcrop								not determined				999.9	0.0		GNS GS 429	NO LIST.	
+L35/f7535	S75/f0535	Outcrop						Maxwell, P.A.; 		Mangaorapan				53.7	49.2		GNS GS 11152	NO LIST.	
+M27/f0064		Outcrop	RAC C175					Simes, J.E.; 		not determined				999.9	0.0		GNS CN 112	ECHINOIDEA: MANY INTERESTING FRAGMENTS. BRACHIOPODA: FEW FORMS. MOLLUSCA: MATERIAL TO J. POJETA. TRILOBITA: SEVERAL SPECIMENS IN ACID RESIDUE.	
+M27/f0064		Outcrop	RAC C175					Simes, J.E.; 									GNS CN 118	CONODONTA: CN112 - NO FOSSILS, CN220 - NO FOSSILS NO LIST.	
+M27/f0134		Outcrop	MYT 19							not determined				999.9	0.0		GNS CN 677	1 PHOSPHATISED TRILOBITE SEGMENT.	
+M27/f0134		Outcrop	MYT 19					Pojeta, J.; 		not determined				999.9	0.0		GNS CN 677	VARIETY OF PHOSPHATISED MICROMOLLUSCA.	
+M27/f0134		Outcrop	MYT 19					Simes, J.E.; 	May 7, 1985	Payntonian		Arenig Series		489.5	465.3	PROBABLY LOWER Vtr.	GNS CN 677	7 SIMPLE CONES - PROBABLY SOME IDENTIFIABLE. VARIETY OF INARTICULATE BRACHIOPODS.	
+M27/f0142		Outcrop	3061 RAC					Cooper, R.A.; 		not determined				999.9	0.0		GNS CN 700	VARIOUS PHOSPHATISED FORMS. FAUNA ALSO INCLUDES REMAINS OF OTHER ENIGMATIC GROUPS.	
+M27/f0142		Outcrop	3061 RAC					Mackinnon, D.I.; 		not determined				999.9	0.0		GNS CN 700	VARIOUS BRACH REMAINS.	
+M27/f0142		Outcrop	3061 RAC					Pojeta, J.; 		not determined				999.9	0.0		GNS CN 700	VARIOUS MOLLUSCA. Hyolithid PRESENT ALSO.	
+M27/f0142		Outcrop	3061 RAC					Pojeta, J.; Mackinnon, D.I.; 	January 1, 2014	Cambrian				541.0	485.4		GNS CN 700	Results published by Pojeta 2014	
+M27/f0161		Outcrop	4410					Pojeta, J.; 		not determined				999.9	0.0		GNS CN 833	NOT YET IDENTIFIED.	
+M27/f0161		Outcrop	4410					Simes, J.E.; 	June 7, 1985	Tremadocian				485.4	477.7	FROM CLOSE TO H. simplex SUBZONE.	GNS CN 833	VARIETY OF MOSTLY SQUATT SIMPLE CONES.	
+M31/f0001		Outcrop	702					Simes, J.E.; 		not determined				999.9	0.0		GNS CN 299	POORLY PRESERVED CAMBRIAN CONODONTS. CN248, 658 ALSO IN THIS LOCALITY.	
+M31/f0001		Outcrop	702					Cooper, R.A.; 		not determined				999.9	0.0		GNS GS 11718	NO LIST.	
+M31/f0001		Outcrop	702					Percival, I.G.; Zhen, Y.Y.; 	January 1, 2014	Cambrian				541.0	485.4	Furongian or late Cambrian	GNS CN 299	and other CN numbers from that FRF including 248 and 883	
+M31/f0001		Outcrop	702					Pojeta, J.; 	January 11, 2014	Cambrian				541.0	485.4		GNS CN 299	Also CN658	
+M31/f0008		Outcrop	RAC 950					Simes, J.E.; 		not determined				999.9	0.0		GNS CN 325	FEW CASTS OF BIVALVES AND GASTROPODA.	
+M31/f0008		Outcrop	RAC 950					Simes, J.E.; 		Arenig Series		Ashgill Series		477.7	443.8	PROBABLY Vln.	GNS CN 490		
+M31/f0008		Outcrop	RAC 950					Cooper, R.A.; 									GNS GS 12117	NO LIST.	
+M31/f0064		Outcrop	RAC 4522					Pojeta, J.; 		not determined				999.9	0.0		GNS CN 889	VARIOUS MOLLUSCAN FRAGMENTS.	
+M33/f9162	S61/f0162	Outcrop								Southland Series				15.9	11.0	FILED AS S.	GNS GS 5433	= RED NO. 18. NO LIST.	
+M34/f7219	S68/f0219	Outcrop								Altonian				18.7	15.9	BY STRATIG.	GNS GS 3504	NO RECORD OF FOSSIL "CABINET 1".	
+M34/f7266	S68/f0266	Outcrop								Duntroonian				27.3	25.2		GNS GS 821	NO LIST.	
+M34/f7307	S68/f0307	Outcrop								Waiauan	?			12.7	11.0		GNS GS 160		
+M34/f7537	S68/f0537	Outcrop						Fleming, C.A.; 									GNS GS 5731	DISCARDED.	
+M34/f7667	S68/f0667	Outcrop																SEE GS6324.	
+N02/f7555	N2/f0555	Outcrop	21					Scott, G.H.; 		Otaian				21.7	18.7		GNS F 14852	ON SLIDE. VERY CARBONACEOUS. FLOATED.	
+N02/f7555	N2/f0555	Outcrop	21					Scott, A.U.E.; 		Otaian		Altonian		21.7	15.9		GNS GS 9018	ONLY ONE MOLLUSC COLLECTED.	
+N02/f7555	N2/f0555	Outcrop	21														GNS SS 2364		
+N02/f7555	N2/f0555	Outcrop	21					Jenkins, D.G.; 	1971	Otaian		Hutchinsonian		21.7	15.9	G. (G.) woodi connecta			
+N02/f7558A	N2/f0558A	Outcrop	117					Stevens, G.R.; 		not determined				999.9	0.0			NO GS NUMBER - FRAGS, ONLY - NOT MATOTORUS.	
+N02/f7594	N2/f0594	Outcrop						Maxwell, P.A.; 		Otaian		Altonian		21.7	15.9		GNS GS 9723	NO LIST.	
+N02/f7595	N2/f0595	Outcrop						Keyes, I.W.; 		Altonian				18.7	15.9		GNS GS 9722		
+N02/f7595	N2/f0595	Outcrop						Maxwell, P.A.; 		Altonian				18.7	15.9		GNS GS 9722	NO LIST.	
+N02/f7610	N2/f0610	Outcrop	Par/2					Keyes, I.W.; 		Altonian				18.7	15.9		GNS GS 9871		
+N02/f7610	N2/f0610	Outcrop	Par/2					Maxwell, P.A.; 		Altonian				18.7	15.9		GNS GS 9871	NO LIST.	
+N02/f7610	N2/f0610	Outcrop	Par/2					Scott, G.H.; 	May 23, 1968								GNS F 18651	BRIEF EXAM. ABUNDANT PLANKTICS.	
+N02/f7612	N2/f0612	Outcrop						Keyes, I.W.; 		Altonian				18.7	15.9		GNS GS 9873		
+N02/f7612	N2/f0612	Outcrop						Maxwell, P.A.; 		Altonian				18.7	15.9		GNS GS 9873	NO LIST.	
+N02/f7613	N2/f0613	Outcrop	Par/3														GNS F 18652	GS 9874.	
+N02/f7613	N2/f0613	Outcrop	Par/3					Keyes, I.W.; 		Otaian				21.7	18.7		GNS GS 9874		
+N02/f7613	N2/f0613	Outcrop	Par/3					Maxwell, P.A.; 		Otaian				21.7	18.7		GNS GS 9874	NO LIST.	
+N02/f7615	N2/f0615	Outcrop						Keyes, I.W.; 		Altonian				18.7	15.9		GNS GS 9876		
+N02/f7615	N2/f0615	Outcrop						Maxwell, P.A.; 		Altonian				18.7	15.9		GNS GS 9876	NO LIST.	
+N02/f7616	N2/f0616	Outcrop						Keyes, I.W.; 		Altonian	?			18.7	15.9		GNS GS 9877		
+N02/f7616	N2/f0616	Outcrop						Maxwell, P.A.; 		Altonian	?			18.7	15.9		GNS GS 9877	NO LIST.	
+N02/f7618	N2/f0618	Outcrop						Keyes, I.W.; 		Altonian				18.7	15.9		GNS GS 9888		
+N02/f7618	N2/f0618	Outcrop						Maxwell, P.A.; 		Altonian				18.7	15.9		GNS GS 9888	NO LIST.	
+N29/f0002		Outcrop						Speden, I.G.; 	May 24, 1978	not determined				999.9	0.0			RETURNED TO J.D. BRADSHAW.	
+N29/f0018		Outcrop	145					Campbell, H.J.; 		Warepan				217.0	209.5		GNS GS 12549		
+N29/f0018		Outcrop	145					Begg, J.G.; 	November 25, 1983	not determined				999.9	0.0		GNS GS 12549		
+N33/f9147	S62/f0147	Outcrop						Scott, A.U.E.; 		not determined				999.9	0.0		GNS GS 3439	VERY HARD CONCRETIONARY BLOCK CROWDED WITH SHELL FRAGMENTS.	
+N33/f9808	S62/f0808	Outcrop						Maxwell, P.A.; 		Puaroan				150.0	145.0		GNS GS 9510	NO LIST.	
+N33/f9808	S62/f0808	Outcrop						Bandel, K.; P. A. Maxwell; 	2000	Ururoan				188.9	176.0	Based on gastropod fauna with Tethyan affinities 	GNS GS 9510	Species list collated from Bandel, Grundel, Maxwell 2000 paper	
+N33/f9808	S62/f0808	Outcrop						Bandel, K.; P. A. Maxwell; 	2000	Ururoan				188.9	176.0	Age based on gastropod fauna of tethyan affinity	GNS GS 9510		
+N33/f9808	S62/f0808	Outcrop						Bandel, K.; P. A. Maxwell; 	2000	Ururoan				188.9	176.0	Age based on gastropoda of Tethyan affinity. 	GNS GS 9510	List compiled from Bandel, Grundel & Maxwell 2000. 33 species of gastropod recorded. Most new species.	
+N33/f9808	S62/f0808	Outcrop						Wilson, G.J.; 	June 22, 2001	not determined				999.9	0.0	No diagnostic fossils seen.	GNS L 20297	No definite dinoflagellates seen. However fungal spores (reworked) present and some multicelled cysts. Virtually no in situ spores and pollen.	
+N33/f9808	S62/f0808	Outcrop						Strong, C.P; 	January 29, 2015	Ururoan				188.9	176.0	Ururoan by other than foraminifera	GNS F 49443	Forams extracted by P.A.Maxwell and mounted on a slide for id. A rich micromollusc fauna published on by Bandel and Maxwell.	
+N33/f9810	S62/f0810	Outcrop						Maxwell, P.A.; 		Tongaporutuan				11.0	7.2		GNS GS 9563	NO LIST.	
+N33/f9823	S62/f0823	Outcrop						Maxwell, P.A.; 		Tongaporutuan				11.0	7.2		GNS GS 9854	NO LIST.	
+N33/f9825	S62/f0825	Outcrop						Maxwell, P.A.; 		Haumurian		Teurian		83.6	56.0		GNS GS 9856	NO LIST.	
+N33/f9830	S62/f0830	Outcrop						Maxwell, P.A.; 									GNS GS 9890	NO LIST.	
+N34/f6241	S68/f0241	Outcrop						Hornibrook, N. de B.; 		Altonian				18.7	15.9	No evidence of younger. Sa in NZGS Bull. 64.	GNS F 5689	Important fauna. Compare with Smart and Wilson's section near Dovedale. Good ostracods.	
+N34/f6241	S68/f0241	Outcrop															GNS GS 6161	SPECIMENS NOT FOUND 14/10/1957. ECHINODERMS (H.B.F.).	
+O05/f9550	N14/f0550	Outcrop								Piripauan				86.5	83.6		GNS GS 5762	NO LIST.	
+O05/f9550	N14/f0550	Outcrop																	
+O06/f9602		Outcrop								not determined				999.9	0.0		GNS GS 9880	NO LIST.	
+O33/f8116	S62/f0116	Outcrop						Scott, A.U.E.; 		not determined				999.9	0.0		GNS GS 3366	FINE-GRAINED WHITE, CHALKY LIMESTONE. NO IDENTIFIABLE MOLLUSCA.	
+O33/f8150	S62/f0150	Outcrop						Fleming, C.A.; 		not determined				999.9	0.0		GNS GS 3443		
+O33/f8155	S62/f0155	Outcrop						Fleming, C.A.; 		not determined				999.9	0.0		GNS GS 3450	IGNORE.	
+P04/f7504	N8/f0504	Outcrop														KAEO SERIES.	GNS GS 4736	NO LIST.	
+P04/f9498		Outcrop								Otaian		Tongaporutuan		21.7	7.2		GNS GS 755	NO LIST.	
+P04/f9500	N11/f0500	Outcrop						Marwick, J.; 		Piripauan				86.5	83.6			COLLECTION NOT LOCATED. - 21/5/52.	
+P05/f9493	N15/f0493	Outcrop															GNS GS 748	NO LIST.	
+P05/f9493	N15/f0493	Outcrop						Hayward, B.W.; 	December 9, 1983	Landon Series				34.6	21.7		GNS F 8919	SLAB OF ROCK WITH LARGE FORAMINIFERA. GS748.	
+P08/f9001		Outcrop								not determined				999.9	0.0		GNS GS 466	COLLECTION LOST - NO RECORD IN TRAYS.	
+Q06/f9493	N20/f0493	Outcrop								not determined				999.9	0.0		GNS GS 271	NO LIST.	
+Q06/f9493	N20/f0493	Outcrop						Squires, D.F.; 		Runangan		Whaingaroan		36.0	27.3				
+Q07/f0138		Outcrop	1																
+Q07/f0139		Outcrop	2																
+Q07/f0140		Outcrop	3																
+Q07/f0141		Outcrop	4																
+Q07/f7497	N20/f0497	Outcrop						Fleming, C.A.; 		not determined				999.9	0.0	FILED UNDER L.	GNS GS 2926	NO LIST.	
+Q08/f9007	N28/f0007	Outcrop								Bortonian				42.6	39.1		GNS GS 698	NO LIST.	
+Q08/f9633	N28/f0633	Outcrop								Altonian				18.7	15.9		GNS GS 9609	NO LIST.	
+Q08/f9633	N28/f0633	Outcrop																Listed as loc. 3, north side of Paparoa Pt. pg 71. Arlidge. No collection in Geol. Dept., University of Auckland.	
+Q08/f9633A	N28/f0633A	Outcrop								Altonian				18.7	15.9		GNS GS 9609	NO LIST.	
+Q08/f9633A	N28/f0633A	Outcrop						Marwick, J.; 		Altonian				18.7	15.9		GNS GS 9609		
+Q09/f7630	N28/f0630	Outcrop						Hornibrook, N. de B.; 		Pareora Series				21.7	15.9	ORIGINALLY DETERMINED AS PROBABLY Sa BUT REVISED TO P SERIES.	GNS F 7569		
+Q09/f7630	N28/f0630	Outcrop								Altonian				18.7	15.9			NO COLLECTION.	
+Q09/f7630	N28/f0630	Outcrop																Certain molluscs labelled by Dr. Laws as 2 chns N of Bushy Point (758332) must be from 738322 as 738322 is inland. List is as in Arlidge, pg 71.	
+Q09/f7630	N28/f0630	Outcrop						Hornibrook, N. de B.; 	June 9, 1960	Pareora Series				21.7	15.9	ORIGINALLY DETERMINED AS PROBABLY Sa, BUT REVISED TO P SERIES.	GNS F 7569	FLOATED CARBON TETRACHLORIDE PICKED INTO BOX LID.	
+Q09/f7632	N28/f0632	Outcrop								Altonian				18.7	15.9			NO COLLECTION.	
+Q09/f7632	N28/f0632	Outcrop								Altonian				18.7	15.9			Recorded by Arlidge M.S. pg 71. Same location as corals cf. Pal. Bull. 29:87 No. 202.	
+Q11/f7514	N41/f0514	Outcrop						Schofield, J.C.; 		Pareora Series		Southland Series		21.7	11.0		GNS GS 7592	POORLY PRESERVED FOSSILS, ?MOLLUSC, ?CORAL.	
+Q11/f7517	N41/f0517	Outcrop								Pareora Series		Southland Series		21.7	11.0		GNS GS 7593	NO LIST.	
+Q21/f0169		Drillhole	Kauri-E5	3300.0		m	Cutting	Strong, C.P.; 		Duntroonian				27.3	25.2				
+Q21/f0169		Drillhole	Kauri-E5	3400.0		m	Cutting	Strong, C.P.; 		Duntroonian				27.3	25.2				
+Q21/f0169		Drillhole	Kauri-E5	3450.0		m	Cutting	Strong, C.P.; 		Duntroonian				27.3	25.2				
+Q21/f0169		Drillhole	Kauri-E5	3475.0		m	Cutting	Strong, C.P.; 		Whaingaroan		Duntroonian		34.6	25.2				
+Q21/f0169		Drillhole	Kauri-E5	3490.0		m	Cutting	Strong, C.P.; 		Whaingaroan		Duntroonian		34.6	25.2				
+Q21/f0169		Drillhole	Kauri-E5	3525.0		m	Cutting	Strong, C.P.; 		Whaingaroan		Duntroonian		34.6	25.2				
+Q21/f0169		Drillhole	Kauri-E5	3545.0		m	Cutting	Strong, C.P.; 		Whaingaroan		Duntroonian		34.6	25.2				
+Q21/f0169		Drillhole	Kauri-E5	3570.0		m	Cutting	Strong, C.P.; 											
+R09/f0042		Outcrop	19R							not determined				999.9	0.0		GNS GS 12612	CONTAINS BARNACLES, SPINES, ETC. NOT LISTED.	
+R09/f9003	N34/f0003	Outcrop						Marwick, J.; 		Otaian				21.7	18.7		GNS GS 548	NO LIST.	
+R09/f9532A	N34/f0532A	Outcrop	R12														GNS GS 12610	BARNACLES, ECHINOID SPINES, BIVALVES, NOT LISTED.	
+R09/f9540A	N34/f0540A	Outcrop	17R							not determined				999.9	0.0		GNS GS 12609	CONTAINS BARNACLES, ECHINOID SPINES, NOT LISTED.	
+R09/f9540A	N34/f0540A	Outcrop	17R					Hayward, B.W.; 	August 17, 1982	Otaian				21.7	18.7	FROM ADJACENT SAMPLES.	GNS F 22530	VERY SPARSE.	
+R09/f9555	N34/f0555	Outcrop								not determined				999.9	0.0		GNS GS 10898	WORN BROKEN FINE TUBE. NOT IDENTIFIED.	
+R09/f9562A	N34/f0562A	Outcrop								not determined				999.9	0.0		GNS GS 12602	CONTAINS BARNACLES, ECHINOID SPINE, ETC. NOT LISTED.	
+R10/f0033		Outcrop	Mt 8					Beu, A.G.; 									GNS GS 12604	NO LIST - TO BE IDENTIFIED AT A LATER DATE.	
+R10/f0033		Outcrop	Mt 8					Hayward, B.W.; 	July 1980	Otaian				21.7	18.7		GNS F 21967	GOOD CONDITION, 10 PERCENT PLANKTICS.	
+R10/f0039		Outcrop	MT13					Beu, A.G.; 									GNS GS 12603	NO LIST - TO BE IDENTIFIED AT A LATER DATE.	
+R10/f0039		Outcrop	MT13					Hayward, B.W.; 	November 4, 1982	Otaian				21.7	18.7		GNS F 21971	70 PERCENT PLANKTICS.	
+R11/f7619	N42/f0619	Drillhole	Unnamed Drillhole	1.5	5.5	m	Core	Scott, A.; 	March 9, 1972	Waitotaran		Castlecliffian		3.7	0.34		GNS GS 9134		
+R11/f7619	N42/f0619	Drillhole	Unnamed Drillhole	6.7	6.7	m	Core			no fossils				999.9	0.0		GNS GS 9135		
+R11/f7619	N42/f0619	Drillhole	Unnamed Drillhole	6.7	6.7	m	Core	Hornibrook, N. de B.; 		no fossils				999.9	0.0				
+R11/f7619	N42/f0619	Drillhole	Unnamed Drillhole	12.6	16.6	m	Core	Scott, A.; 	March 9, 1972	Waitotaran		Castlecliffian		3.7	0.34		GNS GS 9136		
+R11/f7619	N42/f0619	Drillhole	Unnamed Drillhole														Auckland U AU 1167		
+R22/f0174		Outcrop																	
+R27/f8573	N164/f0573	Outcrop						Hornibrook, N. de B.; 		Opoitian				5.3	3.7		GNS F 14303		
+R27/f8573	N164/f0573	Outcrop															GNS GS 9096	No fossil list.	
+R27/f8573	N164/f0573	Outcrop						McIntyre, D.J.; 		no fossils				999.9	0.0		GNS L 1999		
+R27/f8573	N164/f0573	Outcrop						Harris, W.F.; 	1964	Opoitian				5.3	3.7	Partly on foraminifera; see Harris 1964, Appendix to Grant-Taylor & Hornibrook 1964, NZJGG 7 (2): 311-313.	GNS L 3286	See count in paper mentioned above.	
+S09/f9499	N35/f0499	Outcrop	132														GNS GS 11452	NO LIST.	
+S09/f9500	N35/f0500	Outcrop	131														GNS GS 11451	NO LIST.	
+S16/f8018	N83/f0018	Outcrop						Henderson, R.A.; 		not determined				999.9	0.0		GNS GS 1914		
+S17/f8012	N92/f0012	Outcrop								Southland Series		Taranaki Series		15.9	5.3		GNS GS 1387	DETERMINATIONS PUBLISHED GS BULL. 41: 35. MICROFAUNA FROM THIS LOCALITY IS F5630.	
+S26/f0006		Outcrop						Stevens, G.R.; 	May 27, 1982	Kawhia Series	?	Oteke Series		176.0	145.0		GNS GS 13236	SAMPLE LOOKED QUITE "PROMISING" INITIALLY. HOWEVER, CLOSER EXAMINATION FAILED TO REVEAL ANYTHING IDENTIFIABLE. INDIVIDUAL PIECES HAVE BEEN REFERRED TO PALYNOLOCY FOR MICRO PROCESSING.	
+S26/f0006		Outcrop						Wilson, G.J.; 	August 1982	no fossils				999.9	0.0		GNS L 10480		
+U22/f0002		Outcrop						Hornibrook, N. de B.; 	April 21, 1978	Opoitian		Nukumaruan		5.3	1.63	PROBABLY Wn.	GNS F 20831	Very sparse foraminifera, shallow water.	
+U22/f0002		Outcrop						Beu, A.G.; 	June 1, 1978	not determined				999.9	0.0		GNS GS 12326	Poor.	
+U26/f0045		Outcrop	JD 76					Morgans, H.E.G.; 	March 5, 1990	no fossils				999.9	0.0		GNS F 27822	Some radiolaria fragments.	
+U26/f0045		Outcrop	JD 76					Beu, A.G.; 	April 4, 1990							APPEARS TO BE THE VERY FLATTENED, DIAGENETICALLY ALTERED REMNANTS OF A MUD-BOTTOM MOLLUSCAN FAUNA, BUT NOTHING DEFINITE CAN BE SAID ABOUT FAUNA, AGE OR ECOLOGY.	GNS GS 14717	CRUSHED, FLATTENED, INDETERMINABLE FRAGMENTS, SOME POSSIBLY OF BIVALVES, SEVERAL PROBABLY OF SCAPHOPODS. (A FEW BETTER FRAGS. KEPT FOR THE RECORD, MUCH DISCARDED).	
+U26/f6731	N159/f0731	Outcrop																	
+V22/f8868	N141/f0868	Outcrop						Hornibrook, N. de B.; 		Lillburnian				15.1	12.7	Recollection.	GNS F 7524	Recollection - differs from first collection.	
+V22/f8868	N141/f0868	Outcrop								Lillburnian				15.1	12.7	From forams.	GNS GS 6470		
+V22/f8868	N141/f0868	Outcrop								Lillburnian				15.1	12.7		GNS GS 6470	MICRO SAMPLE F7524. NO LIST.	
+V22/f8869	N141/f0869	Outcrop						Hornibrook, N. de B.; 		Lillburnian				15.1	12.7	Recollection (6/10/53).	GNS F 7476	Recollection (6/10/53). Good fauna.	
+V22/f8869	N141/f0869	Outcrop								Lillburnian				15.1	12.7		GNS GS 6471	MICRO SAMPLE F7476. NO LIST.	
+V22/f8869	N141/f0869	Outcrop								Lillburnian				15.1	12.7	From forams.	GNS GS 6471		
+W18/f0007		Outcrop						Keyes, I.W.; 	August 1986	not determined				999.9	0.0		GNS GS 14188		
+W18/f9465	N105/f0465	Outcrop						Marwick, J.; 		Opoitian	?			5.3	3.7		GNS GS 1547		
+W18/f9466	N105/f0466	Outcrop						Marwick, J.; 		Opoitian				5.3	3.7		GNS GS 1548		
+W19/f7491	N105/f0491	Outcrop	102					Marwick, J.; 		not determined				999.9	0.0		GNS GS 2062		
+X17/f9475	N97/f0475	Outcrop						Marwick, J.; 		not determined				999.9	0.0		GNS GS 1326	FORAMS IN COLLECTION.	
+X18/f9496	N106/f0496	Outcrop	241					Marwick, J.; 		not determined				999.9	0.0		GNS GS 2067		
+Y16/f0451A		Outcrop	82244					Brook, F.J.; 	December 1983	Altonian		Waiauan		18.7	11.0	Using *	Auckland U AU 1509	Some species (+) derive from shallow water	
+Y16/f0457A		Outcrop	82250					Brook, F.J.; 	December 1983	Lillburnian		Waiauan		15.1	11.0	U Sl. Using *	Auckland U AU 1515		
+Y16/f0462		Outcrop	82256					Brook, F.J.; 	December 1983	Lillburnian		Tongaporutuan		15.1	7.2	U Sl Using *	Auckland U AU 1520		
+Y16/f0525		Outcrop	CM4/237					Beu, A.G.; 	December 20, 1984	not determined				999.9	0.0			DISCARDED; NOTHING IDENTIFABLE.	
+Y17/f7427	N89/f0427	Outcrop	640					Marwick, J.; 		Southland Series		Taranaki Series		15.9	5.3		GNS GS 1640	SEE PAL. BULL. 13.	
+Y17/f7428	N89/f0428	Outcrop	636					Marwick, J.; 		Kapitean	?			7.2	5.3		GNS GS 1636	SEE PAL. BULL. 13.	
+Y17/f7435	N89/f0435	Outcrop	625					Marwick, J.; 		Taranaki Series	?			11.0	5.3		GNS GS 1625	SEE PAL. BULL. 13.	
+Y17/f7439	N89/f0439	Outcrop	617					Marwick, J.; 		Southland Series		Taranaki Series		15.9	5.3		GNS GS 1617	SEE PAL. BULL. 13.	
+Y17/f7465	N89/f0465	Outcrop						Hornibrook, N. de B.; 									GNS F 16881		
+Y17/f7465	N89/f0465	Outcrop						Marwick, J.; 		Tongaporutuan				11.0	7.2	MICROFAUNA FROM THIS LOCALITY IS F16881 AGE Tt.	GNS GS 1251	DETERMINATIONS PUBLISHED B.A.I.M. 2: 53.	
+Y17/f7466	N89/f0466	Outcrop						Marwick, J.; 		Southland Series		Taranaki Series		15.9	5.3		GNS GS 1264		
+Y17/f7496	N89/f0496	Outcrop	621					Hornibrook, N. de B.; 		Tongaporutuan				11.0	7.2		GNS F 16885		
+Y17/f7496	N89/f0496	Outcrop	621					Marwick, J.; 		Tongaporutuan				11.0	7.2	MICROFAUNA FROM THIS LOCALITY IS F16885 AGE Tt.	GNS GS 1621	SEE PAL. BULL. 13: 46.	
+Y17/f9551	N98/f0551	Outcrop						Marwick, J.; 		Altonian	?			18.7	15.9		GNS GS 9603		
+Y18/f7587	N98/f0587	Outcrop						Maxwell, P.A.; 									GNS GS 11177	NO LIST.	
+Y18/f7587	N98/f0587	Outcrop						Edwards, A.R.; 	March 19, 1976	Waitakian		Lillburnian		25.2	12.7	Possibly late Pl to Sl, definitely late Lw to Sl.	GNS N 1716	Rare, very heavily overgrown nannofossils. Nearshore? lime silt. Traverse 100/1000-100/1320. Slide only - no matrix. From holotype of Galeocorys wylliei (Marwick).	
+Y19/f9493	N117/f0493	Outcrop	80bW					Marwick, J.; 		not determined				999.9	0.0		GNS GS 1245		
+Y19/f9495	N117/f0495	Outcrop						Marwick, J.; 		not determined				999.9	0.0		GNS GS 1247		
+Z15/f7481	N72/f0481	Outcrop						Finlay, H.J.; 		Southland Series				15.9	11.0	UPPER S.	GNS F 9521		
+Z15/f7481	N72/f0481	Outcrop								not determined				999.9	0.0		GNS GS 72		
+

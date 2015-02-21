@@ -37,7 +37,7 @@ for(i in seq(length(duration))) {
 }
 
 data <- list(duration = duration,
-             ord = as.numeric(factor(ord)),
+             ord = factor(ord),
              siz = log(size),
              aff = logit(aff),
              occ = log(occ),
@@ -75,8 +75,10 @@ data <- list(dur_unc = unc$duration,
              ord_cen = cen$ord,
              N_cen = length(cen$duration))
 
-#data$ord_unc <- model.matrix( ~ data$ord_unc - 1)
-#data$ord_cen <- model.matrix( ~ data$ord_cen - 1)
+data$ord_mat_unc <- model.matrix( ~ data$ord_unc - 1)
+data$ord_mat_cen <- model.matrix( ~ data$ord_cen - 1)
+data$ord_unc <- as.numeric(data$ord_unc)
+data$ord_cen <- as.numeric(data$ord_cen)
 
 data$N <- data$N_unc + data$N_cen
 data$samp_unc <- seq(data$N_unc)
@@ -94,20 +96,20 @@ small.data <- list(dur_unc = unc$duration,
                    N_cen = length(cen$duration),
                    K = 2)
 
-# fit models with parallel magic
+## fit models with parallel magic
 ## weibull
-weilist <- mclapply(1:4, mc.cores = detectCores(),
-                    function(x) stan(fit = weim, seed = seed,
-                                     data = data,
-                                     chains = 1, chain_id = x,
-                                     refresh = -1))
-
-wfit <- sflist2stanfit(weilist)
-
-# hierarchical model
-hierlist <- mclapply(1:4, mc.cores = detectCores(),
-                     function(x) stan(fit = hierwei, seed = seed,
-                                      data = data,
-                                      chains = 1, chain_id = x,
-                                      refresh = -1))
-hfit <- sflist2stanfit(hierlist)
+#weilist <- mclapply(1:4, mc.cores = detectCores(),
+#                    function(x) stan(fit = weim, seed = seed,
+#                                     data = data,
+#                                     chains = 1, chain_id = x,
+#                                     refresh = -1))
+#
+#wfit <- sflist2stanfit(weilist)
+#
+## hierarchical model
+#hierlist <- mclapply(1:4, mc.cores = detectCores(),
+#                     function(x) stan(fit = hierwei, seed = seed,
+#                                      data = data,
+#                                      chains = 1, chain_id = x,
+#                                      refresh = -1))
+#hfit <- sflist2stanfit(hierlist)
